@@ -9,6 +9,36 @@
       "question": "How many students are in the class?",
       "options": ["10", "20", "30", "40"],
       "correct": 1
+    },
+    {
+      "question": "What is the opposite of 'big'?",
+      "options": ["small", "large", "huge", "tall"],
+      "correct": 0
+    },
+    {
+      "question": "Which word is a verb?",
+      "options": ["beautiful", "quickly", "run", "happiness"],
+      "correct": 2
+    },
+    {
+      "question": "What is the past tense of 'go'?",
+      "options": ["goes", "went", "gone", "going"],
+      "correct": 1
+    },
+    {
+      "question": "Which sentence is correct?",
+      "options": [
+        "She don't like coffee.",
+        "She doesn't like coffee.",
+        "She not like coffee.",
+        "She doesn't likes coffee."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the plural of 'child'?",
+      "options": ["childs", "children", "childrens", "childes"],
+      "correct": 1
     }
   ]
 }
