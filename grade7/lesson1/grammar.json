@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Syria?",
+      "options": ["Damascus", "Cairo", "Beirut", "Amman"],
+      "correct": 0
+    },
+    {
+      "question": "How many students are in the class?",
+      "options": ["10", "20", "30", "40"],
+      "correct": 1
+    }
+  ]
+}
