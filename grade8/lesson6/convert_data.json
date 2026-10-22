@@ -1,0 +1,190 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة التحويل (Convert)",
+"description": "يتم استخراج أسئلة التحويل من جميع مصادر الدرس (النص، التمارين) بناءً على القواعد النحوية الموجودة في كل مصدر.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Grammar Exercises",
+"Student Book - After Reading",
+"Activity Book - Reading Text",
+"Activity Book - Grammar Exercises"
+],
+"grammar_focus": ["Simple Present", "Simple Past", "Present Continuous", "Future", "Modal Verbs"],
+"wh_words": ["When", "What", "How", "Why", "Who", "How many", "How much", "Where", "How often", "How long", "How far", "Whose", "What colour", "What time", "What ... like"],
+"auxiliary_verbs": {
+"present": ["do", "does", "is", "are", "am"],
+"past": ["did", "was", "were"],
+"future": ["will", "is going to", "are going to", "am going to"],
+"present_perfect": ["have", "has"],
+"modal": ["can", "must", "should"]
+},
+"special_cases": [
+"الوقت (Time)",
+"المكان (Place)",
+"السبب (Reason)",
+"الطريقة (Manner)",
+"العدد (Quantity)",
+"الصفة الشكلية (Physical Description)",
+"الصفة غير الشكلية (Quality)",
+"الشعور (Feeling)",
+"المهنة (Job)",
+"الملكية (Possession)",
+"الفاعل (Subject)",
+"المفعول به (Object)",
+"التكرار (Frequency)",
+"المدة (Duration)",
+"المسافة (Distance)",
+"السعر (Price)"
+],
+"difficulty_levels": ["سهل", "متوسط", "صعب"],
+"selection_criteria": [
+"الجملة تحتوي على كلمة أو عبارة يمكن السؤال عنها",
+"الجملة مناسبة للتحويل إلى سؤال",
+"تنويع المصادر (Student Book + Activity Book)",
+"تنويع كلمات الاستفهام",
+"تنويع الأفعال المساعدة",
+"تغطية أكبر عدد من الحالات الخاصة",
+"تحديد المصدر بدقة"
+],
+"total_questions_recommended": "8-10 أسئلة لكل درس",
+"important_note": "⚠️ هذه المنهجية قابلة للتطبيق على أي درس. يتم تغيير القواعد النحوية حسب محتوى كل وحدة.",
+"applied_to_unit": {
+"grade": 8,
+"unit": 6,
+"title": "Dream and Reality",
+"total_questions": 8,
+"grammar_focus": "Simple Present + Simple Past + Present Continuous + Future",
+"wh_words_used": ["What", "What ... like", "Who", "Why", "How", "How many", "Where", "When"],
+"auxiliary_verbs_used": ["is", "are", "did", "do", "does", "will"],
+"special_cases_covered": [
+"الصفة غير الشكلية (Quality)",
+"المفعول به (Object)",
+"السبب (Reason)",
+"الطريقة (Manner)",
+"العدد (Quantity)",
+"المكان (Place)",
+"الوقت (Time)"
+],
+"sources_distribution": {
+"Student Book - Grammar B": 1,
+"Activity Book - Grammar A": 1,
+"Activity Book - Grammar": 6
+}
+}
+},
+"questions": [
+{
+"id": "SB_G8_U6_C1",
+"original": "He is a modest man.",
+"targetWord": "modest",
+"correctQuestion": "What is he like?",
+"wh_word": "what ... like",
+"auxiliary": "is",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Quality",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar B - Q3 (modified)"
+},
+{
+"id": "AB_G8_U6_C2",
+"original": "I am studying English.",
+"targetWord": "English",
+"correctQuestion": "What are you studying?",
+"wh_word": "what",
+"auxiliary": "are",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar A - Q1"
+},
+{
+"id": "AB_G8_U6_C3",
+"original": "I met my friends.",
+"targetWord": "my friends",
+"correctQuestion": "Who did you meet?",
+"wh_word": "who",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar A - Q3"
+},
+{
+"id": "AB_G8_U6_C4",
+"original": "They plant trees to make their garden beautiful.",
+"targetWord": "to make their garden beautiful",
+"correctQuestion": "Why do they plant trees?",
+"wh_word": "why",
+"auxiliary": "do",
+"subject": "they",
+"subject_type": "pronoun",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar B - Q4"
+},
+{
+"id": "AB_G8_U6_C5",
+"original": "She drives carefully.",
+"targetWord": "carefully",
+"correctQuestion": "How does she drive?",
+"wh_word": "how",
+"auxiliary": "does",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Manner",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar - Examples"
+},
+{
+"id": "AB_G8_U6_C6",
+"original": "There are 10 chairs in my classroom.",
+"targetWord": "10",
+"correctQuestion": "How many chairs are there in your classroom?",
+"wh_word": "how many",
+"auxiliary": "are",
+"subject": "there",
+"subject_type": "pronoun",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar B - Q3"
+},
+{
+"id": "AB_G8_U6_C7",
+"original": "They are going to build a new school near the hospital.",
+"targetWord": "near the hospital",
+"correctQuestion": "Where are they going to build a new school?",
+"wh_word": "where",
+"auxiliary": "are",
+"subject": "they",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar B - Q5"
+},
+{
+"id": "AB_G8_U6_C8",
+"original": "I will take photos when my friends come.",
+"targetWord": "when my friends come",
+"correctQuestion": "When will you take photos?",
+"wh_word": "when",
+"auxiliary": "will",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar B - Q3 (modified)"
+}
+]
+}
