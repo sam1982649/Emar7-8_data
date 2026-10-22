@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G9_U8_T1_P1",
+"text_group": "G9_U8_Sky_Walkers",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Sky Walkers - Part 1",
+"content_exam": "A selfie is a self-portrait photograph, typically taken with a digital camera or a smart phone, which may be held in the hand or supported by a selfie stick. Selfies are often shared on social media services such as Facebook, Twitter, Snapchat, and Instagram.\n\nWhen Marat Dupri bought his camera, he decided he would shoot nice landscape pictures. Feeling it might not have been the most original idea ever, he started to spice things up by climbing up higher and higher structures, using no safety equipment at all. Marat Dupri earned the name of 'The sky walker'; and quickly, dozens of people followed his footsteps, trying to get the most incredible views. Then most people began to take dangerous selfies while travelling. They began scaling skyscrapers, cliffs and bridges to capture a photo to remember. Almost everyone has taken out their smart phones to snap a photo of themselves. But many studies showed that when taken in dangerous circumstances, selfies can cause death.\n\nThis Instagram shot was taken by Angela Nikolau, from Tianjin, China. Some might even say 'It's too dangerous'. How did she even get there?! This is also one of many pictures snapped by Daniel Lau, one of the world's most well-known photographers. In this photo, the skyscrapers of Hong Kong set the shocking scene. At last, we can say that this kind of art seems to have been lost somewhere between the ground and the sky. Be careful not to spoil this art and use it for lovely memories and beneficial issues. Take care of yourselves and other people around you. Putting yourselves at risk is useless; it sounds to be a crazy idea. Our lives are very precious and valuable. We shouldn't lose them by irresponsible behaviours.",
+"questions": [
+{
+"id": "L8_TXT_C01",
+"type": "choice",
+"question": "What is a selfie?",
+"options": ["A landscape photo", "A self-portrait photograph", "A group photo", "A video recording"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: A self-portrait photograph\n📝 الترجمة: ما هي السيلفي؟\n💡 الشرح: النص يقول: 'A selfie is a self-portrait photograph taken with a digital camera or smartphone'."
+},
+{
+"id": "L8_TXT_C02",
+"type": "choice",
+"question": "Where are selfies often shared?",
+"options": ["In newspapers", "On social media", "On television", "In magazines"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: On social media\n📝 الترجمة: أين تُشارك صور السيلفي عادةً؟\n💡 الشرح: النص يقول: 'Selfies are often shared on social media services'."
+},
+{
+"id": "L8_TXT_C03",
+"type": "choice",
+"question": "What did Marat Dupri do to spice things up?",
+"options": ["He bought a new camera", "He climbed higher structures without safety equipment", "He took photos of landscapes", "He shared photos on social media"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: He climbed higher structures without safety equipment\n📝 الترجمة: ماذا فعل مارات دوپري لإضافة الإثارة؟\n💡 الشرح: النص يقول: 'he started to spice things up by climbing up higher and higher structures, using no safety equipment at all'."
+},
+{
+"id": "L8_TXT_C04",
+"type": "choice",
+"question": "What name did Marat Dupri earn?",
+"options": ["The sky photographer", "The sky walker", "The climber", "The adventurer"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: The sky walker\n📝 الترجمة: ما اللقب الذي حصل عليه مارات دوپري؟\n💡 الشرح: النص يقول: 'Marat Dupri earned the name of The sky walker'."
+},
+{
+"id": "L8_TXT_C05",
+"type": "choice",
+"question": "What do studies show about dangerous selfies?",
+"options": ["They are fun", "They are popular", "They can cause death", "They are safe"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: They can cause death\n📝 الترجمة: ماذا تُظهر الدراسات عن السيلفي الخطيرة؟\n💡 الشرح: النص يقول: 'when taken in dangerous circumstances, selfies can cause death'."
+}
+]
+},
+{
+"id": "G9_U8_T1_P2",
+"text_group": "G9_U8_Sky_Walkers",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Sky Walkers - Part 2",
+"content_exam": "Angela Nikolau took a dangerous Instagram shot from Tianjin, China. Some might say it is too dangerous. Daniel Lau is one of the world's most well-known photographers. He snapped pictures of Hong Kong's skyscrapers. This kind of art seems to have been lost somewhere between the ground and the sky. Be careful not to spoil this art. Use it for lovely memories and beneficial issues. Take care of yourselves and other people around you. Putting yourselves at risk is useless. It sounds like a crazy idea. Our lives are very precious and valuable. We should never risk our lives for a photo. A picture is not worth dying for.",
+"questions": [
+{
+"id": "L8_TXT_TF01",
+"type": "truefalse",
+"question": "Angela Nikolau took a dangerous Instagram shot from Tianjin, China.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: التقطت أنجيلا نيكولاو صورة إنستغرام خطيرة من تيانجين، الصين.\n💡 الشرح: النص يقول: 'This Instagram shot was taken by Angela Nikolau, from Tianjin, China'."
+},
+{
+"id": "L8_TXT_TF02",
+"type": "truefalse",
+"question": "Daniel Lau is a famous singer.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: دانيال لاو مغنٍ مشهور.\n💡 الشرح: النص يقول إنه 'one of the world's most well-known photographers' — مصور وليس مغنياً."
+},
+{
+"id": "L8_TXT_TF03",
+"type": "truefalse",
+"question": "Putting ourselves at risk is a great idea.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: تعريض أنفسنا للخطر فكرة رائعة.\n💡 الشرح: النص يقول: 'Putting yourselves at risk is useless; it sounds to be a crazy idea'."
+},
+{
+"id": "L8_TXT_A01",
+"type": "answer",
+"question": "What should we use dangerous photography for?",
+"keywords": ["lovely memories", "beneficial issues", "memories", "beneficial"],
+"explanation": "✅ الإجابة الصحيحة: lovely memories and beneficial issues\n📝 الترجمة: ماذا يجب أن نستخدم التصوير الخطير من أجله؟\n💡 الشرح: النص يقول: 'use it for lovely memories and beneficial issues'."
+},
+{
+"id": "L8_TXT_A02",
+"type": "answer",
+"question": "Why shouldn't we put ourselves at risk for a photo?",
+"keywords": ["precious", "valuable", "not worth dying", "lives are precious"],
+"explanation": "✅ الإجابة الصحيحة: Because our lives are precious and valuable.\n📝 الترجمة: لماذا لا يجب أن نعرض أنفسنا للخطر من أجل صورة؟\n💡 الشرح: النص يقول: 'Our lives are very precious and valuable'."
+}
+]
+},
+{
+"id": "G9_U8_T2_P1",
+"text_group": "G9_U8_On_The_Edge_Of_Innocence",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "On the Edge of Innocence - Part 1",
+"content_exam": "A poor family was living happily until the son felt severely ill. It was clear from the medical analysis and laboratory tests that he had got a tumour in his head.\n\n'Your son's condition is critical. He needs a miracle to survive.', the doctor said. After she had heard the doctor's words the little daughter rushed to the nearest pharmacy with the only pound she had in her money box. 'Give me a miracle, please,' she said putting the pound on the table. The pharmacist was busy talking to his brother. After a while he replied, 'who told you I sell miracles?' She looked helplessly watching in despair.\n\nSuddenly the pharmacist's brother kneeled asking her, 'tell me, sweetie, why do you need a miracle?' Without thinking, 'I don't know, the doctor says my brother needs a miracle for an operation not to die. Is this pound enough?' 'One pound is exactly enough', he answered with a big smile and a tender voice. 'Could I see your brother?'\n\nThis man was Carlton Armstrong, the famous nerve surgeon who performed the operation successfully and took one pound for it.\n\nLater, he framed the pound with a sentence below, 'This pound is the price of a miracle taken from a girl, on the edge of innocence.'",
+"questions": [
+{
+"id": "L8_TXT_C06",
+"type": "choice",
+"question": "What was wrong with the son?",
+"options": ["He broke his leg", "He had a tumour in his head", "He had a fever", "He lost his sight"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: He had a tumour in his head\n📝 الترجمة: ماذا كان خطب الابن؟\n💡 الشرح: النص يقول: 'he had got a tumour in his head'."
+},
+{
+"id": "L8_TXT_C07",
+"type": "choice",
+"question": "What did the doctor say the son needed?",
+"options": ["More tests", "A miracle", "New medicine", "A different doctor"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: A miracle\n📝 الترجمة: ماذا قال الطبيب إن الابن يحتاجه؟\n💡 الشرح: النص يقول: 'He needs a miracle to survive'."
+},
+{
+"id": "L8_TXT_C08",
+"type": "choice",
+"question": "Where did the little daughter go?",
+"options": ["To the hospital", "To the nearest pharmacy", "To her school", "To her friend's house"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: To the nearest pharmacy\n📝 الترجمة: إلى أين ذهبت الابنة الصغيرة؟\n💡 الشرح: النص يقول: 'rushed to the nearest pharmacy'."
+},
+{
+"id": "L8_TXT_C09",
+"type": "choice",
+"question": "How much money did the daughter have?",
+"options": ["One dollar", "One pound", "One euro", "One dinar"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: One pound\n📝 الترجمة: كم كان لديها من المال؟\n💡 الشرح: النص يقول: 'the only pound she had in her money box'."
+},
+{
+"id": "L8_TXT_C10",
+"type": "choice",
+"question": "Who was Carlton Armstrong?",
+"options": ["A pharmacist", "A famous nerve surgeon", "A teacher", "A businessman"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: A famous nerve surgeon\n📝 الترجمة: من كان كارلتون أرمسترونغ؟\n💡 الشرح: النص يقول: 'Carlton Armstrong, the famous nerve surgeon'."
+}
+]
+},
+{
+"id": "G9_U8_T2_P2",
+"text_group": "G9_U8_On_The_Edge_Of_Innocence",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "On the Edge of Innocence - Part 2",
+"content_exam": "Carlton Armstrong was the famous nerve surgeon who performed the operation successfully. He took only one pound for it. Later, he framed the pound with a sentence: 'This pound is the price of a miracle taken from a girl, on the edge of innocence.' The little girl's innocence and love for her brother moved Armstrong to help. He did not care about money. He cared about saving a child's life. The one pound was not payment for the operation. It was a symbol of the girl's pure heart and her desperate need. This story teaches us that kindness and compassion can create miracles. Sometimes the smallest gestures have the greatest meaning.",
+"questions": [
+{
+"id": "L8_TXT_TF04",
+"type": "truefalse",
+"question": "Carlton Armstrong charged a high price for the operation.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: تقاضى كارلتون أرمسترونغ سعراً مرتفعاً مقابل العملية.\n💡 الشرح: النص يقول: 'He took only one pound for it'."
+},
+{
+"id": "L8_TXT_TF05",
+"type": "truefalse",
+"question": "Armstrong framed the pound with a special sentence.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: أطّر أرمسترونغ الجنيه مع جملة خاصة.\n💡 الشرح: النص يقول: 'he framed the pound with a sentence below'."
+},
+{
+"id": "L8_TXT_TF06",
+"type": "truefalse",
+"question": "The story teaches us that kindness cannot create miracles.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: تعلمنا القصة أن اللطف لا يمكن أن يخلق المعجزات.\n💡 الشرح: النص يقول: 'kindness and compassion can create miracles'."
+},
+{
+"id": "L8_TXT_A03",
+"type": "answer",
+"question": "What did Armstrong do with the pound later?",
+"keywords": ["framed", "framed the pound", "put it in a frame", "sentence below"],
+"explanation": "✅ الإجابة الصحيحة: He framed the pound with a special sentence below it.\n📝 الترجمة: ماذا فعل أرمسترونغ بالجنيه لاحقاً؟\n💡 الشرح: النص يقول: 'he framed the pound with a sentence below'."
+},
+{
+"id": "L8_TXT_A04",
+"type": "answer",
+"question": "What lesson does this story teach us?",
+"keywords": ["kindness", "compassion", "miracles", "small gestures", "great meaning"],
+"explanation": "✅ الإجابة الصحيحة: Kindness and compassion can create miracles.\n📝 الترجمة: ما الدرس الذي تعلمنا إياه هذه القصة؟\n💡 الشرح: النص يقول: 'kindness and compassion can create miracles. Sometimes the smallest gestures have the greatest meaning'."
+}
+]
+}
+]
+}

@@ -1,0 +1,76 @@
+{
+"questions": [
+{
+"question": "What is the most dangerous thing you have ever done?",
+"translation": "ما أخطر شيء فعلته في حياتك؟",
+"keywords": ["risky", "scary", "adventure", "climbing", "jumping", "swimming", "alone", "high"],
+"suggested_answers": [
+"The most dangerous thing I have done is climbing a high mountain.",
+"I once went swimming in a deep river alone, and it was very risky.",
+"I tried jumping from a high place, and it was scary and dangerous."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 63"
+},
+{
+"question": "Do you think people should post everything on social media? Why?",
+"translation": "هل تعتقد أن الناس يجب أن ينشروا كل شيء على وسائل التواصل الاجتماعي؟ لماذا؟",
+"keywords": ["private", "personal", "safe", "dangerous", "strangers", "share", "photos", "information"],
+"suggested_answers": [
+"No, I don't think so, because some information is private and personal.",
+"People should not post everything because strangers can see their photos.",
+"It is dangerous to share everything online because it is not safe."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 63"
+},
+{
+"question": "What do you do when you see someone doing something dangerous?",
+"translation": "ماذا تفعل عندما ترى شخصاً يفعل شيئاً خطيراً؟",
+"keywords": ["warn", "tell", "stop", "adult", "police", "careful", "shout", "advice"],
+"suggested_answers": [
+"I warn them to stop and tell an adult about it.",
+"I try to stop them and tell them to be careful.",
+"I call an adult or the police if the danger is serious."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 63"
+},
+{
+"question": "Do you like adventure? Why?",
+"translation": "هل تحب المغامرات؟ لماذا؟",
+"keywords": ["exciting", "fun", "risky", "new", "experience", "scary", "thrill", "challenge"],
+"suggested_answers": [
+"Yes, I like adventure because it is exciting and fun.",
+"No, I don't like adventure because it is risky and scary.",
+"I like adventure sometimes because it gives me a new experience."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 63"
+},
+{
+"question": "What would you do if someone in your family was very ill?",
+"translation": "ماذا ستفعل لو مرض أحد أفراد عائلتك بشدة؟",
+"keywords": ["doctor", "hospital", "help", "support", "care", "medicine", "stay", "pray"],
+"suggested_answers": [
+"I would take them to the doctor and stay with them at the hospital.",
+"I would help and support them, and give them their medicine.",
+"I would take care of them and pray for them to get better."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 56"
+},
+{
+"question": "Do you think a small act of kindness can change someone's life? Why?",
+"translation": "هل تعتقد أن عملاً صغيراً من اللطف يمكن أن يغيّر حياة شخص ما؟ لماذا؟",
+"keywords": ["yes", "smile", "help", "happy", "hope", "feel", "heart", "support"],
+"suggested_answers": [
+"Yes, I think a small act of kindness can change someone's life and make them happy.",
+"A kind word or a smile can give hope to someone who feels sad.",
+"Small acts of kindness help people feel loved and supported."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 56"
+}
+]
+}

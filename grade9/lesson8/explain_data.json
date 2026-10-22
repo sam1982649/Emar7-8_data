@@ -1,0 +1,184 @@
+{
+"vocabulary": [
+{ "word": "Selfie", "translation": "صورة شخصية" },
+{ "word": "Self-portrait", "translation": "صورة شخصية ذاتية" },
+{ "word": "Digital camera", "translation": "كاميرا رقمية" },
+{ "word": "Smart phone", "translation": "هاتف ذكي" },
+{ "word": "Selfie stick", "translation": "عصا السيلفي" },
+{ "word": "Social media", "translation": "وسائل التواصل الاجتماعي" },
+{ "word": "Landscape", "translation": "منظر طبيعي" },
+{ "word": "Spice up", "translation": "يضيف إثارة / تشويق" },
+{ "word": "Safety equipment", "translation": "معدات سلامة" },
+{ "word": "Structure", "translation": "بناء / هيكل" },
+{ "word": "Scale", "translation": "يتسلق" },
+{ "word": "Skyscraper", "translation": "ناطحة سحاب" },
+{ "word": "Cliff", "translation": "منحدر / جرف صخري" },
+{ "word": "Bridge", "translation": "جسر" },
+{ "word": "Capture", "translation": "يلتقط" },
+{ "word": "Photographer", "translation": "مصور" },
+{ "word": "Shocking", "translation": "مروع / صادم" },
+{ "word": "Ground", "translation": "أرض" },
+{ "word": "Sky", "translation": "سماء" },
+{ "word": "Precious", "translation": "ثمين" },
+{ "word": "Valuable", "translation": "قيّم" },
+{ "word": "Irresponsible", "translation": "غير مسؤول" },
+{ "word": "Behaviour", "translation": "سلوك" },
+{ "word": "Useless", "translation": "غير مفيد" },
+{ "word": "Crazy", "translation": "مجنون" },
+{ "word": "Dangerous", "translation": "خطير" },
+{ "word": "Beneficial", "translation": "مفيد" },
+{ "word": "Incredible", "translation": "لا يصدق" },
+{ "word": "To shoot", "translation": "يلتقط صورة" },
+{ "word": "Scaling", "translation": "يتسلق" },
+{ "word": "Shock", "translation": "صدمة" },
+{ "word": "Scene", "translation": "مشهد" },
+{ "word": "Graduate", "translation": "يتخرج" },
+{ "word": "University", "translation": "جامعة" },
+{ "word": "Waste", "translation": "يضيع" },
+{ "word": "Boring", "translation": "ممل" },
+{ "word": "Desk job", "translation": "وظيفة مكتبية" },
+{ "word": "Sport", "translation": "رياضة" },
+{ "word": "Ski", "translation": "يتزلج" },
+{ "word": "Hat", "translation": "قبعة" },
+{ "word": "Shoes", "translation": "أحذية" },
+{ "word": "Hit", "translation": "يضرب" },
+{ "word": "Purpose", "translation": "قصد" },
+{ "word": "Miracle", "translation": "معجزة" },
+{ "word": "Tumour", "translation": "ورم" },
+{ "word": "Critical", "translation": "حرج / خطير" },
+{ "word": "Survive", "translation": "ينجو" },
+{ "word": "Tender", "translation": "حنون / لطيف" },
+{ "word": "Nerve surgeon", "translation": "جراح أعصاب" },
+{ "word": "Innocence", "translation": "براءة" },
+{ "word": "Pharmacist", "translation": "صيدلي" },
+{ "word": "Operation", "translation": "عملية جراحية" },
+{ "word": "Despair", "translation": "يأس" },
+{ "word": "Helpless", "translation": "عاجز" },
+{ "word": "Medical analysis", "translation": "تحليل طبي" },
+{ "word": "Laboratory tests", "translation": "فحوصات مخبرية" },
+{ "word": "Frame", "translation": "يؤطر" },
+{ "word": "Price", "translation": "ثمن" },
+{ "word": "Tall", "translation": "طويل" },
+{ "word": "Shelf", "translation": "رف" },
+{ "word": "Shopping trip", "translation": "رحلة تسوق" },
+{ "word": "Mess", "translation": "فوضى" },
+{ "word": "Report", "translation": "تقرير" },
+{ "word": "Boss", "translation": "مدير" },
+{ "word": "Wedding ceremony", "translation": "حفل زفاف" },
+{ "word": "Eyeglasses", "translation": "نظارات" },
+{ "word": "Purse", "translation": "محفظة" },
+{ "word": "Watch", "translation": "ساعة يد" }
+],
+"tables": [
+{
+"title": "Wish (قاعدة الأمنيات والندم)",
+"headers": ["النوع", "الاستخدام", "الصيغة", "مثال"],
+"rows": [
+["Wish + Past Simple", "أمنية عن الحاضر أو المستقبل", "wish + past simple", "I wish I knew the way home."],
+["Wish + Past Perfect", "ندم على الماضي", "wish + had + past participle", "I wish I had listened to my father."],
+["Wish + would", "رغبة في تغيير شيء في الحاضر", "wish + would + base form", "I wish it would stop snowing."]
+],
+"explanation": "Wish + Past Simple: نتمنى أن يكون الحاضر مختلفاً. Wish + Past Perfect: نندم على شيء حدث أو لم يحدث في الماضي. Wish + would: نتمنى أن يتغير شيء في الحاضر أو المستقبل. ملاحظة: مع جميع الضمائر نستخدم were في الحاضر.",
+"examples": "I wish I had learnt languages.\nI wish I hadn't wasted too much time watching TV.\nI wish I had visited Australia when I was younger.\nI wish I hadn't had a boring desk job.\nI wish I had had enough time for sport.\nI wish I had graduated from university.\nI wish our classroom weren't crowded.\nRita didn't come yesterday. I wish she had come."
+},
+{
+"title": "Past Simple vs Past Perfect مع Wish",
+"headers": ["النوع", "الاستخدام", "مثال مع Wish"],
+"rows": [
+["wish + past simple", "أمنية عن الحاضر (لا يمكن تغييره)", "I wish I were taller. (لكنني لست طويلاً)"],
+["wish + past perfect", "ندم على الماضي (يمكن تغييره لو عدنا بالزمن)", "I wish I had studied. (لكنني لم أدرس)"]
+],
+"explanation": "Past Simple مع Wish: شيء نتمناه في الحاضر ولكن لا يمكن تحقيقه. Past Perfect مع Wish: شيء نندم عليه في الماضي ونتمنى لو كان مختلفاً.",
+"examples": "I wish I knew the answer. (حاضر)\nI wish I had known the answer. (ماضي)"
+},
+{
+"title": "Present Perfect (المضارع التام)",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الإثبات", "has/have + past participle", "Almost everyone has taken out their phones."],
+["النفي", "has/have + not + past participle", "She hasn't taken a selfie."],
+["السؤال", "Has/Have + subject + past participle?", "Have you taken a selfie?"]
+],
+"explanation": "نستخدم المضارع التام للأحداث التي وقعت في الماضي ولكن لها علاقة بالحاضر. الكلمات الدالة: already, yet, just, ever, never, for, since.",
+"examples": "Almost everyone has taken out their smart phones to snap a selfie."
+},
+{
+"title": "Present Simple Passive (المبني للمجهول - مضارع بسيط)",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الإثبات", "am/is/are + past participle", "Selfies are often shared on social media."],
+["النفي", "am/is/are + not + past participle", "Selfies are not shared on every website."],
+["السؤال", "Am/Is/Are + subject + past participle?", "Are selfies shared on social media?"]
+],
+"explanation": "نستخدم المبني للمجهول عندما يكون الفاعل غير معروف أو غير مهم. التركيب: am/is/are + past participle.",
+"examples": "Selfies are often shared on social media."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["حرف الجر", "الاستخدام", "مثال"],
+"rows": [
+["of", "الاعتناء بـ", "Take care of yourselves."],
+["at", "في خطر", "Putting yourselves at risk is useless."],
+["by", "وسيلة النقل", "by train, by bus, by car"],
+["with", "التعامل مع", "dealing with symbols"],
+["for", "لمدة / من أجل", "for hours"],
+["to", "إلى (هدف)", "cause people to lose their lives"]
+],
+"explanation": "حروف الجر لها استخدامات متعددة حسب السياق.",
+"examples": "Take care of yourselves.\nPutting yourselves at risk is useless.\nShe went to work by train.\nAlgebra is a branch of mathematics dealing with symbols."
+},
+{
+"title": "Past Continuous (الماضي المستمر)",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الإثبات", "was/were + verb + ing", "Kate was skiing when she saw the boy."],
+["النفي", "was/were + not + verb + ing", "She was not looking when it happened."],
+["السؤال", "Was/Were + subject + verb + ing?", "Was she skiing?"]
+],
+"explanation": "نستخدم الماضي المستمر للحدث الطويل الذي قطعه حدث آخر. عادةً مع while + past continuous و past simple للحدث القصير.",
+"examples": "Kate saw the boy for the first time while she was skiing.\nWhile Kate was looking for the boy, her Dad arrived."
+},
+{
+"title": "Word Formation (تكوين الكلمات)",
+"headers": ["الفعل", "الاسم", "الصفة", "الحال"],
+"rows": [
+["", "death", "dead / deadly", ""],
+["", "happiness", "happy", "happily"],
+["", "criticism", "critical", ""]
+],
+"explanation": "اختيار الكلمة المناسبة يعتمد على موقعها في الجملة: بعد الفعل (be) نستخدم صفة. بعد الفعل العادي نستخدم حال. بعد (cause) نستخدم اسماً. بعد (died) نستخدم فعلاً ماضياً.",
+"examples": "Selfies can cause death.\nA poor family was living happily.\nYour son's condition is critical."
+},
+{
+"title": "Past Simple - Negative (النفي في الماضي البسيط)",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["النفي", "didn't + base form", "I didn't graduate from university."]
+],
+"explanation": "بعد didn't نستخدم الفعل في المصدر (base form).",
+"examples": "I didn't graduate from university.\nI didn't learn languages."
+},
+{
+"title": "Quantifiers (الكلمات الدالة على الكمية)",
+"headers": ["الكمية", "مع غير المعدود", "مع المعدود"],
+"rows": [
+["كثير", "much / too much", "many / too many"],
+["قليل", "a little", "a few"],
+["بعض", "some", "some"]
+],
+"explanation": "نستخدم much مع الأسماء غير المعدودة (time, money, water). نستخدم many مع الأسماء المعدودة (books, apples, cars).",
+"examples": "I wasted too much time watching TV."
+},
+{
+"title": "Pronunciation - /e/ (الصوت /e/)",
+"headers": ["كلمات الصوت /e/"],
+"rows": [
+["bed, red, let, get"],
+["head, dead, said, friend"],
+["any, many, again, against"]
+],
+"explanation": "الصوت /e/ هو صوت قصير يشبه نطق حرف 'ا' المفتوحة في العربية.",
+"examples": "get, bed, red, head, dead, said, friend, many"
+}
+]
+}

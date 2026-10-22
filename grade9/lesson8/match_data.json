@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"title": "Match the Sentence Parts - Sky Walkers",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "to capture a photo" },
+{ "letter": "b", "text": "to lose their lives" },
+{ "letter": "c", "text": "to Marat because he climbed up very high places" },
+{ "letter": "d", "text": "to be a crazy idea" },
+{ "letter": "e", "text": "to people who saw the shocking scene" },
+{ "letter": "f", "text": "in dangerous circumstances" }
+],
+"sentences": [
+{
+"start": "\"The sky walker\" is a name that was given",
+"correct": "e",
+"full_sentence": "\"The sky walker\" is a name that was given to people who saw the shocking scene",
+"translation": "لقب \"الماشي في السماء\" أُطلق على الأشخاص الذين شهدوا المشهد الصادم",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 62"
+},
+{
+"start": "\"How did Angela Nikolau get to Tianjin, China?\" is a question that occurred",
+"correct": "c",
+"full_sentence": "\"How did Angela Nikolau get to Tianjin, China?\" is a question that occurred to Marat because he climbed up very high places",
+"translation": "سؤال \"كيف وصلت أنجيلا نيكولاو إلى تيانجين، الصين؟\" خطر لمارات لأنه تسلق أماكن مرتفعة جداً",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 62"
+},
+{
+"start": "Daniel Lau scaled the skyscrapers of Hong Kong",
+"correct": "d",
+"full_sentence": "Daniel Lau scaled the skyscrapers of Hong Kong to be a crazy idea",
+"translation": "تسلق دانيال لاو ناطحات السحاب في هونغ كونغ وكانت فكرة مجنونة",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 62"
+},
+{
+"start": "Irresponsible behaviour may cause people",
+"correct": "b",
+"full_sentence": "Irresponsible behaviour may cause people to lose their lives",
+"translation": "السلوك غير المسؤول قد يتسبب في فقدان الناس لحياتهم",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 62"
+},
+{
+"start": "They began scaling skyscrapers, cliffs and bridges",
+"correct": "a",
+"full_sentence": "They began scaling skyscrapers, cliffs and bridges to capture a photo",
+"translation": "بدأوا يتسلقون ناطحات السحاب والمنحدرات والجسور لالتقاط صورة",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 62"
+}
+]
+},
+{
+"title": "Match the Sentence Parts - Activity Book",
+"source": "activity_book",
+"options": [
+{ "letter": "a", "text": "when he lost his job." },
+{ "letter": "b", "text": "to reach the books on the top shelf." },
+{ "letter": "c", "text": "until the son felt severely ill." },
+{ "letter": "d", "text": "to win the match." },
+{ "letter": "e", "text": "on their shopping trip." },
+{ "letter": "f", "text": "rushed to the nearest pharmacy" }
+],
+"sentences": [
+{
+"start": "My friend was filled with despair",
+"correct": "a",
+"full_sentence": "My friend was filled with despair when he lost his job",
+"translation": "امتلأ صديقي باليأس عندما فقد وظيفته",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 54"
+},
+{
+"start": "I am not tall enough",
+"correct": "b",
+"full_sentence": "I am not tall enough to reach the books on the top shelf",
+"translation": "أنا لست طويلاً بما يكفي للوصول إلى الكتب على الرف العلوي",
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 54"
+},
+{
+"start": "A poor family was living happily",
+"correct": "c",
+"full_sentence": "A poor family was living happily until the son felt severely ill",
+"translation": "كانت عائلة فقيرة تعيش بسعادة حتى أصيب الابن بمرض شديد",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 53"
+},
+{
+"start": "This team needs a miracle",
+"correct": "d",
+"full_sentence": "This team needs a miracle to win the match",
+"translation": "يحتاج هذا الفريق إلى معجزة للفوز بالمباراة",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 54"
+},
+{
+"start": "They spent so much money",
+"correct": "e",
+"full_sentence": "They spent so much money on their shopping trip",
+"translation": "أنفقوا الكثير من المال في رحلة التسوق الخاصة بهم",
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 55"
+}
+]
+}
+]
+}
