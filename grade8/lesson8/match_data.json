@@ -1,0 +1,154 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة المطابقة (Match)",
+"description": "يتم استخراج أسئلة المطابقة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل التي يمكن تقسيمها إلى بداية ونهاية.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Grammar Exercises",
+"Student Book - After Reading",
+"Activity Book - Reading Text",
+"Activity Book - Vocabulary Exercises",
+"Activity Book - Grammar Exercises"
+],
+"structure": {
+"per_group": "5 بدايات + 6 نهايات (واحدة زائدة)"
+},
+"selection_criteria": [
+"تنويع المصادر داخل كل مجموعة",
+"تجنب الجمل المتشابهة",
+"توزيع بين النص والتمارين",
+"كل جملة موثقة بالمصدر الدقيق"
+],
+"applied_to_unit": {
+"grade": 8,
+"unit": 8,
+"title": "Fashion",
+"total_groups": 2,
+"groups": {
+"group_1": {
+"source": "Student Book",
+"sources_used": ["Reading Text (1)", "Vocabulary (2)", "Grammar (1)", "Vocabulary (1)"]
+},
+"group_2": {
+"source": "Activity Book",
+"sources_used": ["Reading Text (2)", "Vocabulary B (2)", "Grammar (1)"]
+}
+}
+}
+},
+"groups": [
+{
+"id": "SB_G8_U8_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G8_U8_Fashion",
+"options": [
+{ "letter": "a", "text": "our culture and identity." },
+{ "letter": "b", "text": "instead of relying on existing ones." },
+{ "letter": "c", "text": "her great talent." },
+{ "letter": "d", "text": "a white dress." },
+{ "letter": "e", "text": "shopping season." },
+{ "letter": "f", "text": "mainly in this generation." }
+],
+"sentences": [
+{
+"start": "Traditional clothes represent",
+"correct": "a",
+"full_sentence": "Traditional clothes represent our culture and identity.",
+"translation": "الملابس التقليدية تمثل ثقافتنا وهويتنا.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "People have begun to create their own trends",
+"correct": "b",
+"full_sentence": "People have begun to create their own trends instead of relying on existing ones.",
+"translation": "بدأ الناس في إنشاء صيحاتهم الخاصة بدلاً من الاعتماد على الصيحات الموجودة.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "No one was aware of",
+"correct": "c",
+"full_sentence": "No one was aware of her great talent.",
+"translation": "لم يكن أحد على علم بموهبتها الكبيرة.",
+"source": "Student Book",
+"exact_reference": "Vocabulary"
+},
+{
+"start": "The bride has to wear",
+"correct": "d",
+"full_sentence": "The bride has to wear a white dress.",
+"translation": "يجب على العروس أن ترتدي فستاناً أبيض.",
+"source": "Student Book",
+"exact_reference": "Vocabulary"
+},
+{
+"start": "Fall is the busiest",
+"correct": "e",
+"full_sentence": "Fall is the busiest shopping season.",
+"translation": "الخريف هو موسم التسوق الأكثر ازدحاماً.",
+"source": "Student Book",
+"exact_reference": "Grammar"
+}
+]
+},
+{
+"id": "AB_G8_U8_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G8_U8_Fashionable_Animals",
+"options": [
+{ "letter": "a", "text": "from one of the river rocks." },
+{ "letter": "b", "text": "her friend's success." },
+{ "letter": "c", "text": "of their rights." },
+{ "letter": "d", "text": "the flies in the kitchen." },
+{ "letter": "e", "text": "subject at school." },
+{ "letter": "f", "text": "faced difficulties." }
+],
+"sentences": [
+{
+"start": "The raccoon slipped",
+"correct": "a",
+"full_sentence": "The raccoon slipped from one of the river rocks.",
+"translation": "انزلق الراكون من أحد صخور النهر.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "She was envious of",
+"correct": "b",
+"full_sentence": "She was envious of her friend's success.",
+"translation": "كانت حسودة من نجاح صديقتها.",
+"source": "Activity Book",
+"exact_reference": "Vocabulary B"
+},
+{
+"start": "Many people are ignorant",
+"correct": "c",
+"full_sentence": "Many people are ignorant of their rights.",
+"translation": "كثير من الناس يجهلون حقوقهم.",
+"source": "Activity Book",
+"exact_reference": "Vocabulary B"
+},
+{
+"start": "How can I get rid of",
+"correct": "d",
+"full_sentence": "How can I get rid of the flies in the kitchen.",
+"translation": "كيف يمكنني التخلص من الذباب في المطبخ؟",
+"source": "Activity Book",
+"exact_reference": "Vocabulary B"
+},
+{
+"start": "Geography is the most boring",
+"correct": "e",
+"full_sentence": "Geography is the most boring subject at school.",
+"translation": "الجغرافيا هي المادة الأكثر مللاً في المدرسة.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+}
+]
+}
+]
+}

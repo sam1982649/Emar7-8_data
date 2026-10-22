@@ -1,0 +1,56 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics)",
+"description": "يتم استخراج مواضيع الكتابة من نهاية كل درس في كتاب الطالب وكتاب النشاط.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Writing",
+"Activity Book - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من كتاب الطالب",
+"موضوع واحد من كتاب النشاط",
+"تنويع الأسئلة المساعدة لكل موضوع"
+],
+"applied_to_unit": {
+"grade": 8,
+"unit": 8,
+"title": "Fashion",
+"total_topics": 2,
+"sources": {
+"topic_1": "Student Book - Write about a festival",
+"topic_2": "Activity Book - Write about a party"
+}
+}
+},
+"topics": [
+{
+"id": "SB_G8_U8_W1",
+"title": "Write about a festival you have been to describing clothes you chose for this occasion.",
+"source": "Student Book",
+"exact_reference": "Writing - Page 60",
+"guiding_questions": [
+"What festival did you go to?",
+"What did you wear?",
+"What did other people wear?",
+"How did you feel?"
+],
+"sample_essay": "I went to a wedding festival last summer. I wore a beautiful blue dress and black shoes. My sister wore a red dress and gold jewellery. The bride wore a white dress and a veil. Other people wore colourful clothes and traditional dresses. The music and dancing were wonderful. I felt very happy and excited. It was an unforgettable day for me.",
+"word_count": 55
+},
+{
+"id": "AB_G8_U8_W1",
+"title": "Write a paragraph about a party you went to describing what the people were wearing.",
+"source": "Activity Book",
+"exact_reference": "Writing - Page 37",
+"guiding_questions": [
+"What party did you go to?",
+"What did you wear?",
+"What did your friends wear?",
+"How was the party?"
+],
+"sample_essay": "Last Friday, I went to a birthday party. I wore a white shirt and blue jeans. My friend wore a green T-shirt and black trousers. The girls wore colourful dresses and high heels. The music was loud and everyone was dancing. The party was full of joy and laughter. We danced and played games. It was a great party and I enjoyed it a lot.",
+"word_count": 55
+}
+]
+}

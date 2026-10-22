@@ -1,0 +1,249 @@
+{
+"texts": [
+{
+"id": "G8_U8_T1_P1",
+"text_group": "G8_U8_Fashion_Around_World_P1",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Fashion Around the World (Part 1)",
+"content_exam": "Fashion is an art, which appears in clothing, footwear, accessories, makeup, hairstyles, lifestyle, and body proportions. Furthermore, fashion is an industry-supported expression. Fashion is something that has permeated every aspect of human culture. Nowadays, fashion is the biggest part of our life. We are born in a society and culture where both tradition and fashion play important roles in their particular fields. Fashion today has gone beyond glamour and has become a way of life. It is the style of clothing, looking different, talking and living, etc. Today's youths are totally influenced by new fashion trends. It brings an interesting twist to our boring life which makes us feel more confident and up to date.",
+"questions": [
+{
+"id": "t1_p1_q1",
+"question": "Fashion appears in clothing, footwear, accessories, makeup, hairstyles, lifestyle, and body ........ .",
+"options": ["proportions", "expressions", "traditions", "trends"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: proportions\n📝 الترجمة: تظهر الموضة في الملابس، الأحذية، الإكسسوارات، الماكياج، تسريحات الشعر، نمط الحياة، ونسب الجسم.\n💡 الشرح: النص يقول: 'body proportions'."
+},
+{
+"id": "t1_p1_q2",
+"question": "Fashion is an industry-supported ........ .",
+"options": ["expression", "tradition", "culture", "trend"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: expression\n📝 الترجمة: الموضة هي تعبير مدعوم من الصناعة.\n💡 الشرح: النص يقول: 'fashion is an industry-supported expression'."
+},
+{
+"id": "t1_p1_q3",
+"question": "Fashion has permeated every aspect of human ........ .",
+"options": ["culture", "life", "society", "trends"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: culture\n📝 الترجمة: اخترقت الموضة كل جانب من جوانب الثقافة الإنسانية.\n💡 الشرح: النص يقول: 'every aspect of human culture'."
+},
+{
+"id": "t1_p1_q4",
+"question": "Fashion today has become a way of ........ .",
+"options": ["life", "trends", "culture", "style"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: life\n📝 الترجمة: أصبحت الموضة اليوم طريقة للحياة.\n💡 الشرح: النص يقول: 'has become a way of life'."
+},
+{
+"id": "t1_p1_q5",
+"question": "Today's youths are influenced by new fashion ........ .",
+"options": ["trends", "traditions", "cultures", "styles"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: trends\n📝 الترجمة: الشباب اليوم متأثرون بصيحات الموضة الجديدة.\n💡 الشرح: النص يقول: 'influenced by new fashion trends'."
+}
+]
+},
+{
+"id": "G8_U8_T1_P2",
+"text_group": "G8_U8_Fashion_Around_World_P2",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Fashion Around the World (Part 2)",
+"content_exam": "Fashion is a term used mainly in this generation and concerned with clothes and the way people get dressed. Today, the term fashion has changed a lot. Anything that we wear is fashion. Fashion shows are held by various designers to impress people with the designs created by them. On the other hand, traditional clothes represent our culture and identity. People who go abroad tend to adopt western trends, forgetting their national identity and traditions. However they should keep in mind that their identity is represented by the way they dress. By the end of the 20th century, a sense of fashion awareness had been very strong. Now, people have begun to choose clothes based on their own style preference and create their own trends.",
+"questions": [
+{
+"id": "t1_p2_q1",
+"question": "Fashion is concerned with clothes and the way people get dressed.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: الموضة تهتم بالملابس وطريقة ارتدائها.\n💡 الشرح: النص يقول: 'concerned with clothes and the way people get dressed'."
+},
+{
+"id": "t1_p2_q2",
+"question": "Fashion shows are held to impress designers.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: تقام عروض الأزياء لإبهار المصممين.\n💡 الشرح: النص يقول: 'to impress people' وليس المصممين."
+},
+{
+"id": "t1_p2_q3",
+"question": "Traditional clothes represent our culture and identity.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: الملابس التقليدية تمثل ثقافتنا وهويتنا.\n💡 الشرح: النص يقول: 'traditional clothes represent our culture and identity'."
+},
+{
+"id": "t1_p2_q4",
+"question": "People who go abroad always keep their national identity.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: الناس الذين يسافرون إلى الخارج يحتفظون دائماً بهويتهم الوطنية.\n💡 الشرح: النص يقول: 'forgetting their national identity and traditions'."
+},
+{
+"id": "t1_p2_q5",
+"question": "By the end of the 20th century, a sense of fashion awareness had been very ........ .",
+"type": "answer",
+"keywords": ["strong"],
+"explanation": "✅ الإجابة المتوقعة: strong\n📝 الترجمة: بحلول نهاية القرن العشرين، كان الوعي بالموضة قوياً جداً.\n💡 الشرح: النص يقول: 'a sense of fashion awareness had been very strong'."
+}
+]
+},
+{
+"id": "G8_U8_T2",
+"text_group": "G8_U8_Arrogant_Rose",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "The Arrogant Rose",
+"content_exam": "Once upon a time, in a desert far away, there lived a rose who was so proud of her beautiful looks. She believed that she was the nicest in the desert. Her only complaint was growing next to an ugly cactus. Every day, the beautiful rose would insult and mock the cactus, while the cactus remained quiet. All the other plants nearby tried to make the rose stop, but she was arrogant. One scorching summer, the desert became dry, and there was no water left for the plants. The rose quickly began to wilt. Her beautiful petals dried up, losing their bright color. Looking at the cactus, she saw a sparrow that was dipping his beak into the cactus to drink some water. Though the rose was ashamed, she asked the cactus if she could have some water. The kind cactus immediately agreed to help them both through the tough summer, as friends.",
+"questions": [
+{
+"id": "t2_q1",
+"question": "The rose lived in a ........ .",
+"options": ["garden", "desert", "forest", "park"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: desert\n📝 الترجمة: عاشت الوردة في الصحراء.\n💡 الشرح: النص يقول: 'in a desert far away'."
+},
+{
+"id": "t2_q2",
+"question": "The rose's only complaint was growing next to an ugly ........ .",
+"options": ["tree", "plant", "cactus", "flower"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: cactus\n📝 الترجمة: كان شكوى الوردة الوحيدة هو النمو بجانب صبار قبيح.\n💡 الشرح: النص يقول: 'growing next to an ugly cactus'."
+},
+{
+"id": "t2_q3",
+"question": "The cactus remained ........ when the rose insulted it.",
+"options": ["angry", "quiet", "sad", "happy"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: quiet\n📝 الترجمة: بقي الصبار هادئاً عندما أهانته الوردة.\n💡 الشرح: النص يقول: 'while the cactus remained quiet'."
+},
+{
+"id": "t2_q4",
+"question": "The desert became dry in ........ .",
+"options": ["winter", "spring", "summer", "autumn"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: summer\n📝 الترجمة: أصبحت الصحراء جافة في الصيف.\n💡 الشرح: النص يقول: 'One scorching summer, the desert became dry'."
+},
+{
+"id": "t2_q5",
+"question": "The rose asked the cactus for some ........ .",
+"options": ["food", "water", "shelter", "help"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: water\n📝 الترجمة: طلبت الوردة من الصبار بعض الماء.\n💡 الشرح: النص يقول: 'she asked the cactus if she could have some water'."
+}
+]
+},
+{
+"id": "G8_U8_T3_P1",
+"text_group": "G8_U8_Fashionable_Animals_P1",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Fashionable Animals (Part 1)",
+"content_exam": "Once upon a time, there was a forest where all the animals lived happily together. One day, a family went to spend the day in the countryside, and one little boy left his socks there. Soon after the family left, a raccoon came by, found the socks, and decided to try them on. They fit so well, and he liked them so much, that he wouldn't take them off. He spent his days walking through the forest in his new socks. All the animals talked about the raccoon's new look, and some of them were envious that he was getting so much attention. Before long, there began appearing squirrels in shirts, rabbits in boots, moles with hats on, and even a bird wearing pants. Doctor Bear, the forest physician, would shake his head, telling them that animals don't need clothes. However, no one listened to him.",
+"questions": [
+{
+"id": "t3_p1_q1",
+"question": "A little boy left his ........ in the countryside.",
+"options": ["shoes", "socks", "shirt", "hat"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: socks\n📝 الترجمة: ترك صبي صغير جواربه في الريف.\n💡 الشرح: النص يقول: 'one little boy left his socks there'."
+},
+{
+"id": "t3_p1_q2",
+"question": "The ........ found the socks first.",
+"options": ["squirrel", "rabbit", "raccoon", "mole"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: raccoon\n📝 الترجمة: وجد الراكون الجوارب أولاً.\n💡 الشرح: النص يقول: 'a raccoon came by, found the socks'."
+},
+{
+"id": "t3_p1_q3",
+"question": "The raccoon liked the socks because they ........ well.",
+"options": ["looked", "smelled", "fit", "felt"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: fit\n📝 الترجمة: أعجب الراكون بالجوارب لأنها كانت مناسبة.\n💡 الشرح: النص يقول: 'They fit so well'."
+},
+{
+"id": "t3_p1_q4",
+"question": "Some animals were ........ of the raccoon's new look.",
+"options": ["happy", "envious", "angry", "sad"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: envious\n📝 الترجمة: كانت بعض الحيوانات حسودة من مظهر الراكون الجديد.\n💡 الشرح: النص يقول: 'some of them were envious'."
+},
+{
+"id": "t3_p1_q5",
+"question": "Doctor Bear said that animals don't need ........ .",
+"options": ["food", "water", "clothes", "shelter"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: clothes\n📝 الترجمة: قال الدكتور بير أن الحيوانات لا تحتاج ملابس.\n💡 الشرح: النص يقول: 'animals don't need clothes'."
+}
+]
+},
+{
+"id": "G8_U8_T3_P2",
+"text_group": "G8_U8_Fashionable_Animals_P2",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Fashionable Animals (Part 2)",
+"content_exam": "However, it wasn't long before the first consequences of fashion-fever began to take effect. The squirrel snagged his shirt on tree bark, stopping him in mid-leap, and sending him plummeting to the ground. The mole tried to fit into his hole without taking his hat off, and he got stuck all day. One of the birds got in a tangle with his clothes, and had to make a crash-landing on some thistles. Even the raccoon, thanks to his bright socks, slipped from a river rock and almost drowned. Doctor Bear gave them all the same prescription: get rid of those clothes. Those who listened to his advice stopped having accidents. The animals realized that they didn't need clothes at all.",
+"questions": [
+{
+"id": "t3_p2_q1",
+"question": "The squirrel fell to the ground when his shirt got snagged on tree bark.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: سقط السنجاب على الأرض عندما تعلق قميصه بلحاء الشجرة.\n💡 الشرح: النص يقول: 'The squirrel snagged his shirt on tree bark, stopping him in mid-leap, and sending him plummeting to the ground'."
+},
+{
+"id": "t3_p2_q2",
+"question": "The mole could easily fit into his hole with his hat on.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: استطاع الخلد بسهولة الدخول إلى جحره وهو يرتدي قبعته.\n💡 الشرح: النص يقول: 'he got stuck all day'."
+},
+{
+"id": "t3_p2_q3",
+"question": "The raccoon almost drowned because of his bright socks.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: كاد الراكون أن يغرق بسبب جواربه الزاهية.\n💡 الشرح: النص يقول: 'the raccoon, thanks to his bright socks, slipped from a river rock and almost drowned'."
+},
+{
+"id": "t3_p2_q4",
+"question": "Doctor Bear told them to keep wearing clothes.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: أخبرهم الدكتور بير بالاستمرار في ارتداء الملابس.\n💡 الشرح: النص يقول: 'get rid of those clothes'."
+},
+{
+"id": "t3_p2_q5",
+"question": "The animals realized that they didn't need ........ .",
+"type": "answer",
+"keywords": ["clothes"],
+"explanation": "✅ الإجابة المتوقعة: clothes\n📝 الترجمة: أدركت الحيوانات أنها لا تحتاج ملابس.\n💡 الشرح: النص يقول: 'they didn't need clothes at all'."
+}
+]
+}
+]
+}

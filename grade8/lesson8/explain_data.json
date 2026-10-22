@@ -1,0 +1,255 @@
+{
+"methodology": {
+"title": "ملف شرح القواعد والمفردات (Explain)",
+"description": "يحتوي على شرح المفردات الجديدة من الدرس، وجداول القواعد النحوية التي وردت في الدرس، إضافة إلى قواعد التحويل إلى سؤال التي ظهرت في ملف convert.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Key Words (المفردات الجديدة)",
+"Grammar Tables (جداول القواعد)",
+"Convert Rules (قواعد التحويل إلى سؤال)"
+]
+},
+"vocabulary": [
+{ "word": "fashion", "translation": "موضة" },
+{ "word": "art", "translation": "فن" },
+{ "word": "clothing", "translation": "ملابس" },
+{ "word": "footwear", "translation": "أحذية" },
+{ "word": "accessories", "translation": "إكسسوارات" },
+{ "word": "makeup", "translation": "مكياج" },
+{ "word": "hairstyles", "translation": "تسريحات شعر" },
+{ "word": "lifestyle", "translation": "نمط حياة" },
+{ "word": "proportions", "translation": "نسب / حجم" },
+{ "word": "industry-supported", "translation": "مدعوم من الصناعة" },
+{ "word": "expression", "translation": "تعبير" },
+{ "word": "permeate", "translation": "يخترق / يؤثر" },
+{ "word": "aspect", "translation": "جانب" },
+{ "word": "human culture", "translation": "الثقافة الإنسانية" },
+{ "word": "society", "translation": "مجتمع" },
+{ "word": "tradition", "translation": "تقليد" },
+{ "word": "glamour", "translation": "سحر / جاذبية" },
+{ "word": "style", "translation": "أسلوب" },
+{ "word": "youths", "translation": "شباب" },
+{ "word": "influenced", "translation": "متأثر" },
+{ "word": "trends", "translation": "صيحات / اتجاهات" },
+{ "word": "twist", "translation": "تغيير / منعطف" },
+{ "word": "confident", "translation": "واثق" },
+{ "word": "generation", "translation": "جيل" },
+{ "word": "concerned", "translation": "مهتم" },
+{ "word": "designers", "translation": "مصممون" },
+{ "word": "impress", "translation": "يبهَر" },
+{ "word": "designs", "translation": "تصاميم" },
+{ "word": "traditional", "translation": "تقليدي" },
+{ "word": "identity", "translation": "هوية" },
+{ "word": "abroad", "translation": "في الخارج" },
+{ "word": "adopt", "translation": "يتبنى" },
+{ "word": "western", "translation": "غربي" },
+{ "word": "national identity", "translation": "هوية وطنية" },
+{ "word": "awareness", "translation": "وعي" },
+{ "word": "preference", "translation": "تفضيل" },
+{ "word": "existing", "translation": "موجود" },
+{ "word": "fashionable", "translation": "عصري" },
+{ "word": "designer", "translation": "مصمم" },
+{ "word": "confidence", "translation": "ثقة" },
+{ "word": "aware", "translation": "مدرك" },
+{ "word": "influence", "translation": "تأثير" },
+{ "word": "hold", "translation": "ينظم / يقيم" },
+{ "word": "desert", "translation": "صحراء" },
+{ "word": "proud", "translation": "فخور" },
+{ "word": "complaint", "translation": "شكوى" },
+{ "word": "cactus", "translation": "صبار" },
+{ "word": "insult", "translation": "يهين" },
+{ "word": "mock", "translation": "يسخر من" },
+{ "word": "arrogant", "translation": "متغطرس" },
+{ "word": "scorching", "translation": "لاهب / حار جداً" },
+{ "word": "wilt", "translation": "يذبل" },
+{ "word": "petals", "translation": "بتلات" },
+{ "word": "sparrow", "translation": "عصفور" },
+{ "word": "beak", "translation": "منقار" },
+{ "word": "ashamed", "translation": "خجلان" },
+{ "word": "tough", "translation": "صعب / قاسي" },
+{ "word": "right angle", "translation": "زاوية قائمة" },
+{ "word": "acute angle", "translation": "زاوية حادة" },
+{ "word": "obtuse angle", "translation": "زاوية منفرجة" },
+{ "word": "straight angle", "translation": "زاوية مستقيمة" },
+{ "word": "measures", "translation": "يقيس" },
+{ "word": "exactly", "translation": "بالضبط" },
+{ "word": "forest", "translation": "غابة" },
+{ "word": "raccoon", "translation": "راكون" },
+{ "word": "socks", "translation": "جوارب" },
+{ "word": "fit", "translation": "يناسب" },
+{ "word": "envious", "translation": "حسود" },
+{ "word": "attention", "translation": "اهتمام" },
+{ "word": "squirrels", "translation": "سناجب" },
+{ "word": "shirts", "translation": "قمصان" },
+{ "word": "rabbits", "translation": "أرانب" },
+{ "word": "boots", "translation": "أحذية" },
+{ "word": "moles", "translation": "حيوانات الخلد" },
+{ "word": "hats", "translation": "قبعات" },
+{ "word": "physician", "translation": "طبيب" },
+{ "word": "old-fashioned", "translation": "قديم الطراز" },
+{ "word": "ignorant", "translation": "جاهل" },
+{ "word": "consequence", "translation": "نتيجة / عاقبة" },
+{ "word": "effect", "translation": "تأثير / أثر" },
+{ "word": "snagged", "translation": "تعلق" },
+{ "word": "bark", "translation": "لحاء الشجرة" },
+{ "word": "plummeting", "translation": "السقوط" },
+{ "word": "tangle", "translation": "تشابك" },
+{ "word": "crash-landing", "translation": "هبوط اضطراري" },
+{ "word": "thistles", "translation": "شوك" },
+{ "word": "thorns", "translation": "أشواك" },
+{ "word": "slipped", "translation": "انزلق" },
+{ "word": "drowned", "translation": "غرق" },
+{ "word": "casualties", "translation": "مصابون" },
+{ "word": "prescription", "translation": "وصفة طبية" },
+{ "word": "accidents", "translation": "حوادث" },
+{ "word": "silly", "translation": "سخيف" },
+{ "word": "jogging", "translation": "الركض" },
+{ "word": "rights", "translation": "حقوق" },
+{ "word": "get rid of", "translation": "يتخلص من" },
+{ "word": "take off", "translation": "يخلع" },
+{ "word": "talk about", "translation": "يتحدث عن" },
+{ "word": "listen to", "translation": "يستمع إلى" },
+{ "word": "stuck in", "translation": "عالق في" },
+{ "word": "waterproof", "translation": "مقاوم للماء" },
+{ "word": "hood", "translation": "غطاء الرأس" },
+{ "word": "scarf", "translation": "وشاح" },
+{ "word": "party", "translation": "حفلة" },
+{ "word": "festival", "translation": "مهرجان" },
+{ "word": "wedding", "translation": "عرس" },
+{ "word": "bride", "translation": "عروس" },
+{ "word": "veil", "translation": "حجاب العروس" },
+{ "word": "jewellery", "translation": "مجوهرات" },
+{ "word": "colourful", "translation": "ملون" },
+{ "word": "dancing", "translation": "رقص" },
+{ "word": "laughter", "translation": "ضحك" },
+{ "word": "games", "translation": "ألعاب" }
+],
+"tables": [
+{
+"title": "Superlative Adjectives (صفات التفضيل)",
+"headers": ["النوع", "القاعدة", "مثال"],
+"rows": [
+["صفات قصيرة (مقطع واحد)", "نضيف -est مع the", "tall → the tallest"],
+["صفات تنتهي بـ -e", "نضيف -st مع the", "large → the largest"],
+["صفات تنتهي بحرف ساكن + حرف علة + حرف ساكن", "نضاعف الحرف الأخير + est", "big → the biggest"],
+["صفات تنتهي بـ -y", "نغير y إلى i ونضيف -est", "noisy → the noisiest"],
+["صفات طويلة (مقطعين أو أكثر)", "نستخدم the most + صفة", "beautiful → the most beautiful"],
+["صفات شاذة (غير منتظمة)", "حفظ", "good → the best, bad → the worst, far → the farthest/furthest"]
+],
+"explanation": "تستخدم صفات التفضيل للمقارنة بين ثلاثة أشخاص أو أشياء أو أكثر. نضيف the + -est للصفات القصيرة، و the most للصفات الطويلة، وبعض الصفات لها أشكال شاذة.",
+"examples": "Everest is the highest mountain in the world. / Fashion is one of the best ways to express yourself."
+},
+{
+"title": "Relative Clauses (جمل الوصل)",
+"headers": ["ضمير الوصل", "الاستخدام", "مثال"],
+"rows": [
+["who", "للعاقل (فاعل)", "People who go abroad adopt western trends."],
+["which", "لغير العاقل", "Fashion is an art which appears in clothing."],
+["that", "للعاقل أو غير العاقل", "Anything that we wear is fashion."],
+["where", "للمكان", "This is the school where I study."],
+["whose", "للملكية", "The man whose car is red is my uncle."]
+],
+"explanation": "تستخدم ضمائر الوصل لربط الجمل. 'who' للعاقل، 'which' لغير العاقل، 'that' للعاقل أو غير العاقل، 'where' للمكان، 'whose' للملكية.",
+"examples": "Fashion is an art which appears in clothing. / People who go abroad tend to adopt western trends."
+},
+{
+"title": "Passive Voice - Present Simple (المبني للمجهول - المضارع البسيط)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["am/is/are + past participle", "عندما يكون الفاعل هو المتلقي للفعل", "Fashion shows are held by designers."]
+],
+"explanation": "نستخدم المبني للمجهول عندما يكون الفاعل هو المتلقي للفعل وليس الفاعل. في المضارع البسيط: am/is/are + التصريف الثالث.",
+"examples": "Fashion shows are held by various designers. / Young people are attracted by glamour."
+},
+{
+"title": "Passive Voice - Simple Past (المبني للمجهول - الماضي البسيط)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["was/were + past participle", "عندما يكون الفاعل هو المتلقي للفعل في الماضي", "The casualties were taken to hospital."]
+],
+"explanation": "نستخدم المبني للمجهول في الماضي البسيط عندما يكون الفاعل هو المتلقي للفعل في الماضي. التركيب: was/were + التصريف الثالث.",
+"examples": "After the accident, the casualties were taken to hospital."
+},
+{
+"title": "Past Perfect (الماضي التام)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["had + past participle", "لحدث وقع قبل حدث آخر في الماضي", "By the end of the 20th century, awareness had been strong."]
+],
+"explanation": "نستخدم الماضي التام للتعبير عن حدث وقع وانتهى قبل حدث آخر في الماضي. التركيب: had + التصريف الثالث.",
+"examples": "By the end of the 20th century, a sense of fashion awareness had been very strong."
+},
+{
+"title": "Adverbs (الظروف)",
+"headers": ["النوع", "القاعدة", "مثال"],
+"rows": [
+["ظروف تدل على الحالة", "صفة + ly", "happy → happily"],
+["ظروف تدل على الطريقة", "توصف الفعل", "lived happily"]
+],
+"explanation": "الظروف توصف الأفعال وتأتي غالباً بعد الفعل. نضيف ly إلى معظم الصفات لتكوين الظرف.",
+"examples": "All the animals lived happily together."
+},
+{
+"title": "Gerunds (المصدر - الفعل + ing)",
+"headers": ["الاستخدام", "مثال"],
+"rows": [
+["بعد أفعال مثل: like, love, enjoy, hate, start, stop", "She likes telling jokes."],
+["بعد حروف الجر", "He keeps fit by jogging."]
+],
+"explanation": "المصدر هو الفعل + ing ويستخدم كاسم، ويأتي بعد أفعال معينة أو بعد حروف الجر.",
+"examples": "Those who listened to the Doctor's advice stopped having accidents."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["حرف الجر", "الاستخدام", "مثال"],
+"rows": [
+["of", "للتعبير عن المحتوى أو الملكية", "part of our life, full of thorns"],
+["with", "للمصاحبة أو الاهتمام", "concerned with"],
+["on", "للتعبير عن الاعتماد على", "based on their own style"],
+["to", "للمصدر (infinitive)", "decided to try"],
+["in", "للمكان", "stuck in the window"],
+["off", "للخلع", "take off your coat"],
+["about", "للتحدث عن", "talked about"],
+["of", "للتخلص من", "get rid of"]
+],
+"explanation": "حروف الجر تربط الأسماء بالجملة. بعض الأفعال تأتي مع حروف جر محددة ويجب حفظها.",
+"examples": "Fashion is the biggest part of our life. / People have begun to choose clothes based on their own style."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["أداة الربط", "الاستخدام", "مثال"],
+"rows": [
+["and", "للإضافة", "culture and identity"]
+],
+"explanation": "تستخدم أدوات الربط لربط الكلمات والجمل. 'and' للإضافة.",
+"examples": "Traditional clothes represent our culture and identity."
+},
+{
+"title": "Phrasal Verbs (الأفعال المركبة)",
+"headers": ["الفعل المركب", "المعنى", "مثال"],
+"rows": [
+["take off", "يخلع (ملابس)", "Take off your coat."],
+["get rid of", "يتخلص من", "Get rid of the flies."],
+["talk about", "يتحدث عن", "Our teacher talked about the project."],
+["listen to", "يستمع إلى", "Listen to the music."]
+],
+"explanation": "الأفعال المركبة تتكون من فعل + حرف جر أو ظرف، ويكون معناها مختلفاً عن معنى الفعل الأصلي.",
+"examples": "It's hot. Take off your coat."
+},
+{
+"title": "Question Words (كلمات الاستفهام) - من Convert",
+"headers": ["كلمة الاستفهام", "الاستخدام", "مثال"],
+"rows": [
+["What", "للسؤال عن الشيء (فاعل أو مفعول به)", "What is the highest mountain?"],
+["Where", "للسؤال عن المكان", "Where did the rose live?"],
+["What ... like", "للسؤال عن الصفة", "What was she like?"],
+["Why", "للسؤال عن السبب", "Why are fashion shows held?"],
+["How", "للسؤال عن الطريقة", "How does he keep fit?"],
+["How much", "للسؤال عن السعر أو الكمية", "How much do the shoes cost?"],
+["How often", "للسؤال عن التكرار", "How often do you go jogging?"]
+],
+"explanation": "تستخدم كلمات الاستفهام لتكوين الأسئلة. نختار كلمة الاستفهام حسب ما نريد السؤال عنه (شيء، مكان، صفة، سبب، طريقة، سعر، تكرار).",
+"examples": "What is the highest mountain in the world? / Where did your family go?"
+}
+]
+}
