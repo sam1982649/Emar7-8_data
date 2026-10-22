@@ -1,0 +1,249 @@
+{
+"vocabulary": [
+{ "word": "ability", "translation": "قدرة" },
+{ "word": "advice", "translation": "نصيحة" },
+{ "word": "allow", "translation": "يسمح" },
+{ "word": "alternative", "translation": "بديل" },
+{ "word": "ascertain", "translation": "يتأكد / يتحقق" },
+{ "word": "aspect", "translation": "جانب" },
+{ "word": "available", "translation": "متاح" },
+{ "word": "awareness", "translation": "وعي / إدراك" },
+{ "word": "basis", "translation": "أساس" },
+{ "word": "beneficial", "translation": "مفيد" },
+{ "word": "breathe", "translation": "يتنفس" },
+{ "word": "career", "translation": "مهنة" },
+{ "word": "choice", "translation": "اختيار" },
+{ "word": "collaborate", "translation": "يتعاون" },
+{ "word": "completely", "translation": "تماماً" },
+{ "word": "cornerstone", "translation": "حجر الزاوية" },
+{ "word": "critical thinking", "translation": "تفكير نقدي" },
+{ "word": "cured", "translation": "معالج / شفي" },
+{ "word": "decision", "translation": "قرار" },
+{ "word": "delicious", "translation": "لذيذ" },
+{ "word": "depressed", "translation": "مكتئب" },
+{ "word": "determination", "translation": "تصميم / عزيمة" },
+{ "word": "direction", "translation": "اتجاه" },
+{ "word": "education", "translation": "تعليم" },
+{ "word": "empty-handed", "translation": "خالي اليدين" },
+{ "word": "extremely", "translation": "للغاية / بشكل شديد" },
+{ "word": "fail", "translation": "يفشل" },
+{ "word": "fight", "translation": "يقاتل" },
+{ "word": "forward", "translation": "إلى الأمام" },
+{ "word": "frustrated", "translation": "محبط" },
+{ "word": "identify", "translation": "يحدد / يتعرف على" },
+{ "word": "immediately", "translation": "فوراً" },
+{ "word": "impatient", "translation": "نافذ الصبر" },
+{ "word": "insight", "translation": "نظرة ثاقبة" },
+{ "word": "investment", "translation": "استثمار" },
+{ "word": "knowledge", "translation": "معرفة" },
+{ "word": "leadership", "translation": "قيادة" },
+{ "word": "lifestyle", "translation": "نمط حياة" },
+{ "word": "map out", "translation": "يخطط بعناية" },
+{ "word": "ongoing", "translation": "مستمر" },
+{ "word": "operation", "translation": "عملية جراحية" },
+{ "word": "option", "translation": "خيار" },
+{ "word": "organization", "translation": "تنظيم" },
+{ "word": "outline", "translation": "مخطط / يحدد" },
+{ "word": "permanently", "translation": "بشكل دائم" },
+{ "word": "potholes", "translation": "صعوبات بسيطة / عقبات" },
+{ "word": "priority", "translation": "أولوية" },
+{ "word": "regret", "translation": "يأسف / يندم" },
+{ "word": "relationship", "translation": "علاقة" },
+{ "word": "shoulder", "translation": "كتف" },
+{ "word": "skill", "translation": "مهارة" },
+{ "word": "soda", "translation": "مشروب غازي" },
+{ "word": "solution", "translation": "حل" },
+{ "word": "sorrowfully", "translation": "بحزن" },
+{ "word": "stick", "translation": "يلتزم / يستمر" },
+{ "word": "successful", "translation": "ناجح" },
+{ "word": "suggestion", "translation": "اقتراح" },
+{ "word": "suitable", "translation": "مناسب" },
+{ "word": "summer", "translation": "صيف" },
+{ "word": "tasty", "translation": "شهي" },
+{ "word": "teamwork", "translation": "عمل جماعي" },
+{ "word": "time management", "translation": "إدارة الوقت" },
+{ "word": "truck", "translation": "شاحنة" },
+{ "word": "various", "translation": "متنوع" },
+{ "word": "virtue", "translation": "فضيلة" },
+{ "word": "vital", "translation": "حيوي / ضروري جداً" },
+{ "word": "wisdom", "translation": "حكمة" }
+],
+"tables": [
+{
+"title": "Past Simple (الماضي البسيط)",
+"headers": ["النوع", "الصيغة", "مثال من الدرس"],
+"rows": [
+["الإثبات (Affirmative)", "Subject + V2", "I visited the villages on the way."],
+["النفي (Negative)", "Subject + did not + V1", "I didn't play football."],
+["السؤال (Question)", "Did + Subject + V1?", "Did you see the cake?"]
+],
+"explanation": "يستخدم Past Simple للأحداث التي بدأت وانتهت في وقت محدد في الماضي. الكلمات المفتاحية: yesterday, last, ago, in 1999.",
+"examples": "I decided to spend my holidays in Wales last year. / I played football last Monday. / I bought a new car two months ago."
+},
+{
+"title": "Past Progressive (الماضي المستمر)",
+"headers": ["النوع", "الصيغة", "مثال من الدرس"],
+"rows": [
+["الإثبات (Affirmative)", "was/were + V-ing", "I was having dinner at the restaurant at 7 o'clock."],
+["النفي (Negative)", "was/were + not + V-ing", "He wasn't sleeping when you came home."],
+["السؤال (Question)", "Was/Were + Subject + V-ing?", "Were you watching TV?"]
+],
+"explanation": "يستخدم Past Progressive للأحداث التي كانت مستمرة في الماضي. يتكون من was/were + V-ing.",
+"examples": "While I was cycling, my friends were sitting on the beach. / I was writing an e-mail when the phone rang. / I was preparing dinner while Melanie was working upstairs."
+},
+{
+"title": "الفرق بين Past Simple و Past Progressive",
+"headers": ["Past Simple", "Past Progressive"],
+"rows": [
+["حدث مكتمل انتهى في الماضي", "حدث كان مستمراً في الماضي"],
+["يستخدم مع: yesterday, last, ago", "يستخدم مع: while, when"],
+["Omar watched TV.", "Omar was watching TV when his mother entered."],
+["Mrs. Brown arrived.", "The girls were studying when Mrs. Brown arrived."]
+],
+"explanation": "Past Simple يصف حدثاً مكتملاً، بينما Past Progressive يصف حدثاً كان مستمراً. غالباً ما يستخدمان معاً: Past Progressive للحدث المستمر، و Past Simple للحدث القاطع.",
+"examples": "I was watching TV when my mother entered the room. / While she was reading a book, the phone rang. / I was walking down the street when it began to rain."
+},
+{
+"title": "Connectors (أدوات الربط)",
+"headers": ["الأداة", "الاستخدام", "مثال من الدرس"],
+"rows": [
+["while", "حدثان مستمران في نفس الوقت", "While I was cycling, my friends were sitting on the beach."],
+["when", "حدث مستمر + حدث قصير قاطع", "I was walking down the street when it began to rain."],
+["after", "حدث وقع بعد حدث آخر", "Sam walked into a cake shop after he had finished his work."],
+["because", "التعبير عن السبب", "He was sad because he couldn't choose any cake."]
+],
+"explanation": "أدوات الربط تربط الجمل وتظهر العلاقة بينها.",
+"examples": "While I was cycling, my friends were sitting on the beach. / I was walking down the street when it began to rain. / Sam walked into a cake shop after he had finished his work."
+},
+{
+"title": "Question Formation (تكوين السؤال)",
+"headers": ["الخطوة", "الشرح"],
+"rows": [
+["١. كلمة السؤال (Question Word)", "What, Who, Where, When, Why, How, ..."],
+["٢. الفعل المساعد (Auxiliary Verb)", "did, was/were, do/does, will, ..."],
+["٣. الفاعل (Subject)", "I, you, he, she, it, we, they, ..."],
+["٤. الفعل الرئيسي (Main Verb)", "المصدر (مع did) أو V-ing (مع was/were)"],
+["٥. باقي الجملة (Rest of sentence)", "...?"]
+],
+"explanation": "لتحويل أي جملة إلى سؤال، نتبع الخطوات: ١- كلمة السؤال ٢- الفعل المساعد ٣- الفاعل ٤- الفعل الرئيسي ٥- باقي الجملة ثم علامة الاستفهام.",
+"examples": "Who helps you to make the right decision?\nTeamwork helps me to make the right decision.\n\nWhere did you decide to spend your holidays?\nI decided to spend my holidays in Wales.\n\nWhen did you play football?\nI played football last Monday.\n\nWhat were the cakes like?\nThe cakes were very delicious.\n\nWhy did he go there?\nHe went there to buy a cake.\n\nWhen did you make your decision?\nI made my decision yesterday."
+},
+{
+"title": "Pronunciation - /ʌ/ (الصوت القصير)",
+"headers": ["الكلمة", "النطق", "الكلمة", "النطق"],
+"rows": [
+["bun", "/bʌn/", "hut", "/hʌt/"],
+["bum", "/bʌm/", "cut", "/kʌt/"],
+["bus", "/bʌs/", "cup", "/kʌp/"],
+["bud", "/bʌd/", "dug", "/dʌg/"],
+["bug", "/bʌg/", "fun", "/fʌn/"],
+["but", "/bʌt/", "gun", "/gʌn/"],
+["truck", "/trʌk/", "summer", "/ˈsʌm.ər/"],
+["trouble", "/ˈtrʌb.əl/", "rag", "/ræg/ (❌)"]
+],
+"explanation": "الصوت /ʌ/ هو صوت قصير مفتوح. يظهر في كلمات مثل: cup, bus, cut, fun, but, summer, truck, trouble.",
+"examples": "I drink a cup of tea every morning. / The bus is late today. / Summer is my favourite season."
+},
+{
+"title": "Gerund as Subject (اسم الفاعل كفاعل)",
+"headers": ["القاعدة", "مثال من الدرس"],
+"rows": [
+["الفعل + ing يعمل كفاعل في الجملة", "Making a choice is easy."],
+["الفعل + ing يعمل كفاعل في الجملة", "Choosing well takes knowledge and skill."]
+],
+"explanation": "عندما يأتي الفعل + ing في بداية الجملة، فإنه يعمل كفاعل (Subject) ويأخذ فعلاً مفرداً.",
+"examples": "Making a choice is easy. / Choosing well takes knowledge and skill."
+},
+{
+"title": "Collocations (المتلازمات اللفظية)",
+"headers": ["الكلمة", "يأتي معها", "مثال من الدرس"],
+"rows": [
+["make", "a decision / a choice", "We make thousands of decisions a day."],
+["take", "a step", "Before taking a step, we must try to see where potholes are."],
+["raise", "awareness", "Health officials have tried to raise awareness."],
+["stick to", "a decision", "The ability to make a decision and stick to it."],
+["map out", "alternatives", "The decision-making tools help you to map out all the possible alternatives."]
+],
+"explanation": "المتلازمات اللفظية هي كلمات تأتي معاً بشكل معتاد في اللغة.",
+"examples": "We make thousands of decisions a day. / Health officials have tried to raise awareness. / The decision-making tools help you to map out all the possible alternatives."
+},
+{
+"title": "Phrasal Verbs (الأفعال المركبة)",
+"headers": ["الفعل المركب", "المعنى", "مثال من الدرس"],
+"rows": [
+["give up", "يتخلى عن", "John gave up soda about a month and a half ago."],
+["cut out", "يستبعد / يتوقف عن", "By cutting out soda, John lost five kg."],
+["make up", "يقرر / يحسم", "Make up your mind!"],
+["map out", "يخطط بعناية", "map out all the possible alternatives"],
+["stick to", "يلتزم بـ", "stick to it"]
+],
+"explanation": "الأفعال المركبة هي أفعال تتكون من فعل + حرف جر أو ظرف، ويعطي معنى جديداً.",
+"examples": "Make up your mind! / John gave up soda about a month and a half ago. / By cutting out soda, John lost five kg."
+},
+{
+"title": "Past Perfect (الماضي التام)",
+"headers": ["الصيغة", "الاستخدام", "مثال من الدرس"],
+"rows": [
+["had + V3", "حدث وقع قبل حدث آخر في الماضي", "Sam walked into a cake shop, after he had finished his work."]
+],
+"explanation": "يستخدم Past Perfect للتعبير عن حدث وقع وانتهى قبل حدث آخر في الماضي. يتكون من had + V3.",
+"examples": "Sam walked into a cake shop, after he had finished his work."
+},
+{
+"title": "Passive Voice (المبني للمجهول)",
+"headers": ["الزمن", "الصيغة", "مثال من الدرس"],
+"rows": [
+["Past Simple Passive", "was/were + V3", "The cakes were kept in the refrigerators."]
+],
+"explanation": "المبني للمجهول يستخدم عندما يكون الفاعل غير معروف أو غير مهم، أو عندما نريد التركيز على المفعول به.",
+"examples": "The cakes were kept in the refrigerators."
+},
+{
+"title": "Superlatives (صيغة التفضيل)",
+"headers": ["الصيغة", "الاستخدام", "مثال من الدرس"],
+"rows": [
+["the + most + صفة", "التفضيل (للصفات الطويلة)", "the most suitable and delicious cake"]
+],
+"explanation": "صيغة التفضيل تستخدم للمقارنة بين ثلاثة أشياء أو أكثر. تأتي دائماً مع 'the'.",
+"examples": "I should choose the most suitable and delicious cake."
+},
+{
+"title": "Possessive Adjectives (صفات الملكية)",
+"headers": ["الضمير", "المعنى", "مثال من الدرس"],
+"rows": [
+["my", "لي", "My friends were calling to tell me."],
+["your", "لك", "Make up your mind!"],
+["his", "له", "He had a problem with his shoulder."],
+["her", "لها", "her house"],
+["its", "له (لغير العاقل)", "its chances of success"],
+["our", "لنا", "our career"],
+["their", "لهم", "Thousands of drivers will lose their jobs."]
+],
+"explanation": "صفات الملكية تأتي قبل الاسم للدلالة على الملكية. تختلف عن ضمائر الملكية (mine, yours, his...) التي تأتي بدلاً عن الاسم.",
+"examples": "He had a problem with his shoulder. / Thousands of drivers will lose their jobs."
+},
+{
+"title": "Conditionals Type 2 (الجمل الشرطية من النوع الثاني)",
+"headers": ["الصيغة", "الاستخدام", "مثال من الدرس"],
+"rows": [
+["If + Past Simple, would + V1", "شيء غير حقيقي أو افتراضي في الحاضر", "If the operation was successful, he would be completely cured."]
+],
+"explanation": "الجمل الشرطية من النوع الثاني تستخدم للتعبير عن مواقف غير حقيقية أو افتراضية في الحاضر. الشرط في Past Simple والنتيجة في would + V1.",
+"examples": "If the operation was successful, he would be completely cured."
+},
+{
+"title": "Adverbs (الظروف) - تحويل Adjective إلى Adverb",
+"headers": ["الصفة (Adjective)", "التحويل", "الظرف (Adverb)", "مثال من الدرس"],
+"rows": [
+["quick (سريع)", "quick + ly", "quickly (بسرعة)", "He should make his mind quickly."],
+["extreme (شديد)", "extreme + ly", "extremely (للغاية)", "Earthquakes are extremely difficult to predict."],
+["immediate (فوري)", "immediate + ly", "immediately (فوراً)", "The chef asked Sam to leave immediately."],
+["complete (كامل)", "complete + ly", "completely (تماماً)", "If the operation was successful, he would be completely cured."],
+["permanent (دائم)", "permanent + ly", "permanently (بشكل دائم)", "After the operation, he wasn't able to play permanently."],
+["sorrowful (حزين)", "sorrowful + ly", "sorrowfully (بحزن)", "Sam said sorrowfully."]
+],
+"explanation": "الظروف (Adverbs) تصف الأفعال وتأتي غالباً بعد الفعل. معظم الظروف تنتهي بـ -ly وتشتق من الصفات (Adjectives) بإضافة ly.",
+"examples": "He should make his mind quickly. / The chef asked Sam to leave immediately. / Earthquakes are extremely difficult to predict. / Sam said sorrowfully."
+}
+]
+}

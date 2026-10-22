@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"title": "Match the Sentence Parts - Learn a Skill and Work with a Will",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "when you don't have enough information about your decision." },
+{ "letter": "b", "text": "we must try to see where potholes are." },
+{ "letter": "c", "text": "in your making a final decision." },
+{ "letter": "d", "text": "needs knowledge and skills." },
+{ "letter": "e", "text": "to go to the party." },
+{ "letter": "f", "text": "chances of success or failure." }
+],
+"sentences": [
+{
+"start": "According to David Star Jordan, making good decisions",
+"correct": "d",
+"full_sentence": "According to David Star Jordan, making good decisions needs knowledge and skills",
+"translation": "وفقاً لديفيد ستار جوردان، اتخاذ القرارات الجيدة يحتاج إلى معرفة ومهارات",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 36"
+},
+{
+"start": "What prevents decision making is",
+"correct": "a",
+"full_sentence": "What prevents decision making is when you don't have enough information about your decision",
+"translation": "ما يعيق اتخاذ القرار هو عندما لا يكون لديك معلومات كافية عن قرارك",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 36"
+},
+{
+"start": "After taking a step,",
+"correct": "b",
+"full_sentence": "After taking a step, we must try to see where potholes are",
+"translation": "بعد اتخاذ خطوة، يجب أن نحاول أن نرى أين توجد المزالق",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 36"
+},
+{
+"start": "Organization is vital",
+"correct": "c",
+"full_sentence": "Organization is vital in your making a final decision",
+"translation": "التنظيم أمر حيوي في اتخاذ قرارك النهائي",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 36"
+},
+{
+"start": "My parents wouldn't allow me",
+"correct": "e",
+"full_sentence": "My parents wouldn't allow me to go to the party",
+"translation": "والداي لم يسمحا لي بالذهاب إلى الحفلة",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 37"
+}
+]
+},
+{
+"title": "Match the Sentence Parts - Late to Go Back",
+"source": "activity_book",
+"options": [
+{ "letter": "a", "text": "you'll only regret it." },
+{ "letter": "b", "text": "decision about our career." },
+{ "letter": "c", "text": "options available to us." },
+{ "letter": "d", "text": "what we all might do in life." },
+{ "letter": "e", "text": "if you want to get all the options." },
+{ "letter": "f", "text": "to be successful." }
+],
+"sentences": [
+{
+"start": "This world is full of",
+"correct": "c",
+"full_sentence": "This world is full of options available to us",
+"translation": "هذا العالم مليء بالخيارات المتاحة لنا",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 30"
+},
+{
+"start": "If you don't make the right decision now,",
+"correct": "a",
+"full_sentence": "If you don't make the right decision now, you'll only regret it",
+"translation": "إذا لم تتخذ القرار الصحيح الآن، فسوف تندم عليه فقط",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 30"
+},
+{
+"start": "You may end with nothing",
+"correct": "b",
+"full_sentence": "You may end with nothing decision about our career",
+"translation": "قد ينتهي بك الأمر بلا شيء في قرار متعلق بمهنتك",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 30"
+},
+{
+"start": "Make up your mind",
+"correct": "e",
+"full_sentence": "Make up your mind if you want to get all the options",
+"translation": "قرر إذا كنت تريد الحصول على جميع الخيارات",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 30"
+},
+{
+"start": "Sam did",
+"correct": "d",
+"full_sentence": "Sam did what we all might do in life",
+"translation": "ما فعله سام هو ما قد نفعله جميعاً في الحياة",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 30"
+}
+]
+}
+]
+}

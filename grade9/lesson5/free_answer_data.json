@@ -1,0 +1,52 @@
+{
+"questions": [
+{
+"question": "Is it easy for you to make a decision? Why?",
+"translation": "هل من السهل عليك اتخاذ القرار؟ لماذا؟",
+"keywords": ["easy", "difficult", "hard", "choose", "sometimes", "think", "worry"],
+"suggested_answers": [
+"Yes, it is easy for me because I think quickly and I am not afraid to choose.",
+"No, it is difficult for me because I worry about making the wrong choice.",
+"Sometimes it is easy and sometimes it is hard, depending on the decision."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 36"
+},
+{
+"question": "What steps do you usually follow when making important decisions?",
+"translation": "ما الخطوات التي تتبعها عادةً عند اتخاذ قرارات مهمة؟",
+"keywords": ["think", "advice", "plan", "choose", "compare", "options", "ask", "carefully"],
+"suggested_answers": [
+"First, I think carefully and compare the options, then I ask for advice.",
+"I usually ask my parents for advice, then I plan and choose the best option.",
+"I think about the problem, ask people I trust, and then make my decision."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 36"
+},
+{
+"question": "Whom do you ask before you make important decisions?",
+"translation": "من تسأل قبل اتخاذ قرارات مهمة؟",
+"keywords": ["mother", "father", "parents", "family", "friends", "teacher", "advice"],
+"suggested_answers": [
+"I usually ask my parents before making important decisions.",
+"I ask my mother and father because they give me good advice.",
+"I ask my family and sometimes my teacher or my best friend."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 36"
+},
+{
+"question": "Have you ever changed your decision? Why?",
+"translation": "هل غيّرت قرارك يوماً ما؟ لماذا؟",
+"keywords": ["changed", "mind", "reason", "because", "better", "option", "advice", "think"],
+"suggested_answers": [
+"Yes, I changed my decision because I found a better option.",
+"I changed my mind after asking for advice from my parents.",
+"Yes, I changed my decision because I thought about it again and understood it was wrong."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 36"
+}
+]
+}

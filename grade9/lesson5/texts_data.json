@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G9_U5_T1_P1",
+"text_group": "G9_U5_Learn_A_Skill",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Learn a Skill and Work with a Will - Part 1",
+"content_exam": "We make thousands of decisions a day. Making a choice is easy. Choosing well takes knowledge and skill. You have many decision-making examples in daily life such as deciding what to wear, what to eat for lunch, what task to do next, choosing which book to read, etc. Decision making is an ongoing process in every aspect of life, large or small. The ability to make a decision and stick to it is the cornerstone of good leadership skills. Having critical thinking skills allows one to ascertain the problem and come up with a suitable and beneficial solution. Before taking a step, we must try to see where possible potholes are. This won't just make us stronger moving forward. It will also give us more determination and awareness about what we are deciding.\n\nThe decision-making tools help you to map out all the possible alternatives to your decision, its chances of success or failure. So to make a decision, you must first identify the problem you need to solve or the question you need to answer.\n\nWhat also prevents effective decision-making is when you do not have enough information about your decision. In this case you are making a decision without any basis.\n\nTeamwork helps you to make the right decision. You must collaborate with your family members and classmates, at some point, to make your right decision. Time management is very important; since decisions need to be made quickly sometimes, you have to outline the amount of time you have to make your decision. Also, organization is vital in your making a final decision. You should use this skill to find out what results you're looking for and if it's a top priority.",
+"questions": [
+{
+"id": "L5_TXT_C01",
+"type": "choice",
+"question": "We make ______ of decisions a day.",
+"options": ["hundreds", "thousands", "millions", "dozens"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: thousands\n📝 الترجمة: نتخذ آلاف القرارات يومياً.\n💡 الشرح: النص يقول: 'We make thousands of decisions a day'."
+},
+{
+"id": "L5_TXT_C02",
+"type": "choice",
+"question": "Making a choice is ______, but choosing well takes knowledge and skill.",
+"options": ["difficult", "hard", "easy", "impossible"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: easy\n📝 الترجمة: اتخاذ خيار أمر سهل، لكن الاختيار الجيد يحتاج إلى معرفة ومهارة.\n💡 الشرح: النص يقول: 'Making a choice is easy'."
+},
+{
+"id": "L5_TXT_C03",
+"type": "choice",
+"question": "The ability to make a decision and stick to it is the ______ of good leadership skills.",
+"options": ["end", "result", "cornerstone", "problem"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: cornerstone\n📝 الترجمة: القدرة على اتخاذ قرار والالتزام به هي حجر الزاوية لمهارات القيادة الجيدة.\n💡 الشرح: النص يقول: 'is the cornerstone of good leadership skills'."
+},
+{
+"id": "L5_TXT_C04",
+"type": "choice",
+"question": "To make a decision, you must first ______ the problem.",
+"options": ["ignore", "forget", "create", "identify"],
+"correct": 3,
+"explanation": "✅ الإجابة الصحيحة: identify\n📝 الترجمة: لاتخاذ قرار، يجب أولاً تحديد المشكلة.\n💡 الشرح: النص يقول: 'you must first identify the problem you need to solve'."
+},
+{
+"id": "L5_TXT_C05",
+"type": "choice",
+"question": "What prevents effective decision-making is when you do not have enough ______.",
+"options": ["time", "money", "information", "friends"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: information\n📝 الترجمة: ما يمنع اتخاذ القرار الفعال هو عدم وجود معلومات كافية.\n💡 الشرح: النص يقول: 'when you do not have enough information about your decision'."
+}
+]
+},
+{
+"id": "G9_U5_T1_P2",
+"text_group": "G9_U5_Learn_A_Skill",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Learn a Skill and Work with a Will - Part 2",
+"content_exam": "Teamwork helps you to make the right decision. You must collaborate with your family members and classmates. Time management is very important because decisions sometimes need to be made quickly. You have to outline the amount of time you have to make your decision. Organization is also vital in making a final decision. You should use this skill to find out what results you're looking for and if it's a top priority. Decision-making tools help you map out all possible alternatives and their chances of success or failure.",
+"questions": [
+{
+"id": "L5_TXT_TF01",
+"type": "truefalse",
+"question": "Teamwork helps you to make the right decision.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: العمل الجماعي يساعدك على اتخاذ القرار الصحيح.\n💡 الشرح: النص يقول: 'Teamwork helps you to make the right decision'."
+},
+{
+"id": "L5_TXT_TF02",
+"type": "truefalse",
+"question": "Time management is not important when making decisions.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: إدارة الوقت ليست مهمة عند اتخاذ القرارات.\n💡 الشرح: النص يقول إن إدارة الوقت مهمة جداً."
+},
+{
+"id": "L5_TXT_TF03",
+"type": "truefalse",
+"question": "Organization is vital in making a final decision.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: التنظيم حيوي في اتخاذ القرار النهائي.\n💡 الشرح: النص يقول: 'Organization is vital in your making a final decision'."
+},
+{
+"id": "L5_TXT_A01",
+"type": "answer",
+"question": "Who should you collaborate with to make the right decision?",
+"keywords": ["family members", "classmates", "family", "friends", "family and classmates"],
+"explanation": "✅ الإجابة الصحيحة: your family members and classmates\n📝 الترجمة: مع من يجب أن تتعاون لاتخاذ القرار الصحيح؟\n💡 الشرح: النص يقول: 'You must collaborate with your family members and classmates'."
+},
+{
+"id": "L5_TXT_A02",
+"type": "answer",
+"question": "What do decision-making tools help you do?",
+"keywords": ["map out alternatives", "alternatives", "chances of success", "map out"],
+"explanation": "✅ الإجابة الصحيحة: map out all the possible alternatives\n📝 الترجمة: ماذا تساعدك أدوات اتخاذ القرار على فعله؟\n💡 الشرح: النص يقول إنها تساعدك على رسم جميع البدائل الممكنة."
+}
+]
+},
+{
+"id": "G9_U5_T2_P1",
+"text_group": "G9_U5_Late_To_Go_Back",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Late to Go Back - Part 1",
+"content_exam": "Sam walked into a cake shop, after he'd finished his work, to buy his daughter a birthday cake. It was about four o'clock and the store usually closes at five. So he should make his mind quickly and decide what he should buy. Sam asked himself 'Which one should I choose?' He began wandering in the shop watching the various kinds of cakes which were kept in the refrigerators around. The cakes looked very delicious and tasty so it was difficult for Sam to choose. Time was passing but in vain. Sam couldn't decide yet, when he heard the chef saying 'Come on. Hurry up, please, we are about to close the store.'\n\n'No, wait please, I should choose the most suitable and delicious cake.' Sam said sorrowfully. Sam's eyes kept moving from one refrigerator to another, but all of the options looked so good and he couldn't make a decision yet.\n\n'Try to be quick Man, make up your mind, we have to close,' the impatient chef said.\n\nSuddenly, the chef had enough and asked Sam to leave immediately. Sam walked out of the shop empty-handed feeling depressed and frustrated. He wanted them all, but ended up with nothing because he couldn't choose any.\n\nThink of what happened to Sam. It's just that we're all Sam and the world is that cake shop. We have extremely large numbers of options available to us, but if we don't make a decision about our career, education, relationships, investments, or other important issues, we end up empty-handed.\n\nSometimes we worry about making the wrong decision. What if we regret the direction that we take and it's too late to go back? The real danger is that we make no decision at all and end up going nowhere and doing nothing.",
+"questions": [
+{
+"id": "L5_TXT_C06",
+"type": "choice",
+"question": "Sam walked into a cake shop to buy ______ .",
+"options": ["bread for breakfast", "a birthday cake for his daughter", "cookies for his son", "a gift for his wife"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: a birthday cake for his daughter\n📝 الترجمة: دخل سام متجر كعك ليشتري كعكة عيد ميلاد لابنته.\n💡 الشرح: النص يقول: 'to buy his daughter a birthday cake'."
+},
+{
+"id": "L5_TXT_C07",
+"type": "choice",
+"question": "The store usually closes at ______ .",
+"options": ["four o'clock", "five o'clock", "six o'clock", "seven o'clock"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: five o'clock\n📝 الترجمة: عادةً ما يُغلق المتجر في الساعة الخامسة.\n💡 الشرح: النص يقول: 'the store usually closes at five'."
+},
+{
+"id": "L5_TXT_C08",
+"type": "choice",
+"question": "The cakes looked very ______ .",
+"options": ["ugly and old", "delicious and tasty", "small and dry", "expensive and hard"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: delicious and tasty\n📝 الترجمة: بدت الكعكات لذيذة وشهية جداً.\n💡 الشرح: النص يقول: 'The cakes looked very delicious and tasty'."
+},
+{
+"id": "L5_TXT_C09",
+"type": "choice",
+"question": "The chef asked Sam to ______ .",
+"options": ["stay longer", "buy more cakes", "leave immediately", "come back tomorrow"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: leave immediately\n📝 الترجمة: طلب الشيف من سام المغادرة فوراً.\n💡 الشرح: النص يقول: 'the chef had enough and asked Sam to leave immediately'."
+},
+{
+"id": "L5_TXT_C10",
+"type": "choice",
+"question": "Sam walked out of the shop ______ .",
+"options": ["happy with a cake", "empty-handed feeling depressed", "with many cakes", "laughing with friends"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: empty-handed feeling depressed\n📝 الترجمة: خرج سام من المتجر خالي اليدين يشعر بالاكتئاب.\n💡 الشرح: النص يقول: 'Sam walked out of the shop empty-handed feeling depressed and frustrated'."
+}
+]
+},
+{
+"id": "G9_U5_T2_P2",
+"text_group": "G9_U5_Late_To_Go_Back",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Late to Go Back - Part 2",
+"content_exam": "The chef had enough and asked Sam to leave immediately. Sam walked out of the shop empty-handed feeling depressed and frustrated. He wanted them all, but ended up with nothing because he couldn't choose any. Think of what happened to Sam. We have extremely large numbers of options available to us. If we don't make a decision about our career, education, relationships, or other important issues, we end up empty-handed. The real danger is that we make no decision at all and end up going nowhere and doing nothing.",
+"questions": [
+{
+"id": "L5_TXT_TF04",
+"type": "truefalse",
+"question": "Sam walked out of the shop with a big cake.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: خرج سام من المتجر بكعكة كبيرة.\n💡 الشرح: خرج خالي اليدين لأنه لم يستطع الاختيار."
+},
+{
+"id": "L5_TXT_TF05",
+"type": "truefalse",
+"question": "We have extremely large numbers of options available to us.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: لدينا أعداد هائلة من الخيارات المتاحة لنا.\n💡 الشرح: النص يقول: 'We have extremely large numbers of options available to us'."
+},
+{
+"id": "L5_TXT_TF06",
+"type": "truefalse",
+"question": "The real danger is making the wrong decision.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: الخطر الحقيقي هو اتخاذ القرار الخاطئ.\n💡 الشرح: النص يقول إن الخطر الحقيقي هو عدم اتخاذ أي قرار إطلاقاً."
+},
+{
+"id": "L5_TXT_A03",
+"type": "answer",
+"question": "Why did Sam end up with nothing?",
+"keywords": ["couldn't choose", "didn't decide", "couldn't decide", "no decision"],
+"explanation": "✅ الإجابة الصحيحة: because he couldn't choose any\n📝 الترجمة: لماذا انتهى سام بلا شيء؟\n💡 الشرح: النص يقول: 'He wanted them all, but ended up with nothing because he couldn't choose any'."
+},
+{
+"id": "L5_TXT_A04",
+"type": "answer",
+"question": "What is the real danger according to the text?",
+"keywords": ["no decision", "make no decision", "end up going nowhere", "doing nothing"],
+"explanation": "✅ الإجابة الصحيحة: making no decision at all\n📝 الترجمة: ما هو الخطر الحقيقي وفقاً للنص؟\n💡 الشرح: النص يقول: 'The real danger is that we make no decision at all and end up going nowhere and doing nothing'."
+}
+]
+}
+]
+}
