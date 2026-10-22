@@ -1,0 +1,54 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics)",
+"description": "يتم استخراج مواضيع الكتابة من نهاية كل درس في كتاب الطالب وكتاب النشاط.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Writing",
+"Activity Book - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من كتاب الطالب",
+"موضوع واحد من كتاب النشاط",
+"تنويع الأسئلة المساعدة لكل موضوع"
+],
+"applied_to_unit_1": {
+"grade": 7,
+"unit": 1,
+"title": "School Life",
+"total_topics": 2,
+"sources": {
+"topic_1": "Student Book - Writing",
+"topic_2": "Activity Book - Writing"
+}
+}
+},
+"topics": [
+{
+"id": "SB_G7_U1_W1",
+"title": "Write an email to a friend about a problem in your school",
+"source": "Student Book",
+"exact_reference": "Writing Exercise",
+"guiding_questions": [
+"What is the problem in your school?",
+"Why is it a problem?",
+"How can we solve this problem?",
+"What is your opinion about this solution?"
+],
+"sample_essay": "Dear Ahmed, I want to tell you about a problem in our school. The main issue is that students throw litter everywhere in the playground. This makes the school look dirty and it is not healthy for us. I think we should put more rubbish bins around the playground. Also, we can teach students to keep the school clean. In my opinion, if everyone helps, our school will be a better place. What do you think? Your friend, Ali"
+},
+{
+"id": "AB_G7_U1_W1",
+"title": "Write an email to a classmate about a problem in your class",
+"source": "Activity Book",
+"exact_reference": "Writing Exercise",
+"guiding_questions": [
+"What problem do you have in your class?",
+"What are the reasons for this problem?",
+"What can you do to solve it?",
+"Why do you think this solution will work?"
+],
+"sample_essay": "Dear Saeed, I want to talk about a problem in our class. Some students talk a lot during the lesson, so the teacher cannot explain well. I think this happens because some students do not pay attention. We can solve this by sitting in a quiet place and listening to the teacher carefully. I believe this solution will help us understand the lesson better. What do you think? Your friend, Khalid"
+}
+]
+}

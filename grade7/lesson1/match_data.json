@@ -1,0 +1,152 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة المطابقة (Match)",
+"description": "يتم استخراج أسئلة المطابقة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل التي يمكن تقسيمها إلى بداية ونهاية.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Grammar Exercises",
+"Student Book - After Reading",
+"Activity Book - Reading Text",
+"Activity Book - Vocabulary Exercises",
+"Activity Book - Grammar Exercises"
+],
+"structure": {
+"per_group": "5 بدايات + 5 نهايات (بدون خيار زائد)"
+},
+"selection_criteria": [
+"تنويع المصادر داخل كل مجموعة",
+"تجنب الجمل المتشابهة",
+"توزيع بين النص والتمارين",
+"كل جملة موثقة بالمصدر الدقيق"
+],
+"applied_to_unit_1": {
+"grade": 7,
+"unit": 1,
+"title": "School Life",
+"total_groups": 2,
+"groups": {
+"group_1": {
+"source": "Student Book",
+"sources_used": ["Reading Text (3)", "After Reading C (1)", "Grammar C (1)"]
+},
+"group_2": {
+"source": "Activity Book",
+"sources_used": ["Reading Text (2)", "Vocabulary Exercise (2)", "Grammar A (1)"]
+}
+}
+}
+},
+"groups": [
+{
+"id": "SB_G7_U1_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G7_U1_A_Window_on_the_World",
+"options": [
+{ "letter": "a", "text": "by getting out of their seats" },
+{ "letter": "b", "text": "build a good strong and effective character" },
+{ "letter": "c", "text": "of five members" },
+{ "letter": "d", "text": "to wear make-up" },
+{ "letter": "e", "text": "obligatory subject" }
+],
+"sentences": [
+{
+"start": "In Japan, students greet their teachers",
+"correct": "a",
+"full_sentence": "In Japan, students greet their teachers by getting out of their seats",
+"translation": "في اليابان، يُحيي الطلاب معلميهم بالخروج من مقاعدهم",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "The Japanese work hard to",
+"correct": "b",
+"full_sentence": "The Japanese work hard to build a good strong and effective character",
+"translation": "يعمل اليابانيون بجد لبناء شخصية قوية وفعالة",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "My family consists",
+"correct": "c",
+"full_sentence": "My family consists of five members",
+"translation": "تتكون عائلتي من خمسة أفراد",
+"source": "Student Book",
+"exact_reference": "After Reading C - Q1"
+},
+{
+"start": "Students are not allowed",
+"correct": "d",
+"full_sentence": "Students are not allowed to wear make-up",
+"translation": "الطلاب غير مسموح لهم بوضع المكياج",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "English is an",
+"correct": "e",
+"full_sentence": "English is an obligatory subject",
+"translation": "اللغة الإنجليزية مادة إجبارية",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+}
+]
+},
+{
+"id": "AB_G7_U1_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G7_U1_Imagine_If",
+"options": [
+{ "letter": "a", "text": "people's minds" },
+{ "letter": "b", "text": "of what was happening" },
+{ "letter": "c", "text": "his new toy" },
+{ "letter": "d", "text": "the lack of transportation" },
+{ "letter": "e", "text": "means of transportation" }
+],
+"sentences": [
+{
+"start": "Science and technology develop",
+"correct": "a",
+"full_sentence": "Science and technology develop people's minds",
+"translation": "العلوم والتكنولوجيا تطور عقول الناس",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "They were completely ignorant",
+"correct": "b",
+"full_sentence": "They were completely ignorant of what was happening",
+"translation": "كانوا جاهلين تماماً بما كان يحدث",
+"source": "Activity Book",
+"exact_reference": "Vocabulary Exercise - Q3"
+},
+{
+"start": "The boy is excited about",
+"correct": "c",
+"full_sentence": "The boy is excited about his new toy",
+"translation": "الولد متحمس للعبته الجديدة",
+"source": "Activity Book",
+"exact_reference": "Grammar A - Q3"
+},
+{
+"start": "They had to go on foot because of",
+"correct": "d",
+"full_sentence": "They had to go on foot because of the lack of transportation",
+"translation": "كان عليهم الذهاب سيراً على الأقدام بسبب نقص وسائل النقل",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Line 6"
+},
+{
+"start": "His bike is his only",
+"correct": "e",
+"full_sentence": "His bike is his only means of transportation",
+"translation": "دراجته هي وسيلة النقل الوحيدة لديه",
+"source": "Activity Book",
+"exact_reference": "Vocabulary Exercise - Q4"
+}
+]
+}
+]
+}
