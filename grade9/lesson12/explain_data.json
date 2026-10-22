@@ -1,0 +1,248 @@
+{
+"vocabulary": [
+{ "word": "body language", "translation": "لغة الجسد" },
+{ "word": "nonverbal", "translation": "غير لفظي" },
+{ "word": "signal", "translation": "إشارة" },
+{ "word": "signals", "translation": "إشارات" },
+{ "word": "communicate", "translation": "يتواصل" },
+{ "word": "communication", "translation": "تواصل / اتصال" },
+{ "word": "convey", "translation": "ينقل" },
+{ "word": "indicate", "translation": "يشير إلى" },
+{ "word": "determine", "translation": "يحدد" },
+{ "word": "express", "translation": "يعبر عن" },
+{ "word": "expression", "translation": "تعبير" },
+{ "word": "expressions", "translation": "تعابير" },
+{ "word": "facial expressions", "translation": "تعابير الوجه" },
+{ "word": "approval", "translation": "موافقة" },
+{ "word": "happiness", "translation": "سعادة" },
+{ "word": "sadness", "translation": "حزن" },
+{ "word": "anger", "translation": "غضب" },
+{ "word": "surprise", "translation": "دهشة" },
+{ "word": "disgust", "translation": "اشمئزاز" },
+{ "word": "fear", "translation": "خوف" },
+{ "word": "emotions", "translation": "عواطف / مشاعر" },
+{ "word": "feelings", "translation": "مشاعر" },
+{ "word": "frown", "translation": "عبوس" },
+{ "word": "smile", "translation": "يبتسم / ابتسامة" },
+{ "word": "disapproval", "translation": "رفض / استياء" },
+{ "word": "unhappiness", "translation": "تعاسة" },
+{ "word": "true feelings", "translation": "مشاعر حقيقية" },
+{ "word": "situation", "translation": "موقف / حالة" },
+{ "word": "otherwise", "translation": "خلاف ذلك" },
+{ "word": "universal", "translation": "عالمي" },
+{ "word": "forms", "translation": "أشكال" },
+{ "word": "movement", "translation": "حركة" },
+{ "word": "movements", "translation": "حركات" },
+{ "word": "crossing", "translation": "تقاطع / تشابك" },
+{ "word": "crossed", "translation": "متقاطع" },
+{ "word": "defence", "translation": "دفاع" },
+{ "word": "defend", "translation": "يدافع" },
+{ "word": "self-protective", "translation": "حماية ذاتية" },
+{ "word": "clasping", "translation": "قبض / إمساك" },
+{ "word": "anxious", "translation": "قلق" },
+{ "word": "frustrated", "translation": "محبط" },
+{ "word": "bored", "translation": "ملل" },
+{ "word": "impatient", "translation": "نفاد صبر" },
+{ "word": "privacy", "translation": "خصوصية" },
+{ "word": "evaluating", "translation": "تقييم" },
+{ "word": "pay attention", "translation": "ينتبه" },
+{ "word": "unspoken", "translation": "غير منطوق" },
+{ "word": "research", "translation": "بحث" },
+{ "word": "deaf", "translation": "أصم" },
+{ "word": "skilful", "translation": "ماهر" },
+{ "word": "visual", "translation": "بصري" },
+{ "word": "traits", "translation": "صفات / خصائص" },
+{ "word": "sign language", "translation": "لغة إشارة" },
+{ "word": "trained", "translation": "مدرب" },
+{ "word": "gesture", "translation": "إيماءة" },
+{ "word": "gestures", "translation": "إيماءات" },
+{ "word": "command", "translation": "أمر" },
+{ "word": "commands", "translation": "أوامر" },
+{ "word": "response", "translation": "رد فعل" },
+{ "word": "responses", "translation": "ردود فعل" },
+{ "word": "respond", "translation": "يستجيب" },
+{ "word": "motivations", "translation": "دوافع" },
+{ "word": "engage", "translation": "ينخرط / يشارك" },
+{ "word": "intellectual", "translation": "فكري" },
+{ "word": "wag", "translation": "يهز" },
+{ "word": "wagging", "translation": "يهز (ذيله)" },
+{ "word": "sign", "translation": "علامة / إشارة" },
+{ "word": "signs", "translation": "علامات" },
+{ "word": "creative", "translation": "إبداعي" },
+{ "word": "complex", "translation": "معقد" },
+{ "word": "unique", "translation": "فريد" },
+{ "word": "logical", "translation": "منطقي" },
+{ "word": "babies", "translation": "أطفال / رضع" },
+{ "word": "cry", "translation": "يبكي" },
+{ "word": "tone", "translation": "نبرة" },
+{ "word": "intentions", "translation": "نوايا" },
+{ "word": "hunger", "translation": "جوع" },
+{ "word": "trainer", "translation": "مدرب" },
+{ "word": "circus", "translation": "سيرك" },
+{ "word": "reaction", "translation": "ردة فعل" },
+{ "word": "willingness", "translation": "استعداد / رغبة" },
+{ "word": "possessive pronoun", "translation": "ضمير ملكية" },
+{ "word": "possessive pronouns", "translation": "ضمائر الملكية" },
+{ "word": "reflexive pronoun", "translation": "ضمير منعكس" },
+{ "word": "reflexive pronouns", "translation": "ضمائر منعكسة" },
+{ "word": "emphatic pronoun", "translation": "ضمير تأكيدي" },
+{ "word": "question tag", "translation": "ذيل السؤال" },
+{ "word": "question tags", "translation": "ذيول الأسئلة" },
+{ "word": "affirmative", "translation": "مثبت" },
+{ "word": "negative", "translation": "منفي" },
+{ "word": "language", "translation": "لغة" },
+{ "word": "humans", "translation": "بشر" },
+{ "word": "needs", "translation": "احتياجات" },
+{ "word": "scientists", "translation": "علماء" },
+{ "word": "researchers", "translation": "باحثون" },
+{ "word": "owner", "translation": "مالك" },
+{ "word": "doubt", "translation": "شك" },
+{ "word": "characteristics", "translation": "خصائص" },
+{ "word": "ability", "translation": "قدرة" }
+],
+"tables": [
+{
+"title": "Possessive Pronouns (ضمائر الملكية)",
+"headers": ["Subject Pronoun", "Possessive Pronoun", "مثال"],
+"rows": [
+["I", "mine", "This book is mine."],
+["You", "yours", "The ball is yours."],
+["He", "his", "The blue shirt is his."],
+["She", "hers", "The ring is hers."],
+["It", "its", "The nest is its."],
+["We", "ours", "The car is ours."],
+["They", "theirs", "The house is theirs."]
+],
+"explanation": "ضمائر الملكية تحل محل الاسم + صفة الملكية. تستخدم بمفردها ولا تتبع باسم.",
+"examples": "This book is mine. / The blue car is ours."
+},
+{
+"title": "Reflexive Pronouns (الضمائر المنعكسة)",
+"headers": ["Subject Pronoun", "Reflexive Pronoun", "مثال"],
+"rows": [
+["I", "myself", "I looked at myself."],
+["You", "yourself", "You hurt yourself."],
+["He", "himself", "He made it himself."],
+["She", "herself", "She looked at herself."],
+["It", "itself", "The cat cleaned itself."],
+["We", "ourselves", "We enjoyed ourselves."],
+["They", "themselves", "They did it themselves."]
+],
+"explanation": "الضمير المنعكس يستخدم عندما يقوم الفاعل بالفعل على نفسه. كما يستخدم للتأكيد.",
+"examples": "I introduced myself. / She looked at herself in the mirror."
+},
+{
+"title": "Question Tags (ذيل السؤال)",
+"headers": ["نوع الجملة", "التكوين", "مثال"],
+"rows": [
+["جملة مثبتة (Affirmative)", "فعل مساعد + not + ضمير", "Mary is here, isn't she?"],
+["جملة منفية (Negative)", "فعل مساعد + ضمير", "Mary isn't here, is she?"],
+["الأمر Let's", "shall we", "Let's go, shall we?"]
+],
+"explanation": "الجملة المثبتة تتبع بذيل منفي، والجملة المنفية تتبع بذيل مثبت.",
+"examples": "You like tea, don't you? / They haven't left, have they?"
+},
+{
+"title": "Possessive Adjectives vs Possessive Pronouns",
+"headers": ["Possessive Adjective", "Possessive Pronoun"],
+"rows": [
+["my", "mine"],
+["your", "yours"],
+["his", "his"],
+["her", "hers"],
+["its", "its"],
+["our", "ours"],
+["their", "theirs"]
+],
+"explanation": "صفة الملكية تتبعها اسم (my book)، أما ضمير الملكية فيحل محل الاسم.",
+"examples": "This is my car. / This car is mine."
+},
+{
+"title": "Question Tags مع الأفعال المساعدة",
+"headers": ["الفعل في الجملة", "الفعل المساعد في الذيل", "مثال"],
+"rows": [
+["is/are/am", "isn't/aren't/am not", "She is happy, isn't she?"],
+["was/were", "wasn't/weren't", "They were late, weren't they?"],
+["do/does", "don't/doesn't", "You like fish, don't you?"],
+["did", "didn't", "He ate lunch, didn't he?"],
+["have/has", "haven't/hasn't", "They have left, haven't they?"],
+["can/could", "can't/couldn't", "You can swim, can't you?"]
+],
+"explanation": "نستخدم نفس الفعل المساعد في الذيل، وإذا لم يوجد نستخدم do/does/did.",
+"examples": "You like tea, don't you? / She can sing, can't she?"
+},
+{
+"title": "Question Tags مع الجمل المنفية",
+"headers": ["الجملة المنفية", "الذيل المثبت"],
+"rows": [
+["Mary isn't here", "is she?"],
+["You don't like tea", "do you?"],
+["They haven't left", "have they?"],
+["He didn't eat lunch", "did he?"]
+],
+"explanation": "الجملة المنفية تتبع بذيل مثبت، والإجابة المتوقعة 'No'.",
+"examples": "Mary isn't here, is she? / No, she isn't."
+},
+{
+"title": "Question Tags مع Let's",
+"headers": ["الجملة", "الذيل"],
+"rows": [
+["Let's go to the party", "shall we?"],
+["Let's have a break", "shall we?"],
+["Let's start now", "shall we?"]
+],
+"explanation": "مع Let's نستخدم الذيل 'shall we' بغض النظر عن الجملة.",
+"examples": "Let's go, shall we? / Let's have a break, shall we?"
+},
+{
+"title": "Possessive Adjectives (صفات الملكية)",
+"headers": ["Subject Pronoun", "Possessive Adjective", "مثال"],
+"rows": [
+["I", "my", "my book"],
+["You", "your", "your bag"],
+["He", "his", "his car"],
+["She", "her", "her phone"],
+["It", "its", "its tail"],
+["We", "our", "our house"],
+["They", "their", "their school"]
+],
+"explanation": "صفات الملكية تأتي قبل الاسم مباشرة لتدل على الملكية.",
+"examples": "This is my book. / I like your bag."
+},
+{
+"title": "Passive Voice with can (المبني للمجهول مع can)",
+"headers": ["المعلوم (Active)", "المجهول (Passive)"],
+"rows": [
+["Subject + can + Verb + Object", "Object + can + be + V3 + by + Subject"],
+["Dogs can understand commands.", "Commands can be understood by dogs."],
+["Trainers can train animals.", "Animals can be trained by trainers."]
+],
+"explanation": "في المبني للمجهول مع can، نستخدم can + be + التصريف الثالث.",
+"examples": "Commands can be understood by dogs. / Animals can be trained by trainers."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["Preposition", "الاستخدام", "مثال"],
+"rows": [
+["of", "لـ (تتكون من)", "Language consists of words."],
+["by", "بواسطة (وسيلة)", "Guests can go by buses."]
+],
+"explanation": "حروف الجر تأتي قبل الاسم أو الضمير ولها استخدامات متعددة.",
+"examples": "The book consists of 10 chapters. / We travelled by bus."
+},
+{
+"title": "Word Derivation (اشتقاق الكلمات)",
+"headers": ["الفعل (Verb)", "الاسم (Noun)"],
+"rows": [
+["communicate", "communication"],
+["express", "expression"],
+["move", "movement"],
+["suggest", "suggestion"],
+["determine", "determination"],
+["defend", "defence"]
+],
+"explanation": "يمكن تحويل الأفعال إلى أسماء بإضافة لاحقات مثل -tion, -sion, -ment, -ce.",
+"examples": "communicate → communication / defend → defence"
+}
+]
+}

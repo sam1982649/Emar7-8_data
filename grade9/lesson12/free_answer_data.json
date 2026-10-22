@@ -1,0 +1,52 @@
+{
+"questions": [
+{
+"question": "How do you know someone is angry?",
+"translation": "كيف تعرف أن شخصاً ما غاضب؟",
+"keywords": ["angry", "face", "expression", "body", "language", "crossed", "arms", "frown"],
+"suggested_answers": [
+"I can tell someone is angry from their face and body language.",
+"When someone is angry, they may frown and cross their arms.",
+"I know someone is angry if their face shows a bad expression and their voice changes."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 92"
+},
+{
+"question": "Why do birds sing?",
+"translation": "لماذا تغني الطيور؟",
+"keywords": ["birds", "sing", "communicate", "attract", "mate", "warn", "territory", "sounds"],
+"suggested_answers": [
+"Birds sing to communicate with other birds and attract a mate.",
+"They sing to warn other birds and protect their territory.",
+"Birds sing to send different sounds and messages to each other."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 92"
+},
+{
+"question": "What do babies do to communicate?",
+"translation": "ماذا يفعل الأطفال الرضّع للتواصل؟",
+"keywords": ["babies", "communicate", "cry", "gesture", "point", "smile", "sound", "expression"],
+"suggested_answers": [
+"Babies cry and smile to communicate with their parents.",
+"They use sounds, gestures, and facial expressions to show what they need.",
+"Babies communicate by crying, pointing, and making sounds."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 92"
+},
+{
+"question": "How do deaf people communicate with others?",
+"translation": "كيف يتواصل الصم مع الآخرين؟",
+"keywords": ["deaf", "communicate", "sign language", "gestures", "facial expressions", "body language", "visual"],
+"suggested_answers": [
+"Deaf people use sign language to communicate with others.",
+"They communicate through gestures, facial expressions, and body language.",
+"Deaf people use sign language and visual ways to talk with others."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 80"
+}
+]
+}

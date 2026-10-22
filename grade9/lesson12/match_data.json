@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"title": "Match the Sentence Parts - Let's Communicate in a Different Way!",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "a huge part of our daily communication" },
+{ "letter": "b", "text": "convey volumes of information" },
+{ "letter": "c", "text": "is feeling in need of privacy" },
+{ "letter": "d", "text": "approval or happiness" },
+{ "letter": "e", "text": "to stay connected with friends and family" },
+{ "letter": "f", "text": "signal disapproval or unhappiness" }
+],
+"sentences": [
+{
+"start": "Nonverbal signals make up",
+"correct": "a",
+"full_sentence": "Nonverbal signals make up a huge part of our daily communication",
+"translation": "تشكل الإشارات غير اللفظية جزءاً كبيراً من تواصلنا اليومي",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 90"
+},
+{
+"start": "Our facial expressions and body movements can",
+"correct": "b",
+"full_sentence": "Our facial expressions and body movements can convey volumes of information",
+"translation": "يمكن لتعبيرات وجهنا وحركات أجسامنا أن تنقل كميات هائلة من المعلومات",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 90"
+},
+{
+"start": "Crossed legs can indicate that a person",
+"correct": "c",
+"full_sentence": "Crossed legs can indicate that a person is feeling in need of privacy",
+"translation": "تشير الأرجل المتقاطعة إلى أن الشخص يشعر بالحاجة إلى الخصوصية",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 90"
+},
+{
+"start": "A smile may indicate",
+"correct": "d",
+"full_sentence": "A smile may indicate approval or happiness",
+"translation": "قد تشير الابتسامة إلى الموافقة أو السعادة",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 90"
+},
+{
+"start": "When I started travelling, one of my favourite things to do was",
+"correct": "e",
+"full_sentence": "When I started travelling, one of my favourite things to do was to stay connected with friends and family",
+"translation": "عندما بدأت السفر، كان أحد الأشياء المفضلة لدي هو البقاء على تواصل مع الأصدقاء والعائلة",
+"source": "Student Book",
+"exact_reference": "Writing - Page 92"
+}
+]
+},
+{
+"title": "Match the Sentence Parts - Do Animals Have a Language?",
+"source": "activity_book",
+"options": [
+{ "letter": "a", "text": "a bird singing a song or a dog wagging its tail when excited" },
+{ "letter": "b", "text": "\"sit\", \"come\" and \"roll over\"" },
+{ "letter": "c", "text": "unique characteristics" },
+{ "letter": "d", "text": "they can still communicate" },
+{ "letter": "e", "text": "he gave a smart answer to a very difficult quiz" },
+{ "letter": "f", "text": "to respond to actual words but the tone in which it is said" }
+],
+"sentences": [
+{
+"start": "Animals show signs of communication such as",
+"correct": "a",
+"full_sentence": "Animals show signs of communication such as a bird singing a song or a dog wagging its tail when excited",
+"translation": "تظهر الحيوانات علامات تواصل مثل طائر يغني أو كلب يهز ذيله عندما يكون متحمساً",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 78"
+},
+{
+"start": "Dogs can be trained to follow certain commands such as",
+"correct": "b",
+"full_sentence": "Dogs can be trained to follow certain commands such as \"sit\", \"come\" and \"roll over\"",
+"translation": "يمكن تدريب الكلاب على اتباع أوامر معينة مثل \"اجلس\"، \"تعال\" و \"تمرغ\"",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 78"
+},
+{
+"start": "Human language is creative and consists of",
+"correct": "c",
+"full_sentence": "Human language is creative and consists of unique characteristics",
+"translation": "اللغة البشرية إبداعية وتتكون من خصائص فريدة",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 78"
+},
+{
+"start": "Although animals do not have a true language like humans,",
+"correct": "d",
+"full_sentence": "Although animals do not have a true language like humans, they can still communicate",
+"translation": "على الرغم من أن الحيوانات لا تملك لغة حقيقية مثل البشر، إلا أنها لا تزال تستطيع التواصل",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 78"
+},
+{
+"start": "The student was very intellectual;",
+"correct": "e",
+"full_sentence": "The student was very intellectual; he gave a smart answer to a very difficult quiz",
+"translation": "كان الطالب مثقفاً جداً؛ فقد أعطى إجابة ذكية لاختبار صعب جداً",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 79"
+}
+]
+}
+]
+}
