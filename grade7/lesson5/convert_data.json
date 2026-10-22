@@ -1,0 +1,134 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة التحويل (Convert)",
+"description": "يتم استخراج أسئلة التحويل من جميع مصادر الدرس (النص، التمارين) بناءً على القواعد النحوية الموجودة في كل مصدر.",
+"applicable_to": "جميع الدروس (Unit 5)",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Vocabulary Exercises",
+"Student Book - Grammar Exercises",
+"Activity Book - Reading Text",
+"Activity Book - Grammar Exercises"
+],
+"grammar_focus": ["Present Perfect", "Superlative", "Conjunctions", "Prepositions", "Subject-Verb Agreement", "Relative Pronouns", "Gerund/Infinitive", "Word Form"],
+"wh_words": ["What", "How", "When", "Where", "Who", "How many", "How much", "Since when"],
+"auxiliary_verbs": ["has", "have", "are", "is", "do", "does"],
+"special_cases": ["Quantity", "Object", "Subject", "Activity", "Time"],
+"selection_criteria": [
+"الجملة تحتوي على كلمة أو عبارة يمكن السؤال عنها",
+"الجملة مناسبة للتحويل إلى سؤال",
+"تنويع المصادر (Student Book + Activity Book)",
+"تنويع كلمات الاستفهام",
+"تنويع الأفعال المساعدة"
+],
+"applied_to_unit_5": {
+"grade": 7,
+"unit": 5,
+"title": "Social Media",
+"total_questions": 5,
+"grammar_focus": "Present Perfect + Subject-Verb Agreement",
+"wh_words_used": ["How many", "What", "Who", "Since when"],
+"auxiliary_verbs_used": ["are", "has", "have"],
+"special_cases_covered": ["Quantity", "Object", "Subject", "Activity", "Time"],
+"sources_distribution": {
+"Student Book - Reading Text": 1,
+"Student Book - Vocabulary": 1,
+"Student Book - Grammar": 1,
+"Activity Book - Grammar": 2
+}
+}
+},
+"questions": [
+{
+"id": "SB_G7_U5_C1",
+"original": "There are numerous websites.",
+"targetWord": "numerous",
+"correctQuestion": "How many websites are there?",
+"correctQuestions": [
+"How many websites are there?"
+],
+"wh_word": "how many",
+"auxiliary": "are",
+"subject": "there",
+"subject_type": "pronoun",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text - Line 4"
+},
+{
+"id": "SB_G7_U5_C2",
+"original": "Salma is interested in playing chess.",
+"targetWord": "in playing chess",
+"correctQuestion": "What is Salma interested in?",
+"correctQuestions": [
+"What is Salma interested in?"
+],
+"wh_word": "what",
+"auxiliary": "is",
+"subject": "salma",
+"subject_type": "name_female",
+"category": "Object",
+"acceptedAnswers": [
+"What is she interested in?"
+],
+"source": "Student Book",
+"exact_reference": "Vocabulary B - Q3"
+},
+{
+"id": "SB_G7_U5_C3",
+"original": "My brother has met his favourite singer.",
+"targetWord": "his favourite singer",
+"correctQuestion": "Who has your brother met?",
+"correctQuestions": [
+"Who has your brother met?"
+],
+"wh_word": "who",
+"auxiliary": "has",
+"subject": "your brother",
+"subject_type": "noun_person",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar B - Q7"
+},
+{
+"id": "AB_G7_U5_C4",
+"original": "Ali has studied English.",
+"targetWord": "English",
+"correctQuestion": "What has Ali studied?",
+"correctQuestions": [
+"What has Ali studied?"
+],
+"wh_word": "what",
+"auxiliary": "has",
+"subject": "ali",
+"subject_type": "name_male",
+"category": "Object",
+"acceptedAnswers": [
+"What has he studied?"
+],
+"source": "Activity Book",
+"exact_reference": "Grammar A - Q4"
+},
+{
+"id": "AB_G7_U5_C5",
+"original": "Eddy has graduated since 2019.",
+"targetWord": "since 2019",
+"correctQuestion": "Since when has Eddy graduated?",
+"correctQuestions": [
+"Since when has Eddy graduated?"
+],
+"wh_word": "since when",
+"auxiliary": "has",
+"subject": "eddy",
+"subject_type": "name_male",
+"category": "Time",
+"acceptedAnswers": [
+"Since when has he graduated?"
+],
+"source": "Activity Book",
+"exact_reference": "Grammar B - Q3"
+}
+]
+}
