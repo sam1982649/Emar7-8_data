@@ -1,0 +1,202 @@
+{
+"vocabulary": [
+{ "word": "Iceberg", "translation": "جبل جليدي" },
+{ "word": "Lifeboat", "translation": "قارب نجاة" },
+{ "word": "Survivor", "translation": "ناجٍ" },
+{ "word": "Supply", "translation": "يمد / يزود" },
+{ "word": "Sink", "translation": "يغرق" },
+{ "word": "Tragedy", "translation": "مأساة" },
+{ "word": "Warnings", "translation": "تحذيرات" },
+{ "word": "Passengers", "translation": "ركاب" },
+{ "word": "Disaster", "translation": "كارثة" },
+{ "word": "Edge", "translation": "حافة / طرف" },
+{ "word": "Survive", "translation": "ينجو" },
+{ "word": "Accident", "translation": "حادث" },
+{ "word": "Crisis", "translation": "أزمة" },
+{ "word": "Emergency", "translation": "حالة طوارئ" },
+{ "word": "Rescue", "translation": "إنقاذ" },
+{ "word": "Trip", "translation": "رحلة" },
+{ "word": "Atlantic", "translation": "المحيط الأطلسي" },
+{ "word": "Steamship", "translation": "باخرة" },
+{ "word": "Company", "translation": "شركة" },
+{ "word": "Rule", "translation": "قاعدة" },
+{ "word": "Drill", "translation": "تدريب" },
+{ "word": "Danger", "translation": "خطر" },
+{ "word": "Haystack", "translation": "كومة قش" },
+{ "word": "Skid", "translation": "ينزلق" },
+{ "word": "Sheer", "translation": "تام / كامل" },
+{ "word": "Barrel", "translation": "يتحرك بسرعة" },
+{ "word": "Plummet", "translation": "يسقط بسرعة" },
+{ "word": "Humble", "translation": "متواضع" },
+{ "word": "Cook up", "translation": "يختلق" },
+{ "word": "Relatively", "translation": "نسبياً" },
+{ "word": "Dramatic", "translation": "درامي / مثير" },
+{ "word": "Fortunate", "translation": "محظوظ" },
+{ "word": "Luxurious", "translation": "فاخر" },
+{ "word": "Incredible", "translation": "لا يصدق" },
+{ "word": "Unknown", "translation": "مجهول" },
+{ "word": "Unsafe", "translation": "غير آمن" },
+{ "word": "Unlucky", "translation": "سيئ الحظ" },
+{ "word": "Remarkable", "translation": "ملحوظ / مذهل" },
+{ "word": "Warn", "translation": "يحذر" },
+{ "word": "Train", "translation": "قطار" },
+{ "word": "Bus", "translation": "حافلة" },
+{ "word": "Plane", "translation": "طائرة" },
+{ "word": "Truck", "translation": "شاحنة" },
+{ "word": "River", "translation": "نهر" },
+{ "word": "Hay", "translation": "قش" },
+{ "word": "Fuel", "translation": "وقود" },
+{ "word": "Tank", "translation": "خزان" },
+{ "word": "Motorway", "translation": "طريق سريع" },
+{ "word": "Mountain road", "translation": "طريق جبلي" },
+{ "word": "Lottery", "translation": "يانصيب" },
+{ "word": "Wife", "translation": "زوجة" },
+{ "word": "Cabin crew", "translation": "طاقم المقصورة" },
+{ "word": "Broadcast", "translation": "يبث" },
+{ "word": "Desperate", "translation": "يائس" },
+{ "word": "Cardiologist", "translation": "طبيب قلب" },
+{ "word": "Dentist", "translation": "طبيب أسنان" },
+{ "word": "Vet", "translation": "طبيب بيطري" },
+{ "word": "Conference", "translation": "مؤتمر" },
+{ "word": "Wedding", "translation": "حفل زفاف" },
+{ "word": "Athlete", "translation": "رياضي" },
+{ "word": "Olympic", "translation": "أولمبي" },
+{ "word": "Success", "translation": "نجاح" },
+{ "word": "Training", "translation": "تدريب" },
+{ "word": "Body", "translation": "جسم" },
+{ "word": "Muscles", "translation": "عضلات" },
+{ "word": "Skills", "translation": "مهارات" },
+{ "word": "Breakfast", "translation": "إفطار" },
+{ "word": "Carbohydrates", "translation": "كربوهيدرات" },
+{ "word": "Sleep", "translation": "نوم" },
+{ "word": "Thoughts", "translation": "أفكار" },
+{ "word": "Positive", "translation": "إيجابي" },
+{ "word": "Hero", "translation": "بطل" },
+{ "word": "Dream", "translation": "يحلم" },
+{ "word": "Imagine", "translation": "يتخيل" },
+{ "word": "Species", "translation": "أنواع" },
+{ "word": "Extinction", "translation": "انقراض" },
+{ "word": "Protect", "translation": "يحمي" },
+{ "word": "Animals", "translation": "حيوانات" },
+{ "word": "Order", "translation": "ترتيب" },
+{ "word": "Subject", "translation": "فاعل" },
+{ "word": "Verb", "translation": "فعل" },
+{ "word": "Object", "translation": "مفعول به" },
+{ "word": "Proud", "translation": "فخور" },
+{ "word": "Credible", "translation": "موثوق" }
+],
+"tables": [
+{
+"title": "Past Perfect Tense (الماضي التام)",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الإثبات", "had + past participle", "The ship had received 6 warnings."],
+["النفي", "had not (hadn't) + past participle", "The passengers hadn't received their lifeboat numbers."],
+["السؤال", "Had + subject + past participle?", "Had the ship received warnings?"]
+],
+"explanation": "نستخدم Past Perfect عندما نريد أن نوضح أي حدثين في الماضي وقع أولاً. الحدث الأقدم (الأول) = Past Perfect (had + past participle)، والحدث الأحدث (الثاني) = Past Simple. الكلمات الدالة: before, after, when, by the time, already, just, never, ever.",
+"examples": "The ship had received 6 warnings when it struck the iceberg.\nWhen I arrived home, my son had already made a cake.\nThe Titanic was the largest ship that had ever travelled on the sea.\nSome survivors had been in the icy water for hours when they were saved.\nThe passengers hadn't received their lifeboat numbers before the accident.\nI had never seen snow until I went to Canada.\nShe had already left when I arrived.\nAfter the guests had left, I went to bed."
+},
+{
+"title": "Past Simple vs Past Perfect",
+"headers": ["Past Simple", "Past Perfect"],
+"rows": [
+["الحدث الثاني (الأحدث)", "الحدث الأول (الأقدم)"],
+["I arrived home.", "My son had already made a cake."],
+["The ship struck the iceberg.", "It had received 6 warnings."],
+["She got to class.", "The teacher had already given a test."]
+],
+"explanation": "Past Simple: للحدث الذي وقع وانتهى في الماضي (الحدث الثاني). Past Perfect: للحدث الذي وقع قبل حدث آخر في الماضي (الحدث الأول). القاعدة: الحدث الأقدم = Past Perfect / الحدث الأحدث = Past Simple.",
+"examples": "When I arrived home, my son had already made a cake.\nThe ship had received 6 warnings when it struck the iceberg.\nBy the time mom came, I had prepared dinner."
+},
+{
+"title": "Past Simple Passive (الماضي البسيط المبني للمجهول)",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الإثبات", "was/were + past participle", "Some survivors were saved."],
+["النفي", "was/were + not + past participle", "The passengers were not saved."],
+["السؤال", "Was/Were + subject + past participle?", "Were the survivors saved?"]
+],
+"explanation": "نستخدم المبني للمجهول عندما يكون الفاعل غير معروف أو غير مهم. التركيب: was/were + past participle (التصريف الثالث).",
+"examples": "Selak was ejected from the car.\nThe cake was baked by the chef.\nA new house was built by the workers."
+},
+{
+"title": "Comparatives & Superlatives",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["مقارنة بين اثنين", "adjective + er / more + adjective", "The Titanic was larger than other ships."],
+["تفضيل بين أكثر من اثنين", "the + adjective + est / the most + adjective", "The Titanic was the largest ship."]
+],
+"explanation": "للمقارنة بين أكثر من شيئين نستخدم 'the' + صفة + est (للصفات القصيرة) أو 'the most' + صفة (للصفات الطويلة).",
+"examples": "The Titanic was the largest ship that had ever travelled on the sea."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["حرف الجر", "الاستخدام", "مثال"],
+"rows": [
+["in", "في (مكان / زمان)", "in 1912, in danger, in the water"],
+["on", "على", "on its first trip, on the sea, on the radio"],
+["at", "في (وقت محدد)", "late at night, at that time"],
+["for", "لمدة / من أجل", "for hours, for half the people"],
+["of", "من / لـ", "the number of lifeboats, the edge of death"],
+["by", "بواسطة", "by the time"],
+["to", "إلى", "from Sarajevo to Dubrovnik"]
+],
+"explanation": "حروف الجر تأتي قبل الاسم أو الضمير ولها استخدامات متعددة حسب السياق.",
+"examples": "The ship hit the iceberg late at night.\nThey had been in the icy water for hours.\nThey had followed an old rule for the number of lifeboats.\nThey did not believe they were in danger."
+},
+{
+"title": "Pronouns (الضمائر)",
+"headers": ["النوع", "ضمائر الفاعل", "ضمائر المفعول", "صفات الملكية", "ضمائر الملكية"],
+"rows": [
+["المفرد", "I", "me", "my", "mine"],
+["", "you", "you", "your", "yours"],
+["", "he", "him", "his", "his"],
+["", "she", "her", "her", "hers"],
+["", "it", "it", "its", "its"],
+["الجمع", "we", "us", "our", "ours"],
+["", "you", "you", "your", "yours"],
+["", "they", "them", "their", "theirs"]
+],
+"explanation": "ضمائر الفاعل: تأتي قبل الفعل. ضمائر المفعول: تأتي بعد الفعل أو حرف الجر. صفات الملكية: تأتي قبل الاسم. ضمائر الملكية: تحل محل الاسم.",
+"examples": "1502 people had lost their lives.\nAn unknown person pulled him to be safe.\nThey had supplied lifeboats for only half the people."
+},
+{
+"title": "Adjectives vs Adverbs (الصفة والظرف)",
+"headers": ["الصفة (Adjective)", "الظرف (Adverb)"],
+"rows": [
+["توصف الاسم", "توصف الفعل"],
+["safe (آمن)", "safely (بأمان)"],
+["warm (دافئ)", "warmly (بدفء)"],
+["complete (كامل)", "completely (تماماً)"],
+["lucky (محظوظ)", "luckily (بمحض الصدفة)"]
+],
+"explanation": "الصفة (Adjective): تصف الاسم. تأتي قبل الاسم أو بعد فعل (be). الظرف (Adverb): يصف الفعل. غالباً ينتهي بـ (ly).",
+"examples": "The ship would be completely safe.\nMany of them had not even dressed warmly.\nSelak was fortunate. (صفة)\nHe escaped luckily. (ظرف)"
+},
+{
+"title": "Pronunciation - /ei/ (الصوت /ei/)",
+"headers": ["كلمات الصوت /ei/"],
+"rows": [
+["fail, bake, wait, weight"],
+["gaze, James, hate, shape"],
+["sake, day, bate, shake"],
+["sane, cape, key, sail"],
+["ape, wake"]
+],
+"explanation": "الصوت /ei/ هو صوت طويل. أمثلة في جمل: I will bake a cake. / Please wait for me. / She has a beautiful gaze. / He hates waiting. / The ship was on its way.",
+"examples": "bake, wait, weight, gaze, James, hate, shape, day, sail, wake"
+},
+{
+"title": "Word Order (ترتيب الكلمات)",
+"headers": ["التركيب الأساسي", "مثال"],
+"rows": [
+["Subject + Verb + Object", "I received an invitation."],
+["Subject + Verb + Adverb", "He dressed warmly."],
+["Subject + Verb + Preposition + Object", "He looked at the sky."]
+],
+"explanation": "قاعدة ترتيب الكلمات الأساسية: Subject (فاعل) + Verb (فعل) + Object (مفعول به) + Adverb (ظرف).",
+"examples": "I received an invitation from my uncle.\nYou will have to write this drill twice.\nThe teacher gave some good advice to the boy."
+}
+]
+}

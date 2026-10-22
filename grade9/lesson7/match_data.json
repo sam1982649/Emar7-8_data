@@ -1,0 +1,166 @@
+{
+"groups": [
+{
+"title": "Match the Words with Definitions - Titanic",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "a small boat to save people on board if the ship sinks" },
+{ "letter": "b", "text": "a person who continues to live after danger" },
+{ "letter": "c", "text": "to provide" },
+{ "letter": "d", "text": "to go down below the surface or towards the bottom of a liquid or soft substance" },
+{ "letter": "e", "text": "a large mass of ice floating in the sea" },
+{ "letter": "f", "text": "to cook up something" }
+],
+"sentences": [
+{
+"start": "iceberg",
+"correct": "e",
+"full_sentence": "iceberg: a large mass of ice floating in the sea",
+"translation": "الجبل الجليدي: كتلة كبيرة من الجليد تطفو في البحر",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 55"
+},
+{
+"start": "lifeboat",
+"correct": "a",
+"full_sentence": "lifeboat: a small boat to save people on board if the ship sinks",
+"translation": "قارب النجاة: قارب صغير لإنقاذ الناس على متن السفينة إذا غرقت",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 55"
+},
+{
+"start": "to sink",
+"correct": "d",
+"full_sentence": "to sink: to go down below the surface or towards the bottom of a liquid or soft substance",
+"translation": "يغوص / يغرق: ينزل تحت السطح أو نحو قاع سائل",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 55"
+},
+{
+"start": "survivor",
+"correct": "b",
+"full_sentence": "survivor: a person who continues to live after danger",
+"translation": "الناجي: شخص يستمر في الحياة بعد الخطر",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 55"
+},
+{
+"start": "to supply",
+"correct": "c",
+"full_sentence": "to supply: to provide",
+"translation": "يزود / يوفر: يقدم",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 55"
+}
+]
+},
+{
+"title": "Match the Sentence Parts - Titanic",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "because they didn't believe that they were in danger." },
+{ "letter": "b", "text": "it had taken lifeboats enough for only 1178 people." },
+{ "letter": "c", "text": "its speed after 6 warnings." },
+{ "letter": "d", "text": "it struck the iceberg." },
+{ "letter": "e", "text": "had ever travelled on the sea." },
+{ "letter": "f", "text": "had not dressed warmly" }
+],
+"sentences": [
+{
+"start": "The Titanic was carrying 2207 people, but",
+"correct": "b",
+"full_sentence": "The Titanic was carrying 2207 people, but it had taken lifeboats enough for only 1178 people",
+"translation": "كانت تيتانيك تحمل 2207 أشخاص، لكنها حملت قوارب نجاة تكفي فقط لـ 1178 شخصاً",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 54"
+},
+{
+"start": "Many passengers had not dressed warmly,",
+"correct": "a",
+"full_sentence": "Many passengers had not dressed warmly, because they didn't believe that they were in danger",
+"translation": "لم يرتدِ العديد من الركاب ملابس دافئة، لأنهم لم يعتقدوا أنهم في خطر",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 54"
+},
+{
+"start": "The ship had received 6 warnings when",
+"correct": "d",
+"full_sentence": "The ship had received 6 warnings when it struck the iceberg",
+"translation": "كانت السفينة قد تلقت 6 تحذيرات عندما اصطدمت بجبل الجليد",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 54"
+},
+{
+"start": "It had not changed its direction or",
+"correct": "c",
+"full_sentence": "It had not changed its direction or its speed after 6 warnings",
+"translation": "لم تغير اتجاهها أو سرعتها بعد 6 تحذيرات",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 54"
+},
+{
+"start": "The Titanic was the largest ship that",
+"correct": "e",
+"full_sentence": "The Titanic was the largest ship that had ever travelled on the sea",
+"translation": "كانت تيتانيك أكبر سفينة سافرت على البحر على الإطلاق",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 54"
+}
+]
+},
+{
+"title": "Match the Sentence Parts - Back to Life",
+"source": "activity_book",
+"options": [
+{ "letter": "a", "text": "I went to Canada." },
+{ "letter": "b", "text": "and four passengers drowned." },
+{ "letter": "c", "text": "it left the tracks." },
+{ "letter": "d", "text": "and luckily landed in a haystack" },
+{ "letter": "e", "text": "before the train left." },
+{ "letter": "f", "text": "won the lottery in Croatia" }
+],
+"sentences": [
+{
+"start": "I had never seen snow until",
+"correct": "a",
+"full_sentence": "I had never seen snow until I went to Canada",
+"translation": "لم أرَ الثلج أبداً حتى ذهبت إلى كندا",
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 51"
+},
+{
+"start": "The bus fell into a river",
+"correct": "b",
+"full_sentence": "The bus fell into a river and four passengers drowned",
+"translation": "سقطت الحافلة في النهر وغرق أربعة ركاب",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 50"
+},
+{
+"start": "The train crashed in a river after",
+"correct": "c",
+"full_sentence": "The train crashed in a river after it left the tracks",
+"translation": "تحطم القطار في النهر بعد أن خرج عن القضبان",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 50"
+},
+{
+"start": "he was blown out of the plane's door",
+"correct": "d",
+"full_sentence": "he was blown out of the plane's door and luckily landed in a haystack",
+"translation": "تم قذفه من باب الطائرة وبالحظ هبط على كومة قش",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 50"
+},
+{
+"start": "I had arrived at the station",
+"correct": "e",
+"full_sentence": "I had arrived at the station before the train left",
+"translation": "كنت قد وصلت إلى المحطة قبل مغادرة القطار",
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 51"
+}
+]
+}
+]
+}

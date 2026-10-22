@@ -1,0 +1,88 @@
+{
+"questions": [
+{
+"question": "What would you do if you were in danger?",
+"translation": "ماذا ستفعل لو كنت في خطر؟",
+"keywords": ["calm", "call", "help", "shout", "run", "police", "escape", "protect"],
+"suggested_answers": [
+"I would stay calm and call for help.",
+"I would shout for help and try to escape quickly.",
+"I would call the police and try to protect myself."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 56"
+},
+{
+"question": "Who helps people in emergencies?",
+"translation": "من يساعد الناس في حالات الطوارئ؟",
+"keywords": ["police", "doctors", "firemen", "nurses", "rescue", "ambulance", "soldiers"],
+"suggested_answers": [
+"The police and doctors help people in emergencies.",
+"Firemen and rescue teams help people in emergencies.",
+"Doctors, nurses, and the police help people in dangerous situations."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 56"
+},
+{
+"question": "What would you do if you had an accident?",
+"translation": "ماذا ستفعل لو تعرضت لحادث؟",
+"keywords": ["calm", "call", "help", "ambulance", "police", "hospital", "stay"],
+"suggested_answers": [
+"I would stay calm and call an ambulance.",
+"I would call the police and ask for help.",
+"I would try to stay calm and go to the hospital."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 50"
+},
+{
+"question": "Why is it important to never give up?",
+"translation": "لماذا من المهم ألا تستسلم أبداً؟",
+"keywords": ["hope", "strong", "try", "succeed", "believe", "continue", "achieve"],
+"suggested_answers": [
+"It is important to never give up because we can succeed if we keep trying.",
+"If we stay strong and believe in ourselves, we can achieve our goals.",
+"Never giving up gives us hope and helps us become stronger."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 50"
+},
+{
+"question": "What would you buy if you won money?",
+"translation": "ماذا ستشتري لو ربحت مالاً؟",
+"keywords": ["house", "car", "family", "help", "charity", "travel", "give"],
+"suggested_answers": [
+"I would buy a big house for my family.",
+"I would buy a car and travel around the world.",
+"I would help poor people and give money to charity."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 50"
+},
+{
+"question": "Do you think you are lucky? Why?",
+"translation": "هل تعتقد أنك محظوظ؟ لماذا؟",
+"keywords": ["lucky", "family", "healthy", "friends", "happy", "grateful", "sometimes"],
+"suggested_answers": [
+"Yes, I think I am lucky because I have a healthy family and good friends.",
+"No, I don't think I am lucky, but I am happy with my life.",
+"Sometimes I feel lucky because I have people who love me."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 50"
+},
+{
+"question": "What makes a person strong?",
+"translation": "ما الذي يجعل الشخص قوياً؟",
+"keywords": ["brave", "never give up", "patient", "believe", "face", "challenges", "hope"],
+"suggested_answers": [
+"A person is strong when they never give up and face their problems.",
+"Being brave, patient, and believing in yourself makes you strong.",
+"Hope and the will to continue make a person strong."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 50"
+}
+]
+}

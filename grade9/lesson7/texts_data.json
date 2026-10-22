@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G9_U7_T1_P1",
+"text_group": "G9_U7_Titanic",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Titanic - Part 1",
+"content_exam": "In 1912, the 'Titanic' hit an iceberg on its first trip across the Atlantic. The Titanic was the largest ship that had ever travelled on the sea. It was carrying 2207 people, but it had taken on enough lifeboats for only 1178 people. Not more than 651 of the passengers were able to get into lifeboats.\n\nSome of the survivors had been in the icy water for hours when they were saved. Most of the passengers hadn't lived long; 1502 people had lost their lives. But why was there such a great loss of life and so few survivors who were on the edge of death?\n\nNobody had prepared for such a tragedy. Nobody had believed that the Titanic could sink. The steamship company had thought that its ship would be completely safe in all situations. They had followed an old rule for the number of lifeboats, so they had supplied lifeboats for only half the people. The passengers had not yet received their lifeboat numbers, nor had they practiced lifeboat drill before the accident. Many of them had not even dressed warmly, the ship had hit the iceberg late at night, and they did not believe they were in danger.\n\nThe ship had already received 6 ice warnings on its radio when it struck the iceberg. Nevertheless, it had not changed its direction or its speed. A tragedy like the sinking of the Titanic should never happen again.",
+"questions": [
+{
+"id": "L7_TXT_C01",
+"type": "choice",
+"question": "When did the Titanic hit an iceberg?",
+"options": ["1910", "1911", "1912", "1913"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: 1912\n📝 الترجمة: متى اصطدمت تيتانيك بجبل جليدي؟\n💡 الشرح: النص يقول: 'In 1912, the Titanic hit an iceberg'."
+},
+{
+"id": "L7_TXT_C02",
+"type": "choice",
+"question": "How many people was the Titanic carrying?",
+"options": ["1502", "1178", "2207", "651"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: 2207\n📝 الترجمة: كم شخصاً كانت تيتانيك تحمل؟\n💡 الشرح: النص يقول: 'It was carrying 2207 people'."
+},
+{
+"id": "L7_TXT_C03",
+"type": "choice",
+"question": "How many passengers were able to get into lifeboats?",
+"options": ["651", "1178", "1502", "2207"],
+"correct": 0,
+"explanation": "✅ الإجابة الصحيحة: 651\n📝 الترجمة: كم راكباً تمكنوا من الصعود إلى قوارب النجاة؟\n💡 الشرح: النص يقول: 'Not more than 651 of the passengers were able to get into lifeboats'."
+},
+{
+"id": "L7_TXT_C04",
+"type": "choice",
+"question": "How many people lost their lives?",
+"options": ["651", "1178", "1502", "2207"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: 1502\n📝 الترجمة: كم شخصاً فقدوا حياتهم؟\n💡 الشرح: النص يقول: '1502 people had lost their lives'."
+},
+{
+"id": "L7_TXT_C05",
+"type": "choice",
+"question": "Why did the steamship company supply few lifeboats?",
+"options": ["They were expensive", "They followed an old rule", "They forgot", "There was no space"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: They followed an old rule\n📝 الترجمة: لماذا وفرت شركة البواخر قوارب نجاة قليلة؟\n💡 الشرح: النص يقول: 'They had followed an old rule for the number of lifeboats'."
+}
+]
+},
+{
+"id": "G9_U7_T1_P2",
+"text_group": "G9_U7_Titanic",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Titanic - Part 2",
+"content_exam": "The passengers had not yet received their lifeboat numbers, nor had they practiced lifeboat drill before the accident. Many had not dressed warmly. The ship hit the iceberg late at night, and they did not believe they were in danger. The ship had already received 6 ice warnings on its radio when it struck the iceberg. Nevertheless, it had not changed its direction or its speed. A tragedy like the sinking of the Titanic should never happen again. The loss of 1502 lives could have been avoided if proper safety measures had been taken. This terrible event taught the world many important lessons about safety at sea.",
+"questions": [
+{
+"id": "L7_TXT_TF01",
+"type": "truefalse",
+"question": "The passengers had practiced lifeboat drill before the accident.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: كان الركاب قد تدربوا على استخدام قوارب النجاة قبل الحادث.\n💡 الشرح: النص يقول: 'they had not practiced lifeboat drill before the accident'."
+},
+{
+"id": "L7_TXT_TF02",
+"type": "truefalse",
+"question": "The ship had received 6 ice warnings before it struck the iceberg.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: كانت السفينة قد تلقت 6 تحذيرات من الجليد قبل اصطدامها بالجبل الجليدي.\n💡 الشرح: النص يقول: 'The ship had already received 6 ice warnings on its radio'."
+},
+{
+"id": "L7_TXT_TF03",
+"type": "truefalse",
+"question": "The Titanic changed its direction after receiving ice warnings.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: غيرت تيتانيك اتجاهها بعد تلقي التحذيرات من الجليد.\n💡 الشرح: النص يقول: 'it had not changed its direction or its speed'."
+},
+{
+"id": "L7_TXT_A01",
+"type": "answer",
+"question": "Why didn't the passengers believe they were in danger?",
+"keywords": ["late at night", "didn't believe", "iceberg", "not dressed warmly"],
+"explanation": "✅ الإجابة الصحيحة: Because the ship hit the iceberg late at night, and they did not believe they were in danger.\n📝 الترجمة: لماذا لم يعتقد الركاب أنهم في خطر؟\n💡 الشرح: النص يقول: 'the ship had hit the iceberg late at night, and they did not believe they were in danger'."
+},
+{
+"id": "L7_TXT_A02",
+"type": "answer",
+"question": "What important lessons did the Titanic disaster teach the world?",
+"keywords": ["safety at sea", "lifeboats", "safety measures", "preparedness"],
+"explanation": "✅ الإجابة الصحيحة: lessons about safety at sea and preparedness\n📝 الترجمة: ما الدروس المهمة التي علمتها كارثة تيتانيك للعالم؟\n💡 الشرح: النص يقول: 'This terrible event taught the world many important lessons about safety at sea'."
+}
+]
+},
+{
+"id": "G9_U7_T2_P1",
+"text_group": "G9_U7_Back_To_Life",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Back to Life - Part 1",
+"content_exam": "Frane Selak was born in Croatia in 1929. He led a relatively unremarkable life as a music teacher. Selak's near-death experiences began in January 1962 when he was travelling by a train from Sarajevo to Dubrovnik. The train left its railway tracks and ended up in a river. Fortunately, an unknown person pulled him to be safe, while 17 other passengers drowned.\n\nThe next year, Selak boarded a plane from Zagreb to Rijeka. Unfortunately, he was blown out of its door and luckily landed in a haystack; the plane crashed, killing 19 people but Selak survived. Three years after that, in 1966, he got on bus. The bus skidded on the road and fell into a river, drowning four passengers, and by sheer luck Selak swam to the shore with only a few cuts and bruises. In 1970, the fuel in his car's tank exploded on the motorway. But Selak just escaped with his life. The final famous disaster was in 1996 when a truck came barreling towards his car as he was driving around a mountain road. Selak was ejected from the car but he managed to hold onto a tree, and watched his car in horror plummet down.\n\nIn 2003, two days after his 73rd birthday, Selak won the lottery in Croatia. With this, he bought a luxurious home. Then he changed his mind, sold it in 2010 and lived a humble life with his fifth wife.",
+"questions": [
+{
+"id": "L7_TXT_C06",
+"type": "choice",
+"question": "What was Frane Selak's job?",
+"options": ["Doctor", "Music teacher", "Driver", "Pilot"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: Music teacher\n📝 الترجمة: ما كانت وظيفة فران سيلاك؟\n💡 الشرح: النص يقول: 'He led a relatively unremarkable life as a music teacher'."
+},
+{
+"id": "L7_TXT_C07",
+"type": "choice",
+"question": "What happened to the train in January 1962?",
+"options": ["It exploded", "It left its tracks and fell into a river", "It crashed into a car", "It caught fire"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: It left its tracks and fell into a river\n📝 الترجمة: ماذا حدث للقطار في يناير 1962؟\n💡 الشرح: النص يقول: 'The train left its railway tracks and ended up in a river'."
+},
+{
+"id": "L7_TXT_C08",
+"type": "choice",
+"question": "How did Selak survive the train accident?",
+"options": ["He swam", "An unknown person pulled him to safety", "He jumped", "He held onto a tree"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: An unknown person pulled him to safety\n📝 الترجمة: كيف نجا سيلاك من حادث القطار؟\n💡 الشرح: النص يقول: 'an unknown person pulled him to be safe'."
+},
+{
+"id": "L7_TXT_C09",
+"type": "choice",
+"question": "What happened to Selak on the plane?",
+"options": ["It exploded", "He was blown out of its door", "It crashed into a mountain", "It caught fire"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: He was blown out of its door\n📝 الترجمة: ماذا حدث لسيلاك في الطائرة؟\n💡 الشرح: النص يقول: 'he was blown out of its door and luckily landed in a haystack'."
+},
+{
+"id": "L7_TXT_C10",
+"type": "choice",
+"question": "How many people died in the plane crash?",
+"options": ["4", "17", "19", "20"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: 19\n📝 الترجمة: كم شخصاً مات في حادث الطائرة؟\n💡 الشرح: النص يقول: 'the plane crashed, killing 19 people'."
+}
+]
+},
+{
+"id": "G9_U7_T2_P2",
+"text_group": "G9_U7_Back_To_Life",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Back to Life - Part 2",
+"content_exam": "In 1970, the fuel in Selak's car exploded on the motorway, but he escaped with his life. In 1996, a truck crashed towards his car as he was driving around a mountain road. Selak was thrown from the car but managed to hold onto a tree, watching his car fall down. In 2003, two days after his 73rd birthday, Selak won the lottery in Croatia. He bought a luxurious home, then changed his mind, sold it in 2010, and lived a humble life with his fifth wife. What happened to Selak seems more dramatic than any Hollywood movie. We cannot tell whether he is the luckiest or the unluckiest man in the world.",
+"questions": [
+{
+"id": "L7_TXT_TF04",
+"type": "truefalse",
+"question": "Selak won the lottery in 2003.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: فاز سيلاك باليانصيب في عام 2003.\n💡 الشرح: النص يقول: 'In 2003, two days after his 73rd birthday, Selak won the lottery in Croatia'."
+},
+{
+"id": "L7_TXT_TF05",
+"type": "truefalse",
+"question": "Selak bought a small house after winning the lottery.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: اشترى سيلاك منزلاً صغيراً بعد فوزه باليانصيب.\n💡 الشرح: النص يقول: 'he bought a luxurious home'."
+},
+{
+"id": "L7_TXT_TF06",
+"type": "truefalse",
+"question": "Selak's story is less dramatic than a Hollywood movie.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: قصة سيلاك أقل إثارة من فيلم هوليوود.\n💡 الشرح: النص يقول: 'What happened to Selak seems to be far more dramatic than anything Hollywood could cook up'."
+},
+{
+"id": "L7_TXT_A03",
+"type": "answer",
+"question": "What did Selak do after winning the lottery?",
+"keywords": ["bought a home", "luxurious home", "sold it", "humble life"],
+"explanation": "✅ الإجابة الصحيحة: He bought a luxurious home, then sold it and lived a humble life with his fifth wife.\n📝 الترجمة: ماذا فعل سيلاك بعد فوزه باليانصيب؟\n💡 الشرح: النص يقول: 'he bought a luxurious home... sold it in 2010 and lived a humble life'."
+},
+{
+"id": "L7_TXT_A04",
+"type": "answer",
+"question": "Is Selak the luckiest or unluckiest man in the world? Why?",
+"keywords": ["luckiest", "unluckiest", "both", "survived", "accidents"],
+"explanation": "✅ الإجابة الصحيحة: We cannot tell - he survived many accidents (lucky) but faced many near-death experiences (unlucky).\n📝 الترجمة: هل سيلاك أسعد أم أشقى رجل في العالم؟ لماذا؟\n💡 الشرح: النص يقول: 'we can't tell whether he is the luckiest or the unluckiest man in the world'."
+}
+]
+}
+]
+}
