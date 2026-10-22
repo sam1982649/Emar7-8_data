@@ -1,0 +1,258 @@
+{
+"vocabulary": [
+{ "word": "accommodation", "translation": "إقامة / سكن" },
+{ "word": "accord", "translation": "اتفاق" },
+{ "word": "according to", "translation": "وفقاً لـ" },
+{ "word": "achieve", "translation": "يحقق" },
+{ "word": "achievement", "translation": "إنجاز" },
+{ "word": "actual", "translation": "فعلي / حقيقي" },
+{ "word": "amputee", "translation": "مبتور (شخص فقد أحد أعضائه)" },
+{ "word": "architect", "translation": "مهندس معماري" },
+{ "word": "astonished", "translation": "مندهش" },
+{ "word": "available", "translation": "متاح" },
+{ "word": "bit", "translation": "عضّ (ماضي bite)" },
+{ "word": "bride", "translation": "عروس" },
+{ "word": "brochure", "translation": "كتيب / منشور" },
+{ "word": "castle", "translation": "قلعة" },
+{ "word": "charity", "translation": "جمعية خيرية / صدقة" },
+{ "word": "chopsticks", "translation": "عيدان طعام" },
+{ "word": "Christmas", "translation": "عيد الميلاد" },
+{ "word": "circular", "translation": "دائري" },
+{ "word": "climb", "translation": "يتسلق" },
+{ "word": "coastal", "translation": "ساحلي" },
+{ "word": "comb", "translation": "مشط" },
+{ "word": "complain", "translation": "يتذمر / يشكو" },
+{ "word": "construction", "translation": "بناء" },
+{ "word": "continent", "translation": "قارة" },
+{ "word": "convince", "translation": "يقنع" },
+{ "word": "cuisine", "translation": "مطبخ / طعام" },
+{ "word": "delicious", "translation": "لذيذ" },
+{ "word": "digestive", "translation": "هضمي" },
+{ "word": "direct", "translation": "مباشر" },
+{ "word": "disgusting", "translation": "مقرف" },
+{ "word": "diversity", "translation": "تنوع" },
+{ "word": "earthquake", "translation": "زلزال" },
+{ "word": "educate", "translation": "يعلم" },
+{ "word": "education", "translation": "تعليم" },
+{ "word": "exist", "translation": "يوجد" },
+{ "word": "existence", "translation": "وجود" },
+{ "word": "fascinating", "translation": "رائع / ساحر" },
+{ "word": "fasten", "translation": "يربط / يثبت" },
+{ "word": "festival", "translation": "مهرجان" },
+{ "word": "fine", "translation": "غرامة" },
+{ "word": "fortify", "translation": "يحصن" },
+{ "word": "Friends of Bethany charity", "translation": "جمعية أصدقاء بيثاني الخيرية" },
+{ "word": "geographical", "translation": "جغرافي" },
+{ "word": "groom", "translation": "عريس" },
+{ "word": "harbor", "translation": "ميناء" },
+{ "word": "henna", "translation": "حناء" },
+{ "word": "hill", "translation": "تل / تلة" },
+{ "word": "imagine", "translation": "يتخيل" },
+{ "word": "imagination", "translation": "خيال" },
+{ "word": "invest", "translation": "يستثمر" },
+{ "word": "investment", "translation": "استثمار" },
+{ "word": "lake", "translation": "بحيرة" },
+{ "word": "lamb", "translation": "حمل / خروف" },
+{ "word": "lighthouse", "translation": "منارة" },
+{ "word": "license", "translation": "رخصة" },
+{ "word": "listen", "translation": "يستمع" },
+{ "word": "location", "translation": "موقع" },
+{ "word": "manner", "translation": "سلوك / أخلاق" },
+{ "word": "monument", "translation": "نصب تذكاري / معلم" },
+{ "word": "mountain", "translation": "جبل" },
+{ "word": "octagonal", "translation": "مثمن" },
+{ "word": "passion", "translation": "شغف" },
+{ "word": "passionate", "translation": "شغوف" },
+{ "word": "polite", "translation": "مهذب" },
+{ "word": "power", "translation": "قوة" },
+{ "word": "proverb", "translation": "مثل / حكمة" },
+{ "word": "recover", "translation": "يتعافى" },
+{ "word": "role model", "translation": "قدوة" },
+{ "word": "safely", "translation": "بأمان" },
+{ "word": "scary", "translation": "مخيف" },
+{ "word": "seat-belt", "translation": "حزام الأمان" },
+{ "word": "silent", "translation": "صامت" },
+{ "word": "spicy", "translation": "حار" },
+{ "word": "step", "translation": "يخطو / يدوس" },
+{ "word": "surf", "translation": "يتزلج على الأمواج" },
+{ "word": "surfer", "translation": "متزلج على الأمواج" },
+{ "word": "talent", "translation": "وزنة (وحدة وزن)" },
+{ "word": "tasteless", "translation": "بلا طعم" },
+{ "word": "thumb", "translation": "إبهام" },
+{ "word": "tomb", "translation": "قبر" },
+{ "word": "traditional", "translation": "تقليدي" },
+{ "word": "transportation", "translation": "وسائل النقل" },
+{ "word": "unfamiliar", "translation": "غير مألوف" },
+{ "word": "unnecessary", "translation": "غير ضروري" },
+{ "word": "valley", "translation": "واد / وادي" },
+{ "word": "various", "translation": "متنوع" },
+{ "word": "wedding", "translation": "حفل زفاف" },
+{ "word": "whistle", "translation": "صافرة" }
+],
+"tables": [
+{
+"title": "First Conditional (القاعدة الأساسية - if + present simple → will)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["if + present simple, will + verb", "شرط + نتيجة في المستقبل", "If Nora comes earlier, she will attend the meeting.", "إذا جاءت نورا مبكراً، ستحضر الاجتماع."],
+["if + present simple, will + verb", "احتمال حقيقي للحدوث", "If we practise well, we will win the match.", "إذا تمرنا جيداً، سنفوز بالمباراة."],
+["if + present simple, will + verb", "شرط + نتيجة", "People will respect you if you have good manners.", "سيحترمك الناس إذا كنت تمتلك أخلاقاً حميدة."],
+["if + present simple, will + verb", "شرط + نتيجة", "Ali will graduate if he passes his test.", "سيتخرج علي إذا نجح في امتحانه."],
+["will + verb + if + present simple", "عكس الترتيب", "I won't go to the park if it rains.", "لن أذهب إلى الحديقة إذا مطرت."]
+],
+"explanation": "تستخدم جملة الشرط من النوع الأول للتعبير عن أحداث في المستقبل من المحتمل حدوثها أو لها احتمال حقيقي. الصيغة: If + مضارع بسيط، will + مصدر. لا نستخدم will بعد if.",
+"examples": "If Nora comes earlier, she will attend the meeting.\nIf we practise well, we will win the match.\nAli will graduate if he passes his test."
+},
+{
+"title": "Passive Voice (المبني للمجهول)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["is / are + past participle", "الفاعل غير معروف أو غير مهم (مضارع)", "The Lighthouse is located on the north coast of Egypt.", "تقع المنارة على الساحل الشمالي لمصر."],
+["was / were + past participle", "الفاعل غير معروف أو غير مهم (ماضي)", "The Eiffel Tower was built in 1889.", "بُني برج إيفل في عام 1889."],
+["could + be + past participle", "مع الأفعال الناقصة", "The Lighthouse could be seen from 100 miles.", "كانت المنارة تُرى من مسافة 100 ميل."],
+["was / were + past participle + by", "لذكر الفاعل", "It was built by the architect Sostratus of Cnidus.", "بُنيت بواسطة المهندس المعماري سوستراتوس من كنيدوس."]
+],
+"explanation": "يستخدم المبني للمجهول عندما نركز على الفعل وليس على من قام به، أو عندما يكون الفاعل غير معروف. الصيغة: فعل مساعد (is/was) + التصريف الثالث للفعل.",
+"examples": "The Lighthouse is located on the north coast of Egypt.\nThe Eiffel Tower was built in 1889.\nThe Lighthouse could be seen from 100 miles."
+},
+{
+"title": "Superlatives (صفات التفضيل)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["the + adjective + est", "للمقارنة بين أكثر من اثنين (صفات قصيرة)", "It was considered as the tallest building in the world.", "كانت تعتبر أطول مبنى في العالم."],
+["the + adjective + est", "صفة قصيرة", "The plane which I saw is the oldest in existence.", "الطائرة التي رأيتها هي الأقدم في الوجود."]
+],
+"explanation": "تستخدم صفة التفضيل (Superlative) للمقارنة بين أكثر من اثنين. نستخدم 'the' قبلها دائماً.",
+"examples": "It was considered as the tallest building in the world.\nThe plane which I saw is the oldest in existence."
+},
+{
+"title": "Past Simple (الماضي البسيط)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["verb + ed (regular)", "حدث انتهى في الماضي", "They went to the UK.", "ذهبوا إلى المملكة المتحدة."],
+["irregular form", "حدث انتهى في الماضي", "In 2003, a shark bit off her left arm.", "في عام 2003، عضّ قرش ذراعها الأيسر."],
+["didn't + verb (base form)", "النفي في الماضي", "He didn't use any polite words.", "لم يستخدم أي كلمات مهذبة."]
+],
+"explanation": "يستخدم الماضي البسيط للتعبير عن أحداث وقعت وانتهت في الماضي. غالباً ما يأتي مع كلمات مثل yesterday, last week, in 2003.",
+"examples": "They went to the UK.\nIn 2003, a shark bit off her left arm.\nHe didn't use any polite words."
+},
+{
+"title": "Word Formation (الاشتقاق)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["verb → noun", "تحويل الفعل إلى اسم", "exist → existence", "يوجد → وجود"],
+["verb → noun", "تحويل الفعل إلى اسم", "invest → investment", "يستثمر → استثمار"],
+["verb → noun", "تحويل الفعل إلى اسم", "achieve → achievement", "يحقق → إنجاز"],
+["verb → noun", "تحويل الفعل إلى اسم", "educate → education", "يعلم → تعليم"],
+["verb → noun", "تحويل الفعل إلى اسم", "imagine → imagination", "يتخيل → خيال"],
+["verb → noun", "تحويل الفعل إلى اسم", "construct → construction", "يبني → بناء"],
+["verb → noun", "تحويل الفعل إلى اسم", "locate → location", "يقع → موقع"],
+["noun → adjective", "تحويل الاسم إلى صفة", "passion → passionate", "شغف → شغوف"],
+["noun → adjective", "تحويل الاسم إلى صفة", "success → successful", "نجاح → ناجح"],
+["noun → adjective", "تحويل الاسم إلى صفة", "coast → coastal", "ساحل → ساحلي"],
+["adjective → adverb", "تحويل الصفة إلى ظرف", "safe → safely", "آمن → بأمان"],
+["adjective → noun", "تحويل الصفة إلى اسم", "difficult → difficulties", "صعب → صعوبات"],
+["adjective → noun", "تحويل الصفة إلى اسم", "powerful → power", "قوي → قوة"]
+],
+"explanation": "الاشتقاق هو تحويل الكلمات من صيغة إلى أخرى حسب موقعها في الجملة (اسم، فعل، صفة، ظرف).",
+"examples": "The plane is the oldest in existence.\nA microwave is a good investment.\nTo reach this stage is a great achievement.\nThey need a new system of education.\nShe has a passionate interest in music.\nHe was driving safely.\nWomen are trying to gain power."
+},
+{
+"title": "Silent Letters (الحروف الصامتة)",
+"headers": ["Letter", "Position", "Examples", "Translation"],
+"rows": [
+["Silent t", "في كلمات شائعة", "castle, Christmas, fasten, listen, whistle", "قلعة، عيد الميلاد، يربط، يستمع، صافرة"],
+["Silent b", "في نهاية الكلمة وبعد m", "climb, comb, crumb, dumb, lamb, thumb, tomb", "يتسلق، مشط، فتات، أبكم، حمل، إبهام، قبر"]
+],
+"explanation": "الحروف الصامتة هي حروف تُكتب ولا تُلفظ. Silent t تظهر في كلمات شائعة، و Silent b تأتي غالباً في نهاية الكلمة وبعد حرف m.",
+"examples": "castle, listen, whistle\nclimb, comb, thumb, tomb"
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["Preposition", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["in", "مع السنوات", "This tower was built in 1920.", "بني هذا البرج في عام 1920."],
+["on", "مع السواحل", "Jim's town is on the south coast of England.", "بلدة جيم على الساحل الجنوبي لإنجلترا."],
+["at", "مع the top of", "They were standing at the top of the mountain.", "كانوا واقفين على قمة الجبل."],
+["of", "للمادة المصنوعة", "The tower was made of 3 sections.", "البرج مكون من 3 أقسام."]
+],
+"explanation": "حروف الجر تربط الكلمات في الجملة. لكل حرف جر استخدام محدد حسب السياق.",
+"examples": "This tower was built in 1920.\nJim's town is on the south coast.\nThe tower was made of 3 sections."
+},
+{
+"title": "Gerunds (اسم الفعل - verb + ing)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["verb + ing", "بعد حروف الجر", "He was astonished to watch people eating disgusting, tasteless food.", "كان مندهشاً لمشاهدة الناس يأكلون طعاماً مقرفاً بلا طعم."],
+["verb + ing", "كفاعل في الجملة", "Smiling all the time is not normal in Russia.", "الابتسام طوال الوقت ليس طبيعياً في روسيا."]
+],
+"explanation": "الاسم المشتق (gerund) هو الفعل المضاف إليه ing ويستخدم كاسم.",
+"examples": "He was astonished to watch people eating disgusting food.\nSmiling all the time is not normal."
+},
+{
+"title": "Adverbs (الظروف)",
+"headers": ["Adverb", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["safely", "يصف الفعل (كيفية)", "It guided thousands of ships safely into the harbor.", "وجهت آلاف السفن بأمان إلى الميناء."],
+["directly", "يصف الفعل", "People in Russia speak directly.", "الناس في روسيا يتحدثون مباشرة."]
+],
+"explanation": "الظرف يصف الفعل ويعطينا معلومات إضافية عن كيفية حدوث الفعل.",
+"examples": "It guided thousands of ships safely into the harbor."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["Conjunction", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["because", "للتعبير عن السبب", "He felt like an idiot because he had to smile all the time.", "شعر وكأنه أحمق لأنه كان عليه أن يبتسم طوال الوقت."],
+["but", "للتعارض", "They argued a lot about it, but her husband could convince her.", "تجادلا كثيراً حول هذا الأمر، لكن زوجها استطاع إقناعها."]
+],
+"explanation": "أدوات الربط تربط الجمل والكلمات وتعبر عن علاقات مثل السبب والتعارض.",
+"examples": "He felt like an idiot because he had to smile all the time.\nThey argued a lot, but her husband could convince her."
+},
+{
+"title": "Relative Pronouns (ضمائر الوصل)",
+"headers": ["Pronoun", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["which", "لغير العاقل", "The plane which I saw is the oldest in existence.", "الطائرة التي رأيتها هي الأقدم في الوجود."],
+["who", "للعاقل (الأشخاص)", "Helen, who is English, married Alexander.", "هيلين، التي هي إنجليزية، تزوجت ألكسندر."]
+],
+"explanation": "'who' تستخدم للعاقل (الأشخاص)، و 'which' تستخدم لغير العاقل (الأشياء).",
+"examples": "The plane which I saw is the oldest in existence."
+},
+{
+"title": "Negative Sentences (الجمل المنفية)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["didn't + verb", "النفي في الماضي", "He didn't use any polite words.", "لم يستخدم أي كلمات مهذبة."],
+["any", "تستخدم في الجمل المنفية", "He didn't use any polite words such as 'please'.", "لم يستخدم أي كلمات مهذبة مثل 'من فضلك'."]
+],
+"explanation": "في الجمل المنفية نستخدم 'any' وليس 'some'.",
+"examples": "He didn't use any polite words."
+},
+{
+"title": "Synonyms (المترادفات)",
+"headers": ["Word", "Synonym", "Translation"],
+"rows": [
+["behaviour", "manner", "سلوك"],
+["tread", "step", "يخطو / يدوس"],
+["accord", "agreement", "اتفاق"],
+["grumble", "complain", "يتذمر / يشكو"]
+],
+"explanation": "المترادفات هي كلمات لها نفس المعنى أو معنى قريب.",
+"examples": "behaviour = manner\ntread = step\naccord = agreement\ngrumble = complain"
+},
+{
+"title": "Geography Vocabulary (مفردات الجغرافيا)",
+"headers": ["Word", "Definition", "Translation"],
+"rows": [
+["Mountain", "a very high hill", "جبل"],
+["Hill", "an area of land higher than the land around it, but not as high as a mountain", "تل / تلة"],
+["Valley", "an area of low land between hills or mountains", "واد / وادي"],
+["Lake", "a large area of water surrounded by land", "بحيرة"],
+["River", "a natural flow of water that continues in a long line to the sea/ocean", "نهر"]
+],
+"explanation": "مفردات الجغرافيا تصف الظواهر الطبيعية والتضاريس.",
+"examples": "Mountain: a very high hill.\nLake: a large area of water surrounded by land.\nRiver: a natural flow of water to the sea."
+}
+]
+}

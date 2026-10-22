@@ -1,0 +1,129 @@
+{
+"metadata": {
+"grade": 7,
+"unit": 12,
+"title": "Culture",
+"total_questions": 7,
+"sources": {
+"student_book": 6,
+"activity_book": 1
+},
+"question_types": {
+"free_answer": 7
+}
+},
+"questions": [
+{
+"id": "SB_G7_U12_F1",
+"question": "Where were you last week?",
+"translation": "أين كنت الأسبوع الماضي؟",
+"keywords": ["in Damascus"],
+"suggested_answers": [
+"I was in Damascus last week.",
+"I was in Damascus with my family.",
+"I was in Damascus visiting my relatives."
+],
+"wh_word": "Where",
+"auxiliary": "were",
+"category": "Place",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G7_U12_F2",
+"question": "What will you see if you go to Damascus?",
+"translation": "ماذا سترى إذا ذهبت إلى دمشق؟",
+"keywords": ["the Umayyad Mosque"],
+"suggested_answers": [
+"If I go to Damascus, I will see the Umayyad Mosque.",
+"I will see the old markets and historical buildings.",
+"I will see the beautiful old city of Damascus."
+],
+"wh_word": "What",
+"auxiliary": "will",
+"category": "Prediction",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G7_U12_F3",
+"question": "How can you get to Damascus?",
+"translation": "كيف يمكنك الوصول إلى دمشق؟",
+"keywords": ["by bus"],
+"suggested_answers": [
+"I can get to Damascus by bus.",
+"I can travel to Damascus by car.",
+"You can get to Damascus by plane or by bus."
+],
+"wh_word": "How",
+"auxiliary": "can",
+"category": "Manner",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G7_U12_F4",
+"question": "What does Damascus look like?",
+"translation": "كيف تبدو دمشق؟",
+"keywords": ["beautiful and ancient"],
+"suggested_answers": [
+"Damascus looks like a beautiful ancient city.",
+"It looks like a city full of history and culture.",
+"Damascus looks like a green city with old buildings."
+],
+"wh_word": "What",
+"auxiliary": "does",
+"category": "Description",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G7_U12_F5",
+"question": "Where are the best places for shopping in Damascus?",
+"translation": "أين أفضل أماكن التسوق في دمشق؟",
+"keywords": ["Souq Al-Hamidiyeh"],
+"suggested_answers": [
+"The best places for shopping in Damascus are the old markets like Souq Al-Hamidiyeh.",
+"You can shop in the traditional markets in the old city.",
+"The best places are the malls and the old souqs."
+],
+"wh_word": "Where",
+"auxiliary": "are",
+"category": "Place",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G7_U12_F6",
+"question": "What will you buy?",
+"translation": "ماذا ستشتري؟",
+"keywords": ["a new bike"],
+"suggested_answers": [
+"I will buy a new bike.",
+"I will buy a new bike and some books.",
+"I will buy a new bike for my birthday."
+],
+"wh_word": "What",
+"auxiliary": "will",
+"category": "Object",
+"source": "Student Book",
+"exact_reference": "Grammar (First Conditional)"
+},
+{
+"id": "AB_G7_U12_F1",
+"question": "When was the Eiffel Tower built?",
+"translation": "متى بني برج إيفل؟",
+"keywords": ["in 1889"],
+"suggested_answers": [
+"The Eiffel Tower was built in 1889.",
+"It was built in 1889.",
+"The Eiffel Tower was built in 1889 in Paris."
+],
+"wh_word": "When",
+"auxiliary": "was",
+"category": "Time",
+"source": "Activity Book",
+"exact_reference": "Reading (The Lighthouse of Alexandria)"
+}
+]
+}

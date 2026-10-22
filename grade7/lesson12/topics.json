@@ -1,0 +1,56 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics)",
+"description": "يتم استخراج مواضيع الكتابة من نهاية كل درس في كتاب الطالب وكتاب النشاط.",
+"applicable_to": "جميع الدروس (Unit 12)",
+"search_sources": [
+"Student Book - Writing",
+"Activity Book - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من كتاب الطالب",
+"موضوع واحد من كتاب النشاط",
+"تنويع الأسئلة المساعدة لكل موضوع"
+],
+"applied_to_unit_12": {
+"grade": 7,
+"unit": 12,
+"title": "Culture",
+"total_topics": 2,
+"sources": {
+"topic_1": "Student Book - Writing (Things you care about when visiting a country)",
+"topic_2": "Activity Book - Writing (A festival you have been invited to)"
+}
+}
+},
+"topics": [
+{
+"id": "SB_G7_U12_W1",
+"title": "Write a paragraph about the things you care about when you visit a country.",
+"source": "Student Book",
+"exact_reference": "Writing (Page 82)",
+"guiding_questions": [
+"What do you care about most when you visit a country?",
+"Is transportation important for you? Why?",
+"Do you prefer cheap or expensive shopping?",
+"What kind of food do you like when you travel?",
+"If the accommodation is good, will you enjoy your trip?"
+],
+"sample_essay": "When I visit a country, I care about many things. First, I care about transportation. If transportation is available, I will visit all places. I also care about shopping. If the shops are cheap, I will buy some gifts. Food is important too. If the cuisine is delicious, I will try new dishes. I think these things make my trip happy."
+},
+{
+"id": "AB_G7_U12_W1",
+"title": "Write a paragraph describing a festival you have been invited to.",
+"source": "Activity Book",
+"exact_reference": "Writing (Page 53)",
+"guiding_questions": [
+"What is the name of the festival?",
+"Where was the festival?",
+"Who did you see there?",
+"What did people wear?",
+"Did anything special happen that night?"
+],
+"sample_essay": "Last year, I was invited to a wedding festival. It was in my city. I saw all my family and friends there. People wore beautiful traditional clothes. The bride and the groom were very happy. We ate delicious food and listened to music. It was a wonderful night. I will never forget this festival."
+}
+]
+}

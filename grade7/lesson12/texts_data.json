@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "SB_G7_U12_T1",
+"text_group": "G7_U12_Diversity",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Diversity (Part 1)",
+"content_exam": "Helen, an English young lady, used to believe that 'Good manners are always good manners everywhere' until she met Alexander, a Russian gentleman. The first meeting was strange. When they first met, he said in Russian: 'naley mne kofe' - which means 'Pour me some coffee'. She got angry. His words sounded unfamiliar; that's why she answered him: 'Pour it yourself.' He didn't use any polite words such as 'please', 'would you'. In Russian his sentence was fine because people are more direct. After they got married, they went to the UK. There, he was astonished to watch people eating disgusting, tasteless food and saying, 'Mmm..delicious'.",
+"questions": [
+{
+"id": "t1_q1",
+"question": "Helen is from ........",
+"options": ["Russia", "England", "USA", "France"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: England\n📝 الترجمة: هيلين من إنجلترا.\n💡 الشرح: النص يقول: 'Helen, an English young lady'."
+},
+{
+"id": "t1_q2",
+"question": "Alexander asked Helen to ........",
+"options": ["pour some tea", "pour some coffee", "pour some water", "pour some juice"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: pour some coffee\n📝 الترجمة: طلب ألكسندر من هيلين أن تصب له بعض القهوة.\n💡 الشرح: النص يقول: 'Pour me some coffee'."
+},
+{
+"id": "t1_q3",
+"question": "Helen got angry because Alexander's words sounded ........",
+"options": ["familiar", "unfamiliar", "polite", "direct"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: unfamiliar\n📝 الترجمة: غضبت هيلين لأن كلمات ألكسندر بدت غير مألوفة.\n💡 الشرح: النص يقول: 'His words sounded unfamiliar; that's why she answered him'."
+},
+{
+"id": "t1_q4",
+"question": "In Russia, people are more ........",
+"options": ["polite", "direct", "strange", "angry"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: direct\n📝 الترجمة: في روسيا، الناس أكثر مباشرة.\n💡 الشرح: النص يقول: 'In Russian his sentence was fine because people are more direct'."
+},
+{
+"id": "t1_q5",
+"question": "Alexander went to the UK after they ........",
+"options": ["argued", "got married", "met", "left"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: got married\n📝 الترجمة: ذهب ألكسندر إلى المملكة المتحدة بعد أن تزوجا.\n💡 الشرح: النص يقول: 'After they got married, they went to the UK'."
+}
+]
+},
+{
+"id": "SB_G7_U12_T2",
+"text_group": "G7_U12_Diversity",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Diversity (Part 2)",
+"content_exam": "They argued a lot about it, but her husband, Alexander, could convince her by his question: 'Do you like your guests to lie?' Helen put a plan: If they are both in the UK, she will give him a course in 'Thank you' and 'please' which he thinks that they are completely unnecessary. She will teach him to say 'sorry' and smile even if someone steps on his toe. Alexander complained, in England, he felt like an idiot because he had to smile all the time, people will think you are mad. At home they reached an accord now: if he speaks Russian, he can say 'Pour me some coffee', but if he speaks English, he has to add 'Please', 'thank you', and smile.",
+"questions": [
+{
+"id": "t2_q1",
+"question": "Alexander thinks that English people are liars.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: يعتقد ألكسندر أن الإنجليز كذابون.\n💡 الشرح: النص لم يقل ذلك، بل سأل ألكسندر هيلين: 'Do you like your guests to lie?'"
+},
+{
+"id": "t2_q2",
+"question": "In Russia, it is normal to smile all the time.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: في روسيا، من الطبيعي أن تبتسم طوال الوقت.\n💡 الشرح: النص يقول: 'Alexander complained, in England, he felt like an idiot because he had to smile all the time, people will think you are mad.' هذا يعني أن الابتسام طوال الوقت ليس طبيعياً في روسيا."
+},
+{
+"id": "t2_q3",
+"question": "Alexander felt like a wise man in England.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: شعر ألكسندر وكأنه رجل حكيم في إنجلترا.\n💡 الشرح: النص يقول: 'Alexander complained, in England, he felt like an idiot' (شعر كأنه أحمق) وليس حكيماً."
+},
+{
+"id": "t2_q4",
+"question": "What did Helen plan to give Alexander in the UK?",
+"type": "answer",
+"keywords": ["course", "Thank you", "please", "polite expressions"],
+"explanation": "✅ الإجابة الصحيحة: A course in 'Thank you' and 'please'.\n📝 الترجمة: ماذا خططت هيلين لإعطائه في المملكة المتحدة؟\n💡 الشرح: النص يقول: 'she will give him a course in Thank you and please'."
+},
+{
+"id": "t2_q5",
+"question": "What did Alexander have to add when he speaks English?",
+"type": "answer",
+"keywords": ["Please", "thank you", "smile"],
+"explanation": "✅ الإجابة الصحيحة: He has to add 'Please', 'thank you', and smile.\n📝 الترجمة: ماذا يجب على ألكسندر أن يضيف عندما يتحدث الإنجليزية؟\n💡 الشرح: النص يقول: 'if he speaks English, he has to add Please, thank you, and smile'."
+}
+]
+},
+{
+"id": "AB_G7_U12_T1",
+"text_group": "G7_U12_Lighthouse",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "The Lighthouse of Alexandria (Part 1)",
+"content_exam": "The Lighthouse of Alexandria was known as one of the Seven Wonders of the Ancient World. It is located in the city of Alexandria on the north coast of Egypt. It was considered as the tallest building in the world with 300 feet until the Eiffel Tower was built in 1889. The lighthouse of Alexandria looked a giant. Twelve years were needed for the completion of its whole building and a total of 800 talents of silver were used. The lighthouse was built from large blocks of light-colored stone. The tower was made of three sections. The first was a lower square section, the middle octagonal section, and, at the top, a circular section.",
+"questions": [
+{
+"id": "t3_q1",
+"question": "The Lighthouse of Alexandria was one of the ........ of the Ancient World.",
+"options": ["Seven Wonders", "Seven Kings", "Seven Towers", "Seven Cities"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Seven Wonders\n📝 الترجمة: كانت منارة الإسكندرية واحدة من عجائب الدنيا السبع.\n💡 الشرح: النص يقول: 'one of the Seven Wonders of the Ancient World'."
+},
+{
+"id": "t3_q2",
+"question": "The lighthouse was considered as the ........ building in the world.",
+"options": ["oldest", "tallest", "strongest", "largest"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: tallest\n📝 الترجمة: كانت المنارة تعتبر أطول مبنى في العالم.\n💡 الشرح: النص يقول: 'the tallest building in the world with 300 feet'."
+},
+{
+"id": "t3_q3",
+"question": "The lighthouse was built from large blocks of ........",
+"options": ["wood", "metal", "light-colored stone", "brick"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: light-colored stone\n📝 الترجمة: بنيت المنارة من كتل كبيرة من الحجر فاتح اللون.\n💡 الشرح: النص يقول: 'built from large blocks of light-colored stone'."
+},
+{
+"id": "t3_q4",
+"question": "The middle section of the tower was ........",
+"options": ["square", "circular", "octagonal", "triangular"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: octagonal\n📝 الترجمة: كان القسم الأوسط من البرج مثمناً.\n💡 الشرح: النص يقول: 'the middle octagonal section'."
+},
+{
+"id": "t3_q5",
+"question": "How many talents of silver were used to build the lighthouse?",
+"options": ["100", "800", "300", "1889"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: 800\n📝 الترجمة: كم وزنة من الفضة استخدمت لبناء المنارة؟\n💡 الشرح: النص يقول: 'a total of 800 talents of silver were used'."
+}
+]
+},
+{
+"id": "AB_G7_U12_T2",
+"text_group": "G7_U12_Lighthouse",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "The Lighthouse of Alexandria (Part 2)",
+"content_exam": "It was built by the architect Sostratus of Cnidus in the time of King Ptolemy I. The construction of the lighthouse was necessary at that time. It was considered as a guide. It guided thousands of ships safely into the harbor. The Lighthouse was used, like the sun by day and fire by night. It could be seen from 100 miles. The lighthouse stood until 1323 AD when a powerful earthquake destroyed it. Then came Sultan Qayetbay and fortified the place as a part of his coastal defenses and built his castle on its site.",
+"questions": [
+{
+"id": "t4_q1",
+"question": "Alexandria is located on the top of a mountain.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: تقع الإسكندرية على قمة جبل.\n💡 الشرح: النص يقول: 'on the north coast of Egypt' وليس على جبل."
+},
+{
+"id": "t4_q2",
+"question": "Metals were used to build the lighthouse.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: استخدمت المعادن لبناء المنارة.\n💡 الشرح: النص يقول: 'built from large blocks of light-colored stone' وليس من معادن."
+},
+{
+"id": "t4_q3",
+"question": "The lighthouse could be seen from 100 miles.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: كانت المنارة تُرى من مسافة 100 ميل.\n💡 الشرح: النص يقول: 'It could be seen from 100 miles'."
+},
+{
+"id": "t4_q4",
+"question": "How was the lighthouse destroyed?",
+"type": "answer",
+"keywords": ["earthquake", "powerful earthquake"],
+"explanation": "✅ الإجابة الصحيحة: A powerful earthquake destroyed it.\n📝 الترجمة: كيف دمرت المنارة؟\n💡 الشرح: النص يقول: 'a powerful earthquake destroyed it'."
+},
+{
+"id": "t4_q5",
+"question": "Who built the lighthouse?",
+"type": "answer",
+"keywords": ["Sostratus", "Sostratus of Cnidus", "architect"],
+"explanation": "✅ الإجابة الصحيحة: The architect Sostratus of Cnidus.\n📝 الترجمة: من بنى المنارة؟\n💡 الشرح: النص يقول: 'built by the architect Sostratus of Cnidus'."
+}
+]
+}
+]
+}

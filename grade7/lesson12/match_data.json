@@ -1,0 +1,162 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة المطابقة (Match) - الوحدة 12",
+"description": "تم استخراج أسئلة المطابقة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل التي يمكن تقسيمها إلى بداية ونهاية.",
+"applicable_to": "الوحدة 12 - Culture",
+"search_sources": [
+"Student Book - Reading Text (Diversity)",
+"Student Book - Grammar (First Conditional)",
+"Student Book - Vocabulary Exercise",
+"Activity Book - Reading Text (The Lighthouse of Alexandria)",
+"Activity Book - Grammar (First Conditional)",
+"Activity Book - Vocabulary"
+],
+"structure": {
+"per_group": "5 بدايات + 6 نهايات (مع خيار زائد)"
+},
+"selection_criteria": [
+"تنويع المصادر داخل كل مجموعة",
+"تجنب الجمل المتشابهة",
+"توزيع بين النص والتمارين",
+"كل جملة موثقة بالمصدر الدقيق"
+],
+"applied_to_unit_12": {
+"grade": 7,
+"unit": 12,
+"title": "Culture",
+"total_groups": 2,
+"groups": {
+"group_1": {
+"source": "Student Book",
+"sources_used": [
+"Reading Text (Diversity)",
+"Grammar (First Conditional)",
+"Vocabulary Exercise"
+]
+},
+"group_2": {
+"source": "Activity Book",
+"sources_used": [
+"Reading Text (The Lighthouse of Alexandria)",
+"Grammar (First Conditional)",
+"Vocabulary"
+]
+}
+}
+}
+},
+"groups": [
+{
+"id": "SB_G7_U12_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G7_U12_Diversity",
+"options": [
+{ "letter": "a", "text": "polite expressions." },
+{ "letter": "b", "text": "when he spoke English he would add \"please\"." },
+{ "letter": "c", "text": "wherever she goes." },
+{ "letter": "d", "text": "the oldest in existence." },
+{ "letter": "e", "text": "if you have good manners." },
+{ "letter": "f", "text": "we practise well." }
+],
+"sentences": [
+{
+"start": "Helen believes that good manners are the same",
+"correct": "c",
+"full_sentence": "Helen believes that good manners are the same wherever she goes.",
+"translation": "تعتقد هيلين أن الأخلاق الحميدة هي نفسها أينما ذهبت.",
+"source": "Student Book",
+"exact_reference": "Reading Text (Diversity)"
+},
+{
+"start": "In England people use",
+"correct": "a",
+"full_sentence": "In England people use polite expressions.",
+"translation": "في إنجلترا يستخدم الناس عبارات مهذبة.",
+"source": "Student Book",
+"exact_reference": "Reading Text (Diversity)"
+},
+{
+"start": "Alexander agreed with Helen that",
+"correct": "b",
+"full_sentence": "Alexander agreed with Helen that when he spoke English he would add \"please\".",
+"translation": "اتفق ألكسندر مع هيلين على أنه عندما يتحدث الإنجليزية سيضيف \"من فضلك\".",
+"source": "Student Book",
+"exact_reference": "Reading Text (Diversity)"
+},
+{
+"start": "The plane which I saw is",
+"correct": "d",
+"full_sentence": "The plane which I saw is the oldest in existence.",
+"translation": "الطائرة التي رأيتها هي الأقدم في الوجود.",
+"source": "Student Book",
+"exact_reference": "Vocabulary Exercise"
+},
+{
+"start": "People will respect you",
+"correct": "e",
+"full_sentence": "People will respect you if you have good manners.",
+"translation": "سيحترمك الناس إذا كنت تمتلك أخلاقاً حميدة.",
+"source": "Student Book",
+"exact_reference": "Grammar (First Conditional)"
+}
+]
+},
+{
+"id": "AB_G7_U12_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G7_U12_Lighthouse",
+"options": [
+{ "letter": "a", "text": "on the north coast of Egypt." },
+{ "letter": "b", "text": "thousands of ships safely into the harbor." },
+{ "letter": "c", "text": "gain power." },
+{ "letter": "d", "text": "he will make an accident." },
+{ "letter": "e", "text": "I won't go to the park." },
+{ "letter": "f", "text": "the hotel is amazing." }
+],
+"sentences": [
+{
+"start": "The Lighthouse is located",
+"correct": "a",
+"full_sentence": "The Lighthouse is located on the north coast of Egypt.",
+"translation": "تقع المنارة على الساحل الشمالي لمصر.",
+"source": "Activity Book",
+"exact_reference": "Reading Text (The Lighthouse of Alexandria)"
+},
+{
+"start": "The Lighthouse guided",
+"correct": "b",
+"full_sentence": "The Lighthouse guided thousands of ships safely into the harbor.",
+"translation": "وجهت المنارة آلاف السفن بأمان إلى الميناء.",
+"source": "Activity Book",
+"exact_reference": "Reading Text (The Lighthouse of Alexandria)"
+},
+{
+"start": "Women are trying to",
+"correct": "c",
+"full_sentence": "Women are trying to gain power.",
+"translation": "تحاول النساء اكتساب القوة.",
+"source": "Activity Book",
+"exact_reference": "Vocabulary"
+},
+{
+"start": "If he drives too fast,",
+"correct": "d",
+"full_sentence": "If he drives too fast, he will make an accident.",
+"translation": "إذا قاد بسرعة كبيرة، سيتسبب في حادث.",
+"source": "Activity Book",
+"exact_reference": "Grammar (First Conditional)"
+},
+{
+"start": "If it rains,",
+"correct": "e",
+"full_sentence": "If it rains, I won't go to the park.",
+"translation": "إذا مطرت، لن أذهب إلى الحديقة.",
+"source": "Activity Book",
+"exact_reference": "Grammar (First Conditional)"
+}
+]
+}
+]
+}
