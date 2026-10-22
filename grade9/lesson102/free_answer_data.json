@@ -1,0 +1,100 @@
+{
+"questions": [
+{
+"question": "How can you show your love to your parents?",
+"translation": "كيف يمكنك أن تُظهر حبك لوالديك؟",
+"keywords": ["tell", "help", "respect", "listen", "obey", "spend time", "kind", "support"],
+"suggested_answers": [
+"I can show my love by telling them what is on my mind and helping them.",
+"I show my love by respecting them, listening to them, and spending time with them.",
+"I can be kind and support my parents to show my love."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 98"
+},
+{
+"question": "How can you be a good example to your siblings?",
+"translation": "كيف يمكنك أن تكون قدوة حسنة لأشقائك؟",
+"keywords": ["help", "schoolwork", "clean up", "respect", "kind", "share", "honest", "listen"],
+"suggested_answers": [
+"I can help my siblings with their schoolwork and clean up with them.",
+"Being kind, honest, and respectful makes me a good example for my siblings.",
+"I can share things with them and listen to them to be a good example."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 98"
+},
+{
+"question": "What should you do to be a good student?",
+"translation": "ماذا يجب أن تفعل لتكون طالباً جيداً؟",
+"keywords": ["respect", "teachers", "homework", "grades", "listen", "study", "punctual", "participate"],
+"suggested_answers": [
+"I should respect my teachers, do my homework, and keep my grades up.",
+"To be a good student, I should listen in class, study hard, and participate.",
+"A good student is punctual, does homework, and respects the teacher."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 98"
+},
+{
+"question": "How can you make your parents happy?",
+"translation": "كيف يمكنك أن تُسعد والديك؟",
+"keywords": ["show love", "kind", "do well", "responsible", "advice", "respect", "help", "honest"],
+"suggested_answers": [
+"I can make my parents happy by showing love and being kind.",
+"Doing well at school and being responsible makes my parents happy.",
+"I make my parents happy when I respect them, help them, and follow their advice."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 98"
+},
+{
+"question": "How can you make friends from different countries?",
+"translation": "كيف يمكنك تكوين صداقات من بلدان مختلفة؟",
+"keywords": ["sign up", "pen pal website", "profile", "interests", "write", "message", "language", "share"],
+"suggested_answers": [
+"I can sign up on a pen pal website and create a profile with my interests.",
+"I can write messages and share my interests with people from other countries.",
+"Learning a foreign language helps me make friends from different countries."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 87"
+},
+{
+"question": "Why is it useful to learn a foreign language?",
+"translation": "لماذا من المفيد تعلم لغة أجنبية؟",
+"keywords": ["communication", "conversations", "friends", "build bonds", "travel", "work", "culture", "understand"],
+"suggested_answers": [
+"It is useful to learn a foreign language because it helps us communicate with others.",
+"Learning a foreign language helps us build bonds and make friends.",
+"A foreign language opens the door to new cultures and helps us travel and work."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 87"
+},
+{
+"question": "What helps you to make friends wherever you go?",
+"translation": "ما الذي يساعدك على تكوين صداقات أينما ذهبت؟",
+"keywords": ["polite", "nice", "willing to learn", "new experiences", "smile", "kind", "open", "curious"],
+"suggested_answers": [
+"Being polite and nice helps me make friends wherever I go.",
+"If I am willing to learn and try new experiences, I can make friends easily.",
+"Being kind, open, and curious about others helps me make friends."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 87"
+},
+{
+"question": "What should you remember about people in other countries?",
+"translation": "ماذا يجب أن تتذكر عن الناس في البلدان الأخرى؟",
+"keywords": ["different cultures", "life styles", "respect", "privacy", "traditions", "customs", "religion", "values"],
+"suggested_answers": [
+"I should remember that people in other countries have different cultures and life styles.",
+"I should respect their privacy, traditions, and customs.",
+"People in other countries have different values and religions, and we should respect them."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 87"
+}
+]
+}

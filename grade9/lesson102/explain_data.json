@@ -1,0 +1,161 @@
+{
+"vocabulary": [
+{ "word": "Mistake", "translation": "خطأ" },
+{ "word": "Fix", "translation": "يصلح" },
+{ "word": "Disagree", "translation": "يختلف مع" },
+{ "word": "Fight", "translation": "شجار / معركة" },
+{ "word": "Daily", "translation": "يومي" },
+{ "word": "Details", "translation": "تفاصيل" },
+{ "word": "Struggles", "translation": "صراعات / مشاكل" },
+{ "word": "Advice", "translation": "نصيحة" },
+{ "word": "Appreciate", "translation": "يقدر / يثمن" },
+{ "word": "Value", "translation": "يقدر / يعتبر ذا قيمة" },
+{ "word": "Opinion", "translation": "رأي" },
+{ "word": "Siblings", "translation": "أشقاء" },
+{ "word": "Get along with", "translation": "يتوافق مع / ينسجم مع" },
+{ "word": "Relationships", "translation": "علاقات" },
+{ "word": "Schoolwork", "translation": "واجبات مدرسية" },
+{ "word": "Clean up", "translation": "ينظف" },
+{ "word": "Example", "translation": "قدوة / مثال" },
+{ "word": "Respect", "translation": "يحترم" },
+{ "word": "Homework", "translation": "واجب منزلي" },
+{ "word": "Grades", "translation": "درجات" },
+{ "word": "Ability", "translation": "قدرة" },
+{ "word": "Succeed", "translation": "ينجح" },
+{ "word": "Responsible", "translation": "مسؤول" },
+{ "word": "Adult", "translation": "بالغ / راشد" },
+{ "word": "Curious", "translation": "فضولي" },
+{ "word": "Cultures", "translation": "ثقافات" },
+{ "word": "Sign up", "translation": "يسجل" },
+{ "word": "Pen pal", "translation": "صديق مراسلة" },
+{ "word": "Supervision", "translation": "إشراف" },
+{ "word": "Profile", "translation": "ملف شخصي" },
+{ "word": "Interests", "translation": "اهتمامات" },
+{ "word": "Birth date", "translation": "تاريخ الميلاد" },
+{ "word": "Conversations", "translation": "محادثات" },
+{ "word": "Build bonds", "translation": "يبني روابط" },
+{ "word": "Polite", "translation": "مهذب" },
+{ "word": "Willing", "translation": "راغب" },
+{ "word": "New experiences", "translation": "تجارب جديدة" },
+{ "word": "Face to face", "translation": "وجهاً لوجه" },
+{ "word": "Keep in mind", "translation": "يضع في الاعتبار" },
+{ "word": "Life styles", "translation": "أنماط حياة" },
+{ "word": "Enrich", "translation": "يثري" },
+{ "word": "Knowledge", "translation": "معرفة" },
+{ "word": "Privacy", "translation": "خصوصية" },
+{ "word": "Various", "translation": "متنوع" },
+{ "word": "Topics", "translation": "مواضيع" },
+{ "word": "Fill in", "translation": "يملأ" },
+{ "word": "Personal", "translation": "شخصي" },
+{ "word": "Limited", "translation": "محدود" },
+{ "word": "Neighbourhood", "translation": "حي / جوار" },
+{ "word": "Recognize", "translation": "يتعرف على" },
+{ "word": "Pollute", "translation": "يلوث" },
+{ "word": "Environment", "translation": "بيئة" },
+{ "word": "Expensive", "translation": "غالٍ / مكلف" },
+{ "word": "Afford", "translation": "يتحمل تكلفة" },
+{ "word": "Holiday", "translation": "عطلة / إجازة" },
+{ "word": "Classical", "translation": "كلاسيكي" },
+{ "word": "Destination", "translation": "وجهة" },
+{ "word": "Post office", "translation": "مكتب بريد" },
+{ "word": "Garage", "translation": "مرآب" },
+{ "word": "Library", "translation": "مكتبة" },
+{ "word": "Recently", "translation": "مؤخراً" },
+{ "word": "Tomorrow", "translation": "غداً" },
+{ "word": "Yesterday", "translation": "أمس" },
+{ "word": "Last summer", "translation": "الصيف الماضي" },
+{ "word": "Two weeks ago", "translation": "قبل أسبوعين" },
+{ "word": "Concert", "translation": "حفلة موسيقية" },
+{ "word": "Practise", "translation": "يتدرب" },
+{ "word": "Piece of music", "translation": "مقطوعة موسيقية" },
+{ "word": "Solo part", "translation": "جزء منفرد" },
+{ "word": "Violin", "translation": "كمان" },
+{ "word": "Guitar", "translation": "غيتار" },
+{ "word": "Piano", "translation": "بيانو" },
+{ "word": "Go on", "translation": "يستمر" },
+{ "word": "Stop", "translation": "يتوقف" },
+{ "word": "Start from the beginning", "translation": "يبدأ من البداية" },
+{ "word": "Agree", "translation": "يوافق" }
+],
+"tables": [
+{
+"title": "Wish (الأمنيات في الحاضر)",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["أمنية عن ملكية أو حالة", "wish + past simple", "I wish I had a car."],
+["أمنية عن قدرة", "wish + could", "I wish I could play the piano."],
+["أمنية عن حالة منفية", "wish + past simple (منفي)", "I wish I wasn't ill."]
+],
+"explanation": "نستخدم 'wish' عندما نتمنى أن يكون الواقع مختلفاً عن ما هو عليه الآن. الصيغة: Subject + wish + (that) + Subject + Past Simple. الحالات: (1) شيء لا نملكه: had. (2) شيء نريد تغييره: wasn't/weren't. (3) قدرة لا نملكها: could.",
+"examples": "I don't have a car. → I wish I had a car.\nI can't play the piano. → I wish I could play the piano.\nI'm at work. → I wish I wasn't at work.\nIt's winter. → I wish it wasn't winter.\nI'm ill. → I wish I wasn't ill.\nI don't have new shoes. → I wish I had new shoes.\nI can't afford to go on holiday. → I wish I could afford to go on holiday.\nI don't have time to read lots of books. → I wish I had time to read lots of books."
+},
+{
+"title": "Reported Speech (الكلام المنقول)",
+"headers": ["النوع", "التغيير", "مثال"],
+"rows": [
+["سؤال بـ Yes/No", "if + فاعل + فعل (تغيير الزمن)", "He asked if I was leaving."],
+["سؤال بـ Question Word", "QW + فاعل + فعل (تغيير الزمن)", "She asked where I lived."],
+["جملة مثبتة", "that + فاعل + فعل (تغيير الزمن)", "She said that she liked classical music."],
+["جملة منفية", "that + فاعل + فعل منفي (تغيير الزمن)", "He said that he didn't like tea."],
+["أمر", "to + مصدر الفعل", "He told me to open the door."],
+["نهي", "not to + مصدر الفعل", "He told me not to open the door."]
+],
+"explanation": "عند نقل كلام شخص آخر نغير: (1) الزمن إلى الماضي، (2) الضمائر، (3) ظروف الزمان والمكان. تغيير الزمن: Present Simple → Past Simple، Present Continuous → Past Continuous، Past Simple → Past Perfect، Present Perfect → Past Perfect، will → would، can → could. تغيير ظروف الزمان والمكان: today → that day، tomorrow → the next day، yesterday → the previous day، now → then، here → there.",
+"examples": "\"Are the boys reading the book?\" → Mandy asked if the boys were reading the book.\n\"Is Tim leaving on Friday?\" → Robert asked if Tim was leaving on Friday.\n\"Will it rain tomorrow?\" → Daniel asked if it would rain the next day.\n\"Where do you play football?\" → Jennifer wanted to know where I played football.\n\"Why didn't Nick go to New York last summer?\" → Nancy asked why Nick hadn't gone to New York the previous summer.\n\"Did Max fly to London two weeks ago?\" → Linda wanted to know if Max had flown to London two weeks before.\n\"I liked classical music when I was at school.\" → She said that she liked classical music when she was at school.\n\"We stayed in a big hotel.\" → She told me that they stayed in a big hotel.\n\"They have been to France for a month.\" → Mark told us that they had been to France for a month.\n\"Where is the post office?\" → He asked where the post office was."
+},
+{
+"title": "Passive Voice (المبني للمجهول)",
+"headers": ["الزمن", "الصيغة", "مثال"],
+"rows": [
+["الماضي البسيط", "was/were + past participle", "The house was built by workers."],
+["المضارع البسيط", "am/is/are + past participle", "The cake is baked by the chef."],
+["المستقبل", "will be + past participle", "The letter will be sent tomorrow."]
+],
+"explanation": "قاعدة المبني للمجهول: المفعول به يصبح فاعلاً، نضيف was/were حسب الفاعل الجديد، نضع الفعل في التصريف الثالث، و(اختيارياً) نضيف by + الفاعل الأصلي.",
+"examples": "The chef baked a cake. → A cake was baked by the chef.\nThe workers built a new house. → A new house was built by the workers.\nThe school manager advised students. → Students were advised by the school manager.\nMum drank a lot of coffee. → A lot of coffee was drunk by Mum."
+},
+{
+"title": "Question Tags (أسئلة توكيدية)",
+"headers": ["النوع", "القاعدة", "مثال"],
+"rows": [
+["جملة مثبتة", "فعل مساعد منفي + ضمير", "You are John, aren't you?"],
+["جملة منفية", "فعل مساعد مثبت + ضمير", "He didn't recognize me, did he?"],
+["مع I am", "aren't I", "I am good at math, aren't I?"]
+],
+"explanation": "سؤال قصير يوضع في نهاية الجملة لتأكيد المعلومة أو طلب التأكيد. إذا كانت الجملة مثبتة → السؤال التوكيدي منفي. إذا كانت الجملة منفية → السؤال التوكيدي مثبت. يتكون من: فعل مساعد + ضمير.",
+"examples": "The car isn't in the garage, is it?\nYou are John, aren't you?\nShe went to the library yesterday, didn't she?\nHe didn't recognize me, did he?\nCars pollute the environment, don't they?\nMr. Pritchard has been to Scotland recently, hasn't he?\nThe trip is very expensive, isn't it?\nHe won't tell her, will he?\nHuda had a red car, hadn't she?"
+},
+{
+"title": "Relative Pronouns (ضمائر الوصل)",
+"headers": ["الضمير", "الاستخدام", "مثال"],
+"rows": [
+["who", "للشخص (فاعل)", "The man who helped me was kind."],
+["which", "للجماد / الحيوان", "The book which I read was interesting."],
+["whose", "للملكية", "The woman whose bag was stolen went to the police."],
+["whom", "للشخص (مفعول به)", "The man whom I saw was tall."]
+],
+"explanation": "ضمائر الوصل تستخدم لربط جملتين. who: للشخص فاعلاً. which: للجماد أو الحيوان. whose: للملكية. whom: للشخص مفعولاً به.",
+"examples": "He wore a mask which made him look like Mickey Mouse.\nShe came with a friend who waited outside.\nThe woman who gave him the money was young.\nThe bag which contained the money was yellow.\nThe woman whose bag was stolen went to the police station."
+},
+{
+"title": "Past Simple vs Past Continuous",
+"headers": ["الزمن", "الاستخدام", "مثال"],
+"rows": [
+["Past Simple", "حدث منفصل ومكتمل في الماضي", "I heard a noise."],
+["Past Continuous", "حدث كان مستمراً في الماضي", "I was standing when something hit me."]
+],
+"explanation": "Past Simple: حدث منفصل ومكتمل. Past Continuous: حدث كان مستمراً عندما قطعه حدث آخر. غالباً ما يأتي مع while + Past Continuous (الحدث الطويل) و Past Simple (الحدث القصير الذي قطعه).",
+"examples": "One night I heard a lot of noise.\nI went to see what was wrong.\nWithout thinking I ran into the house.\nWhile I was standing, something hit me.\nThe fire brigade pulled me out of the house.\nThe woman was there and she said, 'It's all right.'"
+},
+{
+"title": "Pronouns (الضمائر)",
+"headers": ["النوع", "ضمائر الفاعل", "صفات الملكية"],
+"rows": [
+["المفرد", "I, you, he, she, it", "my, your, his, her, its"],
+["الجمع", "we, you, they", "our, your, their"]
+],
+"explanation": "ضمائر الفاعل (Subject Pronouns): تأتي قبل الفعل. صفات الملكية (Possessive Adjectives): تأتي قبل الاسم لتدل على الملكية.",
+"examples": "You have to fill in your personal details.\nIt's important to learn their language.\nSami will be happy if he gets high marks.\nWe shouldn't be limited to friends living in our neighbourhood."
+}
+]
+}

@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"title": "Match the Words with Definitions - How to be a Good Son or Daughter?",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "a brother or a sister" },
+{ "letter": "b", "text": "to have a friendly relationship with someone" },
+{ "letter": "c", "text": "to know the good qualities of somebody/something" },
+{ "letter": "d", "text": "how much something is worth" },
+{ "letter": "e", "text": "to admire or have a high opinion of someone" },
+{ "letter": "f", "text": "to be afraid of something" }
+],
+"sentences": [
+{
+"start": "appreciate",
+"correct": "c",
+"full_sentence": "appreciate: to know the good qualities of somebody/something",
+"translation": "يقدّر: يعرف الصفات الجيدة لشخص ما / شيء ما",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 96"
+},
+{
+"start": "value",
+"correct": "d",
+"full_sentence": "value: how much something is worth",
+"translation": "القيمة: كم يساوي شيء ما",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 96"
+},
+{
+"start": "sibling",
+"correct": "a",
+"full_sentence": "sibling: a brother or a sister",
+"translation": "الشقيق: أخ أو أخت",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 96"
+},
+{
+"start": "get along with",
+"correct": "b",
+"full_sentence": "get along with: to have a friendly relationship with someone",
+"translation": "يتوافق مع: لديه علاقة ودية مع شخص ما",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 96"
+},
+{
+"start": "respect",
+"correct": "e",
+"full_sentence": "respect: to admire or have a high opinion of someone",
+"translation": "يحترم: يعجب به / لديه رأي عالي بشخص ما",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 96"
+}
+]
+},
+{
+"title": "Match the Words with Definitions - Overseas Pen Friends",
+"source": "activity_book",
+"options": [
+{ "letter": "a", "text": "to Facebook" },
+{ "letter": "b", "text": "new experiences" },
+{ "letter": "c", "text": "a conversation" },
+{ "letter": "d", "text": "a profile" },
+{ "letter": "e", "text": "friends" },
+{ "letter": "f", "text": "a website" }
+],
+"sentences": [
+{
+"start": "make",
+"correct": "e",
+"full_sentence": "make friends",
+"translation": "تكوين أصدقاء",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 86"
+},
+{
+"start": "start",
+"correct": "c",
+"full_sentence": "start a conversation",
+"translation": "بدء محادثة",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 86"
+},
+{
+"start": "create",
+"correct": "d",
+"full_sentence": "create a profile",
+"translation": "إنشاء ملف شخصي",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 86"
+},
+{
+"start": "sign up",
+"correct": "a",
+"full_sentence": "sign up to Facebook",
+"translation": "التسجيل في فيسبوك",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 86"
+},
+{
+"start": "learn about",
+"correct": "b",
+"full_sentence": "learn about new experiences",
+"translation": "التعلم عن تجارب جديدة",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 86"
+}
+]
+}
+]
+}

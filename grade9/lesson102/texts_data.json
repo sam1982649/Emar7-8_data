@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "PT2_T1_P1",
+"text_group": "PT2_How_To_Be_Good_Son_Or_Daughter",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "How to be a Good Son or Daughter? - Part 1",
+"content_exam": "It's not always easy to be a good son. Sometimes, you make a mistake and can't find a way to fix it. Other times, you disagree with your parents and don't know how to talk to them without starting a fight. What shall you do? Show your love. Tell your parents what's going on in your life. Your parents love you and want to know what's going on in your life. They need to know all of the daily details, but they would love to know what's on your mind, from your struggles with your studies to any big problems you're having with your friends. They really do care, and even if they can't always help, they would just like to know what's happening.",
+"questions": [
+{
+"id": "PT2_TXT_C01",
+"type": "choice",
+"question": "......................... is the first advice given to be a good son/daughter.",
+"options": ["Be kind to your siblings", "Show your love", "Do well in school", "Respect your teachers"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: Show your love\n📝 الترجمة: إظهار حبك هو النصيحة الأولى لتكون ابناً أو ابنة صالحين.\n💡 الشرح: النص يقول: 'Show your love' كأول نصيحة."
+},
+{
+"id": "PT2_TXT_C02",
+"type": "choice",
+"question": "Parents would love to know ......................... .",
+"options": ["what's on your mind", "what's in your bag", "what's your favourite food", "what's your hobby"],
+"correct": 0,
+"explanation": "✅ الإجابة الصحيحة: what's on your mind\n📝 الترجمة: يحب الوالدان معرفة ما يدور في ذهنك.\n💡 الشرح: النص يقول: 'they would love to know what's on your mind'."
+},
+{
+"id": "PT2_TXT_C03",
+"type": "choice",
+"question": "You should tell your parents what's on your mind because ......................... .",
+"options": ["they don't care", "they love you and care", "they want to control you", "they are strict"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: they love you and care\n📝 الترجمة: يجب أن تخبر والديك بما يدور في ذهنك لأنهما يحبونك ويهتمون بك.\n💡 الشرح: النص يقول: 'Your parents love you and want to know what's going on in your life'."
+},
+{
+"id": "PT2_TXT_C04",
+"type": "choice",
+"question": "Parents really care about ......................... .",
+"options": ["your money", "your success only", "your struggles and problems", "your friends only"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: your struggles and problems\n📝 الترجمة: يهتم الوالدان حقاً بصراعاتك ومشاكلك.\n💡 الشرح: النص يقول: 'from your struggles with your studies to any big problems you're having with your friends'."
+},
+{
+"id": "PT2_TXT_C05",
+"type": "choice",
+"question": "If you make a mistake, you should ......................... .",
+"options": ["hide it from your parents", "find a way to fix it", "ignore it", "blame someone else"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: find a way to fix it\n📝 الترجمة: إذا ارتكبت خطأً، يجب أن تجد طريقة لإصلاحه.\n💡 الشرح: النص يقول: 'you make a mistake and can't find a way to fix it'."
+}
+]
+},
+{
+"id": "PT2_T1_P2",
+"text_group": "PT2_How_To_Be_Good_Son_Or_Daughter",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "How to be a Good Son or Daughter? - Part 2",
+"content_exam": "Don't be afraid to ask for your parents' advice. Believe it or not, your parents were once your age, and they've gone through the same struggles that you're going through. They'll appreciate that you value their opinion. Be kind to your siblings. It's sometimes difficult to get along with your siblings, whether they are older or younger, but you should try to develop relationships with them. You can help your siblings do their schoolwork, or clean up. This will not only help you be a good example to your siblings, but it will also help your parents. Do as well in school as you can. Your parents will be happy if you respect your teachers, do your homework, and keep your grades up to the best of your ability.",
+"questions": [
+{
+"id": "PT2_TXT_TF01",
+"type": "truefalse",
+"question": "Parents were never your age.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: لم يكن الوالدان في عمرك أبداً.\n💡 الشرح: النص يقول: 'your parents were once your age'."
+},
+{
+"id": "PT2_TXT_TF02",
+"type": "truefalse",
+"question": "You should not ask for your parents' advice.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: يجب ألا تطلب نصيحة والديك.\n💡 الشرح: النص يقول: 'Don't be afraid to ask for their advice'."
+},
+{
+"id": "PT2_TXT_TF03",
+"type": "truefalse",
+"question": "Being kind to your siblings helps your parents.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: أن تكون لطيفاً مع أشقائك يساعد والديك.\n💡 الشرح: النص يقول: 'it will also help your parents'."
+},
+{
+"id": "PT2_TXT_A01",
+"type": "answer",
+"question": "How can you be a good example to your siblings?",
+"keywords": ["help your siblings", "schoolwork", "clean up", "help"],
+"explanation": "✅ الإجابة الصحيحة: By helping them with their schoolwork or cleaning up.\n📝 الترجمة: كيف يمكنك أن تكون قدوة حسنة لأشقائك؟\n💡 الشرح: يمكنك مساعدة أشقائك في واجباتهم المدرسية أو التنظيف."
+},
+{
+"id": "PT2_TXT_A02",
+"type": "answer",
+"question": "What should you do at school to be a good student?",
+"keywords": ["respect your teachers", "do your homework", "keep your grades up", "respect", "homework", "grades"],
+"explanation": "✅ الإجابة الصحيحة: Respect your teachers, do your homework, and keep your grades up.\n📝 الترجمة: ماذا يجب أن تفعل في المدرسة لتكون طالباً جيداً؟\n💡 الشرح: يجب أن تحترم معلميك، وتؤدي واجباتك، وتحافظ على درجاتك."
+}
+]
+},
+{
+"id": "PT2_T2_P1",
+"text_group": "PT2_Overseas_Pen_Friends",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Overseas Pen Friends - Part 1",
+"content_exam": "Most people are curious about different countries and their cultures. So, some tend to make friends from all around the world. Making friends from all over the world is easy nowadays. We only have to sign up to a pen pal website under the supervision of parents. When we create a profile, we will be asked to fill out basic details about ourselves; like our interests, the country we are from, and our birth date. We will be able to have conversations with new friends in different countries, so learning another language can help us build bonds with people that speak foreign languages.",
+"questions": [
+{
+"id": "PT2_TXT_C06",
+"type": "choice",
+"question": "Most people are curious about ......................... .",
+"options": ["different countries and cultures", "making money", "travelling", "learning languages"],
+"correct": 0,
+"explanation": "✅ الإجابة الصحيحة: different countries and cultures\n📝 الترجمة: معظم الناس فضوليون تجاه البلدان والثقافات المختلفة.\n💡 الشرح: النص يقول: 'Most people are curious about different countries and their cultures'."
+},
+{
+"id": "PT2_TXT_C07",
+"type": "choice",
+"question": "We can make friends from all over the world by ......................... .",
+"options": ["travelling", "signing up to a pen pal website", "studying abroad", "working overseas"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: signing up to a pen pal website\n📝 الترجمة: يمكننا تكوين صداقات من جميع أنحاء العالم من خلال التسجيل في موقع أصدقاء المراسلة.\n💡 الشرح: النص يقول: 'We only have to sign up to a pen pal website'."
+},
+{
+"id": "PT2_TXT_C08",
+"type": "choice",
+"question": "When we create a profile, we fill out ......................... .",
+"options": ["our favourite food", "our interests, country, and birth date", "our school name", "our parents' names"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: our interests, country, and birth date\n📝 الترجمة: عندما ننشئ ملفاً شخصياً، نملأ اهتماماتنا وبلدنا وتاريخ ميلادنا.\n💡 الشرح: النص يقول: 'fill out basic details about ourselves; like our interests, the country we are from, and our birth date'."
+},
+{
+"id": "PT2_TXT_C09",
+"type": "choice",
+"question": "Learning a foreign language helps us ......................... .",
+"options": ["get a job", "build bonds with people", "travel", "study"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: build bonds with people\n📝 الترجمة: تعلم لغة أجنبية يساعدنا على بناء روابط مع الناس.\n💡 الشرح: النص يقول: 'learning another language can help us build bonds with people'."
+},
+{
+"id": "PT2_TXT_C10",
+"type": "choice",
+"question": "We need to sign up to ......................... .",
+"options": ["a school website", "a pen pal website", "a travel website", "a job website"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: a pen pal website\n📝 الترجمة: نحتاج إلى التسجيل في موقع أصدقاء المراسلة.\n💡 الشرح: النص يقول: 'sign up to a pen pal website'."
+}
+]
+},
+{
+"id": "PT2_T2_P2",
+"text_group": "PT2_Overseas_Pen_Friends",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Overseas Pen Friends - Part 2",
+"content_exam": "We must be polite when asking them about their lives and things that they are interested in. Being a nice person and willing to learn about new experiences will help you make friends wherever you go. If we have the chance to travel one day, we may meet these friends face to face. We have to keep in mind that different people in different countries have different cultures and different life styles which enrich our knowledge about various topics. We have to respect other people's privacy and try to learn the best from them.",
+"questions": [
+{
+"id": "PT2_TXT_TF04",
+"type": "truefalse",
+"question": "Being polite is not important when making friends.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: أن تكون مهذباً ليس مهماً عند تكوين الصداقات.\n💡 الشرح: النص يقول: 'We must be polite when asking them about their lives'."
+},
+{
+"id": "PT2_TXT_TF05",
+"type": "truefalse",
+"question": "Different countries have different cultures.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: البلدان المختلفة لديها ثقافات مختلفة.\n💡 الشرح: النص يقول: 'different people in different countries have different cultures'."
+},
+{
+"id": "PT2_TXT_TF06",
+"type": "truefalse",
+"question": "We should not respect other people's privacy.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: يجب ألا نحترم خصوصية الآخرين.\n💡 الشرح: النص يقول: 'We have to respect other people's privacy'."
+},
+{
+"id": "PT2_TXT_A03",
+"type": "answer",
+"question": "What helps us to make friends wherever we go?",
+"keywords": ["Being a nice person", "willing to learn", "new experiences", "nice", "learn"],
+"explanation": "✅ الإجابة الصحيحة: Being a nice person and willing to learn about new experiences.\n📝 الترجمة: ما الذي يساعدنا على تكوين صداقات أينما ذهبنا؟\n💡 الشرح: كونك شخصاً لطيفاً وراغباً في تعلم تجارب جديدة يساعدك على تكوين صداقات."
+},
+{
+"id": "PT2_TXT_A04",
+"type": "answer",
+"question": "What should we keep in mind about people in different countries?",
+"keywords": ["different cultures", "different life styles", "enrich our knowledge", "cultures", "life styles"],
+"explanation": "✅ الإجابة الصحيحة: They have different cultures and life styles which enrich our knowledge.\n📝 الترجمة: ماذا يجب أن نتذكر عن الناس في البلدان المختلفة؟\n💡 الشرح: يجب أن نتذكر أن الناس في مختلف البلدان لديهم ثقافات وأنماط حياة مختلفة."
+}
+]
+}
+]
+}
