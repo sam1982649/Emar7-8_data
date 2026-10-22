@@ -1,0 +1,166 @@
+{
+"metadata": {
+"grade": 8,
+"unit": 10,
+"title": "Creativity and Ambitions"
+},
+"questions": [
+{
+"id": "SB_G8_U10_C1",
+"original": "I want to be a writer.",
+"targetWord": "a writer",
+"correctQuestion": "What do you want to be?",
+"correctQuestions": [
+"What do you want to be?"
+],
+"wh_word": "what",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Job",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G8_U10_C2",
+"original": "She lives in Egypt.",
+"targetWord": "in Egypt",
+"correctQuestion": "Where does she live?",
+"correctQuestions": [
+"Where does she live?"
+],
+"wh_word": "where",
+"auxiliary": "does",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Listening"
+},
+{
+"id": "SB_G8_U10_C3",
+"original": "I'm fine thank you.",
+"targetWord": "fine",
+"correctQuestion": "How are you?",
+"correctQuestions": [
+"How are you?"
+],
+"wh_word": "how",
+"auxiliary": "are",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "State",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar (Dialogue)"
+},
+{
+"id": "SB_G8_U10_C4",
+"original": "They have been working there for 15 years.",
+"targetWord": "for 15 years",
+"correctQuestion": "How long have they been working there?",
+"correctQuestions": [
+"How long have they been working there?"
+],
+"wh_word": "how long",
+"auxiliary": "have",
+"subject": "they",
+"subject_type": "pronoun",
+"category": "Duration",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar (Dialogue)"
+},
+{
+"id": "SB_G8_U10_C5",
+"original": "My parents like to live abroad.",
+"targetWord": "abroad",
+"correctQuestion": "Where do your parents like to live?",
+"correctQuestions": [
+"Where do your parents like to live?"
+],
+"wh_word": "where",
+"auxiliary": "do",
+"subject": "your parents",
+"subject_type": "noun_plural",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar (Dialogue)"
+},
+{
+"id": "AB_G8_U10_C6",
+"original": "John is a doctor.",
+"targetWord": "a doctor",
+"correctQuestion": "What does John do?",
+"correctQuestions": [
+"What does John do?"
+],
+"wh_word": "what",
+"auxiliary": "does",
+"subject": "john",
+"subject_type": "name_male",
+"category": "Job",
+"acceptedAnswers": [
+"What does he do?",
+"What is John's job?",
+"What is his job?"
+],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G8_U10_C7",
+"original": "She goes to school by bus.",
+"targetWord": "by bus",
+"correctQuestion": "How does she go to school?",
+"correctQuestions": [
+"How does she go to school?"
+],
+"wh_word": "how",
+"auxiliary": "does",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Transport",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Vocabulary"
+},
+{
+"id": "AB_G8_U10_C8",
+"original": "They went to the cinema.",
+"targetWord": "to the cinema",
+"correctQuestion": "Where did they go?",
+"correctQuestions": [
+"Where did they go?"
+],
+"wh_word": "where",
+"auxiliary": "did",
+"subject": "they",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G8_U10_C9",
+"original": "Sami could run fast.",
+"targetWord": "Sami",
+"correctQuestion": "Who could run fast?",
+"correctQuestions": [
+"Who could run fast?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "sami",
+"subject_type": "name_male",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+}
+]
+}
