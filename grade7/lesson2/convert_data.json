@@ -1,0 +1,150 @@
+{
+"questions": [
+{
+"id": "SB_G7_U2_C1",
+"original": "Soppo was an enormous giant.",
+"targetWord": "enormous",
+"correctQuestion": "What did Soppo look like?",
+"correctQuestions": [
+"What did Soppo look like?"
+],
+"wh_word": "what ... look like",
+"auxiliary": "did",
+"subject": "soppo",
+"subject_type": "name_male",
+"category": "Physical Description",
+"acceptedAnswers": [
+"What did he look like?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U2_C2",
+"original": "Soppo decided to help people.",
+"targetWord": "to help people",
+"correctQuestion": "What did Soppo decide to do?",
+"correctQuestions": [
+"What did Soppo decide to do?"
+],
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "soppo",
+"subject_type": "name_male",
+"category": "Object",
+"acceptedAnswers": [
+"What did he decide to do?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U2_C3",
+"original": "The stars appear at night.",
+"targetWord": "at night",
+"correctQuestion": "When do the stars appear?",
+"correctQuestions": [
+"When do the stars appear?"
+],
+"wh_word": "when",
+"auxiliary": "do",
+"subject": "the stars",
+"subject_type": "noun_plural",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Section C - Q1"
+},
+{
+"id": "SB_G7_U2_C4",
+"original": "Tom felt sad.",
+"targetWord": "sad",
+"correctQuestion": "How did Tom feel?",
+"correctQuestions": [
+"How did Tom feel?"
+],
+"wh_word": "how",
+"auxiliary": "did",
+"subject": "tom",
+"subject_type": "name_male",
+"category": "Feeling",
+"acceptedAnswers": [
+"How did he feel?"
+],
+"source": "Student Book",
+"exact_reference": "Section C - Q3"
+},
+{
+"id": "SB_G7_U2_C5",
+"original": "She refused to eat sweets because she had a toothache.",
+"targetWord": "because she had a toothache",
+"correctQuestion": "Why did she refuse to eat sweets?",
+"correctQuestions": [
+"Why did she refuse to eat sweets?"
+],
+"wh_word": "why",
+"auxiliary": "did",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Section C - Q5"
+},
+{
+"id": "AB_G7_U2_C6",
+"original": "Students had to make three presents.",
+"targetWord": "three",
+"correctQuestion": "How many presents did students have to make?",
+"correctQuestions": [
+"How many presents did students have to make?"
+],
+"wh_word": "how many",
+"auxiliary": "did",
+"subject": "students",
+"subject_type": "noun_plural",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G7_U2_C7",
+"original": "Judi's mother advised her to give real time and affection.",
+"targetWord": "real time and affection",
+"correctQuestion": "What did Judi's mother advise her to give?",
+"correctQuestions": [
+"What did Judi's mother advise her to give?"
+],
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "judi's mother",
+"subject_type": "noun_person",
+"category": "Object",
+"acceptedAnswers": [
+"What did she advise her to give?"
+],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G7_U2_C8",
+"original": "Susan was busy cleaning the whole house last Saturday.",
+"targetWord": "last Saturday",
+"correctQuestion": "When was Susan busy cleaning the whole house?",
+"correctQuestions": [
+"When was Susan busy cleaning the whole house?"
+],
+"wh_word": "when",
+"auxiliary": "was",
+"subject": "susan",
+"subject_type": "name_female",
+"category": "Time",
+"acceptedAnswers": [
+"When was she busy cleaning the whole house?"
+],
+"source": "Activity Book",
+"exact_reference": "Grammar A"
+}
+]
+}
