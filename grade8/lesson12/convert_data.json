@@ -1,0 +1,148 @@
+{
+"metadata": {
+"grade": 8,
+"unit": 12,
+"title": "Not Fully Understood",
+"total_questions": 8
+},
+"questions": [
+{
+"id": "SB_G8_U12_C1",
+"original": "Governments do secret experiments.",
+"targetWord": "secret experiments",
+"correctQuestion": "What do governments do?",
+"correctQuestions": [
+"What do governments do?"
+],
+"wh_word": "what",
+"auxiliary": "do",
+"subject": "governments",
+"subject_type": "noun_plural",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G8_U12_C2",
+"original": "Milk is kept in the refrigerator.",
+"targetWord": "in the refrigerator",
+"correctQuestion": "Where is milk kept?",
+"correctQuestions": [
+"Where is milk kept?"
+],
+"wh_word": "where",
+"auxiliary": "is",
+"subject": "milk",
+"subject_type": "noun_thing",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "SB_G8_U12_C3",
+"original": "He spends fifteen minutes to draw a picture.",
+"targetWord": "fifteen minutes",
+"correctQuestion": "How long does he spend to draw a picture?",
+"correctQuestions": [
+"How long does he spend to draw a picture?"
+],
+"wh_word": "how long",
+"auxiliary": "does",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Duration",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Stories"
+},
+{
+"id": "SB_G8_U12_C4",
+"original": "Sarah went to the kitchen to make some tea.",
+"targetWord": "to make some tea",
+"correctQuestion": "Why did Sarah go to the kitchen?",
+"correctQuestions": [
+"Why did Sarah go to the kitchen?"
+],
+"wh_word": "why",
+"auxiliary": "did",
+"subject": "sarah",
+"subject_type": "name_female",
+"category": "Reason",
+"acceptedAnswers": [
+"Why did she go to the kitchen?"
+],
+"source": "Student Book",
+"exact_reference": "Listening"
+},
+{
+"id": "SB_G8_U12_C5",
+"original": "Sarah saw a man wearing a black shirt.",
+"targetWord": "Sarah",
+"correctQuestion": "Who saw a man wearing a black shirt?",
+"correctQuestions": [
+"Who saw a man wearing a black shirt?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "sarah",
+"subject_type": "name_female",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Listening"
+},
+{
+"id": "AB_G8_U12_C6",
+"original": "The gardener waters the flowers every evening.",
+"targetWord": "every evening",
+"correctQuestion": "When does the gardener water the flowers?",
+"correctQuestions": [
+"When does the gardener water the flowers?"
+],
+"wh_word": "when",
+"auxiliary": "does",
+"subject": "the gardener",
+"subject_type": "noun_person",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G8_U12_C7",
+"original": "The mechanic is checking the brakes.",
+"targetWord": "the brakes",
+"correctQuestion": "What is the mechanic checking?",
+"correctQuestions": [
+"What is the mechanic checking?"
+],
+"wh_word": "what",
+"auxiliary": "is",
+"subject": "the mechanic",
+"subject_type": "noun_person",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G8_U12_C8",
+"original": "The tickets cost 600 Syrian pounds.",
+"targetWord": "600 Syrian pounds",
+"correctQuestion": "How much do the tickets cost?",
+"correctQuestions": [
+"How much do the tickets cost?"
+],
+"wh_word": "how much",
+"auxiliary": "do",
+"subject": "the tickets",
+"subject_type": "noun_plural",
+"category": "Price",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Listening"
+}
+]
+}
