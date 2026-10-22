@@ -1,0 +1,247 @@
+{
+"vocabulary": [
+{ "word": "located", "translation": "يقع / موجود" },
+{ "word": "rental car", "translation": "سيارة إيجار" },
+{ "word": "trekking", "translation": "رحلة مشي طويلة في الجبال" },
+{ "word": "stew", "translation": "يخنة (وجبة ساخنة)" },
+{ "word": "grilled", "translation": "مشوي على نار قوية" },
+{ "word": "expert", "translation": "خبير" },
+{ "word": "magnificent", "translation": "رائع / جميل جداً" },
+{ "word": "adventure", "translation": "مغامرة" },
+{ "word": "nature", "translation": "طبيعة" },
+{ "word": "waterfall", "translation": "شلال" },
+{ "word": "border zone", "translation": "منطقة حدودية" },
+{ "word": "helicopter", "translation": "طائرة هليكوبتر" },
+{ "word": "canoeing", "translation": "التجديف" },
+{ "word": "tourist", "translation": "سائح" },
+{ "word": "landmark", "translation": "معلم بارز" },
+{ "word": "climate", "translation": "مناخ" },
+{ "word": "weather", "translation": "طقس" },
+{ "word": "dish", "translation": "طبق (طعام)" },
+{ "word": "traveller", "translation": "مسافر" },
+{ "word": "open market", "translation": "سوق مفتوح" },
+{ "word": "cheap", "translation": "رخيص" },
+{ "word": "fresh", "translation": "طازج" },
+{ "word": "variety", "translation": "تنوع / مجموعة متنوعة" },
+{ "word": "seafood", "translation": "مأكولات بحرية" },
+{ "word": "unforgettable", "translation": "لا يُنسى" },
+{ "word": "fortress", "translation": "حصن" },
+{ "word": "citadel", "translation": "قلعة" },
+{ "word": "ski", "translation": "تزلج" },
+{ "word": "neighborhood", "translation": "حي / منطقة سكنية" },
+{ "word": "boutique", "translation": "متجر صغير" },
+{ "word": "historical", "translation": "تاريخي" },
+{ "word": "ancient", "translation": "قديم" },
+{ "word": "ruin", "translation": "أطلال / بقايا أثرية" },
+{ "word": "coffee shop", "translation": "مقهى" },
+{ "word": "furniture store", "translation": "متجر أثاث" },
+{ "word": "book store", "translation": "مكتبة" },
+{ "word": "ocean", "translation": "محيط" },
+{ "word": "mountain", "translation": "جبل" },
+{ "word": "spring", "translation": "الربيع" },
+{ "word": "summer", "translation": "الصيف" },
+{ "word": "winter", "translation": "الشتاء" },
+{ "word": "autumn", "translation": "الخريف" },
+{ "word": "temperate", "translation": "معتدل" },
+{ "word": "tropical", "translation": "استوائي" },
+{ "word": "humid", "translation": "رطب" },
+{ "word": "atmosphere", "translation": "الغلاف الجوي" },
+{ "word": "moderate", "translation": "معتدل" },
+{ "word": "overcome", "translation": "يتغلب على" },
+{ "word": "flushing", "translation": "تدفق الماء بشكل مفاجئ" },
+{ "word": "giggle", "translation": "يضحك بطريقة سخيفة" },
+{ "word": "cooperate", "translation": "يتعاون" },
+{ "word": "concentrate", "translation": "يركز" },
+{ "word": "cottage", "translation": "كوخ" },
+{ "word": "struggle", "translation": "كفاح / صراع" },
+{ "word": "connection", "translation": "اتصال / رابط" },
+{ "word": "educator", "translation": "معلم / مربي" },
+{ "word": "blind", "translation": "أعمى" },
+{ "word": "deaf", "translation": "أصم" },
+{ "word": "scarlet fever", "translation": "حمى قرمزية" },
+{ "word": "wild", "translation": "وحشي / غير منضبط" },
+{ "word": "finger spelling", "translation": "تهجئة بالأصابع" },
+{ "word": "check-in", "translation": "تسجيل الوصول" },
+{ "word": "air-conditioning", "translation": "تكييف هواء" },
+{ "word": "single room", "translation": "غرفة فردية" },
+{ "word": "double room", "translation": "غرفة مزدوجة" },
+{ "word": "Wi-fi", "translation": "شبكة لاسلكية" },
+{ "word": "cash", "translation": "نقداً" },
+{ "word": "credit card", "translation": "بطاقة ائتمان" },
+{ "word": "ATM", "translation": "صراف آلي" },
+{ "word": "police station", "translation": "مركز شرطة" },
+{ "word": "purse", "translation": "محفظة (نسائية)" },
+{ "word": "vacation", "translation": "عطلة" },
+{ "word": "Hong Kong", "translation": "هونغ كونغ" },
+{ "word": "wonderful", "translation": "رائع" },
+{ "word": "amazing", "translation": "مذهل" },
+{ "word": "delicious", "translation": "لذيذ" },
+{ "word": "traditional", "translation": "تقليدي" },
+{ "word": "modern", "translation": "حديث" },
+{ "word": "popular", "translation": "شعبي / مشهور" },
+{ "word": "dangerous", "translation": "خطير" },
+{ "word": "safe", "translation": "آمن" },
+{ "word": "expensive", "translation": "باهظ الثمن" },
+{ "word": "crowded", "translation": "مزدحم" },
+{ "word": "quiet", "translation": "هادئ" },
+{ "word": "peaceful", "translation": "سلمي / هادئ" },
+{ "word": "because", "translation": "لأن" },
+{ "word": "after", "translation": "بعد" },
+{ "word": "before", "translation": "قبل" },
+{ "word": "already", "translation": "بالفعل" },
+{ "word": "yet", "translation": "حتى الآن" },
+{ "word": "just", "translation": "للتّو" },
+{ "word": "never", "translation": "أبداً" },
+{ "word": "ever", "translation": "قط" },
+{ "word": "since", "translation": "منذ" },
+{ "word": "for", "translation": "لمدة" },
+{ "word": "homework", "translation": "واجب منزلي" },
+{ "word": "practise", "translation": "يتدرب" },
+{ "word": "repair", "translation": "يصلح" },
+{ "word": "break", "translation": "يكسر" },
+{ "word": "ring", "translation": "يرن" },
+{ "word": "arrive", "translation": "يصل" },
+{ "word": "leave", "translation": "يغادر" },
+{ "word": "tired", "translation": "متعب" },
+{ "word": "hungry", "translation": "جائع" }
+],
+"tables": [
+{
+"title": "Past Perfect Tense (الماضي التام) - القاعدة الأساسية الأولى",
+"headers": ["النوع", "التكوين", "مثال"],
+"rows": [
+["الإثبات (Affirmative)", "had + past participle (p.p)", "Our team **had practised** before they played the match."],
+["النفي (Negative)", "had not (hadn't) + past participle", "Our team **hadn't practised** before they played the match."],
+["السؤال (Interrogative)", "Had + subject + past participle?", "**Had** our team **practised** before they played the match?"]
+],
+"explanation": "🔥 **القاعدة الأساسية الأولى في الدرس 4**\n\nالماضي التام (Past Perfect) يُستخدم للتعبير عن حدث وقع وانتهى **قبل** حدث آخر في الماضي.\n\n📌 **متى نستخدمه؟**\n- عندما نريد ترتيب الأحداث في الماضي.\n- مع كلمات مثل: **before, after, by the time, when, because**.\n\n📌 **كيف نكوّنه؟**\n- **had** + التصريف الثالث للفعل (past participle).\n- الفعل يكون في التصريف الثالث دائماً.\n\n📌 **الفرق بين Past Simple و Past Perfect:**\n- **Past Simple:** حدث واحد في الماضي.\n- **Past Perfect:** حدث وقع قبل حدث آخر في الماضي.",
+"examples": "📝 **أمثلة من الدرس:**\n1. I had cleaned my room before my dad arrived.\n2. The kids had had some ice-cream before they went back home.\n3. Laura repaired her glasses because her mother had broken them.\n4. By the time the bell rang, I had already finished working.\n5. We reached the railway after the train had left."
+},
+{
+"title": "Reported Speech (الكلام المنقول) - القاعدة الأساسية الثانية",
+"headers": ["الزمن في الكلام المباشر", "الزمن في الكلام المنقول", "مثال"],
+"rows": [
+["Present Simple (is/are)", "Past Simple (was/were)", "They said: 'The Falls are beautiful.' → They said the Falls **were** beautiful."],
+["Past Simple (visited)", "Past Perfect (had visited)", "She said: 'I visited the Falls.' → She said she **had visited** the Falls."],
+["Present Perfect (have visited)", "Past Perfect (had visited)", "He said: 'I have visited the Falls.' → He said he **had visited** the Falls."],
+["Present Progressive (am trying)", "Past Progressive (was trying)", "She said: 'I am trying.' → She said she **was trying**."],
+["will", "would", "He said: 'I will go.' → He said he **would** go."]
+],
+"explanation": "🔥 **القاعدة الأساسية الثانية في الدرس 4**\n\nالكلام المنقول (Reported Speech) يُستخدم عندما ننقل كلام شخص آخر.\n\n📌 **متى نستخدمه؟**\n- عندما ننقل ما قاله شخص ما.\n- نستخدم أفعال النقل مثل: **said, told, asked, added**.\n\n📌 **كيف نغيّر الأزمنة؟**\n- نغير زمن الفعل إلى زمن ماضٍ (نقله خطوة إلى الماضي).\n\n📌 **قاعدة عامة:**\n- **Present → Past**\n- **Past → Past Perfect**\n- **Present Perfect → Past Perfect**\n- **will → would**\n\n📌 **الفرق بين said و told:**\n- **said:** بدون مفعول به مباشر. (She said she was tired.)\n- **told:** مع مفعول به مباشر. (She told us she was tired.)",
+"examples": "📝 **أمثلة من الدرس:**\n1. Direct: 'The Falls are beautiful.' → Reported: They said that the Falls had been beautiful.\n2. Direct: 'I visited the Falls.' → Reported: Tourists said they had visited the Falls.\n3. Direct: 'I am tired.' → Reported: Tom said he was tired.\n4. Direct: 'I went home early.' → Reported: Sarah said she had gone home early.\n5. Direct: 'We haven't seen Omar.' → Reported: They told us they hadn't seen Omar."
+},
+{
+"title": "Passive Voice - Present Simple (المبني للمجهول)",
+"headers": ["النوع", "التكوين", "مثال"],
+"rows": [
+["الإثبات", "am/is/are + past participle", "Iguazu Falls **are located** on the Iguazu River."],
+["النفي", "am/is/are + not + past participle", "The food **is not cooked** well."],
+["السؤال", "Am/Is/Are + subject + past participle?", "**Are** the Falls **located** in Argentina?"]
+],
+"explanation": "يستخدم المبني للمجهول في المضارع البسيط عندما يكون الفاعل غير معروف أو غير مهم، والتركيز على المفعول به.",
+"examples": "Iguazu Falls are located on the Iguazu River.\nHelen Keller was born in Alabama.\nThe food at the open market is sold there."
+},
+{
+"title": "Articles (أدوات التعريف والتنكير)",
+"headers": ["الأداة", "الاستخدام", "مثال"],
+"rows": [
+["a", "قبل الكلمات التي تبدأ بحرف ساكن", "a fortress, a magnificent place"],
+["an", "قبل الكلمات التي تبدأ بحرف متحرك", "an ancient fortress, an expert"],
+["the", "قبل الأسماء المعرفة والمحددة", "the Iguazu River, the open market"]
+],
+"explanation": "تستخدم أدوات التعريف والتنكير لتحديد الأسماء.",
+"examples": "Iguazu Falls are located on the Iguazu River.\nAlhambra Palace is an ancient fortress.\nPortugal enjoys a warm temperate climate."
+},
+{
+"title": "Prepositions - Means of Transport (حروف الجر مع وسائل النقل)",
+"headers": ["حرف الجر", "الاستخدام", "مثال"],
+"rows": [
+["by", "مع جميع وسائل النقل", "by plane, by bus, by car, by train"]
+],
+"explanation": "✅ **نستخدم `by` مع وسائل النقل بشكل عام.**",
+"examples": "You can choose to go by plane.\nShe travels by bus.\nHe came by car."
+},
+{
+"title": "Present Simple - Subject-Verb Agreement (المضارع البسيط - اتفاق الفاعل مع الفعل)",
+"headers": ["الفاعل", "تصريف الفعل", "مثال"],
+"rows": [
+["He / She / It (مفرد)", "الفعل + s", "Iguazu National Park **offers** many activities."],
+["I / You / We / They (جمع)", "الفعل بدون s", "They **offer** many activities."]
+],
+"explanation": "في المضارع البسيط، نضيف 's' للفعل عندما يكون الفاعل مفرداً (He, She, It).",
+"examples": "Iguazu National Park offers many activities.\nThe tourists visit the Falls every year.\nThe weather changes quickly."
+},
+{
+"title": "Go + ing (التعبير عن الأنشطة)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["go + v-ing", "التعبير عن الأنشطة الترفيهية والرياضية", "go canoeing, go trekking, go swimming"]
+],
+"explanation": "نستخدم 'go + v-ing' للتعبير عن الأنشطة الترفيهية والرياضية.",
+"examples": "You can go canoeing in the Iguazu river.\nThey went trekking in the mountains.\nWe go swimming every summer."
+},
+{
+"title": "Superlative Adjectives (صفات التفضيل)",
+"headers": ["النوع", "التكوين", "مثال"],
+"rows": [
+["صفات قصيرة (مقطع واحد)", "the + adjective + est", "the best, the greatest, the tallest"],
+["صفات تنتهي بـ y", "the + adjective (y → i) + est", "the happiest, the easiest"],
+["صفات طويلة (مقطعين أو أكثر)", "the most + adjective", "the most beautiful, the most wonderful"]
+],
+"explanation": "تستخدم صفات التفضيل للمقارنة بين ثلاثة أو أكثر.",
+"examples": "Iguazu Falls are one of the best places in the world.\nVancouver is the greatest city in the world."
+},
+{
+"title": "Time Conjunctions (روابط الزمن)",
+"headers": ["رابط الزمن", "الاستخدام", "مثال"],
+"rows": [
+["after", "بعد أن", "We reached the railway **after** the train had left."],
+["before", "قبل أن", "The kids had ice-cream **before** they went back home."],
+["when", "عندما", "**When** I was in town, a woman came up to me."],
+["while", "بينما", "**While** she was sleeping, he arrived."],
+["by the time", "بحلول الوقت الذي", "**By the time** the bell rang, I had finished."]
+],
+"explanation": "روابط الزمن تستخدم لربط جملتين زمنيتين وبيان العلاقة الزمنية بينهما.",
+"examples": "We reached the railway after the train had left.\nThe kids had ice-cream before they went back home.\nBy the time the bell rang, I had already finished working."
+},
+{
+"title": "Reported Speech - Reporting Verbs (أفعال النقل)",
+"headers": ["الفعل", "الاستخدام", "مثال"],
+"rows": [
+["said", "يستخدم بدون مفعول به مباشر", "She **said** she was tired."],
+["told", "يستخدم مع مفعول به مباشر", "She **told** us she was tired."],
+["added", "يستخدم للإضافة", "He **added** that he was happy."],
+["asked", "يستخدم للسؤال", "He **asked** if I was ready."]
+],
+"explanation": "أفعال النقل تستخدم لنقل الكلام: 'said' بدون مفعول به، و'told' مع مفعول به.",
+"examples": "Ruba and Sana told us they had been to the market.\nShe said she was tired."
+},
+{
+"title": "Quantifiers - Negative (المحددات في النفي)",
+"headers": ["المحدد", "الاستخدام", "مثال"],
+"rows": [
+["any", "يستخدم في النفي والأسئلة مع الأسماء غير المعدودة", "I haven't got **any** money."],
+["some", "يستخدم في الإثبات", "I have **some** money."],
+["no", "يستخدم في النفي", "I have **no** money."],
+["many", "يستخدم مع الأسماء المعدودة", "I don't have **many** friends."],
+["much", "يستخدم مع الأسماء غير المعدودة", "I don't have **much** time."]
+],
+"explanation": "نستخدم 'any' في النفي والأسئلة مع الأسماء غير المعدودة.",
+"examples": "I haven't got any money.\nShe doesn't have any friends.\nIs there any milk?"
+},
+{
+"title": "Word Forms (اشتقاقات الكلمات)",
+"headers": ["الكلمة الأساسية", "الصفة", "الفاعل"],
+"rows": [
+["history (تاريخ)", "historical (تاريخي)", "historian (مؤرخ)"],
+["beauty (جمال)", "beautiful (جميل)", "-"],
+["nature (طبيعة)", "natural (طبيعي)", "-"],
+["adventure (مغامرة)", "adventurous (مغامر)", "adventurer (مغامر)"],
+["tradition (تقليد)", "traditional (تقليدي)", "-"],
+["danger (خطر)", "dangerous (خطير)", "-"]
+],
+"explanation": "يمكن اشتقاق كلمات جديدة من الكلمات الأساسية بإضافة لواحق.",
+"examples": "I like to visit historical places.\nThe scenery is so beautiful.\nHe is an adventurous person."
+}
+]
+}

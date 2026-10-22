@@ -1,0 +1,124 @@
+{
+"questions": [
+{
+"question": "Which country would you like to visit?",
+"translation": "أي دولة ترغب في زيارتها؟",
+"keywords": ["country", "visit", "like"],
+"suggested_answers": [
+"I would like to visit Spain.",
+"I would like to visit Canada.",
+"I would like to visit Lebanon."
+],
+"source": "Student Book",
+"exact_reference": "Speaking - Page 14"
+},
+{
+"question": "How is the climate in Syria?",
+"translation": "كيف هو المناخ في سوريا؟",
+"keywords": ["climate", "Syria", "weather"],
+"suggested_answers": [
+"The climate in Syria is moderate.",
+"Syria has a warm climate.",
+"The climate in Syria is sunny and moderate."
+],
+"source": "Student Book",
+"exact_reference": "Focus on Geography - Page 16"
+},
+{
+"question": "What kind of food do you like the best?",
+"translation": "أي نوع من الطعام تحب أكثر؟",
+"keywords": ["food", "like", "best"],
+"suggested_answers": [
+"I like seafood the best.",
+"I like grilled meat the best.",
+"I like Syrian food the best."
+],
+"source": "Student Book",
+"exact_reference": "Iguazu Falls - Page 14"
+},
+{
+"question": "Where do you stay when you go on holiday?",
+"translation": "أين تقيم عندما تذهب في عطلة؟",
+"keywords": ["stay", "holiday", "where"],
+"suggested_answers": [
+"I stay in a hotel.",
+"I stay with my family.",
+"I stay in a rented apartment."
+],
+"source": "Student Book",
+"exact_reference": "Speaking - Page 14"
+},
+{
+"question": "Why do people visit waterfalls?",
+"translation": "لماذا يزور الناس الشلالات؟",
+"keywords": ["visit", "waterfalls", "why"],
+"suggested_answers": [
+"People visit waterfalls because they are beautiful.",
+"People visit waterfalls to enjoy nature.",
+"People visit waterfalls because they are wonderful places."
+],
+"source": "Student Book",
+"exact_reference": "Iguazu Falls - Page 14"
+},
+{
+"question": "Where did you go last summer?",
+"translation": "أين ذهبت الصيف الماضي؟",
+"keywords": ["go", "last summer", "where"],
+"suggested_answers": [
+"I went to Lattakia last summer.",
+"I went to Tartous last summer.",
+"I went to Damascus last summer."
+],
+"source": "Activity Book",
+"exact_reference": "Speaking - Page 14"
+},
+{
+"question": "What did you visit?",
+"translation": "ماذا زرتَ؟",
+"keywords": ["visit", "what"],
+"suggested_answers": [
+"I visited the blue beach.",
+"I visited historical places.",
+"I visited Ras Al Ashmra."
+],
+"source": "Activity Book",
+"exact_reference": "Speaking - Page 14"
+},
+{
+"question": "Who did you go with?",
+"translation": "مع من ذهبتَ؟",
+"keywords": ["go with", "who"],
+"suggested_answers": [
+"I went with my family.",
+"I went with my friends.",
+"I went with my parents."
+],
+"source": "Activity Book",
+"exact_reference": "Speaking - Page 14"
+},
+{
+"question": "What had you done before the exams started?",
+"translation": "ماذا كنت قد فعلت قبل أن تبدأ الامتحانات؟",
+"keywords": ["done", "before", "exams", "started"],
+"suggested_answers": [
+"I had revised all my lessons.",
+"I had studied hard.",
+"I had practised many exercises."
+],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 17"
+},
+{
+"question": "How long does it take you to arrive at your school?",
+"translation": "كم من الوقت يستغرق وصولك إلى مدرستك؟",
+"keywords": ["how long", "take", "arrive", "school"],
+"suggested_answers": [
+"It takes me about 10 minutes.",
+"It takes me half an hour.",
+"It takes me 15 minutes by car."
+],
+"source": "Activity Book",
+"exact_reference": "Focus on Two Cities - Page 14"
+}
+]
+}

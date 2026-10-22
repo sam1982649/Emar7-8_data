@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"title": "تمرين المطابقة ١ - Student Book",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "to make your adventure unforgettable." },
+{ "letter": "b", "text": "Iguazu is a magnificent holiday destination." },
+{ "letter": "c", "text": "she had stayed up until 3 a.m." },
+{ "letter": "d", "text": "is a measure of time." },
+{ "letter": "e", "text": "of being blind and deaf." },
+{ "letter": "f", "text": "refused to cooperate." }
+],
+"sentences": [
+{
+"start": "Iguazu National Park offers many activities",
+"correct": "a",
+"full_sentence": "Iguazu National Park offers many activities to make your adventure unforgettable.",
+"translation": "تقدم حديقة إجوازو الوطنية العديد من الأنشطة لجعل مغامرتك لا تُنسى.",
+"source": "Student Book",
+"exact_reference": "Iguazu Falls - Page 14"
+},
+{
+"start": "Travel experts consider that",
+"correct": "b",
+"full_sentence": "Travel experts consider that Iguazu is a magnificent holiday destination.",
+"translation": "يعتبر خبراء السفر أن إجوازو وجهة عطلات رائعة.",
+"source": "Student Book",
+"exact_reference": "Iguazu Falls - Page 14"
+},
+{
+"start": "Mary was tired this morning because",
+"correct": "c",
+"full_sentence": "Mary was tired this morning because she had stayed up until 3 a.m.",
+"translation": "كانت ماري متعبة هذا الصباح لأنها سهرت حتى الثالثة فجراً.",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 15"
+},
+{
+"start": "The difference between weather and climate",
+"correct": "d",
+"full_sentence": "The difference between weather and climate is a measure of time.",
+"translation": "الفرق بين الطقس والمناخ هو مقياس للوقت.",
+"source": "Student Book",
+"exact_reference": "Focus on Geography - Page 16"
+},
+{
+"start": "Helen Keller overcame the difficult situation",
+"correct": "e",
+"full_sentence": "Helen Keller overcame the difficult situation of being blind and deaf.",
+"translation": "تغلبت هيلين كيلر على الوضع الصعب للعمى والصمم.",
+"source": "Student Book",
+"exact_reference": "Teachers are Great Decision Makers - Page 17"
+}
+]
+},
+{
+"title": "تمرين المطابقة ٢ - Activity Book",
+"source": "activity_book",
+"options": [
+{ "letter": "a", "text": "fortress and citadel." },
+{ "letter": "b", "text": "the train had left." },
+{ "letter": "c", "text": "my purse this morning." },
+{ "letter": "d", "text": "before they played the match." },
+{ "letter": "e", "text": "historical places." },
+{ "letter": "f", "text": "to make your adventure unforgettable." }
+],
+"sentences": [
+{
+"start": "Alhambra Palace is an ancient",
+"correct": "a",
+"full_sentence": "Alhambra Palace is an ancient fortress and citadel.",
+"translation": "قصر الحمراء هو حصن وقلعة قديمة.",
+"source": "Activity Book",
+"exact_reference": "Focus on Two Cities - Page 14"
+},
+{
+"start": "We reached the railway after",
+"correct": "b",
+"full_sentence": "We reached the railway after the train had left.",
+"translation": "وصلنا إلى محطة القطار بعد أن غادر القطار.",
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 17"
+},
+{
+"start": "Someone stole",
+"correct": "c",
+"full_sentence": "Someone stole my purse this morning.",
+"translation": "شخص ما سرق محفظتي هذا الصباح.",
+"source": "Activity Book",
+"exact_reference": "Reported Speech - Page 17"
+},
+{
+"start": "Our team had practised",
+"correct": "d",
+"full_sentence": "Our team had practised before they played the match.",
+"translation": "كان فريقنا قد تدرب قبل أن يلعب المباراة.",
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 17"
+},
+{
+"start": "I like to visit",
+"correct": "e",
+"full_sentence": "I like to visit historical places.",
+"translation": "أحب زيارة الأماكن التاريخية.",
+"source": "Activity Book",
+"exact_reference": "Focus on Two Cities - Page 14"
+}
+]
+}
+]
+}

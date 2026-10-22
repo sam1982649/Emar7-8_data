@@ -1,0 +1,244 @@
+{
+"texts": [
+{
+"id": "G8_U4_T1_P1",
+"text_group": "G8_U4_Iguazu_Falls",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Iguazu Falls",
+"content_exam": "Iguazu Falls are located on the Iguazu River and an area shared by Argentina, Brazil and Paraguay, so it is a three-country border zone. You can travel to the city Foz do Iguacu on the Brazilian side, or the town Puerto Iguazu, on the Argentine side. Both cities have airports, bus stations and rental car agencies, so you can choose to go by plane, bus or car.\n\nIguazu National Park offers many activities to make your adventure unforgettable. You can experience the waterfalls in different ways; go on a trekking tour, take a helicopter ride above the Iguazu Falls, go canoeing in the Iguazu river.",
+"questions": [
+{
+"id": "g8_u4_t1_p1_q1",
+"question": "Iguazu Falls are located on the Iguazu River.",
+"options": ["True", "False"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: تقع شلالات إجوازو على نهر إجوازو.\n💡 الشرح: النص يقول: 'Iguazu Falls are located on the Iguazu River'."
+},
+{
+"id": "g8_u4_t1_p1_q2",
+"question": "You can only travel to Iguazu Falls by plane.",
+"options": ["True", "False"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: يمكنك السفر إلى شلالات إجوازو بالطائرة فقط.\n💡 الشرح: النص يقول: 'you can choose to go by plane, bus or car'."
+},
+{
+"id": "g8_u4_t1_p1_q3",
+"question": "Iguazu National Park offers many activities.",
+"options": ["True", "False"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: تقدم حديقة إجوازو الوطنية العديد من الأنشطة.\n💡 الشرح: النص يقول: 'Iguazu National Park offers many activities'."
+},
+{
+"id": "g8_u4_t1_p1_q4",
+"question": "What does the word 'trekking' mean in the text?",
+"options": ["a short walk", "a long hard walk", "a helicopter ride", "a canoe trip"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: a long hard walk\n📝 الترجمة: ماذا تعني كلمة 'trekking' في النص؟\n💡 الشرح: 'trekking' تعني 'نزهة طويلة وشاقة'."
+},
+{
+"id": "g8_u4_t1_p1_q5",
+"question": "How many countries share the area of Iguazu Falls?",
+"options": ["Two", "Three", "Four", "Five"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Three\n📝 الترجمة: كم عدد الدول التي تتشارك في منطقة شلالات إجوازو؟\n💡 الشرح: النص يقول: 'shared by Argentina, Brazil and Paraguay'."
+}
+]
+},
+{
+"id": "G8_U4_T1_P2",
+"text_group": "G8_U4_Iguazu_Falls",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Iguazu Falls",
+"content_exam": "The World Tour Agency said that many people had visited the Iguazu Falls. They told us that the Falls had been so beautiful and could be ranked as one of the ten best places in the world. Tourists said that the Falls they had seen were unique landmarks.\n\nThey also said that some tourists had found the Falls wonderful with their sub-tropical climate and rains all year. Others said that fresh fruit had been one of the key delights for travellers besides a variety of dishes such as black beans stew, seafood stew and mixed grilled meats. They added that the food at the open market had been good and cheap that tourists decided to have all their meals there.\n\nTravel experts consider that Iguazu is a magnificent holiday destination for adventure and nature lovers.",
+"questions": [
+{
+"id": "g8_u4_t1_p2_q1",
+"question": "The World Tour Agency said that many people had visited the Iguazu Falls.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: قالت وكالة السياحة العالمية أن الكثير من الناس زاروا شلالات إجوازو.\n💡 الشرح: النص يقول: 'The World Tour Agency said that many people had visited the Iguazu Falls'."
+},
+{
+"id": "g8_u4_t1_p2_q2",
+"question": "The food at the open market was expensive.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: كان الطعام في السوق المفتوح باهظ الثمن.\n💡 الشرح: النص يقول: 'the food at the open market had been good and cheap'."
+},
+{
+"id": "g8_u4_t1_p2_q3",
+"question": "Iguazu is a magnificent holiday destination for adventure and nature lovers.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: إجوازو وجهة عطلات رائعة لمحبي المغامرة والطبيعة.\n💡 الشرح: النص يقول: 'Iguazu is a magnificent holiday destination for adventure and nature lovers'."
+},
+{
+"id": "g8_u4_t1_p2_q4",
+"question": "What did tourists say about the Falls?",
+"type": "answer",
+"keywords": ["beautiful", "unique landmarks"],
+"explanation": "✅ الإجابة الصحيحة: They said the Falls were beautiful and unique landmarks.\n📝 الترجمة: ماذا قال السياح عن الشلالات؟\n💡 الشرح: النص يقول: 'the Falls had been so beautiful... were unique landmarks'."
+},
+{
+"id": "g8_u4_t1_p2_q5",
+"question": "What kinds of dishes are mentioned in the text?",
+"type": "answer",
+"keywords": ["black beans stew", "seafood stew", "mixed grilled meats"],
+"explanation": "✅ الإجابة الصحيحة: black beans stew, seafood stew and mixed grilled meats\n📝 الترجمة: ما أنواع الأطباق المذكورة في النص؟\n💡 الشرح: النص يقول: 'black beans stew, seafood stew and mixed grilled meats'."
+}
+]
+},
+{
+"id": "G8_U4_T2_P1",
+"text_group": "G8_U4_Focus_on_Two_Cities",
+"part": 1,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Focus on Two Cities",
+"content_exam": "Sandra is from Lebanon. She likes to visit historical places. She is going to Granada, Spain. Granada is a great place to visit because it has lovely ancient ruins. Alhambra Palace is an ancient fortress and citadel located in Granada. It's an eight-century-old site which was named for the reddish walls and towers that surrounded it.\n\nSarah is from Iraq. She is going to Vancouver, Canada. Vancouver is the greatest city in the world! In the spring, she can ski in the mountains and swim in the ocean on the same day. It's a great place to walk. There are nice places to spend a sunny afternoon. Yaleton is a wonderful neighborhood. There are a lot of coffee shops, furniture stores, book stores and boutiques.",
+"questions": [
+{
+"id": "g8_u4_t2_p1_q1",
+"question": "Sandra is from Lebanon.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: ساندرا من لبنان.\n💡 الشرح: النص يقول: 'Sandra is from Lebanon'."
+},
+{
+"id": "g8_u4_t2_p1_q2",
+"question": "Sandra is going to Vancouver, Canada.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: ساندرا ذاهبة إلى فانكوفر، كندا.\n💡 الشرح: النص يقول: 'She is going to Granada, Spain'."
+},
+{
+"id": "g8_u4_t2_p1_q3",
+"question": "Yaleton has a lot of coffee shops, furniture stores, book stores and boutiques.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: ياليتون لديها الكثير من مقاهي ومتاجر الأثاث ومكتبات ومحلات.\n💡 الشرح: النص يقول: 'There are a lot of coffee shops, furniture stores, book stores and boutiques'."
+},
+{
+"id": "g8_u4_t2_p1_q4",
+"question": "Where is Sandra from?",
+"type": "answer",
+"keywords": ["Lebanon"],
+"explanation": "✅ الإجابة الصحيحة: Lebanon\n📝 الترجمة: من أين هي ساندرا؟\n💡 الشرح: النص يقول: 'Sandra is from Lebanon'."
+},
+{
+"id": "g8_u4_t2_p1_q5",
+"question": "Where is Sarah going?",
+"type": "answer",
+"keywords": ["Vancouver", "Canada"],
+"explanation": "✅ الإجابة الصحيحة: Vancouver, Canada\n📝 الترجمة: أين ذاهبة سارة؟\n💡 الشرح: النص يقول: 'She is going to Vancouver, Canada'."
+}
+]
+},
+{
+"id": "G8_U4_T3_P1",
+"text_group": "G8_U4_Teachers_are_Great_Decision_Makers",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Teachers are Great Decision Makers",
+"content_exam": "Helen Adame Keller was born a healthy child in Alabama, on June 27, 1880. At the age of 19 months, Helen became deaf and blind as a result of scarlet fever. As Helen grew from the time being a baby into childhood, she became wild. She would kick and scream when angry, and giggle when happy.\n\nHer family wanted their daughter to learn. They decided to help her and met the school's director who suggested a teacher who was called Ann Sullivan to work with Helen. Sullivan went to Keller's home in Alabama. Helen was six years old when Sullivan began to teach her finger spelling. She started by bringing Helen a doll to touch and spell the word \"doll\".",
+"questions": [
+{
+"id": "g8_u4_t3_p1_q1",
+"question": "Helen Keller was born in Alabama.",
+"options": ["True", "False"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: ولدت هيلين كيلر في ألاباما.\n💡 الشرح: النص يقول: 'born a healthy child in Alabama'."
+},
+{
+"id": "g8_u4_t3_p1_q2",
+"question": "Helen became deaf and blind at the age of 19 months.",
+"options": ["True", "False"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: أصبحت هيلين صماء ومكفوفة في عمر 19 شهراً.\n💡 الشرح: النص يقول: 'At the age of 19 months, Helen became deaf and blind'."
+},
+{
+"id": "g8_u4_t3_p1_q3",
+"question": "Helen's family decided to send her to a special school.",
+"options": ["True", "False"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: قررت عائلة هيلين إرسالها إلى مدرسة خاصة.\n💡 الشرح: النص يقول: 'met the school's director who suggested a teacher... to work with Helen'."
+},
+{
+"id": "g8_u4_t3_p1_q4",
+"question": "What does the word 'giggle' mean?",
+"options": ["cry loudly", "laugh in a silly way", "shout angrily", "whisper softly"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: laugh in a silly way\n📝 الترجمة: ماذا تعني كلمة 'giggle'؟\n💡 الشرح: 'giggle' تعني 'يضحك بطريقة سخيفة'."
+},
+{
+"id": "g8_u4_t3_p1_q5",
+"question": "Who was Ann Sullivan?",
+"options": ["Helen's mother", "a school director", "Helen's teacher", "a doctor"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Helen's teacher\n📝 الترجمة: من كانت آن سوليفان؟\n💡 الشرح: النص يقول: 'a teacher who was called Ann Sullivan to work with Helen'."
+}
+]
+},
+{
+"id": "G8_U4_T3_P2",
+"text_group": "G8_U4_Teachers_are_Great_Decision_Makers",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Teachers are Great Decision Makers",
+"content_exam": "At first, Keller refused to cooperate with Sullivan's instruction. Finally, Sullivan asked Helen's parents to allow her with Helen alone, so that Keller could concentrate only on Sullivan's instruction. Therefore, Sullivan and Helen moved to a nearby cottage.\n\nAfter a great struggle with Helen, a surprising event happened. Sullivan taught Keller the word \"water\"; she helped her make the connection between the object and the letters by taking Helen out to the water pump, and placing Keller's hand under the water. While Sullivan was flushing cool water over Keller's hand, she spelled out the word w-a-t-e-r. By nightfall, she had learned 30 words.\n\nHelen Keller overcame the difficult situation of being blind and deaf to become a famous American educator in the 20th century.",
+"questions": [
+{
+"id": "g8_u4_t3_p2_q1",
+"question": "At first, Keller cooperated with Sullivan's instruction.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: في البداية، تعاونت كيلر مع تعليمات سوليفان.\n💡 الشرح: النص يقول: 'At first, Keller refused to cooperate'."
+},
+{
+"id": "g8_u4_t3_p2_q2",
+"question": "Sullivan taught Keller the word 'water' by taking her to the water pump.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: علمت سوليفان كيلر كلمة 'ماء' بأخذها إلى مضخة الماء.\n💡 الشرح: النص يقول: 'taking Helen out to the water pump'."
+},
+{
+"id": "g8_u4_t3_p2_q3",
+"question": "Helen learned 30 words by nightfall.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: تعلمت هيلين 30 كلمة بحلول المساء.\n💡 الشرح: النص يقول: 'By nightfall, she had learned 30 words'."
+},
+{
+"id": "g8_u4_t3_p2_q4",
+"question": "Why did Sullivan ask to be alone with Helen?",
+"type": "answer",
+"keywords": ["concentrate", "only on Sullivan's instruction"],
+"explanation": "✅ الإجابة الصحيحة: So that Keller could concentrate only on Sullivan's instruction.\n📝 الترجمة: لماذا طلبت سوليفان أن تكون بمفردها مع هيلين؟\n💡 الشرح: النص يقول: 'so that Keller could concentrate only on Sullivan's instruction'."
+},
+{
+"id": "g8_u4_t3_p2_q5",
+"question": "What did Helen become in the 20th century?",
+"type": "answer",
+"keywords": ["famous American educator"],
+"explanation": "✅ الإجابة الصحيحة: a famous American educator\n📝 الترجمة: ماذا أصبحت هيلين في القرن العشرين؟\n💡 الشرح: النص يقول: 'to become a famous American educator in the 20th century'."
+}
+]
+}
+]
+}
