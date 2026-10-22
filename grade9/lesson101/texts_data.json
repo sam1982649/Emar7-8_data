@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "PT1_T1_P1",
+"text_group": "PT1_Secrets_Of_Happy_Brain",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Secrets of a Happy Brain - Part 1",
+"content_exam": "The human brain remembers negative experiences more easily than positive ones. Our brains have developed this way because threats and dangerous events had an immediate effect on our memories. As a result, you likely know what makes you unhappy, but do you know what makes you happy? Research suggests that our level of happiness depends partly on factors we cannot control – our genes and our life circumstances. However, our level of happiness is also shaped by the choices we make. If you've been chasing wealth, fame, good looks, and power, you may be looking for happiness in the wrong places. Psychologists suggest that six habits make people happier.",
+"questions": [
+{
+"id": "PT1_TXT_C01",
+"type": "choice",
+"question": "The human brain remembers ______ experiences more easily.",
+"options": ["positive", "negative", "happy", "sad"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: negative\n📝 الترجمة: يتذكر الدماغ البشري التجارب السلبية بسهولة أكبر.\n💡 الشرح: النص يقول: 'The human brain remembers negative experiences more easily than positive ones'."
+},
+{
+"id": "PT1_TXT_C02",
+"type": "choice",
+"question": "Our level of happiness depends partly on factors we cannot control, such as ______.",
+"options": ["our genes and life circumstances", "our wealth and fame", "our friends and family", "our jobs and cars"],
+"correct": 0,
+"explanation": "✅ الإجابة الصحيحة: our genes and life circumstances\n📝 الترجمة: يعتمد مستوى سعادتنا جزئياً على عوامل لا نستطيع التحكم بها، مثل جيناتنا وظروف حياتنا.\n💡 الشرح: النص يقول: 'depends partly on factors we cannot control – our genes and our life circumstances'."
+},
+{
+"id": "PT1_TXT_C03",
+"type": "choice",
+"question": "People who chase wealth, fame, and power may be looking for happiness in ______.",
+"options": ["the right places", "the wrong places", "their homes", "their work"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: the wrong places\n📝 الترجمة: الأشخاص الذين يسعون وراء الثروة والشهرة والسلطة قد يبحثون عن السعادة في الأماكن الخاطئة.\n💡 الشرح: النص يقول: 'you may be looking for happiness in the wrong places'."
+},
+{
+"id": "PT1_TXT_C04",
+"type": "choice",
+"question": "According to psychologists, how many habits make people happier?",
+"options": ["four", "five", "six", "seven"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: six\n📝 الترجمة: وفقاً لعلماء النفس، كم عدد العادات التي تجعل الناس أكثر سعادة؟\n💡 الشرح: النص يقول: 'six habits make people happier'."
+},
+{
+"id": "PT1_TXT_C05",
+"type": "choice",
+"question": "The brain remembers negative experiences more easily because of ______.",
+"options": ["food and shelter", "threats and dangerous events", "wealth and power", "friends and family"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: threats and dangerous events\n📝 الترجمة: يتذكر الدماغ التجارب السلبية بسهولة أكبر بسبب التهديدات والأحداث الخطيرة.\n💡 الشرح: النص يقول: 'because threats and dangerous events had an immediate effect on our memories'."
+}
+]
+},
+{
+"id": "PT1_T1_P2",
+"text_group": "PT1_Secrets_Of_Happy_Brain",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Secrets of a Happy Brain - Part 2",
+"content_exam": "People who form close relationships tend to be happier. The number of friends is not important. What matters is the quality of relationships. People who care for others tend to be happier. People who exercise regularly improve their physical and mental well-being. When we are interested in an activity and lose track of time, we are in a state of flow. People who think positively by being grateful, aware, and optimistic are more likely to be happy.",
+"questions": [
+{
+"id": "PT1_TXT_TF01",
+"type": "truefalse",
+"question": "The number of friends we have is more important than the quality of relationships.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: عدد الأصدقاء لدينا أهم من جودة العلاقات.\n💡 الشرح: النص يقول: 'The number of friends is not important. What matters is the quality of relationships'."
+},
+{
+"id": "PT1_TXT_TF02",
+"type": "truefalse",
+"question": "People who exercise regularly improve only their physical well-being.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: الأشخاص الذين يمارسون الرياضة بانتظام يحسنون رفاهيتهم الجسدية فقط.\n💡 الشرح: النص يقول: 'improve their physical and mental well-being'."
+},
+{
+"id": "PT1_TXT_TF03",
+"type": "truefalse",
+"question": "Being grateful means being thankful.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: أن تكون ممتناً يعني أن تكون شاكراً.\n💡 الشرح: النص يقول: 'Being grateful means being thankful'."
+},
+{
+"id": "PT1_TXT_A01",
+"type": "answer",
+"question": "What is a state of flow?",
+"keywords": ["interested in an activity", "lose track of time", "activity", "enjoy"],
+"explanation": "✅ الإجابة الصحيحة: When we are interested in an activity and lose track of time.\n📝 الترجمة: ما هي حالة التدفق؟\n💡 الشرح: عندما نكون مهتمين بنشاط نستمتع به لدرجة أننا ننسى الوقت."
+},
+{
+"id": "PT1_TXT_A02",
+"type": "answer",
+"question": "What does being aware mean?",
+"keywords": ["enjoying", "present moment", "aware", "moment"],
+"explanation": "✅ الإجابة الصحيحة: enjoying the present moment\n📝 الترجمة: ماذا يعني أن تكون واعياً؟\n💡 الشرح: النص يقول: 'Being aware means enjoying the present moment'."
+}
+]
+},
+{
+"id": "PT1_T2_P1",
+"text_group": "PT1_Trekking",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Trekking - Part 1",
+"content_exam": "Today is the second day of my trek around Mount Annapurna. I am exhausted and my legs are shaking. My feet are killing me and my toes are bleeding, but I want to continue. Nepal is fascinating. I am trying to adapt to the new way of life. I am travelling with Liam, a student from Leeds University. He is nice but impatient. He walks ahead and complains I am too slow. He is younger and stronger than me. Liam is sitting with Tam, the owner of the inn. Tam speaks English well and is teaching Liam some Nepali words.",
+"questions": [
+{
+"id": "PT1_TXT_C06",
+"type": "choice",
+"question": "Today is the ______ day of the trek around Mount Annapurna.",
+"options": ["first", "second", "third", "fourth"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: second\n📝 الترجمة: اليوم هو اليوم الثاني من رحلتي حول جبل أنابورنا.\n💡 الشرح: النص يقول: 'Today is the second day of my trek around Mount Annapurna'."
+},
+{
+"id": "PT1_TXT_C07",
+"type": "choice",
+"question": "The writer's feet are ______.",
+"options": ["fine", "bleeding", "cold", "rested"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: bleeding\n📝 الترجمة: قدما الكاتب تنزفان.\n💡 الشرح: النص يقول: 'My feet are killing me and my toes are bleeding'."
+},
+{
+"id": "PT1_TXT_C08",
+"type": "choice",
+"question": "Liam is a student from ______ University.",
+"options": ["Cambridge", "Oxford", "Leeds", "London"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: Leeds\n📝 الترجمة: ليام طالب من جامعة ليدز.\n💡 الشرح: النص يقول: 'Liam, a student from Leeds University'."
+},
+{
+"id": "PT1_TXT_C09",
+"type": "choice",
+"question": "The owner of the inn is called ______.",
+"options": ["Tam", "Tom", "Tim", "Tony"],
+"correct": 0,
+"explanation": "✅ الإجابة الصحيحة: Tam\n📝 الترجمة: صاحب النزل يُدعى تام.\n💡 الشرح: النص يقول: 'The owner is called Tam'."
+},
+{
+"id": "PT1_TXT_C10",
+"type": "choice",
+"question": "Tam speaks English very ______.",
+"options": ["badly", "well", "quickly", "slowly"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: well\n📝 الترجمة: يتحدث تام الإنجليزية جيداً جداً.\n💡 الشرح: النص يقول: 'He speaks English very well'."
+}
+]
+},
+{
+"id": "PT1_T2_P2",
+"text_group": "PT1_Trekking",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Trekking - Part 2",
+"content_exam": "The writer is exhausted and his legs are shaking. He hopes he can complete the trek. He is trying to adapt to life in Nepal. He has learnt some of the language but does not learn quickly. He is travelling with Liam, who is younger and stronger. Liam is impatient and complains the writer is too slow. Tam, the inn owner, is teaching Liam Nepali words. Liam also has difficulty learning languages. The writer hopes they do not get lost.",
+"questions": [
+{
+"id": "PT1_TXT_TF05",
+"type": "truefalse",
+"question": "The writer is not trying to adapt to the new way of life in Nepal.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: الكاتب لا يحاول التكيف مع نمط الحياة الجديد في نيبال.\n💡 الشرح: النص يقول: 'He is trying to adapt to the new way of life in Nepal'."
+},
+{
+"id": "PT1_TXT_TF06",
+"type": "truefalse",
+"question": "Liam is younger and stronger than the writer.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: ليام أصغر وأقوى من الكاتب.\n💡 الشرح: النص يقول: 'Liam, who is younger and stronger'."
+},
+{
+"id": "PT1_TXT_TF07",
+"type": "truefalse",
+"question": "Liam learns foreign languages quickly.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: يتعلم ليام اللغات الأجنبية بسرعة.\n💡 الشرح: النص يقول: 'Liam also has difficulty learning languages'."
+},
+{
+"id": "PT1_TXT_A03",
+"type": "answer",
+"question": "What are Liam and Tam discussing?",
+"keywords": ["differences", "life in England", "life in Nepal", "England", "Nepal"],
+"explanation": "✅ الإجابة الصحيحة: the differences between life in England and Nepal\n📝 الترجمة: ما الذي يناقشه ليام وتام؟\n💡 الشرح: النص يقول: 'They are discussing the differences between life in England and Nepal'."
+},
+{
+"id": "PT1_TXT_A04",
+"type": "answer",
+"question": "What does the writer believe about his language learning?",
+"keywords": ["improve gradually", "improve", "gradually"],
+"explanation": "✅ الإجابة الصحيحة: He will improve gradually.\n📝 الترجمة: ماذا يعتقد الكاتب عن تعلمه للغة؟\n💡 الشرح: النص يقول: 'He believes he will improve gradually'."
+}
+]
+}
+]
+}

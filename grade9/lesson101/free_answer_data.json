@@ -1,0 +1,100 @@
+{
+"questions": [
+{
+"question": "What makes us happy?",
+"translation": "ما الذي يجعلنا سعداء؟",
+"keywords": ["relationships", "exercise", "positive thinking", "choices", "family", "friends", "grateful"],
+"suggested_answers": [
+"Good relationships with family and friends make us happy.",
+"Exercise and positive thinking make us happy.",
+"Being grateful and making good choices help us feel happy."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 49"
+},
+{
+"question": "How can we be happier?",
+"translation": "كيف يمكننا أن نكون أكثر سعادة؟",
+"keywords": ["close relationships", "exercise", "grateful", "optimistic", "help others", "smile", "positive"],
+"suggested_answers": [
+"We can be happier by building close relationships and exercising.",
+"Being grateful and optimistic helps us feel happier every day.",
+"We can be happier if we help others and think positively."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 49"
+},
+{
+"question": "What is the secret of happiness?",
+"translation": "ما هو سر السعادة؟",
+"keywords": ["relationships", "exercise", "flow", "positive thinking", "grateful", "balance", "choices"],
+"suggested_answers": [
+"The secret of happiness is good relationships and exercise.",
+"Positive thinking and being in a state of flow are the secrets of happiness.",
+"The secret of happiness is making good choices and being grateful."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 49"
+},
+{
+"question": "What should we do to be happy?",
+"translation": "ماذا يجب أن نفعل لنكون سعداء؟",
+"keywords": ["care for others", "exercise", "think positively", "form relationships", "help", "grateful", "smile"],
+"suggested_answers": [
+"We should care for others and form good relationships.",
+"We should exercise, think positively, and help people around us.",
+"To be happy, we should be grateful and smile every day."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 49"
+},
+{
+"question": "What makes a journey difficult?",
+"translation": "ما الذي يجعل الرحلة صعبة؟",
+"keywords": ["tired", "exhausted", "bleeding", "legs shaking", "weather", "long", "steep", "hungry"],
+"suggested_answers": [
+"A journey becomes difficult when we feel tired and exhausted.",
+"Bad weather and long, steep roads make a journey difficult.",
+"Bleeding legs and feeling hungry make the journey very hard."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 43"
+},
+{
+"question": "How can we make communication easier in a new country?",
+"translation": "كيف يمكننا تسهيل التواصل في بلد جديد؟",
+"keywords": ["learn language", "adapt", "culture", "local people", "gestures", "patience", "smile"],
+"suggested_answers": [
+"We can make communication easier by learning the language.",
+"Adapting to the new culture and using gestures help us communicate.",
+"Being patient and smiling with local people makes communication easier."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 43"
+},
+{
+"question": "Why is it important to have a travel companion?",
+"translation": "لماذا من المهم أن يكون لديك رفيق سفر؟",
+"keywords": ["help", "support", "together", "share", "safe", "company", "encourage"],
+"suggested_answers": [
+"A travel companion is important because they can help and support you.",
+"Having a companion makes the journey safer and more fun.",
+"A travel companion encourages you when the journey is difficult."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 43"
+},
+{
+"question": "What challenges do people face when travelling?",
+"translation": "ما التحديات التي يواجهها الناس عند السفر؟",
+"keywords": ["language", "different culture", "adapt", "difficulties", "food", "weather", "money", "homesick"],
+"suggested_answers": [
+"People face language problems and different cultures when travelling.",
+"It is difficult to adapt to new food and weather in another country.",
+"Travellers may feel homesick and face money or communication problems."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 43"
+}
+]
+}

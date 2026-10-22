@@ -1,0 +1,229 @@
+{
+"vocabulary": [
+{ "word": "Negative", "translation": "سلبي" },
+{ "word": "Positive", "translation": "إيجابي" },
+{ "word": "Experiences", "translation": "تجارب" },
+{ "word": "Threats", "translation": "تهديدات" },
+{ "word": "Dangerous", "translation": "خطير" },
+{ "word": "Immediate", "translation": "فوري" },
+{ "word": "Effect", "translation": "تأثير" },
+{ "word": "Memories", "translation": "ذكريات" },
+{ "word": "Happiness", "translation": "سعادة" },
+{ "word": "Unhappy", "translation": "غير سعيد" },
+{ "word": "Research", "translation": "بحث / دراسة" },
+{ "word": "Suggests", "translation": "يشير / يقترح" },
+{ "word": "Level", "translation": "مستوى" },
+{ "word": "Factors", "translation": "عوامل" },
+{ "word": "Control", "translation": "يتحكم" },
+{ "word": "Genes", "translation": "جينات" },
+{ "word": "Life circumstances", "translation": "ظروف الحياة" },
+{ "word": "Choices", "translation": "خيارات" },
+{ "word": "Chasing", "translation": "يسعى وراء" },
+{ "word": "Wealth", "translation": "ثروة" },
+{ "word": "Fame", "translation": "شهرة" },
+{ "word": "Good looks", "translation": "مظهر حسن" },
+{ "word": "Material things", "translation": "أشياء مادية" },
+{ "word": "Power", "translation": "سلطة / قوة" },
+{ "word": "Psychologists", "translation": "علماء نفس" },
+{ "word": "Habits", "translation": "عادات" },
+{ "word": "Mutual", "translation": "متبادل / مشترك" },
+{ "word": "Empathy", "translation": "تعاطف" },
+{ "word": "State of flow", "translation": "حالة التدفق" },
+{ "word": "Optimistic", "translation": "متفائل" },
+{ "word": "Relationships", "translation": "علاقات" },
+{ "word": "Quality", "translation": "جودة" },
+{ "word": "Sharing", "translation": "مشاركة" },
+{ "word": "Feelings", "translation": "مشاعر" },
+{ "word": "Mutual respect", "translation": "احترام متبادل" },
+{ "word": "Acceptance", "translation": "قبول" },
+{ "word": "Trust", "translation": "ثقة" },
+{ "word": "Caring", "translation": "رعاية / اهتمام" },
+{ "word": "Well-being", "translation": "رفاهية" },
+{ "word": "Volunteering", "translation": "تطوع" },
+{ "word": "Organization", "translation": "منظمة" },
+{ "word": "Support", "translation": "دعم" },
+{ "word": "Exercise", "translation": "تمرين / رياضة" },
+{ "word": "Physical", "translation": "جسدي" },
+{ "word": "Mental", "translation": "عقلي" },
+{ "word": "Depression", "translation": "اكتئاب" },
+{ "word": "Strengths", "translation": "نقاط قوة" },
+{ "word": "Goals", "translation": "أهداف" },
+{ "word": "Grateful", "translation": "ممتن" },
+{ "word": "Aware", "translation": "واع / مدرك" },
+{ "word": "Thankful", "translation": "شاكر" },
+{ "word": "Hopeful", "translation": "متفائل / مأمول" },
+{ "word": "Future", "translation": "مستقبل" },
+{ "word": "Open to", "translation": "منفتح على" },
+{ "word": "Focusing on", "translation": "التركيز على" },
+{ "word": "Enjoying", "translation": "الاستمتاع بـ" },
+{ "word": "Present moment", "translation": "اللحظة الحالية" },
+{ "word": "Trek", "translation": "رحلة طويلة / مسير" },
+{ "word": "Exhausted", "translation": "مرهق" },
+{ "word": "Shaking", "translation": "مرتجف" },
+{ "word": "Complete", "translation": "يكمل" },
+{ "word": "Bleeding", "translation": "نزيف" },
+{ "word": "Continue", "translation": "يستمر" },
+{ "word": "Fascinating", "translation": "رائع / مذهل" },
+{ "word": "Adapt", "translation": "يتكيف" },
+{ "word": "Communication", "translation": "تواصل" },
+{ "word": "Gradually", "translation": "تدريجياً" },
+{ "word": "Impatient", "translation": "نفاد صبر" },
+{ "word": "Complains", "translation": "يشكو" },
+{ "word": "Keep up", "translation": "يواكب / يلحق" },
+{ "word": "Younger", "translation": "أصغر سناً" },
+{ "word": "Stronger", "translation": "أقوى" },
+{ "word": "Inn", "translation": "نزل / فندق صغير" },
+{ "word": "Differences", "translation": "اختلافات" },
+{ "word": "Directions", "translation": "اتجاهات / تعليمات" },
+{ "word": "Ahead", "translation": "إلى الأمام" },
+{ "word": "Beneficial", "translation": "مفيد" },
+{ "word": "Choice", "translation": "خيار" },
+{ "word": "Gathered", "translation": "جمع / تجميع" },
+{ "word": "Implemented", "translation": "تم تنفيذه" },
+{ "word": "Permanent", "translation": "دائم" },
+{ "word": "Fine", "translation": "غرامة" },
+{ "word": "Discover", "translation": "يكتشف" },
+{ "word": "Predict", "translation": "يتنبأ" },
+{ "word": "Plumber", "translation": "سباك" },
+{ "word": "Review", "translation": "مراجعة" },
+{ "word": "Multiply", "translation": "يضاعف" }
+],
+"tables": [
+{
+"title": "Present Simple (المضارع البسيط)",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الإثبات", "Subject + Verb 1 (s/es مع he/she/it)", "The brain remembers negative experiences."],
+["النفي", "Subject + do/does + not + Verb 1", "The brain does not remember positive experiences."],
+["السؤال", "Do/Does + Subject + Verb 1?", "Does the brain remember negative experiences?"]
+],
+"explanation": "نستخدم المضارع البسيط للحقائق والعادات الثابتة. نضيف s/es للفعل مع he/she/it.",
+"examples": "The brain remembers negative experiences. / Exercise improves health."
+},
+{
+"title": "Present Progressive (المضارع المستمر)",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الإثبات", "Subject + am/is/are + Verb + ing", "He is travelling with Liam."],
+["النفي", "Subject + am/is/are + not + Verb + ing", "He is not travelling alone."],
+["السؤال", "Am/Is/Are + Subject + Verb + ing?", "Is he travelling with Liam?"]
+],
+"explanation": "نستخدم المضارع المستمر للأحداث الجارية الآن أو الفترات المؤقتة.",
+"examples": "He is travelling with Liam. / They are discussing differences."
+},
+{
+"title": "Past Simple (الماضي البسيط)",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الإثبات", "Subject + Verb 2 (Past)", "They bought a house last year."],
+["النفي", "Subject + did + not + Verb 1", "They did not buy a car."],
+["السؤال", "Did + Subject + Verb 1?", "Did they buy a house last year?"]
+],
+"explanation": "نستخدم الماضي البسيط للأحداث التي وقعت وانتهت في الماضي.",
+"examples": "They bought a house last year. / He lived in London."
+},
+{
+"title": "Past Continuous (الماضي المستمر)",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الإثبات", "Subject + was/were + Verb + ing", "She was having lunch when her friends came."],
+["النفي", "Subject + was/were + not + Verb + ing", "She was not having lunch."],
+["السؤال", "Was/Were + Subject + Verb + ing?", "Was she having lunch when her friends came?"]
+],
+"explanation": "نستخدم الماضي المستمر للأحداث المستمرة في الماضي، خاصة عندما يقطعها حدث آخر.",
+"examples": "Sarah hurt her ankle while she was running. / Leila was having lunch when her friends came."
+},
+{
+"title": "Present Perfect (المضارع التام)",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الإثبات", "Subject + has/have + Past Participle", "She has worked here for three years."],
+["النفي", "Subject + has/have + not + Past Participle", "She has not worked here."],
+["السؤال", "Has/Have + Subject + Past Participle?", "Has she worked here for three years?"]
+],
+"explanation": "نستخدم المضارع التام للأحداث التي بدأت في الماضي واستمرت حتى الآن.",
+"examples": "She has been working there for three years. / They haven't visited the museum since 2014."
+},
+{
+"title": "Demonstratives (أسماء الإشارة)",
+"headers": ["أداة الإشارة", "الاستخدام", "مثال"],
+"rows": [
+["This", "مفرد - قريب", "This was such an interesting experience."],
+["That", "مفرد - بعيد", "That was a great day."],
+["These", "جمع - قريب", "Are these your shoes?"],
+["Those", "جمع - بعيد", "Are those your shoes over there?"]
+],
+"explanation": "أسماء الإشارة تستخدم للإشارة إلى الأشياء حسب القرب والبعد والمفرد والجمع.",
+"examples": "This was such an interesting experience. / Are those your shoes?"
+},
+{
+"title": "Imperatives (صيغة الأمر)",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الأمر الإيجابي", "Verb 1", "Watch out!"],
+["الأمر المنفي", "Don't + Verb 1", "Don't run in the corridors!"]
+],
+"explanation": "صيغة الأمر تستخدم للأمر أو الطلب أو النصيحة. للنفي نستخدم Don't + الفعل في المصدر.",
+"examples": "Don't run in the corridors! / Watch out! You are driving very fast."
+},
+{
+"title": "Question Words (أدوات الاستفهام)",
+"headers": ["أداة السؤال", "الاستخدام", "مثال"],
+"rows": [
+["What", "يسأل عن شيء", "What does she teach?"],
+["Where", "يسأل عن مكان", "Where does he live?"],
+["When", "يسأل عن زمان", "When did they buy a house?"],
+["Why", "يسأل عن سبب", "Why did he learn Nepali?"],
+["How long", "يسأل عن مدة", "How long has she been working there?"],
+["How often", "يسأل عن تكرار", "How often do you ride your bike?"],
+["Who", "يسأل عن شخص", "Who is Liam?"]
+],
+"explanation": "أدوات الاستفهام توضع في بداية السؤال ويتبعها الفعل المساعد ثم الفاعل ثم الفعل الرئيسي.",
+"examples": "Where does he live? / When did they buy a house? / Who is Liam?"
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["حرف الجر", "الاستخدام", "مثال"],
+"rows": [
+["in", "داخل (مكان / مدينة / بلد)", "He lives in London."],
+["on", "على سطح / يوم", "on the table, on Fridays"],
+["at", "مكان محدد / وقت محدد / ينظر إلى", "at school, at 5 o'clock, look at"],
+["for", "لمدة / من أجل", "for three years, apply for a job"],
+["to", "إلى (هدف / اتجاه)", "to make communication easier, wanted to go"],
+["with", "مع / بواسطة", "travelling with Liam"],
+["about", "عن / حول", "talking about differences"],
+["of", "من / لـ (ملكية / جزء من)", "full of snakes"]
+],
+"explanation": "حروف الجر تأتي قبل الاسم أو الضمير ولها استخدامات متعددة حسب السياق.",
+"examples": "He lives in London. / She has been working there for three years. / They are talking about differences."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["أداة الربط", "الاستخدام", "مثال"],
+"rows": [
+["and", "للربط بين كلمتين متشابهتين", "hands and arms"],
+["but", "للتعبير عن تباين", "He is nice but impatient."],
+["so", "للتعبير عن نتيجة", "He was tired, so he slept."],
+["because", "للتعبير عن سبب", "He got the job because of his mother's advice."],
+["although", "للتعبير عن تضاد", "Although he was tired, he continued."]
+],
+"explanation": "أدوات الربط تستخدم لربط الجمل أو الكلمات.",
+"examples": "He is nice but impatient. / He was tired, so he slept."
+},
+{
+"title": "Word Choice (اختيار الكلمة المناسبة)",
+"headers": ["الكلمة", "النوع", "المعنى", "مثال"],
+"rows": [
+["choice", "اسم", "خيار", "We have no choice but to study."],
+["fine", "اسم", "غرامة", "She has to pay a fine."],
+["beneficial", "صفة", "مفيد", "A good diet is beneficial."],
+["permanent", "صفة", "دائم", "The accident caused permanent damage."],
+["gathered", "فعل (ماضي)", "جمع", "We gathered information."],
+["implemented", "فعل (ماضي)", "تم تنفيذه", "The programme was implemented."],
+["discover", "فعل", "يكتشف", "The police discovered the cause."]
+],
+"explanation": "اختيار الكلمة المناسبة يعتمد على موقعها في الجملة (اسم، فعل، صفة).",
+"examples": "She has to pay a fine. / A good diet is beneficial. / The police discovered the cause."
+}
+]
+}

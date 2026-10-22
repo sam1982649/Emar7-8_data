@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"title": "Match the Words with Definitions - Secrets of a Happy Brain",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "shared in common" },
+{ "letter": "b", "text": "hoping for the good" },
+{ "letter": "c", "text": "understanding" },
+{ "letter": "d", "text": "one of several things that influence something" },
+{ "letter": "e", "text": "smooth movement or progress" },
+{ "letter": "f", "text": "the state of being poor" }
+],
+"sentences": [
+{
+"start": "factors",
+"correct": "d",
+"full_sentence": "factors: one of several things that influence something",
+"translation": "العوامل: أحد الأشياء المتعددة التي تؤثر على شيء ما",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 48"
+},
+{
+"start": "mutual",
+"correct": "a",
+"full_sentence": "mutual: shared in common",
+"translation": "متبادل: مشترك بين اثنين",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 48"
+},
+{
+"start": "empathy",
+"correct": "c",
+"full_sentence": "empathy: understanding",
+"translation": "التعاطف: فهم مشاعر الآخرين",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 48"
+},
+{
+"start": "state of flow",
+"correct": "e",
+"full_sentence": "state of flow: smooth movement or progress",
+"translation": "حالة التدفق: حركة أو تقدم سلس",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 48"
+},
+{
+"start": "optimistic",
+"correct": "b",
+"full_sentence": "optimistic: hoping for the good",
+"translation": "متفائل: الأمل بالخير",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 48"
+}
+]
+},
+{
+"title": "Match the Words with Definitions - Trekking",
+"source": "activity_book",
+"options": [
+{ "letter": "a", "text": "restless - intolerant" },
+{ "letter": "b", "text": "very tired" },
+{ "letter": "c", "text": "a long hard walk lasting several days, especially in the mountains" },
+{ "letter": "d", "text": "the process of losing blood from the body" },
+{ "letter": "e", "text": "to change your behaviour in order to deal more successfully with a new situation" },
+{ "letter": "f", "text": "an old-fashioned hotel, usually in the country where people can stay the night" }
+],
+"sentences": [
+{
+"start": "bleeding",
+"correct": "d",
+"full_sentence": "bleeding: the process of losing blood from the body",
+"translation": "النزيف: عملية فقدان الدم من الجسم",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 43"
+},
+{
+"start": "inn",
+"correct": "f",
+"full_sentence": "inn: an old-fashioned hotel, usually in the country where people can stay the night",
+"translation": "النزل: فندق قديم الطراز، عادة في الريف حيث يمكن للناس المبيت",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 43"
+},
+{
+"start": "adapt",
+"correct": "e",
+"full_sentence": "adapt: to change your behaviour in order to deal more successfully with a new situation",
+"translation": "يتكيف: تغيير سلوكك لتتعامل بنجاح أكبر مع وضع جديد",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 43"
+},
+{
+"start": "impatient",
+"correct": "a",
+"full_sentence": "impatient: restless - intolerant",
+"translation": "نافد الصبر: مضطرب - غير متسامح",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 43"
+},
+{
+"start": "exhausted",
+"correct": "b",
+"full_sentence": "exhausted: very tired",
+"translation": "مرهق: متعب جداً",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 43"
+}
+]
+}
+]
+}
