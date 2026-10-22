@@ -1,0 +1,227 @@
+{
+"vocabulary": [
+{ "word": "invention", "translation": "اختراع" },
+{ "word": "inventor", "translation": "مخترع" },
+{ "word": "innovation", "translation": "ابتكار" },
+{ "word": "innovator", "translation": "مبتكر" },
+{ "word": "patent", "translation": "براءة اختراع" },
+{ "word": "manufacture", "translation": "يصنع (بكميات كبيرة)" },
+{ "word": "approach", "translation": "يقترب / يتواصل مع" },
+{ "word": "hint", "translation": "تلميح" },
+{ "word": "grant", "translation": "يمنح" },
+{ "word": "license", "translation": "رخصة / ترخيص" },
+{ "word": "contract", "translation": "عقد" },
+{ "word": "coach", "translation": "مدرب" },
+{ "word": "shoot", "translation": "يسدد (في الرياضة)" },
+{ "word": "aim", "translation": "يوجه / يهدف" },
+{ "word": "tool", "translation": "أداة" },
+{ "word": "indicate", "translation": "يشير إلى" },
+{ "word": "position", "translation": "وضع / موقع" },
+{ "word": "pollution", "translation": "تلوث" },
+{ "word": "threat", "translation": "تهديد" },
+{ "word": "emit", "translation": "ينبعث / يطلق" },
+{ "word": "structure", "translation": "هيكل / بناء" },
+{ "word": "particles", "translation": "جزيئات" },
+{ "word": "airborne", "translation": "محمول في الهواء" },
+{ "word": "draw", "translation": "يسحب" },
+{ "word": "polish", "translation": "يلمع / يفرك" },
+{ "word": "static", "translation": "ساكن / غير متحرك" },
+{ "word": "bacteria", "translation": "بكتيريا" },
+{ "word": "dust", "translation": "غبار" },
+{ "word": "electric charge", "translation": "شحنة كهربائية" },
+{ "word": "collector plates", "translation": "ألواح تجميع" },
+{ "word": "environment", "translation": "بيئة" },
+{ "word": "technology", "translation": "تكنولوجيا" },
+{ "word": "improve", "translation": "يحسن" },
+{ "word": "healthcare", "translation": "الرعاية الصحية" },
+{ "word": "transportation", "translation": "وسائل النقل" },
+{ "word": "entertainment", "translation": "ترفيه" },
+{ "word": "light bulb", "translation": "مصباح كهربائي" },
+{ "word": "phonograph", "translation": "فونوغراف (جهاز تسجيل)" },
+{ "word": "surf", "translation": "يتصفح الإنترنت" },
+{ "word": "register", "translation": "يسجل" },
+{ "word": "turn off", "translation": "يطفئ" },
+{ "word": "video game", "translation": "لعبة فيديو" },
+{ "word": "helpful", "translation": "مفيد" },
+{ "word": "helpless", "translation": "عاجز" },
+{ "word": "successful", "translation": "ناجح" },
+{ "word": "successfully", "translation": "بنجاح" },
+{ "word": "communicate", "translation": "يتواصل" },
+{ "word": "smartphone", "translation": "هاتف ذكي" },
+{ "word": "modern", "translation": "حديث / عصري" },
+{ "word": "daily", "translation": "يومي" },
+{ "word": "comfortable", "translation": "مريح" },
+{ "word": "convenient", "translation": "مناسب" },
+{ "word": "connect", "translation": "يتصل / يربط" },
+{ "word": "access", "translation": "وصول" },
+{ "word": "study", "translation": "يدرس" },
+{ "word": "library", "translation": "مكتبة" },
+{ "word": "uncle", "translation": "عم / خال" },
+{ "word": "leave", "translation": "يغادر" },
+{ "word": "return", "translation": "يعود" },
+{ "word": "storm", "translation": "عاصفة" },
+{ "word": "destroy", "translation": "يدمر" },
+{ "word": "sandcastle", "translation": "قلعة رملية" },
+{ "word": "chestnut", "translation": "كستناء" },
+{ "word": "collect", "translation": "يجمع" },
+{ "word": "fall", "translation": "يسقط" },
+{ "word": "plaster", "translation": "جبيرة" },
+{ "word": "doctor", "translation": "طبيب" },
+{ "word": "order", "translation": "يطلب" },
+{ "word": "waiter", "translation": "نادل" },
+{ "word": "drink", "translation": "مشروب" },
+{ "word": "remember", "translation": "يتذكر" },
+{ "word": "poem", "translation": "قصيدة" },
+{ "word": "laptop", "translation": "حاسوب محمول" },
+{ "word": "fix", "translation": "يصلح" },
+{ "word": "throw", "translation": "يرمي" },
+{ "word": "window", "translation": "نافذة" },
+{ "word": "equipment", "translation": "معدات" },
+{ "word": "rights", "translation": "حقوق" },
+{ "word": "idea", "translation": "فكرة" },
+{ "word": "agreement", "translation": "اتفاق" },
+{ "word": "permission", "translation": "إذن" },
+{ "word": "product", "translation": "منتج" },
+{ "word": "quantity", "translation": "كمية" },
+{ "word": "machine", "translation": "آلة" },
+{ "word": "practice", "translation": "تمرين / ممارسة" },
+{ "word": "basketball", "translation": "كرة سلة" },
+{ "word": "player", "translation": "لاعب" },
+{ "word": "kid", "translation": "طفل" },
+{ "word": "hold", "translation": "يمسك" },
+{ "word": "paint", "translation": "يرسم / يدهن" },
+{ "word": "inquire", "translation": "يستفسر" },
+{ "word": "market", "translation": "سوق" },
+{ "word": "protect", "translation": "يحمي" },
+{ "word": "reduce", "translation": "يقلل" },
+{ "word": "Dutch", "translation": "هولندي" },
+{ "word": "tower", "translation": "برج" },
+{ "word": "remove", "translation": "يزيل" },
+{ "word": "opposite", "translation": "معاكس / عكسي" },
+{ "word": "blow", "translation": "ينفخ" },
+{ "word": "plastic", "translation": "بلاستيكي" },
+{ "word": "balloon", "translation": "بالون" },
+{ "word": "rub", "translation": "يفرك" },
+{ "word": "attract", "translation": "يجذب" },
+{ "word": "hair", "translation": "شعر" }
+],
+"tables": [
+{
+"title": "Past Perfect Tense (الماضي التام) - القاعدة الرئيسية",
+"headers": ["Usage", "Example"],
+"rows": [
+["حدث وقع قبل حدث آخر في الماضي", "He had already left when his family returned home."],
+["حدث وقع قبل وقت محدد في الماضي", "My mother had finished cooking by 3pm."],
+["حدث في الماضي وكان له تأثير على حدث لاحق", "The machine had stopped, so they couldn't continue working."]
+],
+"explanation": "يتكون الماضي التام من: subject + had + past participle (V3). يستخدم للتعبير عن حدث وقع وانتهى قبل حدث آخر في الماضي.",
+"examples": "Chris had tried to show his friends how it should be done.\nSuzi had forgotten her key, so she couldn't get in.\nHe had studied in the library before he came to class."
+},
+{
+"title": "Past Simple vs Past Perfect (الماضي البسيط مقابل الماضي التام)",
+"headers": ["Tense", "Usage", "Example"],
+"rows": [
+["Past Simple", "حدث وقع وانتهى في الماضي", "Chris patented his invention."],
+["Past Perfect", "حدث وقع قبل حدث آخر في الماضي", "Chris had patented his invention before he approached companies."]
+],
+"explanation": "نستخدم Past Simple للحدث الذي وقع في الماضي. نستخدم Past Perfect للحدث الذي وقع قبل حدث آخر في الماضي.",
+"examples": "The storm destroyed the sandcastle that we had built.\nMy uncle had left when my father returned home."
+},
+{
+"title": "Present Simple Tense (المضارع البسيط)",
+"headers": ["Usage", "Form", "Example"],
+"rows": [
+["حقائق عامة", "I/You/We/They + verb", "Air pollution causes the greatest threat."],
+["عادات وروتين", "He/She/It + verb + s", "Roosegaarde's tower cleans 30,000 cubic meters."],
+["نفي", "I/You/We/They + do not + verb", "Students do not drop litter."],
+["سؤال", "Do/Does + subject + verb", "Does the tower clean the air?"]
+],
+"explanation": "يستخدم المضارع البسيط للحقائق العامة والعادات. مع he/she/it نضيف s للفعل. للنفي نستخدم don't أو doesn't. للسؤال نستخدم do أو does.",
+"examples": "Air pollution causes the greatest environmental threat to our health.\nRoosegaarde's tower cleans 30,000 cubic meters of air per hour."
+},
+{
+"title": "Past Simple Tense (الماضي البسيط)",
+"headers": ["Usage", "Form", "Example"],
+"rows": [
+["أحداث وقعت وانتهت في الماضي", "verb + ed (للأفعال المنتظمة)", "Chris patented his invention."],
+["أحداث وقعت وانتهت في الماضي", "تغيير الحروف (للأفعال غير المنتظمة)", "Chris gave his friends helpful hints."],
+["نفي", "did not + base verb", "He did not approach any company."],
+["سؤال", "Did + subject + base verb", "Did Chris patent his invention?"]
+],
+"explanation": "يستخدم الماضي البسيط للأحداث التي وقعت وانتهت في الماضي. الأفعال المنتظمة نضيف لها ed، والأفعال غير المنتظمة لها تصريفات خاصة.",
+"examples": "Chris tried to show his friends how it should be done.\nChris signed the contract."
+},
+{
+"title": "Passive Voice (Present Simple) - المبني للمجهول في المضارع البسيط",
+"headers": ["Tense", "Form", "Example"],
+"rows": [
+["Present Simple Passive", "is/am/are + past participle (V3)", "The Tower is made to clean the air."]
+],
+"explanation": "يستخدم المبني للمجهول عندما يكون الفاعل غير معروف أو غير مهم. التركيب: is/am/are + past participle (V3).",
+"examples": "When a balloon is rubbed, it becomes electrically charged."
+},
+{
+"title": "Passive Voice (Past Simple) - المبني للمجهول في الماضي البسيط",
+"headers": ["Tense", "Form", "Example"],
+"rows": [
+["Past Simple Passive", "was/were + past participle (V3)", "His invention was manufactured in 2001."]
+],
+"explanation": "يستخدم المبني للمجهول في الماضي البسيط عندما يكون الفاعل غير معروف أو غير مهم. التركيب: was/were + past participle (V3).",
+"examples": "The hands-on basketball was sold successfully around the world."
+},
+{
+"title": "Relative Clauses (who) - جمل الوصل",
+"headers": ["Pronoun", "Usage", "Example"],
+"rows": [
+["who", "للعاقل (الأشخاص) كفاعل", "Chris is the boy who invented the hands-on basketball."]
+],
+"explanation": "نستخدم 'who' للعاقل (الأشخاص) كفاعل في جملة الوصل.",
+"examples": "The innovator who developed the tower is Daan Roosegaarde."
+},
+{
+"title": "Adverbs - الظروف",
+"headers": ["Adverb", "Usage", "Example"],
+"rows": [
+["successfully", "يصف كيفية حدوث الفعل", "His invention was sold successfully around the world."]
+],
+"explanation": "الظروف توصف الأفعال وتأتي عادة بعد الفعل. نستخدم 'successfully' لوصف كيفية حدوث الفعل.",
+"examples": "He completed his project successfully."
+},
+{
+"title": "Articles (a / an) - أدوات النكرة",
+"headers": ["Article", "Usage", "Example"],
+"rows": [
+["a", "قبل الكلمات التي تبدأ بصوت ساكن (consonant sound)", "a basketball player"],
+["an", "قبل الكلمات التي تبدأ بصوت متحرك (vowel sound)", "an American player"]
+],
+"explanation": "نستخدم 'a' قبل الكلمات التي تبدأ بصوت ساكن، و 'an' قبل الكلمات التي تبدأ بصوت متحرك (a, e, i, o, u).",
+"examples": "Chris Haas is an American basketball player.\nHe is a coach."
+},
+{
+"title": "Adjectives - الصفات",
+"headers": ["Adjective", "Translation", "Example"],
+"rows": [
+["helpful", "مفيد", "He gave them helpful hints."],
+["helpless", "عاجز", "The helpless child needed help."],
+["successful", "ناجح", "He is a successful inventor."]
+],
+"explanation": "الصفات تصف الأسماء وتأتي قبلها. يمكن أن تصف الحجم، اللون، الشكل، الصفة، إلخ.",
+"examples": "He gave them helpful hints on the right way to hold a ball."
+},
+{
+"title": "Possessive Adjectives - صفات الملكية",
+"headers": ["Pronoun", "Possessive Adjective", "Example"],
+"rows": [
+["I", "my", "My uncle had left."],
+["You", "your", "Your idea is good."],
+["He", "his", "Chris tried to show his friends."],
+["She", "her", "She lost her key."],
+["It", "its", "The tower cleans its surroundings."],
+["We", "our", "Our family consists of five members."],
+["They", "their", "Students wash their hands."]
+],
+"explanation": "صفات الملكية تأتي قبل الاسم وتدل على الملكية. تعود على الفاعل في الجملة.",
+"examples": "Chris tried to show his friends how it should be done.\nSuzi had forgotten her key."
+}
+]
+}

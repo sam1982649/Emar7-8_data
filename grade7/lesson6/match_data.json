@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"id": "SB_G6_U6_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"options": [
+{ "letter": "a", "text": "missing easy shots during practicing." },
+{ "letter": "b", "text": "how shots should be done." },
+{ "letter": "c", "text": "after he signed the contract." },
+{ "letter": "d", "text": "the better prepared you are for the future." },
+{ "letter": "e", "text": "so she couldn't get in." }
+],
+"sentences": [
+{
+"start": "Chris saw his friends",
+"correct": "a",
+"full_sentence": "Chris saw his friends missing easy shots during practicing.",
+"translation": "رأى كريس أصدقائه يضيعون فرص تسجيل سهلة أثناء التمرين.",
+"source": "Student Book",
+"exact_reference": "After Reading - Match B - Q1"
+},
+{
+"start": "Chris showed the players",
+"correct": "b",
+"full_sentence": "Chris showed the players how shots should be done.",
+"translation": "أظهر كريس للاعبين كيفية القيام بالتسديدات.",
+"source": "Student Book",
+"exact_reference": "After Reading - Match B - Q2"
+},
+{
+"start": "His basketball has been brought to the market",
+"correct": "c",
+"full_sentence": "His basketball has been brought to the market after he signed the contract.",
+"translation": "تم جلب كرة السلة الخاصة به إلى السوق بعد أن وقع العقد.",
+"source": "Student Book",
+"exact_reference": "After Reading - Match B - Q3"
+},
+{
+"start": "The more you know about the past,",
+"correct": "d",
+"full_sentence": "The more you know about the past, the better prepared you are for the future.",
+"translation": "كلما عرفت أكثر عن الماضي، كلما كنت أكثر استعداداً للمستقبل.",
+"source": "Student Book",
+"exact_reference": "Focus on History & Future"
+},
+{
+"start": "Suzi had forgotten her key,",
+"correct": "e",
+"full_sentence": "Suzi had forgotten her key, so she couldn't get in.",
+"translation": "كانت سوزي قد نسيت مفتاحها، لذلك لم تستطع الدخول.",
+"source": "Student Book",
+"exact_reference": "Grammar B - Q4"
+}
+]
+},
+{
+"id": "AB_G6_U6_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"options": [
+{ "letter": "a", "text": "receive an electric charge." },
+{ "letter": "b", "text": "that we had built." },
+{ "letter": "c", "text": "that had fallen from the tree." },
+{ "letter": "d", "text": "that I had not ordered." },
+{ "letter": "e", "text": "by reducing air pollution." }
+],
+"sentences": [
+{
+"start": "All airborne particles",
+"correct": "a",
+"full_sentence": "All airborne particles receive an electric charge.",
+"translation": "جميع الجزيئات المحمولة جواً تتلقى شحنة كهربائية.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "The storm destroyed the sandcastle",
+"correct": "b",
+"full_sentence": "The storm destroyed the sandcastle that we had built.",
+"translation": "دمرت العاصفة القلعة الرملية التي كنا قد بنيناها.",
+"source": "Activity Book",
+"exact_reference": "Grammar 1 - Q1"
+},
+{
+"start": "The children collected the chestnuts",
+"correct": "c",
+"full_sentence": "The children collected the chestnuts that had fallen from the tree.",
+"translation": "جمع الأطفال الكستناء التي كانت قد سقطت من الشجرة.",
+"source": "Activity Book",
+"exact_reference": "Grammar 2 - Q3"
+},
+{
+"start": "The waiter brought a drink",
+"correct": "d",
+"full_sentence": "The waiter brought a drink that I had not ordered.",
+"translation": "أحضر النادل مشروباً لم أكن قد طلبته.",
+"source": "Activity Book",
+"exact_reference": "Grammar 2 - Q1"
+},
+{
+"start": "Innovations could help in protecting the environment",
+"correct": "e",
+"full_sentence": "Innovations could help in protecting the environment by reducing air pollution.",
+"translation": "يمكن للابتكارات أن تساعد في حماية البيئة عن طريق تقليل تلوث الهواء.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+}
+]
+}
+]
+}

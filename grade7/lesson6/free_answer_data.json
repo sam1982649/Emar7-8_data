@@ -1,0 +1,107 @@
+{
+"questions": [
+{
+"id": "SB_G6_U6_F1",
+"question": "Where do you play football?",
+"translation": "أين تلعب كرة القدم؟",
+"keywords": ["playground", "school", "club", "park"],
+"suggested_answers": [
+"I play football in the playground.",
+"I play football at school.",
+"I play football in the club.",
+"I play football in the park."
+],
+"wh_word": "Where",
+"auxiliary": "do",
+"category": "Place",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G6_U6_F2",
+"question": "Why do you use a mobile phone?",
+"translation": "لماذا تستخدم الهاتف المحمول؟",
+"keywords": ["communicate", "call", "message", "internet"],
+"suggested_answers": [
+"I use a mobile phone to communicate with my family.",
+"I use a mobile phone to make calls.",
+"I use a mobile phone to send messages.",
+"I use a mobile phone to surf the internet."
+],
+"wh_word": "Why",
+"auxiliary": "do",
+"category": "Purpose",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G6_U6_F3",
+"question": "When did your father leave to work yesterday?",
+"translation": "متى غادر والدك إلى العمل أمس؟",
+"keywords": ["morning", "7", "early", "6"],
+"suggested_answers": [
+"My father left to work in the morning.",
+"My father left to work at 7 o'clock.",
+"My father left to work early.",
+"My father left to work at 6 o'clock."
+],
+"wh_word": "When",
+"auxiliary": "did",
+"category": "Time",
+"source": "Student Book",
+"exact_reference": "Grammar B"
+},
+{
+"id": "AB_G6_U6_F4",
+"question": "What are the best and the most useful inventions in the 21st century?",
+"translation": "ما هي أفضل وأكثر الاختراعات فائدة في القرن الحادي والعشرين؟",
+"keywords": ["internet", "smartphones", "computers", "AI"],
+"suggested_answers": [
+"I think the internet is one of the best inventions.",
+"Smartphones are the most useful inventions.",
+"Computers are very useful in our daily life.",
+"AI is one of the most important inventions."
+],
+"wh_word": "What",
+"auxiliary": "are",
+"category": "Opinion",
+"source": "Activity Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G6_U6_F5",
+"question": "What could you do when you were 5 years old?",
+"translation": "ماذا كنت تستطيع أن تفعل عندما كان عمرك 5 سنوات؟",
+"keywords": ["read", "write", "draw", "play", "swim"],
+"suggested_answers": [
+"I could read when I was 5 years old.",
+"I could write when I was 5 years old.",
+"I could draw when I was 5 years old.",
+"I could play football when I was 5 years old.",
+"I could swim when I was 5 years old."
+],
+"wh_word": "What",
+"auxiliary": "could",
+"category": "Ability",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "AB_G6_U6_F6",
+"question": "What had you done before you came to school?",
+"translation": "ماذا كنت قد فعلت قبل أن تأتي إلى المدرسة؟",
+"keywords": ["breakfast", "homework", "studied", "got dressed"],
+"suggested_answers": [
+"I had eaten breakfast before I came to school.",
+"I had done my homework before I came to school.",
+"I had studied my lessons before I came to school.",
+"I had got dressed before I came to school."
+],
+"wh_word": "What",
+"auxiliary": "had",
+"category": "Past Action",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+}
+]
+}

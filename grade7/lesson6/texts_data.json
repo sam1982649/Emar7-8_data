@@ -1,0 +1,147 @@
+{
+"texts": [
+{
+"id": "G6_U6_T1",
+"text_group": "G6_U6_A_Little_Inventor",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "A Little Inventor",
+"content_exam": "Chris Haas, a 9 year old kid, is an American basketball player who saw his friends missing easy shots during a school basketball practice. He was the son of a basketball coach and knew the right way to aim and shoot. He had tried to show his friends how it should be done. Then he gave them helpful hints on the right way to hold a ball. He came up with his invention 'the hands-on basketball'. 'The hands-on basketball' is a basketball training tool for kids and has hands painted on it, indicating the correct positions to hold the ball while trying to shoot baskets.",
+"questions": [
+{
+"id": "t1_q1",
+"question": "Chris Haas is a ............ basketball player.",
+"options": ["Syrian", "American", "English", "French"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: American\n📝 الترجمة: كريس هاس هو لاعب كرة سلة أمريكي.\n💡 الشرح: النص يقول: 'Chris Haas ... is an American basketball player'."
+},
+{
+"id": "t1_q2",
+"question": "Chris saw his friends ............ easy shots during practice.",
+"options": ["making", "scoring", "missing", "taking"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: missing\n📝 الترجمة: رأى كريس أصدقائه يضيعون فرص تسجيل سهلة خلال التمرين.\n💡 الشرح: النص يقول: 'saw his friends missing easy shots'."
+},
+{
+"id": "t1_q3",
+"question": "Chris's father is a basketball ............ .",
+"options": ["player", "coach", "referee", "fan"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: coach\n📝 الترجمة: والد كريس هو مدرب كرة سلة.\n💡 الشرح: النص يقول: 'He was the son of a basketball coach'."
+},
+{
+"id": "t1_q4",
+"question": "'The hands-on basketball' is a training tool for ............ .",
+"options": ["adults", "teenagers", "kids", "coaches"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: kids\n📝 الترجمة: كرة السلة التدريبية هي أداة تدريب للأطفال.\n💡 الشرح: النص يقول: 'a basketball training tool for kids'."
+},
+{
+"id": "t1_q5",
+"question": "The hands on the basketball indicate the correct ............ to hold the ball.",
+"options": ["ways", "positions", "times", "places"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: positions\n📝 الترجمة: الأيدي على الكرة تشير إلى الأوضاع الصحيحة للإمساك بالكرة.\n💡 الشرح: النص يقول: 'indicating the correct positions to hold the ball'."
+}
+]
+},
+{
+"id": "G6_U6_T1_P2",
+"text_group": "G6_U6_A_Little_Inventor",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "A Little Inventor (Part 2)",
+"content_exam": "Chris had patented his invention to a sport equipment company which sold hundreds of thousands of 'the hands on basketball.' After he had been granted the patent with the help of his dad, he approached several sports equipment companies inquiring whether they would be interested in buying the licence rights to his idea. His invention was manufactured and sold successfully around the world a year after he had signed the contract that brought the hands-on basketball to the market.",
+"questions": [
+{
+"id": "t1_q6",
+"question": "Chris patented his invention with the help of his mother.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: حصل كريس على براءة اختراع بمساعدة والدته.\n💡 الشرح: النص يقول: 'with the help of his dad' (وليس mother)."
+},
+{
+"id": "t1_q7",
+"question": "Chris's invention was sold successfully around the world.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: اختراع كريس بيع بنجاح حول العالم.\n💡 الشرح: النص يقول: 'sold successfully around the world'."
+},
+{
+"id": "t1_q8",
+"question": "Chris signed the contract before his invention was manufactured.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: وقع كريس العقد قبل أن يتم تصنيع اختراعه.\n💡 الشرح: النص يقول: 'a year after he had signed the contract that brought the hands-on basketball to the market'."
+},
+{
+"id": "t1_q9",
+"question": "What did Chris approach sports equipment companies for?",
+"type": "answer",
+"keywords": ["buying", "licence rights"],
+"explanation": "✅ الإجابة الصحيحة: buying the licence rights\n📝 الترجمة: ماذا اقترب كريس من شركات المعدات الرياضية؟\n💡 الشرح: النص يقول: 'whether they would be interested in buying the licence rights to his idea'."
+},
+{
+"id": "t1_q10",
+"question": "How old was Chris when he invented the hands-on basketball?",
+"type": "answer",
+"keywords": ["9", "nine"],
+"explanation": "✅ الإجابة الصحيحة: 9 (nine)\n📝 الترجمة: كم كان عمر كريس عندما اخترع كرة السلة التدريبية؟\n💡 الشرح: النص يقول: 'a 9 year old kid'."
+}
+]
+},
+{
+"id": "G6_U6_T2",
+"text_group": "G6_U6_The_Latest_Innovation",
+"part": 1,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "The Latest Innovation",
+"content_exam": "According to the World Health Organization, air pollution causes the greatest environmental threat to our health. Therefore, innovators began to think of new technological innovations which could help in protecting the environment. The Dutch innovator, Daan Roosegaarde, has developed large towers that remove pollution emitted into the air. The Tower is a seven-meter high structure that removes bacteria from dust particles in the air. Roosegaarde's tower cleans 30,000 cubic meters of air per hour. Air from the area surrounding the tower is drawn into the structure. All airborne particles receive an electric charge. The clean air is then blown from the tower back into the environment.",
+"questions": [
+{
+"id": "t2_q1",
+"question": "The tower is seven meters high.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: البرج ارتفاعه سبعة أمتار.\n💡 الشرح: النص يقول: 'a seven-meter high structure'."
+},
+{
+"id": "t2_q2",
+"question": "The tower cleans 30,000 cubic meters of air per minute.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: البرج ينظف 30,000 متر مكعب من الهواء في الدقيقة.\n💡 الشرح: النص يقول: 'per hour' (وليس per minute)."
+},
+{
+"id": "t2_q3",
+"question": "The clean air is blown from the tower back into the environment.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: الهواء النظيف يُنفخ من البرج مرة أخرى إلى البيئة.\n💡 الشرح: النص يقول: 'blown from the tower back into the environment'."
+},
+{
+"id": "t2_q4",
+"question": "How much air does Roosegaarde's tower clean per hour?",
+"type": "answer",
+"keywords": ["30,000", "thirty thousand", "cubic meters"],
+"explanation": "✅ الإجابة الصحيحة: 30,000 cubic meters\n📝 الترجمة: كم من الهواء ينظف برج روزجارد في الساعة؟\n💡 الشرح: النص يقول: 'cleans 30,000 cubic meters of air per hour'."
+},
+{
+"id": "t2_q5",
+"question": "What are the charged particles caught on?",
+"type": "answer",
+"keywords": ["collector plates", "large collector plates"],
+"explanation": "✅ الإجابة الصحيحة: large collector plates\n📝 الترجمة: على ماذا تُلتقط الجزيئات المشحونة؟\n💡 الشرح: النص يقول: 'caught on large collector plates'."
+}
+]
+}
+]
+}
