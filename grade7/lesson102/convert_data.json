@@ -1,0 +1,123 @@
+{
+"questions": [
+{
+"id": "SB_G7_R2_C1",
+"original": "People need to sleep for seven hours.",
+"targetWord": "seven hours",
+"correctQuestion": "How many hours do people need to sleep?",
+"correctQuestions": [
+"How many hours do people need to sleep?"
+],
+"wh_word": "how many",
+"auxiliary": "do",
+"subject": "people",
+"subject_type": "noun_plural",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading (Sleep)"
+},
+{
+"id": "SB_G7_R2_C2",
+"original": "It will rain.",
+"targetWord": "rain",
+"correctQuestion": "What will the weather be like?",
+"correctQuestions": [
+"What will the weather be like?"
+],
+"wh_word": "what ... like",
+"auxiliary": "will",
+"subject": "the weather",
+"subject_type": "noun_thing",
+"category": "Weather",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar Exercise"
+},
+{
+"id": "SB_G7_R2_C3",
+"original": "They wrote a story.",
+"targetWord": "a story",
+"correctQuestion": "What did they write?",
+"correctQuestions": [
+"What did they write?"
+],
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "they",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar Exercise"
+},
+{
+"id": "SB_G7_R2_C4",
+"original": "This laptop costs 20,000 pounds.",
+"targetWord": "20,000 pounds",
+"correctQuestion": "How much does this laptop cost?",
+"correctQuestions": [
+"How much does this laptop cost?"
+],
+"wh_word": "how much",
+"auxiliary": "does",
+"subject": "this laptop",
+"subject_type": "noun_thing",
+"category": "Price",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar Exercise"
+},
+{
+"id": "SB_G7_R2_C5",
+"original": "She goes to school by bus.",
+"targetWord": "by bus",
+"correctQuestion": "How does she go to school?",
+"correctQuestions": [
+"How does she go to school?"
+],
+"wh_word": "how",
+"auxiliary": "does",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Manner",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar Exercise"
+},
+{
+"id": "SB_G7_R2_C6",
+"original": "Sara came with her friend.",
+"targetWord": "Sara",
+"correctQuestion": "Who came with her friend?",
+"correctQuestions": [
+"Who came with her friend?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "sara",
+"subject_type": "name_female",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar Exercise"
+},
+{
+"id": "AB_G7_R2_C7",
+"original": "I am planting trees.",
+"targetWord": "planting",
+"correctQuestion": "What are you doing?",
+"correctQuestions": [
+"What are you doing?"
+],
+"wh_word": "what",
+"auxiliary": "are",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading (Nature Lungs)"
+}
+]
+}
