@@ -1,0 +1,152 @@
+{
+"texts": [
+{
+"id": "G8_U6_T1",
+"text_group": "G8_U6_Dreams_Can_Come_True",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Dreams can come true",
+"content_exam": "Amazon's business made online shopping so easy and convenient that customers won't think twice to use it. Why has Amazon been so successful? Much of it has to do with Jeff Bezos, the founder of this company. His unique combination of character and business strategy has driven Amazon to the top of the online trade world. Bezos rose from a computer nerd to a world-changing industrialist. He is one of the richest men in the world and an expert in business. He followed his dream to establish the largest marketing site. With humble help from his parents, he started his project from their garage. From a young boy selling books, Bezos took many risks to make his dream come true. Many people wrote books containing advice from Bezos about starting a business and turning dreams into realities.",
+"questions": [
+{
+"id": "t1_q1",
+"question": "What did Amazon's business make easy and convenient?",
+"options": ["Online shopping", "Online ticket-booking", "Online food delivery", "Online banking"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Online shopping\n📝 الترجمة: ماذا جعلت أعمال أمازون سهلة ومريحة؟\n💡 الشرح: النص يقول: 'Amazon's business made online shopping so easy and convenient'."
+},
+{
+"id": "t1_q2",
+"question": "What is Jeff Bezos known as?",
+"options": ["A computer nerd", "A professional musician", "A fashion designer", "A football player"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: A computer nerd\n📝 الترجمة: بماذا يُعرف جيف بيزوس؟\n💡 الشرح: النص يقول: 'Bezos rose from a computer nerd to a world-changing industrialist'."
+},
+{
+"id": "t1_q3",
+"question": "Where did Bezos start his project?",
+"options": ["In his office", "From his garage", "In a factory", "At university"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: From his garage\n📝 الترجمة: أين بدأ بيزوس مشروعه؟\n💡 الشرح: النص يقول: 'he started his project from their garage'."
+},
+{
+"id": "t1_q4",
+"question": "What did Bezos sell as a young boy?",
+"options": ["Toys", "Books", "Food", "Clothes"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Books\n📝 الترجمة: ماذا كان يبيع بيزوس وهو صبي صغير؟\n💡 الشرح: النص يقول: 'From a young boy selling books'."
+},
+{
+"id": "t1_q5",
+"question": "What did Bezos follow to establish the largest marketing site?",
+"options": ["His dream", "His parents", "His friends", "His teachers"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: His dream\n📝 الترجمة: ماذا اتبع بيزوس لتأسيس أكبر موقع تسويقي؟\n💡 الشرح: النص يقول: 'He followed his dream to establish the largest marketing site'."
+}
+]
+},
+{
+"id": "G8_U6_T2",
+"text_group": "G8_U6_Social_Media",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "The Most Popular Social Media Sites",
+"content_exam": "Nowadays social media is full of sites and platforms which allow people to communicate, work and shop with a great variety to choose from. Here are some of the most popular social media sites which are well-known and most used by people worldwide. Facebook: Facebook is the biggest social media site around the world, with more than two billion people using it every month. That's almost a third of the world's population! It's easy to get started on Facebook because almost all content formats work amazingly on Facebook: texts, images, videos, live videos, and stories. YouTube: YouTube is a video-sharing platform where users watch billions of videos every day. To get started, you can create a YouTube channel for your account where you can upload videos for your subscribers to view, like, comment, and share.",
+"questions": [
+{
+"id": "t2_q1",
+"question": "What do social media sites and platforms allow people to do?",
+"options": ["Communicate only", "Work only", "Communicate, work and shop", "Shop only"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Communicate, work and shop\n📝 الترجمة: ماذا تسمح مواقع ومنصات التواصل الاجتماعي للناس بفعله؟\n💡 الشرح: النص يقول: 'allow people to communicate, work and shop'."
+},
+{
+"id": "t2_q2",
+"question": "How many people use Facebook every month?",
+"options": ["More than one billion", "More than two billion", "More than three billion", "More than four billion"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: More than two billion\n📝 الترجمة: كم عدد مستخدمي فيسبوك شهرياً؟\n💡 الشرح: النص يقول: 'with more than two billion people using it every month'."
+},
+{
+"id": "t2_q3",
+"question": "What is YouTube?",
+"options": ["A messaging app", "A video-sharing platform", "A photo sharing app", "A social game"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: A video-sharing platform\n📝 الترجمة: ما هو يوتيوب؟\n💡 الشرح: النص يقول: 'YouTube is a video-sharing platform'."
+},
+{
+"id": "t2_q4",
+"question": "What can you create on YouTube to upload videos?",
+"options": ["A channel", "A profile", "A page", "A group"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: A channel\n📝 الترجمة: ماذا يمكنك إنشاء على يوتيوب لتحميل الفيديوهات؟\n💡 الشرح: النص يقول: 'you can create a YouTube channel for your account where you can upload videos'."
+},
+{
+"id": "t2_q5",
+"question": "What content formats work on Facebook?",
+"options": ["Texts only", "Videos only", "Texts, images, videos, live videos, and stories", "Images only"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Texts, images, videos, live videos, and stories\n📝 الترجمة: ما هي صيغ المحتوى التي تعمل على فيسبوك؟\n💡 الشرح: النص يقول: 'texts, images, videos, live videos, and stories'."
+}
+]
+},
+{
+"id": "G8_U6_T3",
+"text_group": "G8_U6_Social_Media_Part2",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "The Most Popular Social Media Sites (Continued)",
+"content_exam": "WhatsApp: WhatsApp is a messaging application used by people in over 180 countries. Originally, WhatsApp was only used by people to communicate with their family and friends. Gradually, people started communicating with businesses via WhatsApp. Messenger: Messenger is used to be a messaging feature within Facebook, and since 2011, Facebook has made Messenger into a standalone app by itself and greatly expanded on its features. Businesses can now advertise, create chat, send newsletters, and more on Messenger. Instagram: Instagram is a photo and video sharing social media app. It allows you to share a wide range of content such as photos, videos, stories, and live videos.",
+"questions": [
+{
+"id": "t3_q1",
+"question": "WhatsApp is used in over 180 countries.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: واتساب يستخدم في أكثر من 180 دولة.\n💡 الشرح: النص يقول: 'used by people in over 180 countries'."
+},
+{
+"id": "t3_q2",
+"question": "WhatsApp was originally used to communicate with businesses.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: واتساب كان يستخدم في الأصل للتواصل مع الشركات.\n💡 الشرح: النص يقول: 'was only used by people to communicate with their family and friends'."
+},
+{
+"id": "t3_q3",
+"question": "Messenger became a standalone app in 2011.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: ماسنجر أصبح تطبيقاً مستقلاً في 2011.\n💡 الشرح: النص يقول: 'since 2011, Facebook has made Messenger into a standalone app'."
+},
+{
+"id": "t3_q4",
+"question": "What can businesses do on Messenger now?",
+"type": "answer",
+"keywords": ["advertise", "create chat", "send newsletters"],
+"explanation": "✅ الإجابة المتوقعة: advertise, create chat, send newsletters\n📝 الترجمة: ماذا يمكن للشركات أن تفعل على ماسنجر الآن؟\n💡 الشرح: النص يقول: 'Businesses can now advertise, create chat, send newsletters, and more on Messenger'."
+},
+{
+"id": "t3_q5",
+"question": "What does Instagram allow you to share?",
+"type": "answer",
+"keywords": ["photos", "videos", "stories", "live videos"],
+"explanation": "✅ الإجابة المتوقعة: photos, videos, stories, and live videos\n📝 الترجمة: ماذا يسمح لك إنستغرام بمشاركته؟\n💡 الشرح: النص يقول: 'share a wide range of content such as photos, videos, stories, and live videos'."
+}
+]
+}
+]
+}

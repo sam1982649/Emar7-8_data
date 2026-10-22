@@ -1,0 +1,40 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics)",
+"description": "يتم استخراج مواضيع الكتابة من نهاية كل درس في كتاب الطالب وكتاب النشاط.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Writing",
+"Activity Book - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من كتاب الطالب",
+"موضوع واحد من كتاب النشاط",
+"تنويع الأسئلة المساعدة لكل موضوع"
+],
+"applied_to_unit": {
+"grade": 8,
+"unit": 6,
+"title": "Dream and Reality",
+"total_topics": 1,
+"sources": {
+"topic_1": "Activity Book - Writing"
+}
+}
+},
+"topics": [
+{
+"id": "AB_G8_U6_W1",
+"title": "Write a paragraph about the most interesting pages you like to follow on social media.",
+"source": "Activity Book",
+"exact_reference": "Writing Exercise",
+"guiding_questions": [
+"What pages do you follow?",
+"Why do you like to follow them?",
+"What content do they post?"
+],
+"sample_essay": "I like to follow educational pages on social media because they help me learn new things every day. I also follow sports pages because I love football and watch matches. These pages share useful videos, pictures, and interesting stories. They make me happy and I enjoy spending my free time watching them with my friends.",
+"word_count": 49
+}
+]
+}

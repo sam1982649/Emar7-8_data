@@ -1,0 +1,126 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة الإجابة الحرة (Free Answer)",
+"description": "يتم استخراج أسئلة الإجابة الحرة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل العامة والمعلوماتية الموجودة في كل مصدر.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Speaking",
+"Student Book - Grammar Exercises",
+"Activity Book - Vocabulary",
+"Activity Book - Grammar Exercises"
+],
+"selection_criteria": [
+"السؤال من التمارين نفسها وليس من النص",
+"السؤال عام ولا يحتاج إلى قراءة النص للإجابة عليه",
+"الجواب واضح ومحدد وقصير (كلمة أو بضع كلمات)",
+"لا نستخدم أسئلة إجابتها Yes/No"
+],
+"wh_words": ["What", "How", "When", "Where", "How many", "How often", "What time", "Why", "Who", "Which"],
+"auxiliary_verbs": ["do", "does", "is", "are", "was", "were", "did"],
+"answer_type": "كلمة مفتاحية أو عبارة قصيرة",
+"verification_method": "البحث عن الكلمات المفتاحية في إجابة الطالب (case-insensitive)",
+"important_note": "⚠️ الأسئلة مأخوذة من التمارين وليس من النص. تم تغيير الأسماء إلى صيغة المخاطب (your parents, your friend, your teacher)."
+},
+"questions": [
+{
+"id": "AB_G8_U6_F1",
+"question": "How many players are there in a game of basketball?",
+"translation": "كم عدد اللاعبين في مباراة كرة السلة؟",
+"keywords": ["five", "5"],
+"suggested_answers": [
+"There are five players.",
+"There are 5 players."
+],
+"wh_word": "How many",
+"auxiliary": "are",
+"category": "Quantity",
+"source": "Activity Book",
+"exact_reference": "Grammar B"
+},
+{
+"id": "AB_G8_U6_F2",
+"question": "What are you studying at school?",
+"translation": "ماذا تدرس في المدرسة؟",
+"keywords": ["maths", "science", "english", "arabic", "history", "geography"],
+"suggested_answers": [
+"I am studying Maths.",
+"I am studying English.",
+"I am studying Science."
+],
+"wh_word": "What",
+"auxiliary": "are",
+"category": "Object",
+"source": "Activity Book",
+"exact_reference": "Grammar A - Q1"
+},
+{
+"id": "AB_G8_U6_F3",
+"question": "Which is the quickest way to school?",
+"translation": "ما هو أسرع طريق إلى المدرسة؟",
+"keywords": ["by car", "by bus", "on foot", "by bike", "shortcut"],
+"suggested_answers": [
+"The quickest way is by car.",
+"The quickest way is by bus.",
+"The quickest way is by bike.",
+"The quickest way is on foot."
+],
+"wh_word": "Which",
+"auxiliary": "is",
+"category": "Place",
+"source": "Activity Book",
+"exact_reference": "Grammar A - Q2"
+},
+{
+"id": "AB_G8_U6_F4",
+"question": "Why are you so tired?",
+"translation": "لماذا أنت متعب جداً؟",
+"keywords": ["worked hard", "didn't sleep", "studied", "played sports", "tired"],
+"suggested_answers": [
+"I worked hard.",
+"I didn't sleep well.",
+"I studied a lot.",
+"I played sports."
+],
+"wh_word": "Why",
+"auxiliary": "are",
+"category": "Reason",
+"source": "Activity Book",
+"exact_reference": "Grammar B - Q1"
+},
+{
+"id": "AB_G8_U6_F5",
+"question": "Who sent you this email?",
+"translation": "من أرسل لك هذا البريد الإلكتروني؟",
+"keywords": ["my friend", "my teacher", "my brother", "my father", "my mother", "my manager"],
+"suggested_answers": [
+"My friend sent it.",
+"My teacher sent it.",
+"My brother sent it.",
+"My father sent it."
+],
+"wh_word": "Who",
+"auxiliary": "did",
+"category": "Subject",
+"source": "Activity Book",
+"exact_reference": "Grammar B - Q2"
+},
+{
+"id": "AB_G8_U6_F6",
+"question": "What time did your parents arrive from work?",
+"translation": "في أي وقت وصل والديك من العمل؟",
+"keywords": ["six", "seven", "8", "eight", "4", "four", "5", "five", "o'clock"],
+"suggested_answers": [
+"They arrived at six o'clock.",
+"They arrived at seven o'clock.",
+"They arrived at eight o'clock.",
+"They arrived at 5 o'clock.",
+"They arrived at 4 o'clock."
+],
+"wh_word": "What time",
+"auxiliary": "did",
+"category": "Time",
+"source": "Activity Book",
+"exact_reference": "Grammar B - Q5"
+}
+]
+}

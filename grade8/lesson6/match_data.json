@@ -1,0 +1,154 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة المطابقة (Match)",
+"description": "يتم استخراج أسئلة المطابقة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل التي يمكن تقسيمها إلى بداية ونهاية.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Grammar Exercises",
+"Student Book - After Reading",
+"Activity Book - Reading Text",
+"Activity Book - Vocabulary Exercises",
+"Activity Book - Grammar Exercises"
+],
+"structure": {
+"per_group": "5 بدايات + 6 نهايات (واحدة زائدة)"
+},
+"selection_criteria": [
+"تنويع المصادر داخل كل مجموعة",
+"تجنب الجمل المتشابهة",
+"توزيع بين النص والتمارين",
+"كل جملة موثقة بالمصدر الدقيق"
+],
+"applied_to_unit": {
+"grade": 8,
+"unit": 6,
+"title": "Dream and Reality",
+"total_groups": 2,
+"groups": {
+"group_1": {
+"source": "Student Book",
+"sources_used": ["Reading Text (3)", "Grammar Exercises (1)", "After Reading (1)"]
+},
+"group_2": {
+"source": "Activity Book",
+"sources_used": ["Reading Text (2)", "Grammar Exercises (2)", "Vocabulary (1)"]
+}
+}
+}
+},
+"groups": [
+{
+"id": "SB_G8_U6_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G8_U6_Dreams_Can_Come_True",
+"options": [
+{ "letter": "a", "text": "from his family." },
+{ "letter": "b", "text": "a master's degree." },
+{ "letter": "c", "text": "our brain isn't getting enough oxygen." },
+{ "letter": "d", "text": "to make his own dream come true." },
+{ "letter": "e", "text": "the golden prize." },
+{ "letter": "f", "text": "from his friends." }
+],
+"sentences": [
+{
+"start": "Jeff Bezos got support",
+"correct": "a",
+"full_sentence": "Jeff Bezos got support from his family.",
+"translation": "حصل جيف بيزوس على دعم من عائلته.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Ahmad successfully completed",
+"correct": "b",
+"full_sentence": "Ahmad successfully completed a master's degree.",
+"translation": "أكمل أحمد درجة الماجستير بنجاح.",
+"source": "Student Book",
+"exact_reference": "Vocabulary B"
+},
+{
+"start": "We can't think well if",
+"correct": "c",
+"full_sentence": "We can't think well if our brain isn't getting enough oxygen.",
+"translation": "لا يمكننا التفكير بشكل جيد إذا لم يحصل دماغنا على كمية كافية من الأكسجين.",
+"source": "Student Book",
+"exact_reference": "Focus on Biology"
+},
+{
+"start": "Bezos took many risks",
+"correct": "d",
+"full_sentence": "Bezos took many risks to make his own dream come true.",
+"translation": "خاطر بيزوس كثيراً ليجعل حلمه حقيقة.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Sami won",
+"correct": "e",
+"full_sentence": "Sami won the golden prize.",
+"translation": "فاز سامي بالجائزة الذهبية.",
+"source": "Student Book",
+"exact_reference": "Grammar B"
+}
+]
+},
+{
+"id": "AB_G8_U6_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G8_U6_Social_Media",
+"options": [
+{ "letter": "a", "text": "used by people in over 180 countries." },
+{ "letter": "b", "text": "social media app." },
+{ "letter": "c", "text": "because she was ill." },
+{ "letter": "d", "text": "to find a permanent job." },
+{ "letter": "e", "text": "made me happy." },
+{ "letter": "f", "text": "bought a book." }
+],
+"sentences": [
+{
+"start": "WhatsApp is a messaging application",
+"correct": "a",
+"full_sentence": "WhatsApp is a messaging application used by people in over 180 countries.",
+"translation": "واتساب هو تطبيق مراسلة يستخدمه الناس في أكثر من 180 دولة.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Instagram is a photo and video sharing",
+"correct": "b",
+"full_sentence": "Instagram is a photo and video sharing social media app.",
+"translation": "إنستغرام هو تطبيق لمشاركة الصور والفيديو.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "She left school",
+"correct": "c",
+"full_sentence": "She left school because she was ill.",
+"translation": "تركت المدرسة لأنها كانت مريضة.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "It's difficult",
+"correct": "d",
+"full_sentence": "It's difficult to find a permanent job.",
+"translation": "من الصعب العثور على وظيفة دائمة.",
+"source": "Activity Book",
+"exact_reference": "Grammar B"
+},
+{
+"start": "Her joke",
+"correct": "e",
+"full_sentence": "Her joke made me happy.",
+"translation": "نكتتها جعلتني سعيداً.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+}
+]
+}
+]
+}

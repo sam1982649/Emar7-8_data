@@ -1,0 +1,278 @@
+{
+"vocabulary": [
+{ "word": "convenient", "translation": "مناسب (مريح)" },
+{ "word": "unique", "translation": "فريد (خاص جداً)" },
+{ "word": "trade", "translation": "تجارة" },
+{ "word": "humble", "translation": "متواضع (بسيط)" },
+{ "word": "industrialist", "translation": "رجل صناعة" },
+{ "word": "dream", "translation": "حلم" },
+{ "word": "risk", "translation": "خطر / مجازفة" },
+{ "word": "advice", "translation": "نصيحة" },
+{ "word": "garage", "translation": "مرآب" },
+{ "word": "backyard", "translation": "الفناء الخلفي" },
+{ "word": "computer nerd", "translation": "مهووس بالكمبيوتر" },
+{ "word": "founder", "translation": "مؤسس" },
+{ "word": "strategy", "translation": "استراتيجية" },
+{ "word": "character", "translation": "شخصية (طباع)" },
+{ "word": "personality", "translation": "شخصية" },
+{ "word": "combination", "translation": "مزيج" },
+{ "word": "establish", "translation": "يؤسس" },
+{ "word": "marketing site", "translation": "موقع تسويقي" },
+{ "word": "expert", "translation": "خبير" },
+{ "word": "reality", "translation": "واقع" },
+{ "word": "online", "translation": "عبر الإنترنت" },
+{ "word": "shopping", "translation": "تسوق" },
+{ "word": "customer", "translation": "زبون" },
+{ "word": "successful", "translation": "ناجح" },
+{ "word": "richest", "translation": "الأغنى" },
+{ "word": "famous", "translation": "مشهور" },
+{ "word": "classmate", "translation": "زميل صف" },
+{ "word": "brilliantly", "translation": "بشكل رائع" },
+{ "word": "successfully", "translation": "بنجاح" },
+{ "word": "certainly", "translation": "بالتأكيد" },
+{ "word": "modest", "translation": "متواضع" },
+{ "word": "source", "translation": "مصدر" },
+{ "word": "vitamins", "translation": "فيتامينات" },
+{ "word": "golden prize", "translation": "الجائزة الذهبية" },
+{ "word": "permanent", "translation": "دائم" },
+{ "word": "quickest", "translation": "الأسرع" },
+{ "word": "underground", "translation": "مترو الأنفاق" },
+{ "word": "brain", "translation": "دماغ" },
+{ "word": "muscle", "translation": "عضلة" },
+{ "word": "oxygen", "translation": "أكسجين" },
+{ "word": "weight", "translation": "وزن" },
+{ "word": "improve", "translation": "يحسن" },
+{ "word": "memory", "translation": "ذاكرة" },
+{ "word": "decode", "translation": "يفك شفرة" },
+{ "word": "giraffe", "translation": "زرافة" },
+{ "word": "administrator", "translation": "مدير (مشرف)" },
+{ "word": "celebration", "translation": "احتفال" },
+{ "word": "journey", "translation": "رحلة" },
+{ "word": "upload", "translation": "يرفع (يحمل)" },
+{ "word": "social platform", "translation": "منصة اجتماعية" },
+{ "word": "social media", "translation": "وسائل التواصل الاجتماعي" },
+{ "word": "platform", "translation": "منصة" },
+{ "word": "communicate", "translation": "يتواصل" },
+{ "word": "community", "translation": "مجتمع" },
+{ "word": "worldwide", "translation": "في جميع أنحاء العالم" },
+{ "word": "structure", "translation": "هيكل (تنظيم)" },
+{ "word": "content", "translation": "محتوى" },
+{ "word": "message", "translation": "رسالة" },
+{ "word": "access", "translation": "وصول" },
+{ "word": "expand", "translation": "يتوسع" },
+{ "word": "application", "translation": "تطبيق" },
+{ "word": "population", "translation": "سكان" },
+{ "word": "format", "translation": "صيغة" },
+{ "word": "subscriber", "translation": "مشترك" },
+{ "word": "channel", "translation": "قناة" },
+{ "word": "feature", "translation": "ميزة" },
+{ "word": "standalone app", "translation": "تطبيق مستقل" },
+{ "word": "newsletter", "translation": "نشرة إخبارية" },
+{ "word": "advertise", "translation": "يعلن" },
+{ "word": "originally", "translation": "في الأصل" },
+{ "word": "gradually", "translation": "تدريجياً" },
+{ "word": "variety", "translation": "تنوع" },
+{ "word": "video-sharing", "translation": "مشاركة فيديو" },
+{ "word": "photo-sharing", "translation": "مشاركة صور" },
+{ "word": "messaging", "translation": "مراسلة" },
+{ "word": "live video", "translation": "فيديو مباشر" },
+{ "word": "stories", "translation": "قصص (حالات)" },
+{ "word": "exchange information", "translation": "تبادل المعلومات" },
+{ "word": "paragraph", "translation": "فقرة" },
+{ "word": "punctuation", "translation": "علامات ترقيم" },
+{ "word": "spelling", "translation": "إملاء" },
+{ "word": "grammar", "translation": "قواعد" },
+{ "word": "brilliant", "translation": "رائع" },
+{ "word": "certain", "translation": "مؤكد" },
+{ "word": "temporary", "translation": "مؤقت" },
+{ "word": "golden", "translation": "ذهبي" },
+{ "word": "silver", "translation": "فضي" },
+{ "word": "prize", "translation": "جائزة" },
+{ "word": "medal", "translation": "ميدالية" },
+{ "word": "plant", "translation": "يزرع" },
+{ "word": "garden", "translation": "حديقة" },
+{ "word": "beautiful", "translation": "جميل" },
+{ "word": "carefully", "translation": "بحرص" },
+{ "word": "quickly", "translation": "بسرعة" },
+{ "word": "slowly", "translation": "ببطء" },
+{ "word": "well", "translation": "بشكل جيد" },
+{ "word": "badly", "translation": "بشكل سيء" }
+],
+"tables": [
+{
+"title": "Question Words (كلمات الاستفهام)",
+"headers": ["Question Word", "Usage", "Example"],
+"rows": [
+["What", "للسؤال عن الشيء (فاعل أو مفعول به)", "What are you studying?"],
+["Who", "للسؤال عن الفاعل (شخص)", "Who broke the vase?"],
+["Whom", "للسؤال عن المفعول به (شخص)", "Whom did you meet?"],
+["Where", "للسؤال عن المكان", "Where do you live?"],
+["When", "للسؤال عن الوقت", "When did they arrive?"],
+["Why", "للسؤال عن السبب", "Why did she leave?"],
+["Which", "للسؤال عن الاختيار", "Which jacket do you want?"],
+["How", "للسؤال عن الطريقة", "How does she drive?"],
+["How many", "للسؤال عن العدد (معدود)", "How many chairs?"],
+["How much", "للسؤال عن الكمية (غير معدود)", "How much sugar?"],
+["What ... like", "للسؤال عن الصفة", "What is he like?"],
+["What time", "للسؤال عن الساعة", "What time is it?"]
+],
+"explanation": "تستخدم كلمات الاستفهام لتكوين الأسئلة. نستخدم 'Who' و 'What' للسؤال عن الفاعل بدون فعل مساعد. للسؤال عن المفعول به نستخدم الفعل المساعد (do, does, did, is, are, was, were, will, have, has).",
+"examples": "What are you studying at school? - Who sent you this email? - Why are you so tired?"
+},
+{
+"title": "Superlatives (صفات التفضيل)",
+"headers": ["Form", "Rule", "Example"],
+"rows": [
+["the + adjective + -est", "للصفات القصيرة (مقطع واحد أو مقطعين)", "the richest"],
+["the most + adjective", "للصفات الطويلة (ثلاثة مقاطع أو أكثر)", "the most beautiful"]
+],
+"explanation": "تستخدم صفات التفضيل للمقارنة بين ثلاثة أو أكثر. نضيف 'the' قبل الصفة و '-est' أو نستخدم 'most'.",
+"examples": "Jeff Bezos is one of the richest men in the world."
+},
+{
+"title": "Articles (أدوات التعريف والتنكير)",
+"headers": ["Article", "Usage", "Example"],
+"rows": [
+["a", "قبل الأسماء التي تبدأ بحرف ساكن", "a book"],
+["an", "قبل الأسماء التي تبدأ بحرف علة (a, e, i, o, u)", "an expert"],
+["the", "للتعريف (شيء محدد أو معروف)", "the richest men"]
+],
+"explanation": "نستخدم 'a' و 'an' للتنكير (شيء غير محدد). نستخدم 'the' للتعريف (شيء محدد أو معروف).",
+"examples": "Jeff Bezos is certainly an expert in business."
+},
+{
+"title": "Quantifiers (المحددات)",
+"headers": ["Quantifier", "Usage", "Example"],
+"rows": [
+["Many", "مع الأسماء المعدودة (الجمع)", "Many people wrote books."],
+["Much", "مع الأسماء غير المعدودة", "Much sugar."],
+["Some", "في الجمل المثبتة (كمية غير محددة)", "I want some sugar."],
+["Any", "في الجمل المنفية والاستفهامية", "I didn't get any support."],
+["A little", "مع الأسماء غير المعدودة (كمية صغيرة)", "A little water."]
+],
+"explanation": "تستخدم المحددات للتعبير عن الكمية. 'Many' مع المعدود، 'Much' مع غير المعدود. 'Some' في المثبت، 'Any' في النفي والاستفهام.",
+"examples": "Many people wrote books containing advice from Bezos. - I didn't get any support from my family."
+},
+{
+"title": "Adjectives vs Adverbs (الصفات والظروف)",
+"headers": ["Type", "Usage", "Example"],
+"rows": [
+["Adjective (صفة)", "تصف الاسم", "a convenient source"],
+["Adverb (ظرف)", "يصف الفعل (غالباً ينتهي بـ -ly)", "played brilliantly"]
+],
+"explanation": "الصفة تصف الاسم وتوضع قبله أو بعد فعل الكينونة. الظرف يصف الفعل ويوضع بعده وغالباً ينتهي بـ -ly.",
+"examples": "Fruit is a convenient source of vitamins. - The goalkeeper played brilliantly."
+},
+{
+"title": "Present Continuous (المضارع المستمر)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["am/is/are + verb + ing", "حدث يحدث الآن", "I am studying English."],
+["am/is/are + verb + ing", "حدث مخطط له في المستقبل القريب", "I am visiting my friends today."]
+],
+"explanation": "يستخدم المضارع المستمر للتعبير عن حدث يحدث الآن أو مخطط له في المستقبل القريب.",
+"examples": "I am visiting my friends today."
+},
+{
+"title": "Simple Past (الماضي البسيط)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["verb + -ed (regular)", "حدث انتهى في الماضي", "They arrived yesterday."],
+["irregular verbs", "حدث انتهى في الماضي", "She left school."]
+],
+"explanation": "يستخدم الماضي البسيط للتعبير عن حدث انتهى في الماضي. نضيف '-ed' للأفعال المنتظمة، والأفعال الشاذة لها تصريف خاص.",
+"examples": "They arrived yesterday. - She left school because she was ill."
+},
+{
+"title": "Present Perfect (المضارع التام)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["have/has + past participle", "حدث بدأ في الماضي وما زال له تأثير حتى الآن", "I have worked so hard lately."],
+["have/has + past participle", "مع since و for", "I have studied since 2010."]
+],
+"explanation": "يستخدم المضارع التام للتعبير عن حدث بدأ في الماضي وما زال له تأثير حتى الآن. نستخدم 'have' مع (I, you, we, they) و 'has' مع (he, she, it).",
+"examples": "I have worked so hard lately."
+},
+{
+"title": "Gerunds (المصدر)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["verb + ing", "بعد أفعال مثل: start, like, love, enjoy, hate", "started communicating"]
+],
+"explanation": "المصدر هو الفعل + ing ويستخدم كاسم. يأتي بعد أفعال معينة مثل: start, like, love, enjoy, hate, finish, stop.",
+"examples": "People started communicating with businesses via WhatsApp."
+},
+{
+"title": "Relative Pronouns (ضمائر الوصل)",
+"headers": ["Pronoun", "Usage", "Example"],
+"rows": [
+["who", "للعاقل (فاعل)", "The man who called you."],
+["whom", "للعاقل (مفعول به)", "The man whom you met."],
+["which", "لغير العاقل", "platforms which allow people."],
+["where", "للمكان", "platform where users watch videos."],
+["whose", "للملكية", "The man whose car is red."]
+],
+"explanation": "تستخدم ضمائر الوصل لربط الجمل. 'who' للعاقل كفاعل، 'whom' للعاقل كمفعول به، 'which' لغير العاقل، 'where' للمكان، 'whose' للملكية.",
+"examples": "platforms which allow people to communicate."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["Conjunction", "Usage", "Example"],
+"rows": [
+["and", "للإضافة", "small and light"],
+["but", "للاستدراك", "small but strong"],
+["because", "للسبب", "because she was ill"],
+["so", "للنتيجة", "so I left"],
+["or", "للخيار", "now or later"]
+],
+"explanation": "تستخدم أدوات الربط لربط الكلمات والجمل. 'And' للإضافة، 'But' للاستدراك، 'Because' للسبب، 'So' للنتيجة، 'Or' للخيار.",
+"examples": "The human brain is very small and light."
+},
+{
+"title": "Prepositions (حروف الجر المهمة)",
+"headers": ["Preposition", "Usage", "Example"],
+"rows": [
+["of", "التعبير عن المحتوى أو التكوين", "source of vitamins"],
+["from", "التعبير عن المصدر أو الأصل", "support from his family"],
+["in", "التعبير عن المكان (داخل)", "in Damascus"],
+["on", "التعبير عن الوسيلة أو السطح", "on Messenger"],
+["at", "التعبير عن الوقت (الساعة)", "at six o'clock"],
+["by", "التعبير عن الوسيلة", "by bus"],
+["with", "التعبير عن المصاحبة", "with his friends"]
+],
+"explanation": "حروف الجر تربط الأسماء بالجملة. بعض الأفعال تأتي مع حروف جر محددة ويجب حفظها كما هي.",
+"examples": "Fruit is a convenient source of vitamins. - He got support from his family."
+},
+{
+"title": "Future with 'going to' (المستقبل مع going to)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["am/is/are + going to + verb", "لخطط مستقبلية", "They are going to build a new school."]
+],
+"explanation": "يستخدم 'going to' للتعبير عن خطط مستقبلية. يتكون من: am/is/are + going to + الفعل.",
+"examples": "They are going to build a new school near the hospital."
+},
+{
+"title": "Future with 'will' (المستقبل مع will)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["will + verb", "لقرارات لحظية أو توقعات مستقبلية", "I will take photos."]
+],
+"explanation": "يستخدم 'will' للتعبير عن قرارات لحظية أو توقعات مستقبلية. يتكون من: will + الفعل.",
+"examples": "I will take photos when my friends come."
+},
+{
+"title": "Word Forms (أشكال الكلمات) - من ملف grammar.json",
+"headers": ["Noun", "Adjective", "Adverb", "Verb"],
+"rows": [
+["success", "successful", "successfully", "succeed"],
+["brilliance", "brilliant", "brilliantly", "shine"],
+["certainty", "certain", "certainly", "ascertain"],
+["modesty", "modest", "modestly", "moderate"],
+["reality", "real", "really", "realize"]
+],
+"explanation": "الكلمات في اللغة الإنجليزية تأتي بأشكال مختلفة (اسم، صفة، ظرف، فعل). يجب اختيار الشكل المناسب حسب موقعها في الجملة.",
+"examples": "He is a successful man. - He succeeded in his project. - He completed it successfully."
+}
+]
+}
