@@ -1,0 +1,193 @@
+{
+"questions": [
+{
+"id": "SB_G8_U3_C1",
+"original": "I bought some models of Eiffel Tower.",
+"targetWord": "some models of Eiffel Tower",
+"correctQuestion": "What did you buy?",
+"correctQuestions": [
+"What did you buy?"
+],
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 22"
+},
+{
+"id": "SB_G8_U3_C2",
+"original": "I travelled with my family.",
+"targetWord": "my family",
+"correctQuestion": "Who did you travel with?",
+"correctQuestions": [
+"Who did you travel with?"
+],
+"wh_word": "who",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 21"
+},
+{
+"id": "AB_G8_U3_C3",
+"original": "I have eaten breakfast.",
+"targetWord": "eaten breakfast",
+"correctQuestion": "What have you done?",
+"correctQuestions": [
+"What have you done?"
+],
+"wh_word": "what",
+"auxiliary": "have",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 12"
+},
+{
+"id": "SB_G8_U3_C4",
+"original": "I'm sitting in a train station.",
+"targetWord": "in a train station",
+"correctQuestion": "Where are you sitting?",
+"correctQuestions": [
+"Where are you sitting?"
+],
+"wh_word": "where",
+"auxiliary": "are",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reported Speech - Page 23"
+},
+{
+"id": "SB_G8_U3_C5",
+"original": "I'm preparing for the exam.",
+"targetWord": "preparing for the exam",
+"correctQuestion": "What are you doing?",
+"correctQuestions": [
+"What are you doing?"
+],
+"wh_word": "what",
+"auxiliary": "are",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reported Speech - Page 23"
+},
+{
+"id": "AB_G8_U3_C6",
+"original": "We live in Berlin.",
+"targetWord": "in Berlin",
+"correctQuestion": "Where do you live?",
+"correctQuestions": [
+"Where do you live?"
+],
+"wh_word": "where",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 13"
+},
+{
+"id": "AB_G8_U3_C7",
+"original": "I speak Chinese.",
+"targetWord": "Chinese",
+"correctQuestion": "What language do you speak?",
+"correctQuestions": [
+"What language do you speak?"
+],
+"wh_word": "what",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 13"
+},
+{
+"id": "AB_G8_U3_C8",
+"original": "I have a headache.",
+"targetWord": "a headache",
+"correctQuestion": "What's the matter?",
+"correctQuestions": [
+"What's the matter?"
+],
+"wh_word": "what",
+"auxiliary": "is",
+"subject": "the matter",
+"subject_type": "noun_thing",
+"category": "Object",
+"acceptedAnswers": [
+"What is the matter?"
+],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 13"
+},
+{
+"id": "AB_G8_U3_C9",
+"original": "The flight lasted for 20 hours.",
+"targetWord": "for 20 hours",
+"correctQuestion": "How long did the flight last?",
+"correctQuestions": [
+"How long did the flight last?"
+],
+"wh_word": "how long",
+"auxiliary": "did",
+"subject": "the flight",
+"subject_type": "noun_thing",
+"category": "Duration",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 10"
+},
+{
+"id": "SB_G8_U3_C10",
+"original": "I travel by plane because it's fast.",
+"targetWord": "by plane",
+"correctQuestion": "How do you travel?",
+"correctQuestions": [
+"How do you travel?"
+],
+"wh_word": "how",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Manner",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Speaking - Page 20"
+},
+{
+"id": "SB_G8_U3_C11",
+"original": "I travel by plane because it's fast.",
+"targetWord": "because it's fast",
+"correctQuestion": "Why do you travel by plane?",
+"correctQuestions": [
+"Why do you travel by plane?"
+],
+"wh_word": "why",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Speaking - Page 20"
+}
+]
+}
