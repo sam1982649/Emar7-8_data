@@ -1,0 +1,58 @@
+{
+"groups": [
+{
+"id": "REV1_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book & Activity Book",
+"options": [
+{ "letter": "a", "text": "work as a translator." },
+{ "letter": "b", "text": "at the University of Aleppo." },
+{ "letter": "c", "text": "she met her new friends." },
+{ "letter": "d", "text": "but it's really hard work." },
+{ "letter": "e", "text": "large and clean buildings." }
+],
+"sentences": [
+{
+"start": "After I graduate, I am going to",
+"correct": "a",
+"full_sentence": "After I graduate, I am going to work as a translator.",
+"translation": "بعد أن أتخرج، سأعمل كمترجم.",
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "I'm a student",
+"correct": "b",
+"full_sentence": "I'm a student at the University of Aleppo.",
+"translation": "أنا طالب في جامعة حلب.",
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "Maram was glad after",
+"correct": "c",
+"full_sentence": "Maram was glad after she met her new friends.",
+"translation": "كانت مرام سعيدة بعد أن قابلت أصدقاءها الجدد.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "I enjoy the course a lot,",
+"correct": "d",
+"full_sentence": "I enjoy the course a lot, but it's really hard work.",
+"translation": "أنا أستمتع بالدورة كثيراً، لكنها عمل شاق حقاً.",
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "Hospitals are often",
+"correct": "e",
+"full_sentence": "Hospitals are often large and clean buildings.",
+"translation": "المستشفيات غالباً ما تكون مباني كبيرة ونظيفة.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+}
+]
+}
+]
+}

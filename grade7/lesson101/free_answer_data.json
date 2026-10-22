@@ -1,0 +1,109 @@
+{
+"questions": [
+{
+"id": "REV1_F1",
+"question": "When did you start learning English?",
+"translation": "متى بدأت تعلم اللغة الإنجليزية؟",
+"keywords": ["year", "ago", "2020", "2019", "school"],
+"suggested_answers": [
+"I started learning English five years ago.",
+"I started learning English in 2020.",
+"I started learning English in primary school.",
+"I started learning English when I was 10."
+],
+"wh_word": "When",
+"auxiliary": "did",
+"category": "Time",
+"source": "Student Book",
+"exact_reference": "Match"
+},
+{
+"id": "REV1_F2",
+"question": "Why are you learning English?",
+"translation": "لماذا تتعلم اللغة الإنجليزية؟",
+"keywords": ["future", "job", "travel", "study", "communicate"],
+"suggested_answers": [
+"I am learning English for my future job.",
+"I am learning English to travel.",
+"I am learning English to study abroad.",
+"I am learning English to communicate with people."
+],
+"wh_word": "Why",
+"auxiliary": "are",
+"category": "Purpose",
+"source": "Student Book",
+"exact_reference": "Match"
+},
+{
+"id": "REV1_F3",
+"question": "How often do you have English classes?",
+"translation": "كم مرة لديك دروس اللغة الإنجليزية؟",
+"keywords": ["week", "three times", "twice", "daily", "every day"],
+"suggested_answers": [
+"I have English classes three times a week.",
+"I have English classes twice a week.",
+"I have English classes every day.",
+"I have English classes daily."
+],
+"wh_word": "How often",
+"auxiliary": "do",
+"category": "Frequency",
+"source": "Student Book",
+"exact_reference": "Match"
+},
+{
+"id": "REV1_F4",
+"question": "What's your favourite hobby?",
+"translation": "ما هي هوايتك المفضلة؟",
+"keywords": ["reading", "swimming", "drawing", "football", "music"],
+"suggested_answers": [
+"My favourite hobby is reading.",
+"My favourite hobby is swimming.",
+"My favourite hobby is drawing.",
+"My favourite hobby is playing football.",
+"My favourite hobby is listening to music."
+],
+"wh_word": "What",
+"auxiliary": "is",
+"category": "Hobby",
+"source": "Activity Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "REV1_F5",
+"question": "How often do you practise it?",
+"translation": "كم مرة تمارسها؟",
+"keywords": ["daily", "every day", "twice", "week", "often"],
+"suggested_answers": [
+"I practise it daily.",
+"I practise it every day.",
+"I practise it twice a week.",
+"I practise it three times a week.",
+"I practise it every weekend."
+],
+"wh_word": "How often",
+"auxiliary": "do",
+"category": "Frequency",
+"source": "Activity Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "REV1_F6",
+"question": "Who do you practise it with?",
+"translation": "مع من تمارسها؟",
+"keywords": ["friends", "family", "brother", "sister", "alone"],
+"suggested_answers": [
+"I practise it with my friends.",
+"I practise it with my family.",
+"I practise it with my brother.",
+"I practise it with my sister.",
+"I practise it alone."
+],
+"wh_word": "Who",
+"auxiliary": "do",
+"category": "People",
+"source": "Activity Book",
+"exact_reference": "Speaking"
+}
+]
+}

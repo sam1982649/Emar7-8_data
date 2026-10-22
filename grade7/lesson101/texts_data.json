@@ -1,0 +1,101 @@
+{
+"texts": [
+{
+"id": "REV1_T1",
+"text_group": "REV1_First_Day_at_School",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "First Day at School",
+"content_exam": "John: As it was the first day at school, I had plenty of time to acquaint with my classmates and started to have an enjoyable time. After a while, we began laughing and playing. I was glad to reunite with my parents after the bell rang. It was a wonderful day at school. I have made some new friends. Maram: As my first day at school was approaching, I decided not to go. I felt that school was scary. I was afraid of many things; one of them was: not knowing how to write English correctly. But my new friends helped me conquer my fears. Sally: On my first day at a new school I was nervous. I didn't know the students or the teachers there. It also took me time to know where everything was. The rules were different from those at my old school. But it wasn't long before I felt at home in my new school.",
+"questions": [
+{
+"id": "r1_q1",
+"question": "There was ........ time to acquaint with classmates at school.",
+"options": ["much", "short", "no", "little"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: much\n📝 الترجمة: كان هناك وقت كثير للتعرف على زملاء الصف في المدرسة.\n💡 الشرح: النص يقول: 'I had plenty of time' و 'plenty of' تعني 'much'."
+},
+{
+"id": "r1_q2",
+"question": "Maram was ........ after she met her new friends.",
+"options": ["glad", "scared", "fearful", "worried"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: glad\n📝 الترجمة: كانت مرام سعيدة بعد أن قابلت أصدقاءها الجدد.\n💡 الشرح: النص يقول: 'my new friends helped me conquer my fears' مما يعني أنها أصبحت سعيدة."
+},
+{
+"id": "r1_q3",
+"question": "Sally was ........ at the new school.",
+"options": ["happy", "relaxed", "worried", "excited"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: worried\n📝 الترجمة: كانت سالي قلقة في المدرسة الجديدة.\n💡 الشرح: النص يقول: 'I was nervous' و 'nervous' تعني 'worried'."
+},
+{
+"id": "r1_q4",
+"question": "John felt that the first day at school was ........ .",
+"options": ["boring", "scary", "wonderful", "difficult"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: wonderful\n📝 الترجمة: شعر جون أن اليوم الأول في المدرسة كان رائعاً.\n💡 الشرح: النص يقول: 'It was a wonderful day at school'."
+},
+{
+"id": "r1_q5",
+"question": "Maram was afraid of not knowing how to write ........ correctly.",
+"options": ["Arabic", "French", "English", "Spanish"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: English\n📝 الترجمة: كانت مرام خائفة من عدم معرفة كيفية كتابة اللغة الإنجليزية بشكل صحيح.\n💡 الشرح: النص يقول: 'not knowing how to write English correctly'."
+}
+]
+},
+{
+"id": "REV1_T2",
+"text_group": "REV1_Hospitals",
+"part": 1,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Hospitals",
+"content_exam": "Hospitals are often large and clean buildings where people who are sick or injured are given medical treatment and care. Nowadays, hospitals are more advanced in medical technology. Technological equipment helps doctors in their work. Not only patients come to hospitals to be treated, but also those who want to check if they are in good health. When we think of hospitals, perhaps we only think of doctors and nurses there, but there are other people who work there too. They all do important jobs such as secretaries, cooks and engineers. Some people go to hospital only for one day, but other people need to stay there for several days or a longer time. If you go to hospital, sometimes you have to wait for a long time before you see the doctor. Hospitals are full of people who want to help you, but most of us still want to go home quickly.",
+"questions": [
+{
+"id": "r1_q6",
+"question": "Hospitals are only for sick people.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: المستشفيات مخصصة فقط للأشخاص المرضى.\n💡 الشرح: النص يقول: 'Not only patients come to hospitals... but also those who want to check if they are in good health'."
+},
+{
+"id": "r1_q7",
+"question": "Doctors and nurses are the only people who work in hospitals.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: الأطباء والممرضات هم فقط من يعملون في المستشفيات.\n💡 الشرح: النص يقول: 'there are other people who work there too such as secretaries, cooks and engineers'."
+},
+{
+"id": "r1_q8",
+"question": "Sometimes you have to wait for a long time before you see the doctor.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: أحياناً تضطر للانتظار لوقت طويل قبل أن ترى الطبيب.\n💡 الشرح: النص يقول: 'sometimes you have to wait for a long time before you see the doctor'."
+},
+{
+"id": "r1_q9",
+"question": "What does the word 'treatment' mean in the text?",
+"type": "answer",
+"keywords": ["cure", "medical care"],
+"explanation": "✅ الإجابة الصحيحة: cure / medical care\n📝 الترجمة: ماذا تعني كلمة 'treatment' في النص؟\n💡 الشرح: 'treatment' تعني 'علاج' أو 'رعاية طبية'."
+},
+{
+"id": "r1_q10",
+"question": "What does the word 'check' mean in the text?",
+"type": "answer",
+"keywords": ["examine", "inspect"],
+"explanation": "✅ الإجابة الصحيحة: examine / inspect\n📝 الترجمة: ماذا تعني كلمة 'check' في النص؟\n💡 الشرح: 'check' تعني 'يفحص' أو 'يتأكد'."
+}
+]
+}
+]
+}

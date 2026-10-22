@@ -1,0 +1,168 @@
+{
+"vocabulary": [
+{ "word": "acquaint", "translation": "يتعرف على / يعرّف" },
+{ "word": "reunite", "translation": "يجتمع مرة أخرى" },
+{ "word": "approach", "translation": "يقترب من" },
+{ "word": "conquer", "translation": "يتغلب على / يسيطر" },
+{ "word": "nervous", "translation": "متوتر / قلق" },
+{ "word": "glad", "translation": "سعيد / مسرور" },
+{ "word": "scary", "translation": "مخيف" },
+{ "word": "plenty", "translation": "كثير / وفير" },
+{ "word": "enjoyable", "translation": "ممتع" },
+{ "word": "treatment", "translation": "علاج" },
+{ "word": "equipment", "translation": "معدات" },
+{ "word": "patient", "translation": "مريض" },
+{ "word": "injured", "translation": "مصاب" },
+{ "word": "advanced", "translation": "متقدم" },
+{ "word": "medical", "translation": "طبي" },
+{ "word": "technological", "translation": "تكنولوجي" },
+{ "word": "translate", "translation": "يترجم" },
+{ "word": "translator", "translation": "مترجم" },
+{ "word": "graduate", "translation": "يتخرج" },
+{ "word": "course", "translation": "دورة / مقرر" },
+{ "word": "hobby", "translation": "هواية" },
+{ "word": "practise", "translation": "يمارس" },
+{ "word": "language", "translation": "لغة" },
+{ "word": "communicate", "translation": "يتواصل" }
+],
+"tables": [
+{
+"title": "Prepositions (حروف الجر المهمة)",
+"headers": ["Preposition", "Usage", "Example"],
+"rows": [
+["of", "التعبير عن الكمية / الملكية", "plenty of time, full of people"],
+["from", "التعبير عن الاختلاف", "different from"],
+["for", "التعبير عن الهدف / المنفعة", "good for us"],
+["on", "التعبير عن الاتجاه", "on the left"],
+["at", "التعبير عن الموقع", "at the end of the street"],
+["into", "التعبير عن الاتجاه", "turn into Al-Hamra Street"],
+["with", "التعبير عن المصاحبة", "with my friends"]
+],
+"explanation": "حروف الجر تربط الكلمات في الجملة. بعض الأفعال والصفات تأتي مع حروف جر محددة ويجب حفظها.",
+"examples": "I had plenty of time.\nThe rules were different from those at my old school.\nIt is good for us to learn."
+},
+{
+"title": "Past Simple Tense (الماضي البسيط)",
+"headers": ["Usage", "Form", "Example"],
+"rows": [
+["أحداث وقعت وانتهت في الماضي", "verb + ed (للأفعال المنتظمة)", "I started learning English."],
+["أحداث وقعت وانتهت في الماضي", "تغيير الحروف (للأفعال غير المنتظمة)", "I was nervous."],
+["نفي", "did not + base verb", "I did not go to school."],
+["سؤال", "Did + subject + base verb", "When did you start?"]
+],
+"explanation": "يستخدم الماضي البسيط للأحداث التي وقعت وانتهت في الماضي. الأفعال المنتظمة نضيف لها ed، والأفعال غير المنتظمة لها تصريفات خاصة.",
+"examples": "The course started three years ago.\nMy brother moved to work in Damascus last year."
+},
+{
+"title": "Verb to be (Present Simple) - فعل الكينونة في المضارع البسيط",
+"headers": ["Pronoun", "Verb", "Example"],
+"rows": [
+["I", "am", "I am a student."],
+["He / She / It", "is", "She is happy."],
+["You / We / They", "are", "They are teachers."]
+],
+"explanation": "يستخدم فعل الكينونة (am, is, are) للتعبير عن الحالة أو الهوية في المضارع.",
+"examples": "My name is Suey.\nI am a student at the University of Aleppo."
+},
+{
+"title": "Object Pronouns (ضمائر المفعول به)",
+"headers": ["Subject Pronoun", "Object Pronoun", "Example"],
+"rows": [
+["I", "me", "My new friends helped me."],
+["You", "you", "I will help you."],
+["He", "him", "She saw him."],
+["She", "her", "He called her."],
+["It", "it", "I found it."],
+["We", "us", "They told us."],
+["They", "them", "We met them."]
+],
+"explanation": "ضمائر المفعول به تأتي بعد الفعل أو حرف الجر وتدل على من وقع عليه الفعل.",
+"examples": "My new friends helped me conquer my fears."
+},
+{
+"title": "Possessive Adjectives (صفات الملكية)",
+"headers": ["Pronoun", "Possessive Adjective", "Example"],
+"rows": [
+["I", "my", "My brother moved to work."],
+["You", "your", "Your hobby is interesting."],
+["He", "his", "His new friends helped him."],
+["She", "her", "Her first day was scary."],
+["It", "its", "Its rules were different."],
+["We", "our", "Our school is big."],
+["They", "their", "Their parents are proud."]
+],
+"explanation": "صفات الملكية تأتي قبل الاسم وتدل على الملكية. تعود على الفاعل في الجملة.",
+"examples": "Technological equipment helps doctors in their work."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["Conjunction", "Usage", "Example"],
+"rows": [
+["and", "للربط بين جملتين متتاليتين", "I will eat a sandwich and drink water."],
+["but", "للربط بين جملتين متعارضتين", "Mark ate pizza, but Jim ate pasta."],
+["or", "للخيارات", "Will we walk, or will we go?"],
+["so", "للنتيجة", "I was tired, so I went to bed."],
+["because", "للسبب", "I stayed home because I was sick."]
+],
+"explanation": "أدوات الربط تستخدم لربط الجمل والعبارات. لكل أداة استخدام محدد حسب العلاقة بين الجمل.",
+"examples": "George is sick, but he still has an appetite.\nDo you want to go to the movie, or do you want to stay home?"
+},
+{
+"title": "Gerund vs Infinitive (المصدر بأنواعه)",
+"headers": ["Type", "Usage", "Example"],
+"rows": [
+["Gerund (verb + ing)", "بعد بعض الأفعال مثل enjoy, begin, like", "I enjoy learning English."],
+["Infinitive (to + verb)", "للتعبير عن الهدف", "I went to school to study."],
+["Base form (verb)", "بعد الأفعال الناقصة (can, will, must)", "I can speak three languages."]
+],
+"explanation": "بعد بعض الأفعال نستخدم Gerund (مثل: enjoy, like, begin) وبعد بعضها نستخدم Infinitive (مثل: want, need).",
+"examples": "We began laughing.\nI can speak three languages."
+},
+{
+"title": "Modal Verbs (الأفعال الناقصة)",
+"headers": ["Modal Verb", "Usage", "Example"],
+"rows": [
+["can", "للتعبير عن القدرة", "I can speak three languages."],
+["will", "للتعبير عن المستقبل", "I will eat a sandwich."],
+["could", "للتعبير عن القدرة في الماضي", "I could swim when I was 5."],
+["should", "للتعبير عن النصيحة", "You should study hard."]
+],
+"explanation": "الأفعال الناقصة تسبق الفعل الرئيسي في المصدر (base form) وتستخدم للتعبير عن القدرة، الاحتمال، النصيحة، أو المستقبل.",
+"examples": "I also know a little Spanish, so I can speak three languages."
+},
+{
+"title": "Passive Voice (Present Simple) - المبني للمجهول في المضارع البسيط",
+"headers": ["Tense", "Form", "Example"],
+"rows": [
+["Present Simple Passive", "am/is/are + past participle (V3)", "Patients are given medical treatment."]
+],
+"explanation": "يستخدم المبني للمجهول عندما يكون الفاعل غير معروف أو غير مهم. التركيب: am/is/are + past participle (V3).",
+"examples": "People who are sick or injured are given medical treatment."
+},
+{
+"title": "Relative Clauses (who) - جمل الوصل",
+"headers": ["Pronoun", "Usage", "Example"],
+"rows": [
+["who", "للعاقل (الأشخاص) كفاعل", "There are other people who work in hospitals."]
+],
+"explanation": "نستخدم 'who' للعاقل (الأشخاص) كفاعل في جملة الوصل.",
+"examples": "There are other people who work in hospitals too."
+},
+{
+"title": "Wh-Questions (أسئلة الاستفهام)",
+"headers": ["Wh-Word", "Usage", "Example"],
+"rows": [
+["What", "للسؤال عن شيء", "What is your favourite hobby?"],
+["Who", "للسؤال عن شخص", "Who do you practise with?"],
+["When", "للسؤال عن الوقت", "When did you start learning English?"],
+["Where", "للسؤال عن المكان", "Where were you born?"],
+["Why", "للسؤال عن السبب", "Why are you learning English?"],
+["How", "للسؤال عن الطريقة / الحالة", "How did you feel?"],
+["How often", "للسؤال عن التكرار", "How often do you have English classes?"],
+["How many", "للسؤال عن العدد", "How many languages can you speak?"]
+],
+"explanation": "أسئلة الاستفهام تبدأ بكلمة استفهام وتستخدم للحصول على معلومات محددة. يتبعها الفعل المساعد ثم الفاعل ثم الفعل الرئيسي.",
+"examples": "When did you start learning English?\nHow often do you practise it?"
+}
+]
+}

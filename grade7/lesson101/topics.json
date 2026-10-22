@@ -1,0 +1,28 @@
+{
+"topics": [
+{
+"id": "REV1_T1",
+"title": "Write a paragraph about mobile phones",
+"source": "Student Book - Writing",
+"guiding_questions": [
+"Why do you use your mobile phone?",
+"When do you use it?",
+"Why are mobile phones important sometimes?",
+"What are the disadvantages of mobile phones?"
+],
+"sample_essay": "I use my mobile phone to communicate with my family and friends. I use it every day, especially in the evening. Mobile phones are important because they help us stay connected with people, especially in emergencies. However, they have some disadvantages. They can be a distraction and waste a lot of time. Also, using them too much can affect our health and eyesight. In my opinion, we should use mobile phones wisely."
+},
+{
+"id": "REV1_T2",
+"title": "Write a paragraph about your dream holiday",
+"source": "Student Book - Writing",
+"guiding_questions": [
+"Where do you want to go on your dream holiday?",
+"Who do you want to go with?",
+"What do you want to do there?",
+"Why do you choose this place?"
+],
+"sample_essay": "My dream holiday is to visit Paris, France. I want to go with my family. I would like to see the Eiffel Tower and visit the famous museums. I also want to try French food and walk along the Seine River. I choose Paris because it is a beautiful and romantic city with a rich history. I hope I can visit it one day."
+}
+]
+}
