@@ -79,7 +79,7 @@
 "questions": [
 {
 "id": "SB_G7_U1_C1",
-"original": "The school year begins in August.",
+"original": "The school year begins in April.",
 "targetWord": "in April",
 "correctQuestion": "When does the school year begin?",
 "correctQuestions": [
@@ -181,8 +181,8 @@
 },
 {
 "id": "AB_G7_U1_C7",
-"original": "They went to school by bus.",
-"targetWord": "by bus",
+"original": "They went to school on foot.",
+"targetWord": "on foot",
 "correctQuestion": "How did they go to school?",
 "correctQuestions": [
 "How did they go to school?"
