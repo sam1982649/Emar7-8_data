@@ -1,0 +1,217 @@
+{
+"vocabulary": [
+{ "word": "adult", "translation": "بالغ / شخص راشد" },
+{ "word": "advance", "translation": "يتقدم / يطور" },
+{ "word": "alive", "translation": "حي / على قيد الحياة" },
+{ "word": "arrangement", "translation": "ترتيب / تنظيم" },
+{ "word": "awake", "translation": "مستيقظ" },
+{ "word": "boil", "translation": "يغلي" },
+{ "word": "bridge", "translation": "جسر" },
+{ "word": "celebrate", "translation": "يحتفل" },
+{ "word": "cinema", "translation": "سينما" },
+{ "word": "cost", "translation": "يكلف" },
+{ "word": "cycling", "translation": "ركوب الدراجات" },
+{ "word": "development", "translation": "تطور / تنمية" },
+{ "word": "diversity", "translation": "تنوع" },
+{ "word": "effect", "translation": "تأثير" },
+{ "word": "energy", "translation": "طاقة" },
+{ "word": "exam", "translation": "امتحان" },
+{ "word": "explain", "translation": "يفسر / يوضح" },
+{ "word": "extinction", "translation": "انقراض" },
+{ "word": "feed", "translation": "يطعم" },
+{ "word": "fever", "translation": "حمى" },
+{ "word": "filter", "translation": "مرشح / فلتر" },
+{ "word": "gift", "translation": "هدية" },
+{ "word": "haircut", "translation": "قصة شعر" },
+{ "word": "hand washing", "translation": "غسل اليدين" },
+{ "word": "hormone", "translation": "هرمون" },
+{ "word": "hungrier", "translation": "أكثر جوعاً" },
+{ "word": "ill", "translation": "مريض" },
+{ "word": "illness", "translation": "مرض" },
+{ "word": "invent", "translation": "يخترع" },
+{ "word": "knock", "translation": "يطرق" },
+{ "word": "machine", "translation": "آلة" },
+{ "word": "mammal", "translation": "ثديي" },
+{ "word": "modern", "translation": "حديث" },
+{ "word": "nap", "translation": "قيلولة / نوم قصير" },
+{ "word": "neighbour", "translation": "جار" },
+{ "word": "newborn", "translation": "حديث الولادة" },
+{ "word": "noise", "translation": "ضوضاء" },
+{ "word": "oxygen", "translation": "أكسجين" },
+{ "word": "pedal-powered", "translation": "يعمل بالدواسة" },
+{ "word": "pets", "translation": "حيوانات أليفة" },
+{ "word": "planet", "translation": "كوكب" },
+{ "word": "plantation", "translation": "زراعة / مغروسات" },
+{ "word": "provide", "translation": "يزود / يوفر" },
+{ "word": "put on weight", "translation": "يزيد في الوزن" },
+{ "word": "safeguard", "translation": "حماية / وقاية" },
+{ "word": "shelter", "translation": "مأوى" },
+{ "word": "shower", "translation": "دش / حمام" },
+{ "word": "sleepy", "translation": "نعسان" },
+{ "word": "society", "translation": "مجتمع" },
+{ "word": "species", "translation": "أنواع / كائنات" },
+{ "word": "spot", "translation": "مكان / بقعة" },
+{ "word": "squirrel", "translation": "سنجاب" },
+{ "word": "star", "translation": "نجم" },
+{ "word": "tradition", "translation": "تقليد / تقاليد" },
+{ "word": "uncle", "translation": "عم / خال" },
+{ "word": "volunteering", "translation": "تطوع" }
+],
+"tables": [
+{
+"title": "Present Simple (المضارع البسيط)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["verb (base form) / verb + s", "حقائق ثابتة وعادات متكررة", "Water boils at 100 degrees Celsius.", "يغلي الماء عند 100 درجة مئوية."],
+["verb + s (he/she/it)", "روتين يومي", "He goes to school at 7.45 every morning.", "يذهب إلى المدرسة الساعة 7:45 كل صباح."],
+["do/does + not + verb", "النفي في المضارع البسيط", "On Fridays, the students don't get up early.", "أيام الجمعة، لا يستيقظ الطلاب مبكراً."]
+],
+"explanation": "يستخدم المضارع البسيط للتعبير عن الحقائق الثابتة والعادات والروتين اليومي. نضيف 's' للفاعل المفرد الغائب (he/she/it).",
+"examples": "Water boils at 100 degrees Celsius.\nHe goes to school at 7.45 every morning.\nCarol often comes with her father."
+},
+{
+"title": "Present Continuous (المضارع المستمر)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["am/is/are + verb + ing", "حدث يحدث الآن", "Listen! The baby is crying.", "اسمع! الطفل يبكي."],
+["am/is/are + verb + ing", "حدث مؤقت في الوقت الحالي", "I am studying for my online exam.", "أنا أدرس لامتحاني الإلكتروني."],
+["am/is/are + verb + ing", "مع now / Listen! / Look!", "Now Rania is phoning Lara again.", "الآن رانيا تتصل بلارا مرة أخرى."]
+],
+"explanation": "يستخدم المضارع المستمر للتعبير عن حدث يحدث في لحظة التكلم. غالباً ما يأتي مع كلمات مثل now, at the moment, Listen!, Look!.",
+"examples": "Listen! The baby is crying.\nI am studying for my online exam.\nWhat are you doing now?"
+},
+{
+"title": "Past Simple (الماضي البسيط)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["verb + ed (regular) / irregular form", "حدث انتهى في الماضي", "Yesterday our teacher was ill.", "أمس كان معلمنا مريضاً."],
+["verb + ed (regular) / irregular form", "مع yesterday / last / ago / in + سنة", "They wrote an essay last month.", "كتبوا مقالاً الشهر الماضي."],
+["did + not + verb", "النفي في الماضي البسيط", "I didn't sleep well last night.", "لم أنم جيداً الليلة الماضية."]
+],
+"explanation": "يستخدم الماضي البسيط للتعبير عن أحداث وقعت وانتهت في الماضي. غالباً ما يأتي مع كلمات مثل yesterday, last week, ago, in 1980.",
+"examples": "Yesterday our teacher was ill.\nThey wrote an essay last month.\nThis house cost 36,000 pounds in 1980."
+},
+{
+"title": "Past Continuous (الماضي المستمر)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["was/were + verb + ing", "حدث مستمر في الماضي", "I visited my uncle yesterday while I was watching TV.", "زرت عمي أمس بينما كنت أشاهد التلفاز."],
+["was/were + verb + ing", "حدث مستمر قطعه حدث آخر", "It was raining two days ago.", "كانت تمطر قبل يومين."]
+],
+"explanation": "يستخدم الماضي المستمر للتعبير عن حدث كان مستمراً في الماضي، وغالباً ما يُقطع بحدث آخر في الماضي البسيط.",
+"examples": "I visited my uncle yesterday while I was watching TV.\nIt was raining two days ago."
+},
+{
+"title": "Present Perfect (المضارع التام)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["have/has + past participle", "حدث بدأ في الماضي وما زال مستمراً", "Thai Ngoc hasn't slept since 1973.", "لم ينم تاي نجوك منذ عام 1973."],
+["have/has + past participle", "تجربة في الحياة (مع ever/never)", "Have you ever visited Wales?", "هل زرت ويلز يوماً ما؟"],
+["have/has + past participle", "حدث لم يحدث بعد (مع still)", "My father hasn't cleaned the family car.", "والدي لم ينظف سيارة العائلة."]
+],
+"explanation": "يستخدم المضارع التام للتعبير عن حدث بدأ في الماضي وما زال مستمراً، أو تجربة في الحياة، أو حدث لم يحدث حتى الآن. يأتي مع since, for, ever, never, yet, just, already.",
+"examples": "Thai Ngoc hasn't slept since 1973.\nHave you ever visited Wales?\nMy father hasn't cleaned the family car."
+},
+{
+"title": "Future Simple (المستقبل البسيط)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["will + verb (base form)", "تنبؤ في المستقبل", "It will rain tomorrow.", "ستمطر غداً."],
+["will + verb (base form)", "قرار فوري", "We will ride our bikes soon.", "سنركب دراجاتنا قريباً."],
+["won't + verb (base form)", "النفي في المستقبل", "It won't rain tomorrow.", "لن تمطر غداً."]
+],
+"explanation": "يستخدم المستقبل البسيط للتعبير عن توقعات أو قرارات مستقبلية. يأتي مع كلمات مثل tomorrow, soon, next week.",
+"examples": "It will rain tomorrow.\nWe will ride our bikes soon.\nIt won't rain tomorrow."
+},
+{
+"title": "First Conditional (الجملة الشرطية الأولى)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["If + present simple, will + verb", "شرط + نتيجة في المستقبل", "If you get a haircut, you will look much better.", "إذا قصصت شعرك، ستبدو أفضل بكثير."],
+["If + present simple, will + verb", "شرط + نتيجة", "If your sister goes to Paris, she will have a good time.", "إذا ذهبت أختك إلى باريس، ستقضي وقتاً ممتعاً."],
+["If + present simple, will + verb", "شرط + نتيجة", "If she does more exercises, she will be fit.", "إذا مارست تمارين أكثر، ستصبح لائقة بدنياً."]
+],
+"explanation": "تستخدم الجملة الشرطية الأولى للتعبير عن أحداث مستقبلية محتملة. الصيغة: If + مضارع بسيط، will + مصدر.",
+"examples": "If you get a haircut, you will look much better.\nIf your sister goes to Paris, she will have a good time.\nIf she does more exercises, she will be fit."
+},
+{
+"title": "Passive Voice (المبني للمجهول)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["is/are + past participle", "الفاعل غير معروف أو غير مهم", "When trees are planted, the diversity of that zone is improved.", "عندما تُزرع الأشجار، يتحسن تنوع تلك المنطقة."]
+],
+"explanation": "يستخدم المبني للمجهول عندما نركز على الفعل وليس على من قام به.",
+"examples": "When trees are planted, the diversity of that zone is improved."
+},
+{
+"title": "Object Pronouns (ضمائر المفعول)",
+"headers": ["Subject Pronoun", "Object Pronoun", "Example from Lesson", "Translation"],
+"rows": [
+["we", "us", "Sleeping enough can make us eat more.", "النوم الكافي يمكن أن يجعلنا نأكل أكثر."],
+["she", "her", "That's my friend Jane. Do you know her?", "هذه صديقتي جين. هل تعرفينها؟"]
+],
+"explanation": "ضمائر المفعول تأتي بعد الفعل أو حرف الجر. (me, you, him, her, it, us, them)",
+"examples": "Sleeping enough can make us eat more.\nDo you know her?"
+},
+{
+"title": "Reflexive Pronouns (الضمائر الانعكاسية)",
+"headers": ["Subject Pronoun", "Reflexive Pronoun", "Example from Lesson", "Translation"],
+"rows": [
+["they", "themselves", "All mammals can't stop themselves from going to sleep.", "كل الثدييات لا تستطيع منع نفسها من النوم."]
+],
+"explanation": "الضمائر الانعكاسية تأتي عندما يعود الفعل على الفاعل نفسه. (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves)",
+"examples": "All mammals can't stop themselves from going to sleep."
+},
+{
+"title": "Relative Pronouns (ضمائر الوصل)",
+"headers": ["Pronoun", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["which", "لغير العاقل", "Tree plantation is a sign which will make the planet a great spot.", "زراعة الأشجار علامة ستجعل الكوكب مكاناً رائعاً."]
+],
+"explanation": "'which' تستخدم لغير العاقل (الأشياء)، و 'who' تستخدم للعاقل (الأشخاص).",
+"examples": "Tree plantation is a sign which will make the planet a great spot."
+},
+{
+"title": "There is / There are",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["There is + مفرد", "للمفرد", "There is a book on the table.", "هناك كتاب على الطاولة."],
+["There are + جمع", "للجمع", "There are lots of stars in the sky.", "هناك الكثير من النجوم في السماء."]
+],
+"explanation": "نستخدم 'There is' مع المفرد، و 'There are' مع الجمع.",
+"examples": "There are lots of stars in the sky."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["Preposition", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["to", "للحركة والاتجاه", "We usually go to the cinema on Saturdays.", "نذهب عادةً إلى السينما أيام السبت."],
+["under", "تحت", "The bus is waiting under the bridge.", "الحافلة تنتظر تحت الجسر."],
+["on", "مع أيام الأسبوع", "See you on Monday at 7 p.m.", "أراك يوم الاثنين الساعة 7 مساءً."],
+["at", "مع الساعات", "See you on Monday at 7 p.m.", "أراك يوم الاثنين الساعة 7 مساءً."]
+],
+"explanation": "حروف الجر تربط الكلمات في الجملة. لكل حرف جر استخدام محدد حسب السياق.",
+"examples": "We usually go to the cinema on Saturdays.\nThe bus is waiting under the bridge.\nSee you on Monday at 7 p.m."
+},
+{
+"title": "Adverbs of Frequency (ظروف التكرار)",
+"headers": ["Adverb", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["usually", "ظرف تكرار", "I usually go to school by bus.", "عادةً أذهب إلى المدرسة بالحافلة."],
+["often", "ظرف تكرار", "Carol often comes with her father.", "كارول تأتي غالباً مع والدها."],
+["sometimes", "ظرف تكرار", "I sometimes go to the cinema.", "أذهب أحياناً إلى السينما."]
+],
+"explanation": "ظروف التكرار (always, usually, often, sometimes, never) تأتي قبل الفعل الرئيسي أو بعد فعل be.",
+"examples": "I usually go to school by bus.\nCarol often comes with her father.\nI sometimes go to the cinema."
+},
+{
+"title": "Gerunds (اسم الفعل - verb + ing)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["verb + ing", "بعد أفعال الحواس", "I heard somebody knocking at the door.", "سمعت أحدهم يطرق الباب."]
+],
+"explanation": "بعد أفعال الحواس (hear, see, watch) نستخدم الفعل + ing للحدث الجاري.",
+"examples": "I heard somebody knocking at the door."
+}
+]
+}

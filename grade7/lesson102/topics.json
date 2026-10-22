@@ -1,0 +1,56 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics) - مراجعة 2",
+"description": "يتم استخراج مواضيع الكتابة من نهاية المراجعة في كتاب الطالب وكتاب النشاط.",
+"applicable_to": "جميع المراجعات (Review 2)",
+"search_sources": [
+"Student Book - Writing",
+"Activity Book - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من كتاب الطالب",
+"موضوع واحد من كتاب النشاط",
+"تنويع الأسئلة المساعدة لكل موضوع"
+],
+"applied_to_review_2": {
+"grade": 7,
+"review": 2,
+"title": "Review 2",
+"total_topics": 2,
+"sources": {
+"topic_1": "Student Book - Writing (A film you have watched)",
+"topic_2": "Activity Book - Writing (How people celebrate a new-born baby)"
+}
+}
+},
+"topics": [
+{
+"id": "SB_G7_RV2_W1",
+"title": "Write a paragraph about a film you have watched.",
+"source": "Student Book",
+"exact_reference": "Writing (Page 87)",
+"guiding_questions": [
+"What is the name of the film?",
+"Who are the main characters?",
+"What was the film about?",
+"How did the film end?",
+"Did you like it? Why?"
+],
+"sample_essay": "Last week, I watched a wonderful film called 'The Lion King'. The main characters were Simba and his father. The film was about a young lion who lost his father and became a king. It ended happily when Simba returned to his home. I liked it because it was exciting and taught me about courage and family."
+},
+{
+"id": "AB_G7_RV2_W1",
+"title": "Write a paragraph describing how people celebrate a new-born baby in your country.",
+"source": "Activity Book",
+"exact_reference": "Writing (Page 57)",
+"guiding_questions": [
+"What do people do when a baby is born?",
+"Who visits the family?",
+"What gifts do people bring?",
+"What food do they cook?",
+"Is there a special celebration?"
+],
+"sample_essay": "In my country, when a new baby is born, all the family and friends visit the house. They bring gifts and flowers for the baby and the mother. People cook special food and sweets. The family gives sweets to the neighbours. Everyone is very happy and they say nice words to the new baby. It is a wonderful tradition."
+}
+]
+}

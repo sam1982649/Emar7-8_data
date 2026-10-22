@@ -1,0 +1,158 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة المطابقة (Match) - مراجعة 2",
+"description": "تم استخراج أسئلة المطابقة من جميع مصادر المراجعة (النص، التمارين) بناءً على الجمل التي يمكن تقسيمها إلى بداية ونهاية.",
+"applicable_to": "مراجعة 2 - Review 2",
+"search_sources": [
+"Student Book - Reading Text (Sleep)",
+"Student Book - Grammar Exercises",
+"Activity Book - Reading Text (Nature Lungs)",
+"Activity Book - Use of English"
+],
+"structure": {
+"per_group": "5 بدايات + 6 نهايات (مع خيار زائد)"
+},
+"selection_criteria": [
+"تنويع المصادر داخل كل مجموعة",
+"تجنب الجمل المتشابهة",
+"2 جمل من النص + 3 من التمارين",
+"كل جملة موثقة بالمصدر الدقيق"
+],
+"applied_to_review_2": {
+"grade": 7,
+"review": 2,
+"title": "Review 2",
+"total_groups": 2,
+"groups": {
+"group_1": {
+"source": "Student Book",
+"sources_used": [
+"Reading Text (Sleep)",
+"Grammar Exercises"
+]
+},
+"group_2": {
+"source": "Activity Book",
+"sources_used": [
+"Reading Text (Nature Lungs)",
+"Use of English"
+]
+}
+}
+}
+},
+"groups": [
+{
+"id": "SB_G7_RV2_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G7_RV2_Sleep",
+"options": [
+{ "letter": "a", "text": "for seven to nine hours a night." },
+{ "letter": "b", "text": "14 to 17 hours a day." },
+{ "letter": "c", "text": "was ill." },
+{ "letter": "d", "text": "you will look much better." },
+{ "letter": "e", "text": "to school by bus." },
+{ "letter": "f", "text": "a short sleep during the day." }
+],
+"sentences": [
+{
+"start": "Most of us need to sleep",
+"correct": "a",
+"full_sentence": "Most of us need to sleep for seven to nine hours a night.",
+"translation": "معظمنا يحتاج للنوم من سبع إلى تسع ساعات في الليلة.",
+"source": "Student Book",
+"exact_reference": "Reading Text (Sleep)"
+},
+{
+"start": "Newborn babies usually sleep between",
+"correct": "b",
+"full_sentence": "Newborn babies usually sleep between 14 to 17 hours a day.",
+"translation": "عادةً ينام الأطفال حديثو الولادة ما بين 14 إلى 17 ساعة يومياً.",
+"source": "Student Book",
+"exact_reference": "Reading Text (Sleep)"
+},
+{
+"start": "Yesterday our teacher",
+"correct": "c",
+"full_sentence": "Yesterday our teacher was ill.",
+"translation": "أمس كان معلمنا مريضاً.",
+"source": "Student Book",
+"exact_reference": "Grammar Exercises"
+},
+{
+"start": "If you get a haircut,",
+"correct": "d",
+"full_sentence": "If you get a haircut, you will look much better.",
+"translation": "إذا قصصت شعرك، ستبدو أفضل بكثير.",
+"source": "Student Book",
+"exact_reference": "Grammar Exercises"
+},
+{
+"start": "I usually go",
+"correct": "e",
+"full_sentence": "I usually go to school by bus.",
+"translation": "عادةً أذهب إلى المدرسة بالحافلة.",
+"source": "Student Book",
+"exact_reference": "Grammar Exercises"
+}
+]
+},
+{
+"id": "AB_G7_RV2_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G7_RV2_Nature_Lungs",
+"options": [
+{ "letter": "a", "text": "of that zone is improved." },
+{ "letter": "b", "text": "shelter, and they are natural air filters." },
+{ "letter": "c", "text": "100 degrees Celsius." },
+{ "letter": "d", "text": "at 7.45 every morning." },
+{ "letter": "e", "text": "stars in the sky." },
+{ "letter": "f", "text": "on the thirty first of December." }
+],
+"sentences": [
+{
+"start": "Trees give us oxygen, food,",
+"correct": "b",
+"full_sentence": "Trees give us oxygen, food, shelter, and they are natural air filters.",
+"translation": "الأشجار تعطينا الأكسجين والطعام والمأوى، وهي مرشحات هواء طبيعية.",
+"source": "Activity Book",
+"exact_reference": "Reading Text (Nature Lungs)"
+},
+{
+"start": "When trees are planted, the diversity",
+"correct": "a",
+"full_sentence": "When trees are planted, the diversity of that zone is improved.",
+"translation": "عندما تُزرع الأشجار، يتحسن تنوع تلك المنطقة.",
+"source": "Activity Book",
+"exact_reference": "Reading Text (Nature Lungs)"
+},
+{
+"start": "Water boils at",
+"correct": "c",
+"full_sentence": "Water boils at 100 degrees Celsius.",
+"translation": "يغلي الماء عند 100 درجة مئوية.",
+"source": "Activity Book",
+"exact_reference": "Use of English"
+},
+{
+"start": "He goes to school",
+"correct": "d",
+"full_sentence": "He goes to school at 7.45 every morning.",
+"translation": "يذهب إلى المدرسة الساعة 7:45 كل صباح.",
+"source": "Activity Book",
+"exact_reference": "Use of English"
+},
+{
+"start": "There are lots of",
+"correct": "e",
+"full_sentence": "There are lots of stars in the sky.",
+"translation": "هناك الكثير من النجوم في السماء.",
+"source": "Activity Book",
+"exact_reference": "Use of English"
+}
+]
+}
+]
+}

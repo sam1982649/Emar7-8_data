@@ -1,0 +1,113 @@
+{
+"metadata": {
+"grade": 7,
+"review": 2,
+"title": "Review 2",
+"total_questions": 6,
+"sources": {
+"student_book": 3,
+"activity_book": 3
+},
+"question_types": {
+"free_answer": 6
+}
+},
+"questions": [
+{
+"id": "SB_G7_RV2_F1",
+"question": "When will you ride your bikes?",
+"translation": "متى ستركبون دراجاتكم؟",
+"keywords": ["soon"],
+"suggested_answers": [
+"We will ride our bikes soon.",
+"We will ride our bikes soon after school.",
+"We will ride our bikes soon in the park."
+],
+"wh_word": "When",
+"auxiliary": "will",
+"category": "Time",
+"source": "Student Book",
+"exact_reference": "Grammar Exercises"
+},
+{
+"id": "SB_G7_RV2_F2",
+"question": "When don't the students get up early?",
+"translation": "متى لا يستيقظ الطلاب مبكراً؟",
+"keywords": ["on Fridays"],
+"suggested_answers": [
+"The students don't get up early on Fridays.",
+"On Fridays, the students don't get up early.",
+"They don't get up early on Fridays."
+],
+"wh_word": "When",
+"auxiliary": "do",
+"category": "Time",
+"source": "Student Book",
+"exact_reference": "Grammar Exercises"
+},
+{
+"id": "SB_G7_RV2_F3",
+"question": "What are you feeding now?",
+"translation": "ماذا تطعم الآن؟",
+"keywords": ["the pets"],
+"suggested_answers": [
+"I am feeding the pets now.",
+"I am feeding the pets in the garden.",
+"I am feeding the pets their food."
+],
+"wh_word": "What",
+"auxiliary": "are",
+"category": "Object",
+"source": "Student Book",
+"exact_reference": "Grammar Exercises"
+},
+{
+"id": "AB_G7_RV2_F1",
+"question": "What time does he go to school?",
+"translation": "في أي وقت يذهب إلى المدرسة؟",
+"keywords": ["7.45"],
+"suggested_answers": [
+"He goes to school at 7.45.",
+"He goes to school at 7.45 every morning.",
+"He goes to school at 7.45 in the morning."
+],
+"wh_word": "What time",
+"auxiliary": "does",
+"category": "Time",
+"source": "Activity Book",
+"exact_reference": "Use of English"
+},
+{
+"id": "AB_G7_RV2_F2",
+"question": "What do trees give us?",
+"translation": "ماذا تعطينا الأشجار؟",
+"keywords": ["oxygen, food, shelter"],
+"suggested_answers": [
+"Trees give us oxygen, food, and shelter.",
+"Trees give us oxygen, food, shelter and they are natural air filters.",
+"Trees give us oxygen, food, and shelter."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Object",
+"source": "Activity Book",
+"exact_reference": "Reading Text (Nature Lungs)"
+},
+{
+"id": "AB_G7_RV2_F3",
+"question": "When did you visit your uncle?",
+"translation": "متى زرت عمك؟",
+"keywords": ["yesterday"],
+"suggested_answers": [
+"I visited my uncle yesterday.",
+"I visited my uncle yesterday while I was watching TV.",
+"I visited my uncle yesterday with my family."
+],
+"wh_word": "When",
+"auxiliary": "did",
+"category": "Time",
+"source": "Activity Book",
+"exact_reference": "Use of English"
+}
+]
+}

@@ -1,0 +1,147 @@
+{
+"texts": [
+{
+"id": "SB_G7_RV2_T1",
+"text_group": "G7_RV2_Sleep",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Sleep (Part 1)",
+"content_exam": "Most of us need to sleep for seven to nine hours a night. Many scientists believe that an adult should get eight hours sleep per night. However, some people can do without feeling sleepy after six hours of sleep. Yet, other people need about ten hours a night. Newborn babies usually sleep between 14 to 17 hours a day. Usually they only stay awake for about one to three hours. Do you take a nap during the day? Some adults and children need to nap. This just depends on the person. Scientists have noticed that man is the only mammal that stops themselves from going to sleep. This can be bad for our bodies in many ways. Scientists believe that sleeping enough can make us eat more and put on weight. That is right!",
+"questions": [
+{
+"id": "t1_q1",
+"question": "Most of us need to sleep for ........ hours a night.",
+"options": ["five to seven", "seven to nine", "ten to twelve", "three to five"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: seven to nine\n📝 الترجمة: معظمنا يحتاج للنوم من سبع إلى تسع ساعات في الليلة.\n💡 الشرح: النص يقول: 'Most of us need to sleep for seven to nine hours a night'."
+},
+{
+"id": "t1_q2",
+"question": "Many scientists believe that an adult should get ........ hours sleep per night.",
+"options": ["six", "seven", "eight", "ten"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: eight\n📝 الترجمة: يعتقد العديد من العلماء أن الشخص البالغ يجب أن ينام ثماني ساعات في الليلة.\n💡 الشرح: النص يقول: 'an adult should get eight hours sleep per night'."
+},
+{
+"id": "t1_q3",
+"question": "Newborn babies usually sleep between ........ hours a day.",
+"options": ["7 to 9", "10 to 12", "14 to 17", "20 to 22"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: 14 to 17\n📝 الترجمة: عادةً ينام الأطفال حديثو الولادة ما بين 14 إلى 17 ساعة يومياً.\n💡 الشرح: النص يقول: 'Newborn babies usually sleep between 14 to 17 hours a day'."
+},
+{
+"id": "t1_q4",
+"question": "Scientists have noticed that man is the only ........ that stops themselves from going to sleep.",
+"options": ["animal", "mammal", "creature", "species"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: mammal\n📝 الترجمة: لاحظ العلماء أن الإنسان هو الثديي الوحيد الذي يمنع نفسه من النوم.\n💡 الشرح: النص يقول: 'man is the only mammal that stops themselves from going to sleep'."
+},
+{
+"id": "t1_q5",
+"question": "When we don't sleep enough, we can ........ .",
+"options": ["lose weight", "eat less", "put on weight", "feel stronger"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: put on weight\n📝 الترجمة: عندما لا ننام كفاية، قد نزيد في الوزن.\n💡 الشرح: النص يقول: 'sleeping enough can make us eat more and put on weight'."
+}
+]
+},
+{
+"id": "SB_G7_RV2_T2",
+"text_group": "G7_RV2_Sleep",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Sleep (Part 2)",
+"content_exam": "A special hormone falls when we don't sleep enough and this makes us hungrier. I hope that you are a good sleeper and always sleep well. If not, then take a moment to think about poor Thai Ngoc from Vietnam who hasn't slept since 1973. Doctors say he should have died in 1973, when an illness stopped him from being able to sleep. It is believed he caught a fever, and he hasn't slept at all since that time. No doctors have been able to help him. Sleeping medicines have no effect on him. Nobody can explain how Thai is still alive, or how he can keep going for such a long time without being able to sleep.",
+"questions": [
+{
+"id": "t2_q1",
+"question": "Thai Ngoc has not slept since 1973.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: لم ينم تاي نجوك منذ عام 1973.\n💡 الشرح: النص يقول: 'Thai Ngoc from Vietnam who hasn't slept since 1973'."
+},
+{
+"id": "t2_q2",
+"question": "Sleeping medicines help Thai Ngoc to sleep.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: تساعد أدوية النوم تاي نجوك على النوم.\n💡 الشرح: النص يقول: 'Sleeping medicines have no effect on him' (لا تأثير لها عليه)."
+},
+{
+"id": "t2_q3",
+"question": "Doctors can explain how Thai is still alive.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: يستطيع الأطباء تفسير كيف لا يزال تاي على قيد الحياة.\n💡 الشرح: النص يقول: 'Nobody can explain how Thai is still alive'."
+},
+{
+"id": "t2_q4",
+"question": "Why should Thai Ngoc have died in 1973?",
+"type": "answer",
+"keywords": ["an illness"],
+"explanation": "✅ الإجابة الصحيحة: Because an illness stopped him from being able to sleep.\n📝 الترجمة: لماذا كان يجب أن يموت تاي نجوك في عام 1973؟\n💡 الشرح: النص يقول: 'he should have died in 1973, when an illness stopped him from being able to sleep'."
+},
+{
+"id": "t2_q5",
+"question": "What happens when we don't sleep enough?",
+"type": "answer",
+"keywords": ["a special hormone falls", "hungrier"],
+"explanation": "✅ الإجابة الصحيحة: A special hormone falls and this makes us hungrier.\n📝 الترجمة: ماذا يحدث عندما لا ننام كفاية؟\n💡 الشرح: النص يقول: 'A special hormone falls when we don't sleep enough and this makes us hungrier'."
+}
+]
+},
+{
+"id": "AB_G7_RV2_T1",
+"text_group": "G7_RV2_Nature_Lungs",
+"part": 1,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Nature Lungs",
+"content_exam": "Planting trees is the ideal way to support nature. It helps other living species, including people. Trees give us oxygen, food, shelter, and they are natural air filters and noise safeguards. When trees are planted, the diversity of that zone is improved. It advances the development of species and saves them from extinction. Planting trees helps birds, squirrels, and different species, giving them food and living arrangement. Some students are volunteering for tree plantation today. It is, after all, the fastest method to make the earth greener. Tree plantation will make the planet a great spot to live for the coming ages. Syria celebrates the National Day of Tree at the end of each year on the thirty first of December.",
+"questions": [
+{
+"id": "t3_q1",
+"question": "Trees are natural air filters and noise safeguards.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: الأشجار هي مرشحات هواء طبيعية وواقيات من الضوضاء.\n💡 الشرح: النص يقول: 'they are natural air filters and noise safeguards'."
+},
+{
+"id": "t3_q2",
+"question": "Planting trees destroys the diversity of the zone.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: زراعة الأشجار تدمر تنوع المنطقة.\n💡 الشرح: النص يقول: 'When trees are planted, the diversity of that zone is improved' (تتحسن وليس تدمر)."
+},
+{
+"id": "t3_q3",
+"question": "Syria celebrates the National Day of Tree on the thirty first of December.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: تحتفل سوريا باليوم الوطني للشجرة في الحادي والثلاثين من ديسمبر.\n💡 الشرح: النص يقول: 'Syria celebrates it at the end of each year on the thirty first of December'."
+},
+{
+"id": "t3_q4",
+"question": "What do trees give us?",
+"type": "answer",
+"keywords": ["oxygen", "food", "shelter"],
+"explanation": "✅ الإجابة الصحيحة: Oxygen, food and shelter.\n📝 الترجمة: ماذا تعطينا الأشجار؟\n💡 الشرح: النص يقول: 'Trees give us oxygen, food, shelter'."
+},
+{
+"id": "t3_q5",
+"question": "When does Syria celebrate the National Day of Tree?",
+"type": "answer",
+"keywords": ["thirty first of December", "31st December", "end of each year"],
+"explanation": "✅ الإجابة الصحيحة: On the thirty first of December.\n📝 الترجمة: متى تحتفل سوريا باليوم الوطني للشجرة؟\n💡 الشرح: النص يقول: 'Syria celebrates it at the end of each year on the thirty first of December'."
+}
+]
+}
+]
+}
