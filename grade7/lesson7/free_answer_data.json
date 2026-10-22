@@ -1,0 +1,197 @@
+{
+"metadata": {
+"grade": 7,
+"unit": 7,
+"title": "Be Green",
+"total_questions": 10,
+"sources": {
+"student_book": 5,
+"activity_book": 5
+},
+"question_types": {
+"free_answer": 10
+},
+"methodology": {
+"description": "تم استخراج أسئلة الإجابة الحرة من مصادر الدرس (النص، التمارين، المحادثة) بناءً على الجمل العامة والمعلوماتية.",
+"search_sources": [
+"Student Book - Speaking",
+"Student Book - Reading Text",
+"Student Book - Writing",
+"Activity Book - Speaking",
+"Activity Book - Reading Text",
+"Activity Book - Vocabulary"
+],
+"selection_criteria": [
+"السؤال عام ولا يحتاج إلى قراءة النص للإجابة عليه",
+"الجواب واضح ومحدد وقصير (كلمة أو بضع كلمات)",
+"لا نستخدم أسئلة إجابتها Yes/No"
+],
+"wh_words": ["What", "How", "Why", "When", "Where", "How often"],
+"answer_type": "كلمة مفتاحية أو عبارة قصيرة",
+"verification_method": "البحث عن الكلمات المفتاحية في إجابة الطالب (case-insensitive)",
+"important_note": "⚠️ الأسئلة عامة ولا تعتمد على معرفة النص، ويمكن للطالب الإجابة من خبرته الشخصية."
+}
+},
+"questions": [
+{
+"id": "SB_G7_U7_F1",
+"question": "How do you keep your environment clean?",
+"translation": "كيف تحافظ على بيئتك نظيفة؟",
+"keywords": ["clean", "rubbish", "bins", "recycle", "throw"],
+"suggested_answers": [
+"I throw rubbish in bins.",
+"I recycle paper and plastic.",
+"I keep my surroundings clean."
+],
+"wh_word": "How",
+"auxiliary": "do",
+"category": "Manner",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U7_F2",
+"question": "Why is it important to wash your hands before eating?",
+"translation": "لماذا من المهم غسل يديك قبل الأكل؟",
+"keywords": ["germs", "diseases", "clean", "hygiene", "healthy"],
+"suggested_answers": [
+"To remove germs.",
+"To prevent diseases.",
+"To stay healthy."
+],
+"wh_word": "Why",
+"auxiliary": "is",
+"category": "Reason",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U7_F3",
+"question": "What do you do to stay healthy?",
+"translation": "ماذا تفعل لتبقى بصحة جيدة؟",
+"keywords": ["exercise", "wash", "vegetables", "sleep", "water"],
+"suggested_answers": [
+"I exercise every day.",
+"I eat healthy food.",
+"I wash my hands."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Activity",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U7_F4",
+"question": "When do you wash your hands?",
+"translation": "متى تغسل يديك؟",
+"keywords": ["before", "after", "eating", "bathroom", "food"],
+"suggested_answers": [
+"Before eating.",
+"After using the bathroom.",
+"Before preparing food."
+],
+"wh_word": "When",
+"auxiliary": "do",
+"category": "Time",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U7_F5",
+"question": "Where do you throw rubbish?",
+"translation": "أين ترمي النفايات؟",
+"keywords": ["bin", "litter bin", "rubbish bin", "dustbin"],
+"suggested_answers": [
+"In the bin.",
+"In the rubbish bin.",
+"In the litter bin."
+],
+"wh_word": "Where",
+"auxiliary": "do",
+"category": "Place",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G7_U7_F1",
+"question": "How can we be eco-friendly at home?",
+"translation": "كيف يمكننا أن نكون صديقين للبيئة في المنزل؟",
+"keywords": ["recycle", "save", "energy", "water", "lights"],
+"suggested_answers": [
+"By recycling rubbish.",
+"By saving energy.",
+"By turning off lights."
+],
+"wh_word": "How",
+"auxiliary": "can",
+"category": "Manner",
+"source": "Activity Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "AB_G7_U7_F2",
+"question": "Why is it important to use less water?",
+"translation": "لماذا من المهم استخدام كمية أقل من الماء؟",
+"keywords": ["save", "environment", "future", "important"],
+"suggested_answers": [
+"To save the environment.",
+"Because water is important.",
+"For the future."
+],
+"wh_word": "Why",
+"auxiliary": "is",
+"category": "Reason",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G7_U7_F3",
+"question": "What do you do to save energy?",
+"translation": "ماذا تفعل لتوفير الطاقة؟",
+"keywords": ["turn off", "lights", "save", "energy"],
+"suggested_answers": [
+"I turn off the lights.",
+"I save energy at home.",
+"I don't waste electricity."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Activity",
+"source": "Activity Book",
+"exact_reference": "Vocabulary Exercise"
+},
+{
+"id": "AB_G7_U7_F4",
+"question": "Why should we plant trees?",
+"translation": "لماذا يجب أن نزرع الأشجار؟",
+"keywords": ["clean", "air", "oxygen", "environment", "nature"],
+"suggested_answers": [
+"To keep the air clean.",
+"To provide oxygen.",
+"To protect the environment."
+],
+"wh_word": "Why",
+"auxiliary": "should",
+"category": "Reason",
+"source": "Activity Book",
+"exact_reference": "Vocabulary Exercise"
+},
+{
+"id": "AB_G7_U7_F5",
+"question": "How do you help keep your city clean?",
+"translation": "كيف تساعد في الحفاظ على مدينتك نظيفة؟",
+"keywords": ["rubbish", "bins", "clean", "recycle"],
+"suggested_answers": [
+"I throw rubbish in bins.",
+"I recycle things.",
+"I keep my surroundings clean."
+],
+"wh_word": "How",
+"auxiliary": "do",
+"category": "Manner",
+"source": "Activity Book",
+"exact_reference": "Speaking"
+}
+]
+}

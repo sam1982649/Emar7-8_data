@@ -1,0 +1,255 @@
+{
+"vocabulary": [
+{ "word": "surroundings", "translation": "محيط" },
+{ "word": "disease", "translation": "مرض" },
+{ "word": "germs", "translation": "جراثيم" },
+{ "word": "hygiene", "translation": "نظافة صحية" },
+{ "word": "appreciation", "translation": "تقدير" },
+{ "word": "litter bins", "translation": "حاويات نفايات" },
+{ "word": "plastic bags", "translation": "أكياس بلاستيكية" },
+{ "word": "nests", "translation": "أعشاش" },
+{ "word": "newspapers", "translation": "صحف" },
+{ "word": "cans", "translation": "علب" },
+{ "word": "forests", "translation": "غابات" },
+{ "word": "prevent", "translation": "يمنع" },
+{ "word": "practice", "translation": "يمارس" },
+{ "word": "spread", "translation": "ينشر" },
+{ "word": "direct", "translation": "مباشر" },
+{ "word": "indirect", "translation": "غير مباشر" },
+{ "word": "contaminate", "translation": "يلوث" },
+{ "word": "contaminated", "translation": "ملوث" },
+{ "word": "responsible", "translation": "مسؤول" },
+{ "word": "responsibility", "translation": "مسؤولية" },
+{ "word": "bacteria", "translation": "بكتيريا" },
+{ "word": "virus", "translation": "فيروس" },
+{ "word": "viruses", "translation": "فيروسات" },
+{ "word": "illness", "translation": "مرض" },
+{ "word": "healthy", "translation": "صحي" },
+{ "word": "unhealthy", "translation": "غير صحي" },
+{ "word": "fresh", "translation": "طازج" },
+{ "word": "harmful", "translation": "ضار" },
+{ "word": "harmless", "translation": "غير ضار" },
+{ "word": "cover", "translation": "يغطي" },
+{ "word": "avoid", "translation": "يتجنب" },
+{ "word": "crowded", "translation": "مزدحم" },
+{ "word": "respect", "translation": "احترام" },
+{ "word": "safe", "translation": "آمن" },
+{ "word": "insects", "translation": "حشرات" },
+{ "word": "flies", "translation": "ذباب" },
+{ "word": "cough", "translation": "سعال" },
+{ "word": "cold", "translation": "زكام" },
+{ "word": "vegetables", "translation": "خضروات" },
+{ "word": "supplies", "translation": "إمدادات" },
+{ "word": "distance", "translation": "مسافة" },
+{ "word": "prevention", "translation": "وقاية" },
+{ "word": "rules", "translation": "قواعد" },
+{ "word": "personal", "translation": "شخصي" },
+{ "word": "environment", "translation": "بيئة" },
+{ "word": "skin", "translation": "جلد" },
+{ "word": "lungs", "translation": "رئتان" },
+{ "word": "mouth", "translation": "فم" },
+{ "word": "hygiene rules", "translation": "قواعد النظافة" },
+{ "word": "personal hygiene", "translation": "النظافة الشخصية" },
+{ "word": "eco-friendly", "translation": "صديق للبيئة" },
+{ "word": "sustainable", "translation": "مستدام" },
+{ "word": "require", "translation": "يحتاج" },
+{ "word": "normal", "translation": "عادي" },
+{ "word": "magnetic", "translation": "مغناطيسي" },
+{ "word": "reduce", "translation": "يقلل" },
+{ "word": "waterless", "translation": "بدون ماء" },
+{ "word": "increased", "translation": "زاد" },
+{ "word": "decreased", "translation": "قلل" },
+{ "word": "abnormal", "translation": "غير طبيعي" },
+{ "word": "unsustainable", "translation": "غير مستدام" },
+{ "word": "renewable", "translation": "متجدد" },
+{ "word": "recyclable", "translation": "قابل للتدوير" },
+{ "word": "pollution", "translation": "تلوث" },
+{ "word": "recycle", "translation": "يعيد تدوير" },
+{ "word": "save", "translation": "يوفر" },
+{ "word": "planting", "translation": "زراعة" },
+{ "word": "rubbish", "translation": "نفايات" },
+{ "word": "individual", "translation": "فرد" },
+{ "word": "protect", "translation": "يحمي" },
+{ "word": "damage", "translation": "ضرر" },
+{ "word": "man-made", "translation": "من صنع الإنسان" },
+{ "word": "effect", "translation": "تأثير" },
+{ "word": "negative", "translation": "سلبي" },
+{ "word": "energy", "translation": "طاقة" },
+{ "word": "electricity", "translation": "كهرباء" },
+{ "word": "equipment", "translation": "معدات" },
+{ "word": "cooling", "translation": "تبريد" },
+{ "word": "method", "translation": "طريقة" },
+{ "word": "magnet", "translation": "مغناطيس" },
+{ "word": "power", "translation": "طاقة" },
+{ "word": "refrigerator", "translation": "ثلاجة" },
+{ "word": "conditioner", "translation": "مكيف" },
+{ "word": "system", "translation": "نظام" },
+{ "word": "company", "translation": "شركة" },
+{ "word": "develop", "translation": "يطور" },
+{ "word": "increase", "translation": "يزيد" },
+{ "word": "decrease", "translation": "يقلل" },
+{ "word": "panels", "translation": "ألواح" },
+{ "word": "solar", "translation": "شمسي" },
+{ "word": "changes", "translation": "تغييرات" },
+{ "word": "practices", "translation": "ممارسات" },
+{ "word": "society", "translation": "مجتمع" },
+{ "word": "chemicals", "translation": "مواد كيميائية" },
+{ "word": "management", "translation": "إدارة" },
+{ "word": "process", "translation": "عملية" },
+{ "word": "resources", "translation": "موارد" },
+{ "word": "natural", "translation": "طبيعي" },
+{ "word": "because", "translation": "لأن" },
+{ "word": "so that", "translation": "حتى" },
+{ "word": "although", "translation": "على الرغم" },
+{ "word": "unless", "translation": "ما لم" },
+{ "word": "without", "translation": "بدون" },
+{ "word": "through", "translation": "عبر" },
+{ "word": "nowadays", "translation": "حالياً" }
+],
+"tables": [
+{
+"title": "Zero Conditional (الحالة الصفرية)",
+"headers": ["Usage", "Example"],
+"rows": [
+["حقيقة عامة", "If you heat ice, it melts."],
+["عادة ثابتة", "If I feel tired, I sleep early."],
+["نتيجة حتمية", "If you don't exercise, you get fat."]
+],
+"explanation": "تستخدم Zero Conditional للحقائق العامة والنتائج الثابتة. If + Present Simple, Present Simple. مع الفاعل المفرد نضيف s للفعل. يمكن أن يأتي الشرط في البداية أو النهاية.",
+"examples": "If you heat ice, it melts.\nIf you throw a piece of wood on water, it floats.\nIf sick people don't follow hygiene rules, they spread diseases.\nIf you touch fire, you burn your hand."
+},
+{
+"title": "First Conditional (الشرطية الأولى)",
+"headers": ["Usage", "Example"],
+"rows": [
+["حدث محتمل في المستقبل", "If people use this machine, the world will change."]
+],
+"explanation": "تستخدم First Conditional للأحداث المحتملة في المستقبل. If + Present Simple, will + Infinitive.",
+"examples": "If people use this machine, the world will change."
+},
+{
+"title": "Modal Verbs: Should / Shouldn't (تقديم النصيحة)",
+"headers": ["Type", "Form", "Example"],
+"rows": [
+["إيجابي", "should + infinitive", "You should wash your hands."],
+["سلبي", "shouldn't + infinitive", "You shouldn't waste water."]
+],
+"explanation": "نستخدم should لتقديم النصيحة الإيجابية، و shouldn't للنصيحة السلبية. should = يُنصح بـ / shouldn't = لا يُنصح بـ.",
+"examples": "You should take an umbrella when it's rainy.\nYou shouldn't eat so many lollipops.\nWe should stop testing medicine on animals.\nChildren shouldn't stay up late."
+},
+{
+"title": "Passive Voice - Present Passive (المضارع المبني للمجهول)",
+"headers": ["Tense", "Form", "Example"],
+"rows": [
+["Present Passive", "am/is/are + past participle (V3)", "Germs are spread by dirty hands."]
+],
+"explanation": "نستخدم المبني للمجهول عندما يكون المفعول به هو الأهم في الجملة.",
+"examples": "Cold and cough are caused by viruses.\nThis system is used in new fridges."
+},
+{
+"title": "Passive Voice - Modal Passive (المبني للمجهول مع فعل مساعد)",
+"headers": ["Form", "Example"],
+"rows": [
+["modal + be + past participle (V3)", "Many diseases can be prevented."]
+],
+"explanation": "نستخدم be + past participle مع الأفعال المساعدة (can, must, should, etc.)",
+"examples": "Many diseases can be prevented by good hygiene."
+},
+{
+"title": "Gerund as Subject (الفعل + ing كفاعل)",
+"headers": ["Form", "Example"],
+"rows": [
+["Verb + ing + verb (singular)", "Keeping the environment clean is important."]
+],
+"explanation": "عندما يكون الفعل هو فاعل الجملة، نستخدم صيغة الـ Gerund (فعل + ing).",
+"examples": "Keeping the environment clean is important."
+},
+{
+"title": "Possessive Adjectives (صفات الملكية)",
+"headers": ["Pronoun", "Possessive Adjective", "Example"],
+"rows": [
+["I", "my", "my book"],
+["you", "your", "your car"],
+["he", "his", "his house"],
+["she", "her", "her bag"],
+["we", "our", "our lives"],
+["they", "their", "their school"]
+],
+"explanation": "تستخدم صفات الملكية للدلالة على الملكية وتأتي قبل الاسم.",
+"examples": "It is possible to be eco-friendly in different areas of our lives."
+},
+{
+"title": "Adjectives vs. Adverbs (الصفات والظروف)",
+"headers": ["Type", "Form", "Example"],
+"rows": [
+["Adjective (صفة)", "describes noun", "easy test"],
+["Adverb (ظرف)", "describes verb", "easily contaminated"]
+],
+"explanation": "الصفة تصف الاسم، والظرف يصف الفعل. easy (صفة) / easily (ظرف).",
+"examples": "Water supplies can be easily contaminated."
+},
+{
+"title": "Comparatives (المقارنة)",
+"headers": ["Type", "Form", "Example"],
+"rows": [
+["less + uncountable", "less + noun + than", "less water than normal machines"],
+["more + noun", "more + noun + than", "more electricity than any other machine"]
+],
+"explanation": "تستخدم للمقارنة بين شيئين. less مع الأسماء غير المعدودة، more مع الأسماء المعدودة وغير المعدودة.",
+"examples": "This machine uses 90% less water than normal machines.\nRefrigerators eat up more electricity than any other machine."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["Conjunction", "Meaning", "Example"],
+"rows": [
+["so that", "حتى / لكي", "Cover food so that flies don't contaminate it."],
+["as well as", "وكذلك", "Energy, as well as water."],
+["in order to", "من أجل", "Changes in order to lessen the effect."],
+["because", "لأن", "Because it is important."],
+["although", "على الرغم", "Although it is difficult."]
+],
+"explanation": "تستخدم أدوات الربط لربط الجمل وإضافة معاني مختلفة.",
+"examples": "We should cover food so that flies do not contaminate it.\nWashing machines require a lot of energy, as well as water.\nIndividuals make changes in order to lessen the negative effect."
+},
+{
+"title": "Prepositions (حروف الجر المهمة)",
+"headers": ["Preposition", "Usage", "Example"],
+"rows": [
+["of", "التعبير عن التكوين / الكمية", "amounts of water"],
+["for", "التعبير عن الهدف / الاحترام", "respect for the environment"],
+["in", "التعبير عن المكان / المشاركة", "throw rubbish in bins"],
+["on", "التعبير عن الاعتماد", "rely on"],
+["through", "التعبير عن الوسيلة", "through the mouth / skin"],
+["before", "التعبير عن الزمن (قبل)", "before cooking"],
+["after", "التعبير عن الزمن (بعد)", "after a long trip"],
+["by", "التعبير عن الوسيلة / الفاعل", "caused by viruses"]
+],
+"explanation": "حروف الجر تربط الكلمات في الجملة. بعض الأفعال تأتي مع حروف جر محددة.",
+"examples": "Washing machines require huge amounts of water.\nPeople should develop respect for the environment.\nWe should throw rubbish in bins.\nGerms enter through the mouth."
+},
+{
+"title": "Question Words (كلمات الاستفهام)",
+"headers": ["Question Word", "Usage", "Example"],
+"rows": [
+["Who", "السؤال عن الفاعل (عاقل)", "Who should go to bed early?"],
+["What", "السؤال عن الشيء / الوصف", "What do you usually drink?"],
+["When", "السؤال عن الوقت", "When should we wash vegetables?"],
+["Where", "السؤال عن المكان", "Where should we throw rubbish?"],
+["Why", "السؤال عن السبب", "Why do birds build nests?"],
+["How", "السؤال عن الطريقة / الحالة", "How do you stay healthy?"]
+],
+"explanation": "تستخدم كلمات الاستفهام لطرح الأسئلة. نستخدم الفعل المساعد قبل الفاعل.",
+"examples": "What do you usually drink?\nWhen should we wash vegetables?\nWhy do birds build nests?\nWhere should we throw rubbish?"
+},
+{
+"title": "Subject & Object Questions (السؤال عن الفاعل والمفعول به)",
+"headers": ["Type", "Form", "Example"],
+"rows": [
+["Subject Question", "Who + verb (no auxiliary)", "Who should go to bed early?"],
+["Object Question", "Wh- + auxiliary + subject + verb", "What do you usually drink?"]
+],
+"explanation": "للسؤال عن الفاعل نستخدم Who بدون فعل مساعد. للسؤال عن المفعول به نستخدم Wh- مع الفعل المساعد.",
+"examples": "Who should go to bed early?\nWhat do you usually drink?"
+}
+]
+}

@@ -1,0 +1,52 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics)",
+"description": "يتم استخراج مواضيع الكتابة من نهاية كل درس في كتاب الطالب وكتاب النشاط.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Writing",
+"Activity Book - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من كتاب الطالب",
+"موضوع واحد من كتاب النشاط",
+"تنويع الأسئلة المساعدة لكل موضوع"
+],
+"applied_to_unit_7": {
+"grade": 7,
+"unit": 7,
+"title": "Be Green",
+"total_topics": 2,
+"sources": {
+"topic_1": "Student Book - Writing",
+"topic_2": "Activity Book - Writing"
+}
+}
+},
+"topics": [
+{
+"id": "SB_G7_U7_W1",
+"title": "Write a paragraph giving advice to a friend who is careless about the environment.",
+"source": "Student Book",
+"exact_reference": "Writing Exercise",
+"guiding_questions": [
+"What should your friend do to protect the environment?",
+"Why is it important to keep the environment clean?",
+"How can we encourage others to be eco-friendly?"
+],
+"sample_essay": "I want to give you some advice about the environment. You should throw rubbish in bins and recycle cans and paper. You should not throw rubbish on the ground. It is important to keep our city clean and healthy. When we keep the environment clean, we prevent diseases. Please help me make our world a better place."
+},
+{
+"id": "AB_G7_U7_W1",
+"title": "Write a paragraph giving advice to a friend about how to be more eco-friendly.",
+"source": "Activity Book",
+"exact_reference": "Writing Exercise",
+"guiding_questions": [
+"What should/shouldn't your friend do?",
+"Why should we save water and energy?",
+"How can we be more eco-friendly in our daily lives?"
+],
+"sample_essay": "I want to give you advice about how to be eco-friendly. You should turn off the lights to save energy. You should not waste water. Turn off the tap when you brush your teeth. You should recycle plastic bottles and paper. These small changes help the environment. I hope you follow my advice."
+}
+]
+}

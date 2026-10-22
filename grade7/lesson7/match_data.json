@@ -1,0 +1,165 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة المطابقة (Match)",
+"description": "تم استخراج أسئلة المطابقة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل التي يمكن تقسيمها إلى بداية ونهاية.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Vocabulary Exercise",
+"Student Book - Writing",
+"Student Book - Grammar",
+"Activity Book - Reading Text",
+"Activity Book - Opposites Exercise",
+"Activity Book - Grammar"
+],
+"structure": {
+"per_group": "5 بدايات + 5 نهايات (بدون خيار زائد)"
+},
+"selection_criteria": [
+"تنويع المصادر داخلCloves help to protect against cancer.
+ كل مجموعة",
+"تجنب الجمل المتشابهة",
+"توزيع بين النص والتمارين",
+"كل جملة موثقة بالمصدر الدقيق"
+],
+"applied_to_unit_7": {
+"grade": 7,
+"unit": 7,
+"title": "Be Green",
+"total_groups": 2,
+"groups": {
+"group_1": {
+"source": "Student Book",
+"sources_used": [
+"Reading Text (2)",
+"Vocabulary Exercise (1)",
+"Writing (1)",
+"Grammar (1)"
+]
+},
+"group_2": {
+"source": "Activity Book",
+"sources_used": [
+"Reading Text (2)",
+"Opposites Exercise (2)",
+"Grammar (1)"
+]
+}
+}
+}
+},
+"groups": [
+{
+"id": "SB_G7_U7_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G7_U7_A_Safe_Life",
+"options": [
+{ "letter": "a", "text": "they spread diseases in their surroundings." },
+{ "letter": "b", "text": "if there is direct skin contact." },
+{ "letter": "c", "text": "to be recycled." },
+{ "letter": "d", "text": "in its suitable place." },
+{ "letter": "e", "text": "it floats." },
+{ "letter": "f", "text": "harmful to the environment." }
+],
+"sentences": [
+{
+"start": "If sick people don't follow hygiene rules,",
+"correct": "a",
+"full_sentence": "If sick people don't follow hygiene rules, they spread diseases in their surroundings.",
+"translation": "إذا لم يتبع المرضى قواعد النظافة، فإنهم ينشرون الأمراض في محيطهم.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Some germs cause diseases",
+"correct": "b",
+"full_sentence": "Some germs cause diseases if there is direct skin contact.",
+"translation": "بعض الجراثيم تسبب الأمراض إذا كان هناك اتصال جلدي مباشر.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Please, collect the empty cans",
+"correct": "c",
+"full_sentence": "Please, collect the empty cans to be recycled.",
+"translation": "من فضلك، اجمع العلب الفارغة لإعادة تدويرها.",
+"source": "Student Book",
+"exact_reference": "Vocabulary Exercise"
+},
+{
+"start": "He should put everything right",
+"correct": "d",
+"full_sentence": "He should put everything right in its suitable place.",
+"translation": "يجب عليه أن يضع كل شيء في مكانه المناسب.",
+"source": "Student Book",
+"exact_reference": "Writing"
+},
+{
+"start": "If you throw a piece of wood on water,",
+"correct": "e",
+"full_sentence": "If you throw a piece of wood on water, it floats.",
+"translation": "إذا ألقيت قطعة خشب على الماء، فإنها تطفو.",
+"source": "Student Book",
+"exact_reference": "Grammar"
+}
+]
+},
+{
+"id": "AB_G7_U7_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G7_U7_Cool_Green_Solutions",
+"options": [
+{ "letter": "a", "text": "more electricity than any other machine." },
+{ "letter": "b", "text": "a lot of energy and water." },
+{ "letter": "c", "text": "travelling time from 0 to 15 minutes." },
+{ "letter": "d", "text": "unsustainable industry practices." },
+{ "letter": "e", "text": "you burn your hand." },
+{ "letter": "f", "text": "you don't exercise." }
+],
+"sentences": [
+{
+"start": "Refrigerators and air conditioners eat up",
+"correct": "a",
+"full_sentence": "Refrigerators and air conditioners eat up more electricity than any other machine.",
+"translation": "الثلاجات ومكيفات الهواء تستهلك كهرباء أكثر من أي جهاز آخر.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Washing machines require",
+"correct": "b",
+"full_sentence": "Washing machines require a lot of energy and water.",
+"translation": "الغسالات تحتاج إلى الكثير من الطاقة والماء.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "The new bridge reduces",
+"correct": "c",
+"full_sentence": "The new bridge reduces travelling time from 0 to 15 minutes.",
+"translation": "الجسر الجديد يقلل وقت السفر من 0 إلى 15 دقيقة.",
+"source": "Activity Book",
+"exact_reference": "Opposites Exercise"
+},
+{
+"start": "All environmental problems are the result of",
+"correct": "d",
+"full_sentence": "All environmental problems are the result of unsustainable industry practices.",
+"translation": "جميع المشاكل البيئية هي نتيجة ممارسات صناعية غير مستدامة.",
+"source": "Activity Book",
+"exact_reference": "Opposites Exercise"
+},
+{
+"start": "If you touch fire,",
+"correct": "e",
+"full_sentence": "If you touch fire, you burn your hand.",
+"translation": "إذا لمست النار، تحرق يدك.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+}
+]
+}
+]
+}

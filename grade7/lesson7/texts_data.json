@@ -1,0 +1,168 @@
+{
+"metadata": {
+"grade": 7,
+"unit": 7,
+"title": "Be Green",
+"total_texts": 3,
+"total_questions": 15,
+"sources": {
+"student_book": 1,
+"activity_book": 2
+},
+"question_types": {
+"choice": 10,
+"truefalse": 3,
+"answer": 2
+}
+},
+"texts": [
+{
+"id": "G7_U7_T1",
+"text_group": "G7_U7_A_Safe_Life",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "A Safe Life",
+"content_exam": "Keeping the environment clean is important for being healthy. Many diseases can be prevented if we practice good personal hygiene and keep the environment clean. A healthy environment means safe food and water, clean surroundings and clean fresh water. If sick people don't follow hygiene rules, they spread diseases in their surroundings. Germs enter the body through three different routes: through the mouth if we eat with dirty fingers, through the skin if there is direct skin contact, and through the lungs if viruses are inhaled and stuck in the airways. A clean environment begins with you. To stay healthy, we should wash vegetables before cooking, wash hands before preparing food, cover food and water supplies, avoid closed spaces, and keep social distance in crowded places. Keeping the environment clean is everybody's responsibility.",
+"questions": [
+{
+"id": "t1_q1",
+"question": "A healthy environment means safe food and water, clean surroundings and clean ........ water.",
+"options": ["fresh", "salty", "dirty", "warm"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: fresh\n📝 الترجمة: البيئة الصحية تعني طعام وماء آمنين، ومحيط نظيف وماء عذب نظيف.\n💡 الشرح: النص يقول: 'clean fresh water'."
+},
+{
+"id": "t1_q2",
+"question": "Germs enter the body through the ........ if we eat with dirty fingers.",
+"options": ["mouth", "skin", "lungs", "eyes"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: mouth\n📝 الترجمة: الجراثيم تدخل الجسم عن طريق الفم إذا أكلنا بأصابع متسخة.\n💡 الشرح: النص يقول: 'through the mouth if we eat with dirty fingers'."
+},
+{
+"id": "t1_q3",
+"question": "We should wash ........ before cooking.",
+"options": ["vegetables", "hands", "clothes", "dishes"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: vegetables\n📝 الترجمة: يجب أن نغسل الخضروات قبل الطهي.\n💡 الشرح: النص يقول: 'wash vegetables before cooking'."
+},
+{
+"id": "t1_q4",
+"question": "We should keep social distance in crowded places to protect ........ and others.",
+"options": ["ourselves", "themselves", "himself", "herself"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: ourselves\n📝 الترجمة: يجب أن نحافظ على مسافة اجتماعية في الأماكن المزدحمة لحماية أنفسنا والآخرين.\n💡 الشرح: النص يقول: 'to protect ourselves and others'."
+},
+{
+"id": "t1_q5",
+"question": "Keeping the environment clean is ........ responsibility.",
+"options": ["everybody's", "government's", "teacher's", "doctor's"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: everybody's\n📝 الترجمة: الحفاظ على البيئة نظيفة هو مسؤولية الجميع.\n💡 الشرح: النص يقول: 'everybody's responsibility'."
+}
+]
+},
+{
+"id": "G7_U7_T2",
+"text_group": "G7_U7_Cool_Green_Solutions",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Cool Green Solutions For Our Warm Planet",
+"content_exam": "Being eco-friendly means living in a way that is not harmful to the environment. This way of life is becoming increasingly important, as we need to protect our planet from man-made damage. There are various ways that an individual can make sustainable changes in order to lessen the negative effect on our daily lives. It is possible to be eco-friendly in different areas of our lives. It can start from a small change like using a recyclable water bottle in your daily life, to a bigger one, such as installing solar panels to make the switch to renewable energy for your home.",
+"questions": [
+{
+"id": "t2_q1",
+"question": "Being eco-friendly means living in a way that is not ........ to the environment.",
+"options": ["harmful", "helpful", "useful", "peaceful"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: harmful\n📝 الترجمة: كونك صديقاً للبيئة يعني العيش بطريقة لا تضر بالبيئة.\n💡 الشرح: النص يقول: 'not harmful to the environment'."
+},
+{
+"id": "t2_q2",
+"question": "We need to protect our planet from ........ damage.",
+"options": ["man-made", "natural", "small", "large"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: man-made\n📝 الترجمة: نحن بحاجة إلى حماية كوكبنا من الأضرار التي يسببها الإنسان.\n💡 الشرح: النص يقول: 'man-made damage'."
+},
+{
+"id": "t2_q3",
+"question": "A small eco-friendly change is using a ........ water bottle.",
+"options": ["recyclable", "plastic", "glass", "metal"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: recyclable\n📝 الترجمة: تغيير صغير صديق للبيئة هو استخدام قنينة ماء قابلة لإعادة التدوير.\n💡 الشرح: النص يقول: 'using a recyclable water bottle'."
+},
+{
+"id": "t2_q4",
+"question": "A bigger eco-friendly change is installing ........ panels.",
+"options": ["solar", "electric", "water", "wind"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: solar\n📝 الترجمة: تغيير أكبر صديق للبيئة هو تركيب ألواح شمسية.\n💡 الشرح: النص يقول: 'installing solar panels'."
+},
+{
+"id": "t2_q5",
+"question": "Sustainable changes help to lessen the ........ effect on our daily lives.",
+"options": ["negative", "positive", "great", "small"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: negative\n📝 الترجمة: التغييرات المستدامة تساعد في تقليل التأثير السلبي على حياتنا اليومية.\n💡 الشرح: النص يقول: 'lessen the negative effect'."
+}
+]
+},
+{
+"id": "G7_U7_T3",
+"text_group": "G7_U7_Cool_Green_Solutions",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Cool Green Solutions For Our Warm Planet (Part 2)",
+"content_exam": "Here are two pieces of equipment that can help. Green Machine: Washing machines require a lot of energy and water. A new company has developed the world's first 'almost waterless' washing machine. This machine uses 90% less water and 40% less electricity. If people use this machine, the world will change and CO2 will fall by 28 million tons a year. Magnetic Fridge: Refrigerators and air conditioners use more electricity than any other machine. There is a new cooling method using a system of magnet. This system can reduce the use of electrical power up to 40%.",
+"questions": [
+{
+"id": "t3_q1",
+"question": "The new washing machine uses 90% less water than normal machines.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: الغسالة الجديدة تستخدم ماء أقل بنسبة 90% من الغسالات العادية.\n💡 الشرح: النص يقول: 'This machine uses 90% less water'."
+},
+{
+"id": "t3_q2",
+"question": "The Magnetic Fridge increases the use of electrical power.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: الثلاجة المغناطيسية تزيد من استخدام الطاقة الكهربائية.\n💡 الشرح: النص يقول: 'This system can reduce the use of electrical power up to 40%' (تقلل وليس تزيد)."
+},
+{
+"id": "t3_q3",
+"question": "Refrigerators and air conditioners use more electricity than any other machine.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: الثلاجات ومكيفات الهواء تستخدم كهرباء أكثر من أي جهاز آخر.\n💡 الشرح: النص يقول: 'Refrigerators and air conditioners use more electricity than any other machine.'"
+},
+{
+"id": "t3_q4",
+"question": "How much electricity does the new washing machine save?",
+"type": "answer",
+"keywords": ["40%", "40 percent", "forty percent"],
+"explanation": "✅ الإجابة الصحيحة: 40%\n📝 الترجمة: كم توفر الغسالة الجديدة من الكهرباء؟\n💡 الشرح: النص يقول: '40% less electricity'."
+},
+{
+"id": "t3_q5",
+"question": "How many tons of CO2 will fall if people use the new washing machine?",
+"type": "answer",
+"keywords": ["28 million", "28 million tons", "28"],
+"explanation": "✅ الإجابة الصحيحة: 28 million tons\n📝 الترجمة: كم طن من ثاني أكسيد الكربون سينخفض إذا استخدم الناس الغسالة الجديدة؟\n💡 الشرح: النص يقول: 'CO2 will fall by 28 million tons a year'."
+}
+]
+}
+]
+}
