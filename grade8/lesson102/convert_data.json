@@ -1,0 +1,147 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة التحويل (Convert)",
+"description": "تم استخراج أسئلة التحويل من مصادر الدرس (النص، التمارين) بناءً على الجمل التي يمكن تحويلها إلى سؤال باستخدام أدوات الاستفهام.",
+"applicable_to": "جميع الدروس",
+"grammar_focus": ["Question Words", "Subject Questions", "Object Questions", "Present Simple", "Past Simple", "Present Perfect", "Future"],
+"wh_words": ["Who", "What", "Where", "How", "How many", "How much", "Why", "When", "Which"],
+"auxiliary_verbs": ["do", "does", "did", "has", "have", "will", "was", "were"],
+"selection_criteria": [
+"الجملة تحتوي على كلمة أو عبارة يمكن السؤال عنها",
+"الجملة مناسبة للتحويل إلى سؤال",
+"تنويع أدوات الاستفهام",
+"تنويع الأزمنة"
+],
+"total_questions": 7,
+"applied_to_unit": {
+"grade": 8,
+"unit": 102,
+"title": "Review 2",
+"total_questions": 7,
+"wh_words_used": ["Who", "Where", "How", "What", "How many", "What", "What ... like"],
+"auxiliary_verbs_used": ["have", "do", "does", "has", "was"],
+"sources": ["Student Book - Grammar", "Student Book - Reading Text", "Activity Book - Reading Text", "Activity Book - Grammar", "Progress Test - Reading Text"]
+}
+},
+"questions": [
+{
+"id": "SB_G8_R2_C1",
+"original": "Authors have different styles of writing.",
+"targetWord": "authors",
+"correctQuestion": "Who have different styles of writing?",
+"correctQuestions": [
+"Who have different styles of writing?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "authors",
+"subject_type": "noun_plural",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "SB_G8_R2_C2",
+"original": "We have to stay home.",
+"targetWord": "home",
+"correctQuestion": "Where do you have to stay?",
+"correctQuestions": [
+"Where do you have to stay?"
+],
+"wh_word": "where",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "SB_G8_R2_C3",
+"original": "She walks to the museum.",
+"targetWord": "walks",
+"correctQuestion": "How does she go to the museum?",
+"correctQuestions": [
+"How does she go to the museum?"
+],
+"wh_word": "how",
+"auxiliary": "does",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Manner",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G8_R2_C4",
+"original": "The food we eat will determine how we grow.",
+"targetWord": "The food we eat",
+"correctQuestion": "What will determine how we grow?",
+"correctQuestions": [
+"What will determine how we grow?"
+],
+"wh_word": "what",
+"auxiliary": "",
+"subject": "the food we eat",
+"subject_type": "noun_thing",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G8_R2_C5",
+"original": "The novelist has already written eight pages of his new book.",
+"targetWord": "eight pages",
+"correctQuestion": "How many pages has the novelist already written?",
+"correctQuestions": [
+"How many pages has the novelist already written?"
+],
+"wh_word": "how many",
+"auxiliary": "has",
+"subject": "the novelist",
+"subject_type": "noun_person",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G8_R2_C6",
+"original": "My uncle sells cars.",
+"targetWord": "cars",
+"correctQuestion": "What does your uncle sell?",
+"correctQuestions": [
+"What does your uncle sell?"
+],
+"wh_word": "what",
+"auxiliary": "does",
+"subject": "your uncle",
+"subject_type": "noun_person",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G8_R2_C7",
+"original": "It was cloudy yesterday.",
+"targetWord": "cloudy",
+"correctQuestion": "What was the weather like yesterday?",
+"correctQuestions": [
+"What was the weather like yesterday?"
+],
+"wh_word": "what ... like",
+"auxiliary": "was",
+"subject": "the weather",
+"subject_type": "noun_thing",
+"category": "Weather",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+}
+]
+}
