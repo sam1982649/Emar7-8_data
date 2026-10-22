@@ -1,0 +1,153 @@
+{
+"metadata": {
+"grade": 8,
+"unit": 9,
+"title": "Life Goals"
+},
+"questions": [
+{
+"id": "SB_G8_U9_C1",
+"original": "Natalie was only 17 when she lost her leg.",
+"targetWord": "17",
+"correctQuestion": "How old was Natalie when she lost her leg?",
+"correctQuestions": [
+"How old was Natalie when she lost her leg?"
+],
+"wh_word": "how old",
+"auxiliary": "was",
+"subject": "natalie",
+"subject_type": "name_female",
+"category": "Age",
+"acceptedAnswers": [
+"How old was she when she lost her leg?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G8_U9_C2",
+"original": "Natalie went back to the pool three months after the accident.",
+"targetWord": "three months after the accident",
+"correctQuestion": "When did Natalie go back to the pool?",
+"correctQuestions": [
+"When did Natalie go back to the pool?"
+],
+"wh_word": "when",
+"auxiliary": "did",
+"subject": "natalie",
+"subject_type": "name_female",
+"category": "Time",
+"acceptedAnswers": [
+"When did she go back to the pool?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G8_U9_C3",
+"original": "My father arrives home late.",
+"targetWord": "My father",
+"correctQuestion": "Who arrives home late?",
+"correctQuestions": [
+"Who arrives home late?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "my father",
+"subject_type": "noun_person",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "SB_G8_U9_C4",
+"original": "Her father was a teacher.",
+"targetWord": "a teacher",
+"correctQuestion": "What was her father's job?",
+"correctQuestions": [
+"What was her father's job?"
+],
+"wh_word": "what",
+"auxiliary": "was",
+"subject": "her father's job",
+"subject_type": "noun_thing",
+"category": "Job",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Listening"
+},
+{
+"id": "AB_G8_U9_C5",
+"original": "Disney faced failure.",
+"targetWord": "failure",
+"correctQuestion": "What did Disney face?",
+"correctQuestions": [
+"What did Disney face?"
+],
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "disney",
+"subject_type": "name_male",
+"category": "Object",
+"acceptedAnswers": [
+"What did he face?"
+],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G8_U9_C6",
+"original": "I passed my driving test.",
+"targetWord": "my driving test",
+"correctQuestion": "What did you pass?",
+"correctQuestions": [
+"What did you pass?"
+],
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G8_U9_C7",
+"original": "John ate all the chocolate.",
+"targetWord": "all the chocolate",
+"correctQuestion": "What did John eat?",
+"correctQuestions": [
+"What did John eat?"
+],
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "john",
+"subject_type": "name_male",
+"category": "Object",
+"acceptedAnswers": [
+"What did he eat?"
+],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G8_U9_C8",
+"original": "He visits Italy every year.",
+"targetWord": "every year",
+"correctQuestion": "How often does he visit Italy?",
+"correctQuestions": [
+"How often does he visit Italy?"
+],
+"wh_word": "how often",
+"auxiliary": "does",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Frequency",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+}
+]
+}
