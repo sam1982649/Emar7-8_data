@@ -1,0 +1,216 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة التحويل (Convert)",
+"description": "يتم استخراج أسئلة التحويل من جميع مصادر الدرس (النص، التمارين) بناءً على القواعد النحوية الموجودة في كل مصدر.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Grammar Exercises",
+"Student Book - After Reading",
+"Activity Book - Reading Text",
+"Activity Book - Grammar Exercises"
+],
+"grammar_focus": ["Simple Present", "Simple Past", "Present Continuous", "Future", "Modal Verbs"],
+"wh_words": ["When", "What", "How", "Why", "Who", "How many", "How much", "Where", "How often", "How long", "How far", "Whose", "What colour", "What time", "What ... like"],
+"auxiliary_verbs": {
+"present": ["do", "does", "is", "are", "am"],
+"past": ["did", "was", "were"],
+"future": ["will", "is going to", "are going to", "am going to"],
+"present_perfect": ["have", "has"],
+"modal": ["can", "must", "should"]
+},
+"special_cases": [
+"الوقت (Time)",
+"المكان (Place)",
+"السبب (Reason)",
+"الطريقة (Manner)",
+"العدد (Quantity)",
+"الصفة الشكلية (Physical Description)",
+"الصفة غير الشكلية (Quality)",
+"الشعور (Feeling)",
+"المهنة (Job)",
+"الملكية (Possession)",
+"الفاعل (Subject)",
+"المفعول به (Object)",
+"التكرار (Frequency)",
+"المدة (Duration)",
+"المسافة (Distance)",
+"السعر (Price)"
+],
+"difficulty_levels": ["سهل", "متوسط", "صعب"],
+"selection_criteria": [
+"الجملة تحتوي على كلمة أو عبارة يمكن السؤال عنها",
+"الجملة مناسبة للتحويل إلى سؤال",
+"تنويع المصادر (Student Book + Activity Book)",
+"تنويع كلمات الاستفهام",
+"تنويع الأفعال المساعدة",
+"تغطية أكبر عدد من الحالات الخاصة",
+"تحديد المصدر بدقة"
+],
+"total_questions_recommended": "8-10 أسئلة لكل درس",
+"important_note": "⚠️ هذه المنهجية قابلة للتطبيق على أي درس. يتم تغيير القواعد النحوية حسب محتوى كل وحدة.",
+"applied_to_unit": {
+"grade": 8,
+"unit": 101,
+"title": "Review 1",
+"total_questions": 8,
+"grammar_focus": "Simple Past + Simple Present + Future + Modal Verbs",
+"wh_words_used": ["How long", "Who", "What", "What ... like", "How often", "Where"],
+"auxiliary_verbs_used": ["did", "was", "does", "is", "will"],
+"special_cases_covered": [
+"المدة (Duration)",
+"الفاعل (Subject)",
+"المفعول به (Object)",
+"الصفة (Quality)",
+"المهنة (Job)",
+"التكرار (Frequency)",
+"المكان (Place)"
+],
+"sources_distribution": {
+"Student Book - Grammar": 5,
+"Activity Book - Reading Text": 1,
+"Activity Book - Grammar": 1
+}
+}
+},
+"questions": [
+{
+"id": "SB_G8_R1_C1",
+"original": "I spent two weeks in London.",
+"targetWord": "two weeks",
+"correctQuestion": "How long did you spend in London?",
+"correctQuestions": [
+"How long did you spend in London?"
+],
+"wh_word": "how long",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Duration",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar - Q8"
+},
+{
+"id": "SB_G8_R1_C2",
+"original": "My dad told me the story.",
+"targetWord": "My dad",
+"correctQuestion": "Who told you the story?",
+"correctQuestions": [
+"Who told you the story?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "my dad",
+"subject_type": "noun_person",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar - Q23"
+},
+{
+"id": "SB_G8_R1_C3",
+"original": "He was able to play the piano.",
+"targetWord": "play the piano",
+"correctQuestion": "What was he able to do?",
+"correctQuestions": [
+"What was he able to do?"
+],
+"wh_word": "what",
+"auxiliary": "was",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar - Q29"
+},
+{
+"id": "SB_G8_R1_C4",
+"original": "She is clever.",
+"targetWord": "clever",
+"correctQuestion": "What is she like?",
+"correctQuestions": [
+"What is she like?"
+],
+"wh_word": "what ... like",
+"auxiliary": "is",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Quality",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar - Q22"
+},
+{
+"id": "AB_G8_R1_C5",
+"original": "Michael is a university teacher.",
+"targetWord": "a university teacher",
+"correctQuestion": "What is Michael's job?",
+"correctQuestions": [
+"What is Michael's job?"
+],
+"wh_word": "what",
+"auxiliary": "is",
+"subject": "michael's job",
+"subject_type": "noun_thing",
+"category": "Job",
+"acceptedAnswers": [
+"What is his job?"
+],
+"source": "Activity Book",
+"exact_reference": "Grammar - Q46"
+},
+{
+"id": "AB_G8_R1_C6",
+"original": "The festival lasts for 9 days.",
+"targetWord": "for 9 days",
+"correctQuestion": "How long does the festival last?",
+"correctQuestions": [
+"How long does the festival last?"
+],
+"wh_word": "how long",
+"auxiliary": "does",
+"subject": "the festival",
+"subject_type": "noun_thing",
+"category": "Duration",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G8_R1_C7",
+"original": "My brother eats pizza every day.",
+"targetWord": "every day",
+"correctQuestion": "How often does your brother eat pizza?",
+"correctQuestions": [
+"How often does your brother eat pizza?"
+],
+"wh_word": "how often",
+"auxiliary": "does",
+"subject": "your brother",
+"subject_type": "noun_person",
+"category": "Frequency",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar - Q9"
+},
+{
+"id": "SB_G8_R1_C8",
+"original": "Halal cooked spaghetti yesterday.",
+"targetWord": "Halal",
+"correctQuestion": "Who cooked spaghetti yesterday?",
+"correctQuestions": [
+"Who cooked spaghetti yesterday?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "halal",
+"subject_type": "name_female",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar"
+}
+]
+}
