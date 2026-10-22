@@ -1,0 +1,44 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics)",
+"description": "يتم استخراج مواضيع الكتابة من نهاية كل درس في كتاب الطالب وكتاب النشاط.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Writing",
+"Activity Book - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من كتاب الطالب",
+"موضوع واحد من كتاب النشاط"
+]
+},
+"topics": [
+{
+"id": "SB_G8_U12_W1",
+"title": "Write a paragraph about the phenomenon of sea foam.",
+"source": "Student Book",
+"exact_reference": "Writing - Page 91",
+"guiding_questions": [
+"What is sea foam?",
+"What are the reasons behind sea foam?",
+"Where does sea foam appear?"
+],
+"sample_essay": "Sea foam is a natural phenomenon. It appears on the surface of the sea. It is formed when natural gases or warm and cold air come together. Sea foam looks like white bubbles floating on the water. You can see it near the coast. It is harmless to humans. I think sea foam is a beautiful and interesting phenomenon.",
+"word_count": 55
+},
+{
+"id": "AB_G8_U12_W1",
+"title": "Write a paragraph about a mysterious phenomenon that you have read or been told about.",
+"source": "Activity Book",
+"exact_reference": "Writing - Page 53",
+"guiding_questions": [
+"What is the mysterious phenomenon?",
+"Where does it happen?",
+"Why is it dangerous?",
+"What do you think about it?"
+],
+"sample_essay": "Tsunami is a very dangerous natural phenomenon. It is a huge wave that comes from the ocean. It happens after an earthquake under the sea. The wave moves very fast and can destroy everything in its path. Many people are afraid of tsunamis. In my opinion, we need to learn how to stay safe when it happens.",
+"word_count": 55
+}
+]
+}

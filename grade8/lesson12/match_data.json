@@ -1,0 +1,116 @@
+{
+"groups": [
+{
+"id": "SB_G8_U12_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G8_U12_Mysterious_Phenomena",
+"options": [
+{ "letter": "a", "text": "undisclosed experiments." },
+{ "letter": "b", "text": "so it is called unidentified." },
+{ "letter": "c", "text": "they don't believe in spaceships." },
+{ "letter": "d", "text": "the form of letter \"V\"." },
+{ "letter": "e", "text": "of the Earth's surface." },
+{ "letter": "f", "text": "unbelievable visual memory." }
+],
+"sentences": [
+{
+"start": "UFO has not been explained yet",
+"correct": "b",
+"full_sentence": "UFO has not been explained yet, so it is called unidentified.",
+"translation": "لم يتم تفسير الأجسام الطائرة المجهولة بعد، لذلك يطلق عليها غير محددة الهوية.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Scientists started studying the phenomenon because",
+"correct": "c",
+"full_sentence": "Scientists started studying the phenomenon because they don't believe in spaceships.",
+"translation": "بدأ العلماء في دراسة الظاهرة لأنهم لا يؤمنون بالسفن الفضائية.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "When pelicans migrate, they make",
+"correct": "d",
+"full_sentence": "When pelicans migrate, they make the form of letter \"V\".",
+"translation": "عندما تهاجر البجع، فإنها تشكل شكل حرف V.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "(X-Files) is the name of",
+"correct": "a",
+"full_sentence": "(X-Files) is the name of undisclosed experiments.",
+"translation": "(X-Files) هو اسم التجارب غير المعلنة.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Global warming is the gradual heating",
+"correct": "e",
+"full_sentence": "Global warming is the gradual heating of the Earth's surface.",
+"translation": "الاحتباس الحراري هو الاحترار التدريجي لسطح الأرض.",
+"source": "Student Book",
+"exact_reference": "Focus on Science"
+}
+]
+},
+{
+"id": "AB_G8_U12_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G8_U12_Bermuda_Triangle",
+"options": [
+{ "letter": "a", "text": "the horror triangle." },
+{ "letter": "b", "text": "to look for the lost aircrafts." },
+{ "letter": "c", "text": "scientists and researchers." },
+{ "letter": "d", "text": "in many places in Cuba." },
+{ "letter": "e", "text": "suck in the boat." },
+{ "letter": "f", "text": "ships go over this place." }
+],
+"sentences": [
+{
+"start": "The Bermuda triangle is known as",
+"correct": "a",
+"full_sentence": "The Bermuda triangle is known as the horror triangle.",
+"translation": "يُعرف مثلث برمودا بمثلث الرعب.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "The USA sent a search plane",
+"correct": "b",
+"full_sentence": "The USA sent a search plane to look for the lost aircrafts.",
+"translation": "أرسلت الولايات المتحدة طائرة بحث للبحث عن الطائرات المفقودة.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Many explanations are offered by",
+"correct": "c",
+"full_sentence": "Many explanations are offered by scientists and researchers.",
+"translation": "يقدم العلماء والباحثون العديد من التفسيرات.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Basketball is played",
+"correct": "d",
+"full_sentence": "Basketball is played in many places in Cuba.",
+"translation": "تُلعب كرة السلة في العديد من الأماكن في كوبا.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "The huge whirlpool could",
+"correct": "e",
+"full_sentence": "The huge whirlpool could suck in the boat.",
+"translation": "يمكن للدوامة المائية الضخمة أن تمتص القارب.",
+"source": "Activity Book",
+"exact_reference": "Vocabulary"
+}
+]
+}
+]
+}

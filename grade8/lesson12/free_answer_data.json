@@ -1,0 +1,53 @@
+{
+"questions": [
+{
+"question": "Where do you keep milk?",
+"translation": "أين تحفظ الحليب؟",
+"keywords": ["keep", "milk", "refrigerator"],
+"suggested_answers": [
+"I keep milk in the refrigerator.",
+"We keep milk in the fridge.",
+"I keep milk in the kitchen."
+],
+"source": "Activity Book - Grammar",
+"exact_reference": "Page 52"
+},
+{
+"question": "Where do you do experiments?",
+"translation": "أين تجري التجارب؟",
+"keywords": ["experiments", "laboratory", "school", "science"],
+"suggested_answers": [
+"I do experiments in the laboratory.",
+"I do experiments at school.",
+"I do experiments in the science room.",
+"I do experiments at home."
+],
+"source": "Student Book - Focus on Science",
+"exact_reference": "Page 92"
+},
+{
+"question": "What do most children read?",
+"translation": "ماذا يقرأ معظم الأطفال؟",
+"keywords": ["children", "read", "comics"],
+"suggested_answers": [
+"Most children read comics.",
+"Most children read stories.",
+"Most children read books."
+],
+"source": "Activity Book - Grammar",
+"exact_reference": "Page 52"
+},
+{
+"question": "Where is English spoken?",
+"translation": "أين تُتحدث اللغة الإنجليزية؟",
+"keywords": ["English", "spoken", "world"],
+"suggested_answers": [
+"English is spoken all over the world.",
+"English is spoken in many countries.",
+"English is spoken in Britain and America."
+],
+"source": "Activity Book - Grammar",
+"exact_reference": "Page 52"
+}
+]
+}

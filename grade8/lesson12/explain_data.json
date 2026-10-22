@@ -1,0 +1,251 @@
+{
+"vocabulary": [
+{ "word": "accurately", "translation": "بدقة" },
+{ "word": "air bombs", "translation": "قنابل هوائية" },
+{ "word": "aircrafts", "translation": "طائرات" },
+{ "word": "alien", "translation": "كائن فضائي" },
+{ "word": "alphabet", "translation": "أبجدية" },
+{ "word": "architecture", "translation": "هندسة معمارية" },
+{ "word": "area", "translation": "منطقة / مساحة" },
+{ "word": "atmosphere", "translation": "الغلاف الجوي" },
+{ "word": "attend", "translation": "يحضر" },
+{ "word": "birds", "translation": "طيور" },
+{ "word": "black carbon", "translation": "كربون أسود" },
+{ "word": "book", "translation": "يحجز" },
+{ "word": "boomerangs", "translation": "بوميرانغ" },
+{ "word": "carbon dioxide", "translation": "ثاني أكسيد الكربون" },
+{ "word": "century", "translation": "قرن" },
+{ "word": "chair", "translation": "كرسي" },
+{ "word": "chance", "translation": "صدفة" },
+{ "word": "chat", "translation": "دردشة" },
+{ "word": "children", "translation": "أطفال" },
+{ "word": "chin", "translation": "ذقن" },
+{ "word": "clarify", "translation": "يوضح" },
+{ "word": "clerk", "translation": "موظف" },
+{ "word": "climate change", "translation": "تغير المناخ" },
+{ "word": "clouds", "translation": "سحب" },
+{ "word": "coral", "translation": "مرجان" },
+{ "word": "cost", "translation": "يكلف" },
+{ "word": "creatures", "translation": "مخلوقات" },
+{ "word": "deny", "translation": "ينكر" },
+{ "word": "desert", "translation": "صحراء" },
+{ "word": "describe", "translation": "يصف" },
+{ "word": "detailed", "translation": "مفصل" },
+{ "word": "discuss", "translation": "يناقش" },
+{ "word": "drought", "translation": "جفاف" },
+{ "word": "dry leaves", "translation": "أوراق جافة" },
+{ "word": "emissions", "translation": "انبعاثات" },
+{ "word": "equal", "translation": "متساوٍ" },
+{ "word": "exact", "translation": "دقيق" },
+{ "word": "experiments", "translation": "تجارب" },
+{ "word": "explanations", "translation": "تفسيرات" },
+{ "word": "extinction", "translation": "انقراض" },
+{ "word": "field", "translation": "مجال" },
+{ "word": "flock", "translation": "سرب" },
+{ "word": "flood", "translation": "فيضان" },
+{ "word": "flying", "translation": "طائر" },
+{ "word": "for good", "translation": "إلى الأبد" },
+{ "word": "forest", "translation": "غابة" },
+{ "word": "fossil fuels", "translation": "وقود أحفوري" },
+{ "word": "geographical", "translation": "جغرافي" },
+{ "word": "ghosts", "translation": "أشباح" },
+{ "word": "global warming", "translation": "الاحتباس الحراري" },
+{ "word": "governments", "translation": "حكومات" },
+{ "word": "gradual", "translation": "تدريجي" },
+{ "word": "greenhouse gases", "translation": "غازات الدفيئة" },
+{ "word": "heating", "translation": "تسخين" },
+{ "word": "heat-trapping", "translation": "محتبس الحرارة" },
+{ "word": "hexagonal", "translation": "سداسي الشكل" },
+{ "word": "horror", "translation": "رعب" },
+{ "word": "human activity", "translation": "نشاط بشري" },
+{ "word": "humidity", "translation": "رطوبة" },
+{ "word": "hurricane", "translation": "إعصار" },
+{ "word": "iceberg", "translation": "جبل جليدي" },
+{ "word": "immediately", "translation": "فوراً" },
+{ "word": "improved", "translation": "تحسّن" },
+{ "word": "insurance", "translation": "تأمين" },
+{ "word": "island", "translation": "جزيرة" },
+{ "word": "kitchen", "translation": "مطبخ" },
+{ "word": "life", "translation": "حياة" },
+{ "word": "lightning", "translation": "برق" },
+{ "word": "location", "translation": "موقع" },
+{ "word": "lost", "translation": "تائه / ضائع" },
+{ "word": "memory", "translation": "ذاكرة" },
+{ "word": "methane", "translation": "غاز الميثان" },
+{ "word": "migrate", "translation": "يهاجر" },
+{ "word": "movement", "translation": "حركة" },
+{ "word": "movies", "translation": "أفلام" },
+{ "word": "mystery", "translation": "لغز" },
+{ "word": "Nescafe", "translation": "نسكافيه" },
+{ "word": "normal", "translation": "طبيعي" },
+{ "word": "objects", "translation": "أجسام / أشياء" },
+{ "word": "observation", "translation": "ملاحظة" },
+{ "word": "observations", "translation": "ملاحظات" },
+{ "word": "ocean", "translation": "محيط" },
+{ "word": "offer", "translation": "يقدم" },
+{ "word": "opinion", "translation": "رأي" },
+{ "word": "pelicans", "translation": "بجع" },
+{ "word": "phenomenon", "translation": "ظاهرة" },
+{ "word": "pieces", "translation": "قطع" },
+{ "word": "pilot", "translation": "طيار" },
+{ "word": "planets", "translation": "كواكب" },
+{ "word": "point of view", "translation": "وجهة نظر" },
+{ "word": "pollution", "translation": "تلوث" },
+{ "word": "previous", "translation": "سابق" },
+{ "word": "primarily", "translation": "بشكل أساسي" },
+{ "word": "professional", "translation": "محترف" },
+{ "word": "professor", "translation": "أستاذ" },
+{ "word": "pump", "translation": "يضخ" },
+{ "word": "rate", "translation": "معدل" },
+{ "word": "researchers", "translation": "باحثون" },
+{ "word": "resembling", "translation": "يشبه" },
+{ "word": "salty", "translation": "مالح" },
+{ "word": "saucer", "translation": "صحن" },
+{ "word": "science-fiction", "translation": "خيال علمي" },
+{ "word": "sea foam", "translation": "رغوة البحر" },
+{ "word": "sea smoke", "translation": "دخان البحر" },
+{ "word": "search", "translation": "بحث" },
+{ "word": "secret", "translation": "سري" },
+{ "word": "shape", "translation": "شكل" },
+{ "word": "share", "translation": "يشارك" },
+{ "word": "sheep", "translation": "خروف" },
+{ "word": "shy", "translation": "خجول" },
+{ "word": "sink", "translation": "يغرق" },
+{ "word": "sliced", "translation": "مقطع إلى شرائح" },
+{ "word": "society", "translation": "مجتمع" },
+{ "word": "sour", "translation": "حامض" },
+{ "word": "spaceship", "translation": "سفينة فضائية" },
+{ "word": "specialists", "translation": "مختصون" },
+{ "word": "species", "translation": "أنواع" },
+{ "word": "square kilometre", "translation": "كيلومتر مربع" },
+{ "word": "suck", "translation": "يمتص" },
+{ "word": "sugar", "translation": "سكر" },
+{ "word": "supernatural", "translation": "خارق للطبيعة" },
+{ "word": "sure", "translation": "متأكد" },
+{ "word": "surface", "translation": "سطح" },
+{ "word": "swallow up", "translation": "يبتلع" },
+{ "word": "sweet", "translation": "حلو" },
+{ "word": "technology", "translation": "تكنولوجيا" },
+{ "word": "tracks", "translation": "مسارات / آثار" },
+{ "word": "training", "translation": "تدريب" },
+{ "word": "triangle", "translation": "مثلث" },
+{ "word": "unbelievable", "translation": "لا يصدق" },
+{ "word": "undisclosed", "translation": "غير معلن" },
+{ "word": "unidentified", "translation": "مجهول الهوية" },
+{ "word": "visual", "translation": "بصري" },
+{ "word": "waves", "translation": "أمواج" },
+{ "word": "whirlpool", "translation": "دوامة مائية" },
+{ "word": "whirlpools", "translation": "دوامات مائية" },
+{ "word": "wind", "translation": "رياح" },
+{ "word": "winds", "translation": "رياح" },
+{ "word": "wings", "translation": "أجنحة" }
+],
+"tables": [
+{
+"title": "Passive Voice - Present Simple (المبني للمجهول - المضارع البسيط) - القاعدة الرئيسية للدرس",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["Object + am/is/are + V3", "للتعبير عن فعل يقع على المفعول به في المضارع", "The flowers are watered every evening."],
+["Object + am/is/are + not + V3", "للتعبير عن النفي في المبني للمجهول", "The milk isn't kept in the fridge."],
+["Am/Is/Are + Object + V3?", "للتعبير عن السؤال في المبني للمجهول", "Are the flowers watered every evening?"]
+],
+"explanation": "نستخدم المبني للمجهول في المضارع البسيط عندما يكون الفاعل هو المتلقي للفعل. التركيب: object + am/is/are + past participle (V3).",
+"examples": "The flowers are watered every evening. / English is spoken all over the world. / Spanish is taught in most schools."
+},
+{
+"title": "Simple Past (الماضي البسيط)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["الفعل في الماضي (V2)", "للتعبير عن حدث وقع وانتهى في الماضي", "In 1945, five American planes entered the field of Bermuda triangle."]
+],
+"explanation": "نستخدم الماضي البسيط للتعبير عن أحداث وقعت وانتهت في الماضي. الأفعال المنتظمة تنتهي بـ -ed، والأفعال غير المنتظمة لها أشكال خاصة.",
+"examples": "In 1945, five American planes entered the field of Bermuda triangle."
+},
+{
+"title": "Present Perfect (المضارع التام)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["have/has + past participle (V3)", "للتعبير عن حدث بدأ في الماضي وما زال مستمراً أو له تأثير في الحاضر", "We haven't heard about ships disappearing in this place since the last century."]
+],
+"explanation": "نستخدم المضارع التام مع 'since' للتعبير عن حدث بدأ في الماضي وما زال مستمراً أو له تأثير في الحاضر.",
+"examples": "We haven't heard about ships disappearing in this place since the last century."
+},
+{
+"title": "Passive Voice - Present Perfect (المبني للمجهول - المضارع التام)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["have/has + been + V3", "للتعبير عن حدث في الماضي له تأثير في الحاضر والمفعول به هو المتلقي للفعل", "UFO hasn't been explained yet."]
+],
+"explanation": "نستخدم المبني للمجهول في المضارع التام عندما يكون المفعول به هو المتلقي للفعل. التركيب: have/has + been + past participle (V3).",
+"examples": "UFO hasn't been explained yet. / Unidentified Flying Objects haven't been explained yet."
+},
+{
+"title": "Passive Voice - Infinitive (المبني للمجهول مع المصدر)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["started to + be + V3", "للتعبير عن المبني للمجهول بعد أفعال مثل start, begin, want", "Science-fiction movies started to be made."]
+],
+"explanation": "بعد أفعال مثل 'start', 'begin', 'want' نستخدم المصدر (to + base verb). وعندما نريد المبني للمجهول، نستخدم 'to be' + التصريف الثالث (V3).",
+"examples": "Science-fiction movies started to be made."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["حرف الجر", "الاستخدام", "مثال"],
+"rows": [
+["of", "للتعبير عن الملكية أو الجزء من الكل", "the shape of a triangle / species of animals"],
+["for", "للتعبير عن الغرض", "to look for the lost aircrafts"],
+["with", "للتعبير عن المصاحبة", "with 13 people on board"],
+["by", "للتعبير عن الفاعل في المبني للمجهول", "by governments / by Apple"]
+],
+"explanation": "حروف الجر تربط الأسماء بالجملة. بعض الأفعال تأتي مع حروف جر محددة ويجب حفظها.",
+"examples": "The Bermuda triangle is in the shape of a triangle. / 1 million species of animals face extinction."
+},
+{
+"title": "Relative Clauses (جمل الوصل)",
+"headers": ["ضمير الوصل", "الاستخدام", "مثال"],
+"rows": [
+["which", "لغير العاقل (مفرد أو جمع)", "There are hexagonal clouds which create winds of 160 km per hour."]
+],
+"explanation": "تستخدم ضمائر الوصل لربط الجمل. 'which' لغير العاقل.",
+"examples": "There are hexagonal clouds which create winds of 160 km per hour."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["أداة الربط", "الاستخدام", "مثال"],
+"rows": [
+["and", "للربط بين شيئين مرتبطين", "Global warming and climate change have affected human beings."],
+["because", "للتعبير عن السبب", "It is called unidentified because it cannot be immediately explained."],
+["either ... or", "للتعبير عن الاختيار بين شيئين", "Everyone has seen a spaceship either in real life or in a movie."]
+],
+"explanation": "تستخدم أدوات الربط لربط الكلمات والجمل. 'and' للربط، 'because' للسبب، 'either...or' للاختيار.",
+"examples": "Global warming and climate change have affected human beings. / It is called unidentified because it cannot be immediately explained."
+},
+{
+"title": "Gerunds (صيغة -ing)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["reported + V-ing", "للتعبير عن فعل مبلغ عنه", "Kenneth Arnold reported seeing nine objects in the sky."]
+],
+"explanation": "بعد أفعال مثل 'reported' نستخدم صيغة الـ gerund (V-ing) للتعبير عن الفعل المبلغ عنه.",
+"examples": "Kenneth Arnold reported seeing nine objects in the sky."
+},
+{
+"title": "Superlative Adjectives (صفات التفضيل)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["the most + صفة", "للتعبير عن التفضيل (الأكثر)", "The most expensive smart phones are sold by Apple."]
+],
+"explanation": "نستخدم 'the most' قبل الصفات الطويلة للتعبير عن التفضيل (الأكثر).",
+"examples": "The most expensive smart phones are sold by Apple."
+},
+{
+"title": "Derivation - Adverbs (اشتقاق الظروف)",
+"headers": ["الصفة", "الظرف", "المعنى"],
+"rows": [
+["correct", "correctly", "بشكل صحيح"]
+],
+"explanation": "نشتق الظروف من الصفات بإضافة -ly. نستخدم الظروف لوصف الأفعال.",
+"examples": "Abdulrahman can say the time correctly without using any clocks."
+}
+]
+}

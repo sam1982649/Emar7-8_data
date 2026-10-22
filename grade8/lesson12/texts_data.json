@@ -1,0 +1,244 @@
+{
+"texts": [
+{
+"id": "SB_G8_U12_T1_P1",
+"text_group": "G8_U12_Mysterious_Phenomena_P1",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Mysterious Phenomena",
+"content_exam": "Do you think there is life on other planets? Do you think that creatures on other planets may visit Earth one day? Have you ever seen a spaceship in real life? Well, if you haven't, someone has! In 1947, a pilot named Kenneth Arnold reported seeing nine objects resembling boomerangs in the sky. He described their movement and said that they were \"like a saucer if you skip it across the water.\" This phenomenon is called UFO (unidentified flying objects). This term is used to describe any observations of alien spaceships. It is called unidentified because it cannot be immediately explained.",
+"questions": [
+{
+"id": "sb_g8_u12_t1_p1_q1",
+"question": "In 1947, a pilot named Kenneth Arnold reported seeing nine objects resembling ........ in the sky.",
+"options": ["boomerangs", "saucers", "spaceships", "planets"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: boomerangs\n📝 الترجمة: في عام 1947، أبلغ طيار يدعى كينيث أرنولد عن رؤية تسعة أجسام تشبه البوميرانغ في السماء.\n💡 الشرح: النص يقول: 'reported seeing nine objects resembling boomerangs in the sky.'"
+},
+{
+"id": "sb_g8_u12_t1_p1_q2",
+"question": "Arnold said that the objects were \"like a ........ if you skip it across the water.\"",
+"options": ["plate", "saucer", "dish", "cup"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: saucer\n📝 الترجمة: قال أرنولد أن الأجسام كانت 'مثل الصحن إذا قذفته عبر الماء'.\n💡 الشرح: النص يقول: 'like a saucer if you skip it across the water.'"
+},
+{
+"id": "sb_g8_u12_t1_p1_q3",
+"question": "UFO stands for ........ .",
+"options": ["Unidentified Flying Objects", "Unknown Foreign Objects", "Unseen Flying Objects", "Understood Flying Objects"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Unidentified Flying Objects\n📝 الترجمة: UFO تعني أجسام طائرة مجهولة الهوية.\n💡 الشرح: النص يقول: 'This phenomenon is called UFO (unidentified flying objects).'"
+},
+{
+"id": "sb_g8_u12_t1_p1_q4",
+"question": "This term is used to describe any observations of ........ spaceships.",
+"options": ["alien", "secret", "invisible", "imaginary"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: alien\n📝 الترجمة: يستخدم هذا المصطلح لوصف أي ملاحظات لمركبات فضائية غريبة.\n💡 الشرح: النص يقول: 'describe any observations of alien spaceships.'"
+},
+{
+"id": "sb_g8_u12_t1_p1_q5",
+"question": "It is called unidentified because it cannot be ........ explained.",
+"options": ["immediately", "easily", "clearly", "slowly"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: immediately\n📝 الترجمة: يسمى مجهول الهوية لأنه لا يمكن تفسيره فوراً.\n💡 الشرح: النص يقول: 'It is called unidentified because it cannot be immediately explained.'"
+}
+]
+},
+{
+"id": "SB_G8_U12_T1_P2",
+"text_group": "G8_U12_Mysterious_Phenomena_P2",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Mysterious Phenomena",
+"content_exam": "Many people believed in that phenomenon, and science-fiction movies started to be made; so we can say that everyone of us has seen a spaceship either in real life or in a movie. However, this phenomenon has been studied by scientists and researchers to clarify the mystery. Researchers think that Arnold probably saw a flock of birds and couldn't tell their exact size, so he didn't know that their large wings created the \"V\" shape which he described. Other explanations of UFO are that some secret experiments are done by governments under the name of X-Files and so they do not always deny what is presented in movies.",
+"questions": [
+{
+"id": "sb_g8_u12_t1_p2_q1",
+"question": "Everyone of us has seen a spaceship either in real life or in a movie.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: كل واحد منا قد رأى سفينة فضائية إما في الحياة الواقعية أو في فيلم.\n💡 الشرح: النص يقول: 'we can say that everyone of us has seen a spaceship either in real life or in a movie.'"
+},
+{
+"id": "sb_g8_u12_t1_p2_q2",
+"question": "Researchers think that Arnold probably saw a flock of birds.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يعتقد الباحثون أن أرنولد رأى على الأرجح سرباً من الطيور.\n💡 الشرح: النص يقول: 'Researchers think that Arnold probably saw a flock of birds.'"
+},
+{
+"id": "sb_g8_u12_t1_p2_q3",
+"question": "Governments always deny what is presented in movies about UFOs.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: تنكر الحكومات دائماً ما يُعرض في الأفلام عن الأجسام الطائرة المجهولة.\n💡 الشرح: النص يقول: 'they do not always deny what is presented in movies.'"
+},
+{
+"id": "sb_g8_u12_t1_p2_q4",
+"question": "What did researchers think Arnold probably saw?",
+"type": "answer",
+"keywords": ["flock", "birds", "flock of birds"],
+"explanation": "✅ الإجابة المتوقعة: A flock of birds.\n📝 الترجمة: ماذا يعتقد الباحثون أن أرنولد رأى على الأرجح؟\n💡 الشرح: النص يقول: 'Researchers think that Arnold probably saw a flock of birds.'"
+},
+{
+"id": "sb_g8_u12_t1_p2_q5",
+"question": "What are some secret experiments done by governments called?",
+"type": "answer",
+"keywords": ["X-Files"],
+"explanation": "✅ الإجابة المتوقعة: X-Files.\n📝 الترجمة: ماذا تسمى بعض التجارب السرية التي تجريها الحكومات؟\n💡 الشرح: النص يقول: 'under the name of X-Files.'"
+}
+]
+},
+{
+"id": "AB_G8_U12_T2_P1",
+"text_group": "G8_U12_Bermuda_Triangle_P1",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "The Bermuda Triangle",
+"content_exam": "The Bermuda triangle is known as the horror triangle. It is a geographical area in the shape of a triangle with one million square kilometre area. In 1945, five American planes entered the field of Bermuda triangle. \"We are in a world different from ours. We see white water, we are over an island. We are lost\", these were the last words said by one of the pilots before the planes disappeared for good. The USA sent a search plane with 13 people on board to look for the lost aircrafts, but again the plane disappeared.",
+"questions": [
+{
+"id": "ab_g8_u12_t2_p1_q1",
+"question": "The Bermuda triangle is known as the ........ triangle.",
+"options": ["horror", "mystery", "magic", "strange"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: horror\n📝 الترجمة: يُعرف مثلث برمودا بمثلث الرعب.\n💡 الشرح: النص يقول: 'The Bermuda triangle is known as the horror triangle.'"
+},
+{
+"id": "ab_g8_u12_t2_p1_q2",
+"question": "The Bermuda triangle is a geographical area with ........ square kilometre area.",
+"options": ["one million", "ten thousand", "one hundred thousand", "five million"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: one million\n📝 الترجمة: مثلث برمودا هو منطقة جغرافية بمساحة مليون كيلومتر مربع.\n💡 الشرح: النص يقول: 'with one million square kilometre area.'"
+},
+{
+"id": "ab_g8_u12_t2_p1_q3",
+"question": "In 1945, ........ American planes entered the field of Bermuda triangle.",
+"options": ["five", "seven", "three", "ten"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: five\n📝 الترجمة: في عام 1945، دخلت خمس طائرات أمريكية مجال مثلث برمودا.\n💡 الشرح: النص يقول: 'five American planes entered the field of Bermuda triangle.'"
+},
+{
+"id": "ab_g8_u12_t2_p1_q4",
+"question": "The last words said by the pilot were: \"We are ........ .\"",
+"options": ["lost", "scared", "alone", "confused"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: lost\n📝 الترجمة: كانت الكلمات الأخيرة التي قالها الطيار: 'نحن تائهون'.\n💡 الشرح: النص يقول: 'We are lost'."
+},
+{
+"id": "ab_g8_u12_t2_p1_q5",
+"question": "The USA sent a search plane with ........ people on board.",
+"options": ["13", "30", "10", "20"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: 13\n📝 الترجمة: أرسلت الولايات المتحدة طائرة بحث مع 13 شخصاً على متنها.\n💡 الشرح: النص يقول: 'with 13 people on board.'"
+}
+]
+},
+{
+"id": "AB_G8_U12_T2_P2",
+"text_group": "G8_U12_Bermuda_Triangle_P2",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "The Bermuda Triangle",
+"content_exam": "Many explanations are offered by scientists and researchers. Some say that there are hexagonal clouds which create winds of 160 km per hour and they act as \"air bombs\" which sink ships and bring down planes. Others say that the cause is huge waves, swallowing up everything in their path. A third opinion is strong whirlpools, causing ships that get caught in them to sink. The strange thing is that nowadays planes and ships go over this place a lot nearly every day, but nothing happens to them. We haven't heard about planes falling or ships disappearing in this place since the last century.",
+"questions": [
+{
+"id": "ab_g8_u12_t2_p2_q1",
+"question": "Some say that there are hexagonal clouds which create winds of 160 km per hour.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يقول البعض أن هناك سحباً سداسية الشكل تخلق رياحاً بسرعة 160 كم في الساعة.\n💡 الشرح: النص يقول: 'there are hexagonal clouds which create winds of 160 km per hour.'"
+},
+{
+"id": "ab_g8_u12_t2_p2_q2",
+"question": "A third opinion is strong earthquakes causing ships to sink.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: الرأي الثالث هو زلازل قوية تسبب غرق السفن.\n💡 الشرح: النص يقول: 'A third opinion is strong whirlpools.' وليس زلازل."
+},
+{
+"id": "ab_g8_u12_t2_p2_q3",
+"question": "We have heard about planes falling in this place recently.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: سمعنا عن سقوط طائرات في هذا المكان مؤخراً.\n💡 الشرح: النص يقول: 'We haven't heard about planes falling or ships disappearing in this place since the last century.'"
+},
+{
+"id": "ab_g8_u12_t2_p2_q4",
+"question": "What do hexagonal clouds act as?",
+"type": "answer",
+"keywords": ["air bombs"],
+"explanation": "✅ الإجابة المتوقعة: Air bombs.\n📝 الترجمة: بماذا تعمل السحب السداسية الشكل؟\n💡 الشرح: النص يقول: 'they act as air bombs'."
+},
+{
+"id": "ab_g8_u12_t2_p2_q5",
+"question": "What do others say is the cause of sinking ships?",
+"type": "answer",
+"keywords": ["huge waves"],
+"explanation": "✅ الإجابة المتوقعة: Huge waves.\n📝 الترجمة: ماذا يقول الآخرون عن سبب غرق السفن؟\n💡 الشرح: النص يقول: 'Others say that the cause is huge waves.'"
+}
+]
+},
+{
+"id": "SB_G8_U12_T3_P3",
+"text_group": "G8_U12_Abdulrahman",
+"part": 3,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Abdulrahman, a Syrian child with supernatural powers",
+"content_exam": "Specialists say that Abdulrahman Al-Asa'ad, from Homs, shows supernatural powers. He speaks languages which he hasn't learnt before. He works on the computer and mobile phones without training. The beginning of all of this took place when Abdulrahman was four years old. It was found out by chance that he wrote the English letters and numbers and said them correctly. He did the same with the Arabic alphabet. He also has an unbelievable visual memory. He looks at any building for a minute or two then he draws it accurately. He spends fifteen minutes only to do that using a black pen. Abdulrahman can also say the time correctly without using any clocks or watches. According to an architecture professor, his drawings are detailed and professional. He insisted that good care must be taken of Abdulrahman and he will be a great man in the future.",
+"questions": [
+{
+"id": "sb_g8_u12_t3_p3_q1",
+"question": "Abdulrahman speaks languages which he hasn't learnt before.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يتحدث عبدالرحمن لغات لم يتعلمها من قبل.\n💡 الشرح: النص يقول: 'He speaks languages which he hasn't learnt before.'"
+},
+{
+"id": "sb_g8_u12_t3_p3_q2",
+"question": "The beginning of his powers took place when he was six years old.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: بداية قدراته كانت عندما كان عمره ست سنوات.\n💡 الشرح: النص يقول: 'when Abdulrahman was four years old'."
+},
+{
+"id": "sb_g8_u12_t3_p3_q3",
+"question": "Abdulrahman can say the time correctly without using any clocks or watches.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يستطيع عبدالرحمن معرفة الوقت بشكل صحيح دون استخدام أي ساعات.\n💡 الشرح: النص يقول: 'Abdulrahman can also say the time correctly without using any clocks or watches.'"
+},
+{
+"id": "sb_g8_u12_t3_p3_q4",
+"question": "How old was Abdulrahman when his powers were discovered?",
+"type": "answer",
+"keywords": ["four", "4", "four years old"],
+"explanation": "✅ الإجابة المتوقعة: Four years old.\n📝 الترجمة: كم كان عمر عبدالرحمن عندما اكتشفت قدراته؟\n💡 الشرح: النص يقول: 'when Abdulrahman was four years old.'"
+},
+{
+"id": "sb_g8_u12_t3_p3_q5",
+"question": "What can Abdulrahman draw accurately after looking at a building for a minute or two?",
+"type": "answer",
+"keywords": ["draw", "building", "drawings"],
+"explanation": "✅ الإجابة المتوقعة: The building.\n📝 الترجمة: ماذا يستطيع عبدالرحمن رسمه بدقة بعد النظر إلى مبنى لمدة دقيقة أو دقيقتين؟\n💡 الشرح: النص يقول: 'He looks at any building for a minute or two then he draws it accurately.'"
+}
+]
+}
+]
+}
