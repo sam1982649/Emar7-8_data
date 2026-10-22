@@ -1,0 +1,130 @@
+{
+"questions": [
+{
+"id": "SB_G8_U5_C1",
+"original": "Cyber bullies use digital technology to humiliate others.",
+"targetWord": "to humiliate others",
+"correctQuestion": "Why do cyber bullies use digital technology?",
+"correctQuestions": [
+"Why do cyber bullies use digital technology?"
+],
+"wh_word": "why",
+"auxiliary": "do",
+"subject": "cyber bullies",
+"subject_type": "noun_plural",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 7"
+},
+{
+"id": "SB_G8_U5_C2",
+"original": "If I asked for help, my parents would help me.",
+"targetWord": "my parents would help me",
+"correctQuestion": "What would happen if I asked for help?",
+"correctQuestions": [
+"What would happen if I asked for help?"
+],
+"wh_word": "what",
+"auxiliary": "would",
+"subject": "what",
+"subject_type": "noun_thing",
+"category": "Object",
+"acceptedAnswers": [
+"What would happen if you asked for help?"
+],
+"source": "Student Book",
+"exact_reference": "Grammar - Page 10"
+},
+{
+"id": "SB_G8_U5_C3",
+"original": "I couldn't contact my friends.",
+"targetWord": "my friends",
+"correctQuestion": "Who couldn't you contact?",
+"correctQuestions": [
+"Who couldn't you contact?"
+],
+"wh_word": "who",
+"auxiliary": "couldn't",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar - Page 10"
+},
+{
+"id": "SB_G8_U5_C4",
+"original": "I was at home.",
+"targetWord": "at home",
+"correctQuestion": "Where were you?",
+"correctQuestions": [
+"Where were you?"
+],
+"wh_word": "where",
+"auxiliary": "were",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar - Page 10"
+},
+{
+"id": "AB_G8_U5_C5",
+"original": "I feel lonely.",
+"targetWord": "lonely",
+"correctQuestion": "How do you feel?",
+"correctQuestions": [
+"How do you feel?",
+"What do you feel?"
+],
+"wh_word": "how",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Feeling",
+"acceptedAnswers": [
+"What do you feel?"
+],
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 19"
+},
+{
+"id": "AB_G8_U5_C6",
+"original": "Ali shares personal information.",
+"targetWord": "Ali",
+"correctQuestion": "Who shares personal information?",
+"correctQuestions": [
+"Who shares personal information?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "ali",
+"subject_type": "name_male",
+"category": "Subject",
+"acceptedAnswers": [
+"Who shares personal information?"
+],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 20"
+},
+{
+"id": "AB_G8_U5_C7",
+"original": "I'm angry because I broke my phone.",
+"targetWord": "because I broke my phone",
+"correctQuestion": "Why are you angry?",
+"correctQuestions": [
+"Why are you angry?"
+],
+"wh_word": "why",
+"auxiliary": "are",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 20"
+}
+]
+}
