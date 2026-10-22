@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"title": "Match the Sentence Parts - Autonomous Vehicles",
+"source": "mixed",
+"options": [
+{ "letter": "a", "text": "promote me to do well in every field" },
+{ "letter": "b", "text": "increase her income" },
+{ "letter": "c", "text": "the employment." },
+{ "letter": "d", "text": "on the wrong side of the street" },
+{ "letter": "e", "text": "benefit society" },
+{ "letter": "f", "text": "done long-term planning." }
+],
+"sentences": [
+{
+"start": "All the members of my family always",
+"correct": "a",
+"full_sentence": "All the members of my family always promote me to do well in every field",
+"translation": "جميع أفراد عائلتي يشجعونني دائماً لأبذل قصارى جهدي في كل مجال",
+"source": "Student Book",
+"exact_reference": "Writing - Page 28"
+},
+{
+"start": "She took on extra work to",
+"correct": "b",
+"full_sentence": "She took on extra work to increase her income",
+"translation": "قامت بعمل إضافي لزيادة دخلها",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 27"
+},
+{
+"start": "Driverless cars will increase",
+"correct": "c",
+"full_sentence": "Driverless cars will increase the employment.",
+"translation": "السيارات بدون سائق ستزيد البطالة",
+"source": "Student Book",
+"exact_reference": "Reading - Page 26"
+},
+{
+"start": "He was fined for parking",
+"correct": "d",
+"full_sentence": "He was fined for parking on the wrong side of the street",
+"translation": "تم تغريمه لوقوفه على الجانب الخطأ من الشارع",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 27"
+},
+{
+"start": "autonomous vehicles will not",
+"correct": "e",
+"full_sentence": "autonomous vehicles will not benefit society",
+"translation": "المركبات ذاتية القيادة لن تفيد المجتمع",
+"source": "Student Book",
+"exact_reference": "Reading - Page 26"
+}
+]
+},
+{
+"title": "Match the Sentence Parts - Ecological Cities",
+"source": "activity_book",
+"options": [
+{ "letter": "a", "text": "most things will stay the same in the future." },
+{ "letter": "b", "text": "are very dramatic." },
+{ "letter": "c", "text": "a dynamic solution to society's recent problems." },
+{ "letter": "d", "text": "to prioritize environmental renewal." },
+{ "letter": "e", "text": "surrounded by rivers." },
+{ "letter": "f", "text": "done long-term planning." }
+],
+"sentences": [
+{
+"start": "We tend to assume that",
+"correct": "a",
+"full_sentence": "We tend to assume that most things will stay the same in the future",
+"translation": "نميل إلى افتراض أن معظم الأشياء ستبقى كما هي في المستقبل",
+"source": "Activity Book",
+"exact_reference": "Reading - Page 22"
+},
+{
+"start": "The world is changing and the changes",
+"correct": "b",
+"full_sentence": "The world is changing and the changes are very dramatic",
+"translation": "العالم يتغير والتغيرات دراماتيكية جداً",
+"source": "Activity Book",
+"exact_reference": "Reading - Page 22"
+},
+{
+"start": "Modern technology appears as",
+"correct": "c",
+"full_sentence": "Modern technology appears as a dynamic solution to society's recent problems",
+"translation": "التكنولوجيا الحديثة تظهر كحل ديناميكي لمشاكل المجتمع الأخيرة",
+"source": "Activity Book",
+"exact_reference": "Reading - Page 22"
+},
+{
+"start": "We may want our future cities",
+"correct": "d",
+"full_sentence": "We may want our future cities to prioritize environmental renewal",
+"translation": "قد نريد لمدننا المستقبلية أن تعطي أولوية للتجديد البيئي",
+"source": "Activity Book",
+"exact_reference": "Reading - Page 22"
+},
+{
+"start": "Future cities should be",
+"correct": "e",
+"full_sentence": "Future cities should be surrounded by rivers",
+"translation": "يجب أن تكون المدن المستقبلية محاطة بالأنهار",
+"source": "Activity Book",
+"exact_reference": "Reading - Page 22"
+}
+]
+}
+]
+}

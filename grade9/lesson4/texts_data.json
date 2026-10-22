@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G9_U4_T1_P1",
+"text_group": "G9_U4_Autonomous_Vehicles",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Autonomous Vehicles - Part 1",
+"content_exam": "Some people think that autonomous vehicles will change our lives for the better. They think that they will be safer and transportation will be more efficient. However, others believe that autonomous vehicles will cause many problems that need to be solved before they are allowed to become a part of our daily lives.\n\nFirst, driverless cars will increase unemployment. Thousands of drivers will lose their jobs if autonomous vehicles are allowed to take over the roads. Truck drivers, delivery drivers, taxi drivers and many other kinds of drivers will lose their jobs. This increase in unemployment could cause serious social problems. Second, companies and governments will lose money. For example, insurance companies now get about fifty percent of their income from car insurance. Governments and cities, too, will lose much money from parking, speeding fines and petrol taxes.",
+"questions": [
+{
+"id": "L4_TXT_C01",
+"type": "choice",
+"question": "Some people think that autonomous vehicles will be ______ .",
+"options": ["more dangerous", "safer", "slower", "more expensive"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: safer\n📝 الترجمة: يعتقد بعض الناس أن السيارات ذاتية القيادة ستكون أكثر أماناً.\n💡 الشرح: النص يقول: 'They think that they will be safer'."
+},
+{
+"id": "L4_TXT_C02",
+"type": "choice",
+"question": "Driverless cars will increase ______ .",
+"options": ["employment", "safety", "unemployment", "taxes"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: unemployment\n📝 الترجمة: السيارات بدون سائق ستزيد البطالة.\n💡 الشرح: النص يقول: 'First, driverless cars will increase unemployment'."
+},
+{
+"id": "L4_TXT_C03",
+"type": "choice",
+"question": "Thousands of ______ will lose their jobs.",
+"options": ["doctors", "teachers", "drivers", "engineers"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: drivers\n📝 الترجمة: آلاف السائقين سيفقدون وظائفهم.\n💡 الشرح: النص يقول: 'Thousands of drivers will lose their jobs'."
+},
+{
+"id": "L4_TXT_C04",
+"type": "choice",
+"question": "The increase in unemployment could cause ______ problems.",
+"options": ["economic", "social", "political", "environmental"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: social\n📝 الترجمة: هذه الزيادة في البطالة قد تسبب مشاكل اجتماعية خطيرة.\n💡 الشرح: النص يقول: 'This increase in unemployment could cause serious social problems'."
+},
+{
+"id": "L4_TXT_C05",
+"type": "choice",
+"question": "Insurance companies get about ______ percent of their income from car insurance.",
+"options": ["twenty", "thirty", "forty", "fifty"],
+"correct": 3,
+"explanation": "✅ الإجابة الصحيحة: fifty\n📝 الترجمة: شركات التأمين تحصل الآن على حوالي خمسين بالمئة من دخلها من تأمين السيارات.\n💡 الشرح: النص يقول: 'insurance companies now get about fifty percent of their income from car insurance'."
+}
+]
+},
+{
+"id": "G9_U4_T1_P2",
+"text_group": "G9_U4_Autonomous_Vehicles",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Autonomous Vehicles - Part 2",
+"content_exam": "Finally, there is no planning. Dramatic change is coming, but governments haven't begun thinking about it. Only some American cities have done long-term planning. Driverless cars could arrive by 2030, but most government officials and transport ministers are only worried about short-term problems. In conclusion, it is possible that autonomous vehicles will not benefit society if they are introduced too quickly. They may cause social chaos through unemployment, financial loss and lack of planning. It is important that these issues are addressed before autonomous vehicles are allowed on our roads.",
+"questions": [
+{
+"id": "L4_TXT_TF01",
+"type": "truefalse",
+"question": "Most government officials are worried about long-term problems.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: معظم المسؤولين الحكوميين قلقون بشأن المشاكل طويلة المدى.\n💡 الشرح: النص يقول إنهم قلقون فقط بشأن المشاكل قصيرة المدى (short-term problems)."
+},
+{
+"id": "L4_TXT_TF02",
+"type": "truefalse",
+"question": "Only some American cities have done long-term planning.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: فقط بعض المدن الأمريكية قامت بتخطيط طويل المدى.\n💡 الشرح: النص يقول: 'Only some American cities have done long-term planning'."
+},
+{
+"id": "L4_TXT_TF03",
+"type": "truefalse",
+"question": "Driverless cars could arrive by 2030.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يمكن أن تصل السيارات بدون سائق بحلول عام 2030.\n💡 الشرح: النص يقول: 'Driverless cars could arrive by 2030'."
+},
+{
+"id": "L4_TXT_A01",
+"type": "answer",
+"question": "What may autonomous vehicles cause if introduced too quickly?",
+"keywords": ["social chaos", "unemployment", "financial loss", "lack of planning"],
+"explanation": "✅ الإجابة الصحيحة: social chaos through unemployment, financial loss and lack of planning\n📝 الترجمة: ماذا قد تسبب المركبات ذاتية القيادة إذا أُدخلت بسرعة كبيرة؟\n💡 الشرح: النص يقول إنها قد تسبب فوضى اجتماعية من خلال البطالة والخسارة المالية ونقص التخطيط."
+},
+{
+"id": "L4_TXT_A02",
+"type": "answer",
+"question": "What are governments losing money from?",
+"keywords": ["parking", "speeding fines", "petrol taxes", "parking fines"],
+"explanation": "✅ الإجابة الصحيحة: parking, speeding fines and petrol taxes\n📝 الترجمة: من أين تخسر الحكومات المال؟\n💡 الشرح: النص يقول: 'Governments and cities will lose much money from parking, speeding fines and petrol taxes'."
+}
+]
+},
+{
+"id": "G9_U4_T2_P1",
+"text_group": "G9_U4_Ecological_Cities",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Ecological Cities - Part 1",
+"content_exam": "When we think about the future, we tend to assume that most things will stay the same. This is almost never the case. We are experiencing a technological progress every month now. The world is changing and the changes are very dramatic. Imagining future cities with modern technology appears as a dynamic solution to society's recent problems.\n\nSome recent researches have suggested that we need to think about the way we imagine future cities, and to focus on some forms of alternative energy such as solar power, wind power, and water power which lead to environmental sustainability.\n\nWe need to answer questions about what can be sustained and what cannot, where cities can be located and where they cannot, and how we might travel in and between them and how we can physically live and work together. We may want our future cities to prioritize environmental renewal.",
+"questions": [
+{
+"id": "L4_TXT_C06",
+"type": "choice",
+"question": "We are experiencing technological progress ______ .",
+"options": ["every year", "every month", "every week", "every day"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: every month\n📝 الترجمة: نحن نشهد تقدماً تكنولوجياً كل شهر الآن.\n💡 الشرح: النص يقول: 'We are experiencing a technological progress every month now'."
+},
+{
+"id": "L4_TXT_C07",
+"type": "choice",
+"question": "Imagining future cities with modern technology is a ______ solution.",
+"options": ["static", "dynamic", "traditional", "old"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: dynamic\n📝 الترجمة: تخيل المدن المستقبلية بالتكنولوجيا الحديثة يبدو حلاً ديناميكياً.\n💡 الشرح: النص يقول: 'appears as a dynamic solution'."
+},
+{
+"id": "L4_TXT_C08",
+"type": "choice",
+"question": "Alternative energy includes solar power, wind power, and ______ .",
+"options": ["nuclear power", "coal power", "water power", "gas power"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: water power\n📝 الترجمة: الطاقة البديلة تشمل الطاقة الشمسية وطاقة الرياح والطاقة المائية.\n💡 الشرح: النص يقول: 'such as solar power, wind power, and water power'."
+},
+{
+"id": "L4_TXT_C09",
+"type": "choice",
+"question": "Alternative energy leads to environmental ______ .",
+"options": ["degradation", "pollution", "sustainability", "destruction"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: sustainability\n📝 الترجمة: الطاقة البديلة تؤدي إلى الاستدامة البيئية.\n💡 الشرح: النص يقول: 'which lead to environmental sustainability'."
+},
+{
+"id": "L4_TXT_C10",
+"type": "choice",
+"question": "We may want our future cities to prioritize ______ renewal.",
+"options": ["economic", "social", "environmental", "urban"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: environmental\n📝 الترجمة: قد نرغب في أن تعطي مدننا المستقبلية الأولوية للتجديد البيئي.\n💡 الشرح: النص يقول: 'prioritize environmental renewal'."
+}
+]
+},
+{
+"id": "G9_U4_T2_P2",
+"text_group": "G9_U4_Ecological_Cities",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Ecological Cities - Part 2",
+"content_exam": "We need to prevent environmental degradation and stop the expansion of deserts. Future cities can collect water and use solar power to irrigate the dry land. Future cities should be surrounded by rivers and provided with renewable energy resources and green vehicles heading towards more ecological forms of public transport. We need to answer questions about how we might travel in and between them and how we can physically live and work together. We may want our future cities to prioritize environmental renewal. Imagining these cities helps us understand how we want our future lives and tomorrow's world to look like. It will be better to rethink about our health, other species and the planet we share.",
+"questions": [
+{
+"id": "L4_TXT_TF04",
+"type": "truefalse",
+"question": "Future cities can use solar power to irrigate dry land.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يمكن للمدن المستقبلية استخدام الطاقة الشمسية لري الأراضي الجافة.\n💡 الشرح: النص يقول: 'use solar power to irrigate the dry land'."
+},
+{
+"id": "L4_TXT_TF05",
+"type": "truefalse",
+"question": "Future cities should be surrounded by mountains.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: يجب أن تكون المدن المستقبلية محاطة بالجبال.\n💡 الشرح: النص يقول إنها يجب أن تكون محاطة بالأنهار (rivers) وليس الجبال."
+},
+{
+"id": "L4_TXT_TF06",
+"type": "truefalse",
+"question": "We need to prevent environmental degradation.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: نحتاج إلى منع التدهور البيئي.\n💡 الشرح: النص يقول: 'We need to prevent environmental degradation'."
+},
+{
+"id": "L4_TXT_A03",
+"type": "answer",
+"question": "What can future cities use to irrigate dry land?",
+"keywords": ["solar power", "water", "solar", "sun"],
+"explanation": "✅ الإجابة الصحيحة: solar power (and water)\n📝 الترجمة: ماذا يمكن للمدن المستقبلية استخدامه لري الأراضي الجافة؟\n💡 الشرح: النص يقول: 'Future cities can collect water and use solar power to irrigate the dry land'."
+},
+{
+"id": "L4_TXT_A04",
+"type": "answer",
+"question": "Name two ecological forms of transport mentioned in the text.",
+"keywords": ["green vehicles", "public transport", "ecological transport"],
+"explanation": "✅ الإجابة الصحيحة: green vehicles and public transport\n📝 الترجمة: اذكر شكلين من أشكال النقل البيئي المذكورة في النص.\n💡 الشرح: النص يذكر 'green vehicles' و 'more ecological forms of public transport'."
+}
+]
+}
+]
+}

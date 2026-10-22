@@ -1,0 +1,211 @@
+{
+"vocabulary": [
+{ "word": "Addressed", "translation": "معالجة" },
+{ "word": "Allow", "translation": "يسمح" },
+{ "word": "Alternative", "translation": "بديل" },
+{ "word": "Assume", "translation": "يفترض" },
+{ "word": "Autonomous", "translation": "ذاتي القيادة" },
+{ "word": "Benefit", "translation": "يفيد / منفعة" },
+{ "word": "Better", "translation": "أفضل" },
+{ "word": "Billionaire", "translation": "ملياردير" },
+{ "word": "Change", "translation": "يغير" },
+{ "word": "Chaos", "translation": "فوضى" },
+{ "word": "Companies", "translation": "شركات" },
+{ "word": "Crew", "translation": "طاقم" },
+{ "word": "Daily", "translation": "يومي" },
+{ "word": "Degradation", "translation": "تدهور" },
+{ "word": "Delivery", "translation": "توصيل" },
+{ "word": "Deserts", "translation": "صحاري" },
+{ "word": "Dramatic", "translation": "دراماتيكي / كبير ومفاجئ" },
+{ "word": "Driverless", "translation": "بدون سائق" },
+{ "word": "Drivers", "translation": "سائقون" },
+{ "word": "Dry", "translation": "جاف" },
+{ "word": "Dynamic", "translation": "ديناميكي / متحرك" },
+{ "word": "Ecological", "translation": "بيئي" },
+{ "word": "Efficient", "translation": "فعال" },
+{ "word": "Expansion", "translation": "توسع" },
+{ "word": "Extended", "translation": "ممتد / واسع" },
+{ "word": "Festival", "translation": "مهرجان" },
+{ "word": "Financial", "translation": "مالي" },
+{ "word": "Fine", "translation": "غرامة" },
+{ "word": "Fined", "translation": "غُرّم" },
+{ "word": "Flexible", "translation": "مرن" },
+{ "word": "Governments", "translation": "حكومات" },
+{ "word": "Great", "translation": "رائع / كبير" },
+{ "word": "Happy", "translation": "سعيد" },
+{ "word": "However", "translation": "ومع ذلك" },
+{ "word": "Income", "translation": "دخل" },
+{ "word": "Insurance", "translation": "تأمين" },
+{ "word": "Irrigate", "translation": "يروي" },
+{ "word": "Issues", "translation": "قضايا" },
+{ "word": "Jobs", "translation": "وظائف" },
+{ "word": "Lack", "translation": "نقص" },
+{ "word": "Lives", "translation": "حياة" },
+{ "word": "Located", "translation": "يقع" },
+{ "word": "Long-term", "translation": "طويل المدى" },
+{ "word": "Lose", "translation": "يفقد" },
+{ "word": "Ministers", "translation": "وزراء" },
+{ "word": "Official", "translation": "مسؤول" },
+{ "word": "Officials", "translation": "مسؤولون" },
+{ "word": "Open minded", "translation": "منفتح الفكر" },
+{ "word": "Opinion", "translation": "رأي" },
+{ "word": "Parking", "translation": "مواقف سيارات" },
+{ "word": "Petrol", "translation": "بنزين" },
+{ "word": "Phases", "translation": "أطوار" },
+{ "word": "Physically", "translation": "جسدياً" },
+{ "word": "Planes", "translation": "طائرات" },
+{ "word": "Planning", "translation": "تخطيط" },
+{ "word": "Polluted", "translation": "ملوث" },
+{ "word": "Prioritize", "translation": "يعطي أولوية" },
+{ "word": "Problems", "translation": "مشاكل" },
+{ "word": "Progress", "translation": "تقدم" },
+{ "word": "Promote", "translation": "يشجع" },
+{ "word": "Renewable", "translation": "متجدد" },
+{ "word": "Renewal", "translation": "تجديد" },
+{ "word": "Researches", "translation": "أبحاث" },
+{ "word": "Resources", "translation": "موارد" },
+{ "word": "Rivers", "translation": "أنهار" },
+{ "word": "Roads", "translation": "طرق" },
+{ "word": "Safer", "translation": "أكثر أماناً" },
+{ "word": "Short-term", "translation": "قصير المدى" },
+{ "word": "Similar", "translation": "مشابه" },
+{ "word": "Social", "translation": "اجتماعي" },
+{ "word": "Society", "translation": "مجتمع" },
+{ "word": "Solar", "translation": "شمسي" },
+{ "word": "Solution", "translation": "حل" },
+{ "word": "Solved", "translation": "محلولة" },
+{ "word": "Species", "translation": "أنواع" },
+{ "word": "Speeding", "translation": "سرعة زائدة" },
+{ "word": "Surrounded", "translation": "محاط" },
+{ "word": "Sustain", "translation": "يستمر" },
+{ "word": "Sustainability", "translation": "استدامة" },
+{ "word": "Sustainable", "translation": "مستدام" },
+{ "word": "Sustained", "translation": "مستدام" },
+{ "word": "Take over", "translation": "يستحوذ على" },
+{ "word": "Taxes", "translation": "ضرائب" },
+{ "word": "Taxi", "translation": "سيارة أجرة" },
+{ "word": "Technological", "translation": "تكنولوجي" },
+{ "word": "Thousands", "translation": "آلاف" },
+{ "word": "Transportation", "translation": "نقل / مواصلات" },
+{ "word": "Truck", "translation": "شاحنة" },
+{ "word": "Underground", "translation": "تحت الأرض" },
+{ "word": "Unemployment", "translation": "بطالة" },
+{ "word": "Unique", "translation": "فريد" },
+{ "word": "Vehicles", "translation": "مركبات" },
+{ "word": "Waiters", "translation": "نادلون" },
+{ "word": "Water", "translation": "ماء" },
+{ "word": "Wind", "translation": "ريح" }
+],
+"tables": [
+{
+"title": "Determiners (المحددات)",
+"headers": ["النوع", "الاستخدام", "مثال"],
+"rows": [
+["أدوات التنكير (a / an)", "قبل الأسماء المعدودة المفردة", "a teacher, an apple"],
+["أداة التعريف (the)", "للتحدث عن شيء محدد أو سبق ذكره", "The weather was fine. I read a book. The book was interesting."],
+["صفات الملكية (my, your, his, her, its, our, their)", "للدلالة على الملكية", "My shirt is blue. Their house is big."],
+["أسماء الإشارة (this, that, these, those)", "للإشارة إلى الأشياء", "This flower is beautiful. Those houses are big."],
+["كميات (some, any, a lot of)", "للتعبير عن كمية", "I have some books. Do you have any children?"],
+["كميات مع المعدود (many, a few)", "مع الأسماء المعدودة", "She doesn't have many friends. I have a few coins. Many people drive cars."],
+["كميات مع غير المعدود (much, a little)", "مع الأسماء غير المعدودة", "He doesn't have much money. There is a little milk."]
+],
+"explanation": "المحددات (Determiners) هي كلمات تأتي قبل الاسم لتحديده أو لتعطي معلومات عن كميته أو ملكيته.",
+"examples": "Some people think that autonomous vehicles will cause many problems. / Thousands of drivers will lose their jobs."
+},
+{
+"title": "Articles a / an (أدوات التنكير)",
+"headers": ["أداة التنكير", "الاستخدام", "مثال من التمارين"],
+"rows": [
+["a", "قبل الكلمات التي تبدأ بحرف ساكن (consonant sound)", "a teacher, a month, a window"],
+["an", "قبل الكلمات التي تبدأ بحرف علة (vowel sound)", "an apple, an ant, an egg"]
+],
+"explanation": "نستخدم 'a' قبل الكلمات التي تبدأ بصوت ساكن، و 'an' قبل الكلمات التي تبدأ بصوت علة (a, e, i, o, u).",
+"examples": "The doctor advised me to eat an apple every morning."
+},
+{
+"title": "The (أداة التعريف)",
+"headers": ["الاستخدام", "الشرح", "مثال من التمارين"],
+"rows": [
+["للتحدث عن شيء محدد", "يستخدم لوصف شخص أو شيء محدد", "The weather was fine yesterday."],
+["للتحدث عن شيء سبق ذكره", "يستخدم قبل الأسماء التي تم ذكرها سابقاً", "I read a book. The book was interesting."]
+],
+"explanation": "نستخدم 'the' قبل الأسماء التي نعرفها أو التي سبق ذكرها.",
+"examples": "The sun rises in the East. / Does anyone know the answer?"
+},
+{
+"title": "Possessive Adjectives (صفات الملكية)",
+"headers": ["ضمير الملكية", "الاستخدام", "مثال من التمارين"],
+"rows": [
+["my", "يسبق الاسم (ملكية المتكلم)", "my book, my bedroom"],
+["your", "يسبق الاسم (ملكية المخاطب)", "your car"],
+["his", "يسبق الاسم (ملكية المفرد المذكر)", "his library"],
+["her", "يسبق الاسم (ملكية المفرد المؤنث)", "her house"],
+["its", "يسبق الاسم (ملكية غير العاقل)", "its colour"],
+["our", "يسبق الاسم (ملكية المتكلمين)", "our school"],
+["their", "يسبق الاسم (ملكية الغائبين)", "their jobs"]
+],
+"explanation": "صفات الملكية تأتي قبل الاسم للدلالة على الملكية.",
+"examples": "Thousands of drivers will lose their jobs. / I haven't got pictures in my bedroom."
+},
+{
+"title": "Demonstratives (أسماء الإشارة)",
+"headers": ["اسم الإشارة", "الاستخدام", "مثال من التمارين"],
+"rows": [
+["this", "يشير إلى شيء قريب (مفرد)", "This flower is beautiful."],
+["these", "يشير إلى شيء قريب (جمع)", "These flowers aren't for sale."],
+["that", "يشير إلى شيء بعيد (مفرد)", "That house is big."],
+["those", "يشير إلى شيء بعيد (جمع)", "Those houses are big."]
+],
+"explanation": "أسماء الإشارة تستخدم لتحديد الأشياء بناءً على بعدها المكاني أو الزماني.",
+"examples": "It is important that these issues are addressed. / These flowers aren't for sale."
+},
+{
+"title": "Quantifiers - Countable Nouns (أدوات الكمية - المعدودة)",
+"headers": ["أداة الكمية", "الاستخدام", "مثال من التمارين"],
+"rows": [
+["many", "تستخدم مع الأسماء المعدودة في الإثبات والنفي والسؤال", "Many people drive cars. / She doesn't have many friends."],
+["a few", "تستخدم مع الأسماء المعدودة في الإثبات (قليل)", "I have only a few coins."],
+["some", "تستخدم مع الأسماء المعدودة في الإثبات", "I would like to ask some questions."],
+["any", "تستخدم مع الأسماء المعدودة في النفي والسؤال", "Are there any students?"]
+],
+"explanation": "أدوات الكمية مع الأسماء المعدودة (التي يمكن عدها) مثل: friends, coins, questions.",
+"examples": "Some people believe that autonomous vehicles will cause many problems. / I have told you to pay attention many times before."
+},
+{
+"title": "Quantifiers - Uncountable Nouns (أدوات الكمية - غير المعدودة)",
+"headers": ["أداة الكمية", "الاستخدام", "مثال من التمارين"],
+"rows": [
+["much", "تستخدم مع الأسماء غير المعدودة في النفي والسؤال", "He doesn't have much money. / Does he have much money?"],
+["a little", "تستخدم مع الأسماء غير المعدودة في الإثبات (قليل)", "There is a little milk left."],
+["some", "تستخدم مع الأسماء غير المعدودة في الإثبات", "Sami likes to eat some food."],
+["any", "تستخدم مع الأسماء غير المعدودة في النفي والسؤال", "Is there any water?"]
+],
+"explanation": "أدوات الكمية مع الأسماء غير المعدودة (التي لا يمكن عدها) مثل: money, milk, food.",
+"examples": "Governments and cities won't get much money from parking. / There is a little milk left in the fridge."
+},
+{
+"title": "Question Formation (تكوين السؤال)",
+"headers": ["الخطوة", "الشرح"],
+"rows": [
+["١. كلمة السؤال (Question Word)", "What, Who, Where, When, Why, How, ..."],
+["٢. الفعل المساعد (Auxiliary Verb)", "will, do/does, did, have/has, am/is/are, ..."],
+["٣. الفاعل (Subject)", "I, you, he, she, it, we, they, ..."],
+["٤. الفعل الرئيسي (Main Verb)", "المصدر (مع will) أو التصريف الثالث (مع have/has)"],
+["٥. باقي الجملة (Rest of sentence)", "...?"]
+],
+"explanation": "لتحويل أي جملة إلى سؤال، نتبع الخطوات: ١- كلمة السؤال ٢- الفعل المساعد ٣- الفاعل ٤- الفعل الرئيسي ٥- باقي الجملة ثم علامة الاستفهام.",
+"examples": "Who will lose their jobs?\nThousands of drivers will lose their jobs.\n\nWhy did she take on extra work?\nShe took on extra work to increase her income.\n\nWhere does the sun rise?\nThe sun rises in the East.\n\nWhat will the weather be like?\nThe weather will be warm.\n\nWhat should future cities be surrounded by?\nFuture cities should be surrounded by rivers.\n\nWhen is the trip scheduled?\nThe trip is scheduled in 2023."
+},
+{
+"title": "Passive Voice (المبني للمجهول)",
+"headers": ["النوع", "الصيغة", "مثال من التمارين"],
+"rows": [
+["الإثبات (Present Simple)", "Subject + am/is/are + Past Participle (V3)", "The land is divided into seven continents."],
+["الإثبات (Future)", "Subject + will be + Past Participle (V3)", "Future cities should be surrounded by rivers."],
+["السؤال", "Am/Is/Are + Subject + Past Participle (V3)?", "Is the trip scheduled in 2023?"]
+],
+"explanation": "المبني للمجهول يستخدم عندما يكون الفاعل غير معروف أو غير مهم.",
+"examples": "The trip is scheduled in 2023. / Future cities should be surrounded by rivers."
+}
+]
+}

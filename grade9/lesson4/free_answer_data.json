@@ -1,0 +1,64 @@
+{
+"questions": [
+{
+"question": "What form of transport do you usually use?",
+"translation": "ما وسيلة النقل التي تستخدمها عادةً؟",
+"keywords": ["car", "bus", "bike", "taxi", "walk", "train", "metro"],
+"suggested_answers": [
+"I usually use the bus to go to school.",
+"I usually go by car with my father.",
+"I often walk or use a bike to move around."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 26"
+},
+{
+"question": "Do you like the transport system in your country? Why?",
+"translation": "هل تحب نظام النقل في بلدك؟ لماذا؟",
+"keywords": ["good", "bad", "convenient", "roads", "public", "slow", "fast", "comfortable"],
+"suggested_answers": [
+"Yes, I like it because the buses and roads are good and convenient.",
+"No, I don't like it because the public transport is slow and the roads are bad.",
+"I think the transport system is okay, but it needs more improvements."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 26"
+},
+{
+"question": "How does transportation affect tourism?",
+"translation": "كيف يؤثر النقل على السياحة؟",
+"keywords": ["visitors", "easy", "help", "tourism", "travel", "comfortable", "fast"],
+"suggested_answers": [
+"Good transportation helps tourism because it makes travel easy for visitors.",
+"When transport is fast and comfortable, more tourists visit the country.",
+"Transportation affects tourism because visitors need easy ways to travel around."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 26"
+},
+{
+"question": "What does your house look like?",
+"translation": "كيف يبدو منزلك؟",
+"keywords": ["big", "small", "modern", "old", "garden", "rooms", "floor", "colour"],
+"suggested_answers": [
+"My house is big and modern, with a small garden in front.",
+"My house is not very big. It has three rooms and a nice balcony.",
+"It is an old house with a large garden and many rooms."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 26"
+},
+{
+"question": "What was the weather like yesterday?",
+"translation": "كيف كان الطقس أمس؟",
+"keywords": ["sunny", "rainy", "cloudy", "hot", "cold", "windy", "warm", "snowy"],
+"suggested_answers": [
+"Yesterday, the weather was sunny and hot.",
+"It was cloudy and rainy, so I stayed at home.",
+"Yesterday it was cold and windy, and I felt a bit sad."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 26"
+}
+]
+}
