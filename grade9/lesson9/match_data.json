@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"title": "Match the Sentence Parts - Relative Clauses",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "is my neighbour." },
+{ "letter": "b", "text": "where we all studied." },
+{ "letter": "c", "text": "when it was nearly dark." },
+{ "letter": "d", "text": "which was robbed yesterday." },
+{ "letter": "e", "text": "that was very expensive." },
+{ "letter": "f", "text": "marks are excellent." }
+],
+"sentences": [
+{
+"start": "This is the bank",
+"correct": "d",
+"full_sentence": "This is the bank which was robbed yesterday",
+"translation": "هذا هو البنك الذي سُرق أمس.",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 71"
+},
+{
+"start": "My parents bought a new house",
+"correct": "e",
+"full_sentence": "My parents bought a new house that was very expensive",
+"translation": "اشترى والداي منزلاً جديداً كان باهظ الثمن.",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 71"
+},
+{
+"start": "The woman whose car was broken",
+"correct": "a",
+"full_sentence": "The woman whose car was broken is my neighbour",
+"translation": "المرأة التي تعطلت سيارتها هي جارتي.",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 71"
+},
+{
+"start": "My sister teaches in a school",
+"correct": "b",
+"full_sentence": "My sister teaches in a school where we all studied",
+"translation": "أختي تدرس في مدرسة درسنا فيها جميعاً.",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 71"
+},
+{
+"start": "He arrived at seven",
+"correct": "c",
+"full_sentence": "He arrived at seven when it was nearly dark",
+"translation": "وصل في الساعة السابعة عندما كان الظلام قد حل تقريباً.",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 71"
+}
+]
+},
+{
+"title": "Match the Sentence Parts - An Active Citizen",
+"source": "activity_book",
+"options": [
+{ "letter": "a", "text": "an important skill of good citizens." },
+{ "letter": "b", "text": "what is black tonight turns white in the morning." },
+{ "letter": "c", "text": "the advice of her father." },
+{ "letter": "d", "text": "Susan's mother works hard." },
+{ "letter": "e", "text": "to work for welfare services." },
+{ "letter": "f", "text": "who lost her bag." }
+],
+"sentences": [
+{
+"start": "Encouraging Susan to finish her studies was",
+"correct": "c",
+"full_sentence": "Encouraging Susan to finish her studies was the advice of her father",
+"translation": "كان تشجيع سوزان لإنهاء دراستها نصيحة والدها.",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 59"
+},
+{
+"start": "To make her daughter feel comfortable,",
+"correct": "d",
+"full_sentence": "To make her daughter feel comfortable, Susan's mother works hard",
+"translation": "لجعل ابنتها تشعر بالراحة، تعمل والدة سوزان بجد.",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 59"
+},
+{
+"start": "Susan believes that",
+"correct": "b",
+"full_sentence": "Susan believes that what is black tonight turns white in the morning",
+"translation": "تعتقد سوزان أن ما هو أسود الليلة يتحول إلى أبيض في الصباح.",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 59"
+},
+{
+"start": "Working for the welfare of society is",
+"correct": "a",
+"full_sentence": "Working for the welfare of society is an important skill of good citizens",
+"translation": "العمل من أجل رفاهية المجتمع هو مهارة مهمة للمواطنين الصالحين.",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 60"
+},
+{
+"start": "She urges people of her age",
+"correct": "e",
+"full_sentence": "She urges people of her age to work for welfare services",
+"translation": "إنها تحث الناس في عمرها على العمل في خدمات الرعاية الاجتماعية.",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 60"
+}
+]
+}
+]
+}

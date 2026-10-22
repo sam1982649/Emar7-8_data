@@ -1,0 +1,100 @@
+{
+"questions": [
+{
+"question": "What would you do if you won a prize?",
+"translation": "ماذا ستفعل لو فزت بجائزة؟",
+"keywords": ["share", "keep", "family", "friends", "help", "charity", "buy", "save"],
+"suggested_answers": [
+"I would share the prize with my family and friends.",
+"I would keep some of it and give some to charity.",
+"I would buy something useful and save the rest for the future."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 72"
+},
+{
+"question": "Why is it important to be honest with others?",
+"translation": "لماذا من المهم أن تكون صادقاً مع الآخرين؟",
+"keywords": ["trust", "respect", "truth", "relationships", "believe", "good", "people", "strong"],
+"suggested_answers": [
+"It is important to be honest because it builds trust between people.",
+"Honesty brings respect and makes relationships stronger.",
+"When you tell the truth, people believe you and respect you."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 72"
+},
+{
+"question": "What values do you think are most important in life?",
+"translation": "ما القيم التي تعتقد أنها الأهم في الحياة؟",
+"keywords": ["honesty", "respect", "kindness", "family", "love", "trust", "patience", "help"],
+"suggested_answers": [
+"I think honesty, respect, and kindness are the most important values.",
+"Family, love, and trust are the values I care about most.",
+"In my opinion, patience and helping others are the most important values."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 72"
+},
+{
+"question": "What does it mean to be a responsible citizen?",
+"translation": "ماذا يعني أن تكون مواطناً مسؤولاً؟",
+"keywords": ["rules", "laws", "respect", "help", "community", "clean", "environment", "others"],
+"suggested_answers": [
+"A responsible citizen follows the rules and respects others.",
+"It means helping your community and keeping the environment clean.",
+"A responsible citizen respects the law and helps people in need."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 62"
+},
+{
+"question": "Who inspires you to be a better person?",
+"translation": "من يلهمك لتكون شخصاً أفضل؟",
+"keywords": ["mother", "father", "teacher", "friend", "family", "kind", "help", "example"],
+"suggested_answers": [
+"My mother inspires me to be a better person because she is kind and patient.",
+"My father inspires me because he works hard and helps everyone.",
+"My teacher inspires me because she always helps others and gives a good example."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 62"
+},
+{
+"question": "What would you do if you found a wallet on the street?",
+"translation": "ماذا ستفعل لو وجدت محفظة في الشارع؟",
+"keywords": ["return", "owner", "police", "honest", "money", "identity", "safe"],
+"suggested_answers": [
+"I would try to return the wallet to its owner.",
+"I would take it to the police so they can find the owner.",
+"I would look for an ID card inside and try to contact the owner."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 62"
+},
+{
+"question": "How can young people make a difference in their community?",
+"translation": "كيف يمكن للشباب إحداث فرق في مجتمعهم؟",
+"keywords": ["volunteer", "help", "clean", "recycle", "donate", "plant", "teach", "organise"],
+"suggested_answers": [
+"Young people can volunteer and help others in their community.",
+"They can clean the streets, plant trees, and recycle to protect the environment.",
+"They can donate books, teach children, or organise charity events."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 62"
+},
+{
+"question": "Why is it important to respect others?",
+"translation": "لماذا من المهم احترام الآخرين؟",
+"keywords": ["kind", "peace", "trust", "relationships", "feel", "good", "equal", "society"],
+"suggested_answers": [
+"It is important to respect others because it brings peace and kindness.",
+"Respecting others builds trust and makes people feel good.",
+"When we respect each other, society becomes better and stronger."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 62"
+}
+]
+}

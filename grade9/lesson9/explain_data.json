@@ -1,0 +1,237 @@
+{
+"vocabulary": [
+{ "word": "Motivate", "translation": "يحفز" },
+{ "word": "Deserve", "translation": "يستحق" },
+{ "word": "Rejoice", "translation": "يفرح / يبتهج" },
+{ "word": "Challenge", "translation": "تحدي" },
+{ "word": "Diligently", "translation": "باجتهاد / بإخلاص" },
+{ "word": "Effort", "translation": "جهد" },
+{ "word": "Confused", "translation": "مرتبك / حائر" },
+{ "word": "Suitable", "translation": "مناسب" },
+{ "word": "Solution", "translation": "حل" },
+{ "word": "Opinion", "translation": "رأي" },
+{ "word": "Folded", "translation": "مطوي" },
+{ "word": "Fold", "translation": "يطوي" },
+{ "word": "Reveal", "translation": "يكشف / يظهر" },
+{ "word": "Award", "translation": "جائزة" },
+{ "word": "Owner", "translation": "مالك" },
+{ "word": "Tears", "translation": "دموع" },
+{ "word": "Poverty", "translation": "فقر" },
+{ "word": "Extreme", "translation": "شديد / متطرف" },
+{ "word": "Afford", "translation": "يستطيع تحمل التكلفة" },
+{ "word": "Excellent", "translation": "ممتاز" },
+{ "word": "Teacher", "translation": "معلم" },
+{ "word": "Student", "translation": "طالب" },
+{ "word": "Gift", "translation": "هدية" },
+{ "word": "Pair of shoes", "translation": "زوج أحذية" },
+{ "word": "Brave", "translation": "شجاع" },
+{ "word": "Weak", "translation": "ضعيف" },
+{ "word": "Strong", "translation": "قوي" },
+{ "word": "Face", "translation": "وجه" },
+{ "word": "Dimple", "translation": "غمازة" },
+{ "word": "Voice", "translation": "صوت" },
+{ "word": "Payment", "translation": "دفع" },
+{ "word": "Bill", "translation": "فاتورة" },
+{ "word": "Cured", "translation": "شفي / عولج" },
+{ "word": "Unrewarded", "translation": "غير مكافأ" },
+{ "word": "Deed", "translation": "عمل" },
+{ "word": "Complained", "translation": "اشتكى" },
+{ "word": "Teenage", "translation": "مراهق" },
+{ "word": "Struggle", "translation": "صراع" },
+{ "word": "Academic failure", "translation": "فشل أكاديمي" },
+{ "word": "Useful", "translation": "مفيد" },
+{ "word": "Rebel", "translation": "يتمرد" },
+{ "word": "Authority", "translation": "سلطة" },
+{ "word": "Independence", "translation": "استقلال" },
+{ "word": "Negative feelings", "translation": "مشاعر سلبية" },
+{ "word": "Community", "translation": "مجتمع محلي" },
+{ "word": "Mutual understanding", "translation": "تفاهم متبادل" },
+{ "word": "Giving", "translation": "عطاء" },
+{ "word": "Advice", "translation": "نصيحة" },
+{ "word": "Orphan", "translation": "يتيم" },
+{ "word": "Will", "translation": "إرادة" },
+{ "word": "Encourage", "translation": "يشجع" },
+{ "word": "Comfortable", "translation": "مرتاح" },
+{ "word": "Responsible", "translation": "مسؤول" },
+{ "word": "Citizen", "translation": "مواطن" },
+{ "word": "Respect", "translation": "يحترم / احترام" },
+{ "word": "Principle", "translation": "مبدأ" },
+{ "word": "Productive", "translation": "منتج / فعال" },
+{ "word": "Contribution", "translation": "مساهمة" },
+{ "word": "Nation", "translation": "أمة / دولة" },
+{ "word": "Character", "translation": "شخصية" },
+{ "word": "Effective", "translation": "فعال" },
+{ "word": "Legal", "translation": "قانوني" },
+{ "word": "Duties", "translation": "واجبات" },
+{ "word": "Rights", "translation": "حقوق" },
+{ "word": "Ability", "translation": "قدرة" },
+{ "word": "Talent", "translation": "موهبة" },
+{ "word": "Skill", "translation": "مهارة" },
+{ "word": "Welfare", "translation": "رفاهية / رعاية اجتماعية" },
+{ "word": "Die", "translation": "يموت" },
+{ "word": "Encouragement", "translation": "تشجيع" },
+{ "word": "Production", "translation": "إنتاج" },
+{ "word": "Comfort", "translation": "راحة" },
+{ "word": "Responsibility", "translation": "مسؤولية" },
+{ "word": "Respectable", "translation": "محترم" },
+{ "word": "Contribute", "translation": "يساهم" },
+{ "word": "Talented", "translation": "موهوب" },
+{ "word": "Involved", "translation": "مشارك" },
+{ "word": "Education", "translation": "تعليم" },
+{ "word": "Roof", "translation": "سقف" },
+{ "word": "Kitchen", "translation": "مطبخ" },
+{ "word": "Popular", "translation": "مشهور" },
+{ "word": "Traffic light", "translation": "إشارة مرور" },
+{ "word": "Hospital", "translation": "مستشفى" },
+{ "word": "Store", "translation": "متجر" },
+{ "word": "Souvenir", "translation": "تذكار" },
+{ "word": "Restaurant", "translation": "مطعم" },
+{ "word": "Reasonable", "translation": "معقول" },
+{ "word": "Delicious", "translation": "لذيذ" },
+{ "word": "Peace", "translation": "سلام" },
+{ "word": "Love", "translation": "حب" },
+{ "word": "Hate", "translation": "كراهية" },
+{ "word": "Fear", "translation": "خوف" },
+{ "word": "Tear", "translation": "دمعة" },
+{ "word": "Fate", "translation": "قدر" },
+{ "word": "Olive branch", "translation": "غصن زيتون" },
+{ "word": "Hope", "translation": "أمل" },
+{ "word": "Cheat", "translation": "يغش" },
+{ "word": "Exam", "translation": "امتحان" }
+],
+"tables": [
+{
+"title": "Relative Pronouns (ضمائر الوصل)",
+"headers": ["الضمير", "الاستخدام", "مثال"],
+"rows": [
+["who", "للأشخاص (فاعل)", "Mariam was a teacher who wanted to motivate her students."],
+["whom", "للأشخاص (مفعول به)", "The parents whom we interviewed were all involved."],
+["which", "للأشياء والحيوانات", "She would give a gift, which was a new pair of shoes."],
+["whose", "للملكية (للأشخاص والحيوانات)", "The student whose marks are excellent will get the gift."],
+["that", "للأشخاص والأشياء والحيوانات", "I don't like the table that stands in my kitchen."],
+["when", "للزمن", "Grandma remembers the time when radio shows were popular."],
+["where", "للمكان", "Nada came forward where the shoes were."]
+],
+"explanation": "who: للشخص الذي يقوم بالفعل (فاعل). whom: للشخص الذي يقع عليه الفعل (مفعول به). which: للشيء أو الحيوان. whose: للملكية. that: للشخص أو الشيء أو الحيوان (بديل عن who/which). when: للزمن. where: للمكان.",
+"examples": "Mariam was a teacher who wanted to motivate her students.\nShe would give a gift, which was a new pair of shoes.\nThe gift was for the student whose marks are excellent.\nNada came forward where the shoes were."
+},
+{
+"title": "Relative Clauses (جمل الوصل)",
+"headers": ["النوع", "الاستخدام", "مثال"],
+"rows": [
+["تحديد الهوية (Defining)", "توضح أي شخص أو شيء نقصد", "The student who got the award was happy."],
+["معلومات إضافية (Non-defining)", "تضيف معلومة إضافية بين فاصلتين", "My father, who is 55, is a teacher."]
+],
+"explanation": "Defining: تحدد أي شخص أو شيء نقصد. لا نضع فواصل. Non-defining: تضيف معلومات إضافية. توضع بين فاصلتين.",
+"examples": "The student who got the award was happy.\nMy father, who is 55 years old, is a teacher."
+},
+{
+"title": "Word Formation (تكوين الكلمات)",
+"headers": ["الفعل", "الاسم", "الصفة", "الحال"],
+"rows": [
+["motivate", "motivation", "motivated", ""],
+["die", "death", "dead", ""],
+["encourage", "encouragement", "encouraging", ""],
+["produce", "production", "productive", "productively"],
+["comfort", "comfort", "comfortable", "comfortably"],
+["respond", "responsibility", "responsible", "responsibly"],
+["respect", "respect", "respectable", ""],
+["contribute", "contribution", "contributing", ""],
+["talent", "talent", "talented", ""],
+["poor", "poverty", "poor", "poorly"],
+["behave", "behaviour", "behaving", ""],
+["efficient", "efficiency", "efficient", "efficiently"],
+["law", "law", "legal", "legally"],
+["able", "ability", "able", "ably"]
+],
+"explanation": "اختيار الكلمة المناسبة يعتمد على موقعها في الجملة: بعد الفعل (be) نستخدم صفة. بعد الفعل العادي نستخدم حال. بعد (extreme) نستخدم اسماً.",
+"examples": "Her parents couldn't afford to buy her new shoes because of their extreme poverty.\nThe plan is designed to motivate workers to work efficiently.\nA responsible citizen respects the principles of the country."
+},
+{
+"title": "Past Simple Tense (الماضي البسيط)",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الإثبات", "verb + ed / irregular", "The doctor spent a week treating her."],
+["النفي", "didn't + base form", "She didn't spend all her money."],
+["السؤال", "Did + subject + base form?", "Did she spend a lot?"]
+],
+"explanation": "نستخدم الماضي البسيط للأحداث المكتملة في الماضي. الكلمات الدالة: yesterday, last week, ago, in 2020.",
+"examples": "Last week I met Mrs. Smith.\nThe doctor spent a week treating her until she was finally cured."
+},
+{
+"title": "Gerund - love + verb-ing",
+"headers": ["الفعل", "مثال"],
+"rows": [
+["love", "She loves reading."],
+["like", "I like swimming."],
+["hate", "He hates waiting."],
+["enjoy", "They enjoy playing."]
+],
+"explanation": "بعد أفعال مثل (love, like, hate, enjoy) نستخدم الفعل + ing.",
+"examples": "She loves reading so she spends her free time in the school library."
+},
+{
+"title": "Object Pronouns (ضمائر المفعول به)",
+"headers": ["ضمائر الفاعل", "ضمائر المفعول به"],
+"rows": [
+["I", "me"],
+["you", "you"],
+["he", "him"],
+["she", "her"],
+["it", "it"],
+["we", "us"],
+["you", "you"],
+["they", "them"]
+],
+"explanation": "ضمائر المفعول به تأتي بعد الفعل أو حرف الجر.",
+"examples": "Leila gave me a beautiful souvenir."
+},
+{
+"title": "Present Simple Tense (المضارع البسيط)",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الإثبات", "verb (s/es مع he/she/it)", "My teacher lives in the city."],
+["النفي", "do/does + not + base form", "She doesn't live here."],
+["السؤال", "Do/Does + subject + base form?", "Does she live here?"]
+],
+"explanation": "نستخدم المضارع البسيط للحقائق والعادات الثابتة. الكلمات الدالة: always, usually, often, sometimes, every day.",
+"examples": "I want to visit the island where my teacher lives."
+},
+{
+"title": "Phrasal Verbs (الأفعال المركبة)",
+"headers": ["الفعل المركب", "المعنى", "مثال"],
+"rows": [
+["look for", "يبحث عن", "She looks for ways to help her community."],
+["take care of", "يعتني بـ", "He took care of his family."]
+],
+"explanation": "الأفعال المركبة هي فعل + حرف جر ويكون لها معنى خاص.",
+"examples": "She looks for ways to make her community a better place.\nBefore his death, he had a strong will of taking care of Suzan."
+},
+{
+"title": "Prepositions - because / because of",
+"headers": ["النوع", "الاستخدام", "مثال"],
+"rows": [
+["because", "تتبعها جملة (فعل + فاعل)", "She was happy because she won the prize."],
+["because of", "يتبعه اسم", "She was happy because of winning the prize."]
+],
+"explanation": "because: تتبعها جملة كاملة (فاعل + فعل). because of: يتبعها اسم أو ضمير.",
+"examples": "Her parents couldn't afford to buy her new shoes because of their extreme poverty."
+},
+{
+"title": "Possessive Pronouns (ضمائر الملكية)",
+"headers": ["ضمائر الفاعل", "صفات الملكية", "ضمائر الملكية"],
+"rows": [
+["I", "my", "mine"],
+["you", "your", "yours"],
+["he", "his", "his"],
+["she", "her", "hers"],
+["it", "its", "its"],
+["we", "our", "ours"],
+["you", "your", "yours"],
+["they", "their", "theirs"]
+],
+"explanation": "صفات الملكية تأتي قبل الاسم (his book). ضمائر الملكية تحل محل الاسم (This book is mine).",
+"examples": "The boy spent his days delivering letters."
+}
+]
+}

@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G9_U9_T1_P1",
+"text_group": "G9_U9_Who_Deserves_The_Award",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Who Deserves the Award? - Part 1",
+"content_exam": "Mariam was a teacher who wanted to motivate her students and make them do their best in the exam. So, she told them that she would give a gift, which was a new pair of shoes, to the one whose marks would be excellent. Children rejoiced over this challenge and they all started writing diligently. After collecting the papers, the teacher was surprised to find that everyone had a full mark.\n\nWho would get the gift? she thought. The teacher thanked everyone for their effort but she was confused about who would deserve the award as everyone had got the full mark.\n\nThe teacher thought of a suitable solution with her students. The students' opinion was that each of them would write his/her name on a folded paper and put it in a box from which the teacher would pick one. So, the paper would reveal the name of the award's winner.\n\nIndeed, the teacher picked a paper in front of all students and read the child's name [Nada], and said: 'you are the owner of the award'. With joy and tears in her eyes, Nada came forward where the shoes were. She thanked everyone for this wonderful gift. Her parents couldn't afford to buy her new shoes because of their extreme poverty.",
+"questions": [
+{
+"id": "L9_TXT_C01",
+"type": "choice",
+"question": "What was the gift that Mariam promised her students?",
+"options": ["A book", "A new pair of shoes", "A school bag", "A pencil case"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: A new pair of shoes\n📝 الترجمة: ما كانت الهدية التي وعدت بها مريم طلابها؟\n💡 الشرح: النص يقول: 'she would give a gift, which was a new pair of shoes'."
+},
+{
+"id": "L9_TXT_C02",
+"type": "choice",
+"question": "What did the teacher discover after collecting the papers?",
+"options": ["All students failed", "Everyone had a full mark", "Only one student passed", "The papers were lost"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: Everyone had a full mark\n📝 الترجمة: ماذا اكتشفت المعلمة بعد جمع الأوراق؟\n💡 الشرح: النص يقول: 'the teacher was surprised to find that everyone had a full mark'."
+},
+{
+"id": "L9_TXT_C03",
+"type": "choice",
+"question": "What did the students suggest to choose the winner?",
+"options": ["Another exam", "Write names on folded paper", "A class vote", "Teacher's choice"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: Write names on folded paper\n📝 الترجمة: ماذا اقترح الطلاب لاختيار الفائز؟\n💡 الشرح: النص يقول: 'each of them would write his/her name on a folded paper'."
+},
+{
+"id": "L9_TXT_C04",
+"type": "choice",
+"question": "Who was chosen as the winner?",
+"options": ["Mariam", "Nada", "The teacher's daughter", "The cleverest student"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: Nada\n📝 الترجمة: من تم اختياره كفائز؟\n💡 الشرح: النص يقول: 'the teacher picked a paper and read the child's name Nada'."
+},
+{
+"id": "L9_TXT_C05",
+"type": "choice",
+"question": "Why couldn't Nada's parents buy her new shoes?",
+"options": ["They were lazy", "They didn't love her", "They couldn't afford them", "She didn't want them"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: They couldn't afford them\n📝 الترجمة: لماذا لم يستطع والدا ندى شراء حذاء جديد لها؟\n💡 الشرح: النص يقول: 'Her parents couldn't afford to buy her new shoes'."
+}
+]
+},
+{
+"id": "G9_U9_T1_P2",
+"text_group": "G9_U9_Who_Deserves_The_Award",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Who Deserves the Award? - Part 2",
+"content_exam": "The teacher returned home crying. Her husband wanted to know why she was crying. She said: 'When I opened the rest of the papers, I found that all the students had written the same name Nada.' The students had shown great kindness and selflessness. They all wanted Nada to have the shoes because they knew her family was poor. They pretended to compete but they all agreed to write Nada's name. This act of kindness teaches us that true generosity comes from the heart. The students valued their friend's happiness more than their own. This is what makes a real community.",
+"questions": [
+{
+"id": "L9_TXT_TF01",
+"type": "truefalse",
+"question": "The teacher returned home laughing happily.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: عادت المعلمة إلى المنزل تضحك بسعادة.\n💡 الشرح: النص يقول: 'The teacher returned home crying'."
+},
+{
+"id": "L9_TXT_TF02",
+"type": "truefalse",
+"question": "All the students had written the same name Nada on their papers.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: كتب جميع الطلاب نفس الاسم 'ندى' على أوراقهم.\n💡 الشرح: النص يقول: 'all the students had written the same name Nada'."
+},
+{
+"id": "L9_TXT_TF03",
+"type": "truefalse",
+"question": "The students showed kindness and selflessness.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: أظهر الطلاب اللطف والإيثار.\n💡 الشرح: النص يقول: 'The students had shown great kindness and selflessness'."
+},
+{
+"id": "L9_TXT_A01",
+"type": "answer",
+"question": "Why did all the students write Nada's name?",
+"keywords": ["kindness", "selflessness", "poor family", "Nada", "generosity"],
+"explanation": "✅ الإجابة الصحيحة: They knew her family was poor and wanted her to have the shoes.\n📝 الترجمة: لماذا كتب جميع الطلاب اسم ندى؟\n💡 الشرح: كانوا يعرفون أن عائلتها فقيرة وأرادوا أن تحصل على الحذاء."
+},
+{
+"id": "L9_TXT_A02",
+"type": "answer",
+"question": "What lesson does this story teach us?",
+"keywords": ["generosity", "heart", "kindness", "community", "happiness of others"],
+"explanation": "✅ الإجابة الصحيحة: True generosity comes from the heart.\n📝 الترجمة: ما الدرس الذي تعلمنا إياه هذه القصة؟\n💡 الشرح: النص يقول: 'true generosity comes from the heart. The students valued their friend's happiness more than their own'."
+}
+]
+},
+{
+"id": "G9_U9_T2_P1",
+"text_group": "G9_U9_An_Active_Citizen",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "An Active Citizen - Part 1",
+"content_exam": "Suzan is an orphan whose father died when she was a baby. Before his death, he had a strong will of taking care of Suzan and encouraging her to study hard.\n\nAfter her husband's death, the mother worked hard to make her daughter feel comfortable and tried to afford her all what she needed. At night, before they sleep, the mother tells Suzan how much it is important to be a responsible citizen who respects the principles of the country. She encourages her daughter to be a productive member of society and a person who makes a positive contribution to the nation. The mother also clarifies the necessity of developing her daughter's character to be strong and effective in society. She tells her that she must understand her legal rights as well as her duties. Suzan is sure that life is difficult when you cannot have what you want. But she has learnt from her mother to fight till the end. She always says: 'when we don't have what we like, we must like what we have'.\n\nSuzan, who is now 15 years old, works hard to achieve her dreams. She loves reading so she spends her free time in the school library reading about her country's history and social studies. She studies a lot because she believes that what is hard today, will be easy tomorrow and what is black tonight will be white in the morning.",
+"questions": [
+{
+"id": "L9_TXT_C06",
+"type": "choice",
+"question": "What happened to Suzan's father?",
+"options": ["He left the family", "He died", "He travelled abroad", "He became ill"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: He died\n📝 الترجمة: ماذا حدث لوالد سوزان؟\n💡 الشرح: النص يقول: 'Suzan is an orphan whose father died when she was a baby'."
+},
+{
+"id": "L9_TXT_C07",
+"type": "choice",
+"question": "What does Suzan's mother teach her at night?",
+"options": ["Mathematics", "To be a responsible citizen", "How to cook", "How to draw"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: To be a responsible citizen\n📝 الترجمة: ماذا تعلم والدة سوزان ابنتها في الليل؟\n💡 الشرح: النص يقول: 'the mother tells Suzan how much it is important to be a responsible citizen'."
+},
+{
+"id": "L9_TXT_C08",
+"type": "choice",
+"question": "What is Suzan's motto?",
+"options": ["Work hard", "Study every day", "When we don't have what we like, we must like what we have", "Never give up"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: When we don't have what we like, we must like what we have\n📝 الترجمة: ما هو شعار سوزان؟\n💡 الشرح: النص يقول: 'She always says: when we don't have what we like, we must like what we have'."
+},
+{
+"id": "L9_TXT_C09",
+"type": "choice",
+"question": "How old is Suzan now?",
+"options": ["12", "13", "14", "15"],
+"correct": 3,
+"explanation": "✅ الإجابة الصحيحة: 15\n📝 الترجمة: كم عمر سوزان الآن؟\n💡 الشرح: النص يقول: 'Suzan, who is now 15 years old'."
+},
+{
+"id": "L9_TXT_C10",
+"type": "choice",
+"question": "Where does Suzan spend her free time?",
+"options": ["At home", "At the park", "In the school library", "At the gym"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: In the school library\n📝 الترجمة: أين تقضي سوزان وقت فراغها؟\n💡 الشرح: النص يقول: 'she spends her free time in the school library'."
+}
+]
+},
+{
+"id": "G9_U9_T2_P2",
+"text_group": "G9_U9_An_Active_Citizen",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "An Active Citizen - Part 2",
+"content_exam": "Suzan shares her skills and talents with others. On holidays, she participates in social activities and looks for ways to make her community better. She urges people her age to work for welfare services. Suzan believes that what is hard today will be easy tomorrow. She works hard to achieve her dreams. She reads about her country's history and social studies. She believes that helping others is a duty. A good citizen must contribute to society. Suzan is an example of a responsible and active citizen. She proves that young people can make a positive difference in their communities. Everyone can help, no matter their age or situation.",
+"questions": [
+{
+"id": "L9_TXT_TF04",
+"type": "truefalse",
+"question": "Suzan shares her skills and talents with others.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: تشارك سوزان مهاراتها ومواهبها مع الآخرين.\n💡 الشرح: النص يقول: 'Suzan shares her skills, talents, and abilities with others'."
+},
+{
+"id": "L9_TXT_TF05",
+"type": "truefalse",
+"question": "Suzan spends holidays sleeping at home.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: تقضي سوزان العطلات نائمة في المنزل.\n💡 الشرح: النص يقول: 'On holidays she participates in the social activities of her city'."
+},
+{
+"id": "L9_TXT_TF06",
+"type": "truefalse",
+"question": "Suzan believes that helping others is not important.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: تعتقد سوزان أن مساعدة الآخرين ليست مهمة.\n💡 الشرح: النص يقول: 'She believes that helping others is a duty'."
+},
+{
+"id": "L9_TXT_A03",
+"type": "answer",
+"question": "What does Suzan do on holidays?",
+"keywords": ["participates", "social activities", "makes community better", "welfare services"],
+"explanation": "✅ الإجابة الصحيحة: She participates in social activities and looks for ways to make her community better.\n📝 الترجمة: ماذا تفعل سوزان في العطلات؟\n💡 الشرح: النص يقول: 'she participates in the social activities of her city and looks for ways to make her community a better place to live in'."
+},
+{
+"id": "L9_TXT_A04",
+"type": "answer",
+"question": "What kind of citizen is Suzan an example of?",
+"keywords": ["responsible", "active citizen", "positive difference", "contribute to society"],
+"explanation": "✅ الإجابة الصحيحة: She is an example of a responsible and active citizen.\n📝 الترجمة: أي نوع من المواطنين تمثل سوزان مثالاً عليه؟\n💡 الشرح: النص يقول: 'Suzan is an example of a responsible and active citizen'."
+}
+]
+}
+]
+}
