@@ -1,0 +1,248 @@
+{
+"texts": [
+{
+"id": "R1_T1_P1",
+"text_group": "R1_Scottish_Summer_Camp",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "A Scottish Summer Camp",
+"content_exam": "Summer camps are becoming more and more popular with young people, but what are they like? Last month, a school reporter called Sally Henshaw travelled to Loch Lomond, Scotland. 'I travelled for about ten hours.' Finally, it was dark when the minibus drove past a sign, I heard someone saying 'Welcome to Camp Lomond'. As soon as I heard that voice I just wanted to go indoors and jump into a nice, soft bed. However, the camp leaders had other ideas. We all had a barbecue, and then we sat around a campfire and talked. Finally, one of the leaders divided us into groups of three and said:'Now it's time to put up your tents', I don't know how three of us managed to sleep in a tent the size of a single bed, but somehow we did.",
+"questions": [
+{
+"id": "r1_t1_q1",
+"question": "Sally wanted to ........ as soon as she arrived at the camp.",
+"options": [
+"go indoors and jump into a nice, soft bed",
+"have a barbecue and sit around a campfire",
+"put up her tent with her new friends",
+"go horse-riding around the lake"
+],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: go indoors and jump into a nice, soft bed\n📝 الترجمة: أرادت سالي أن تدخل إلى الداخل وتقفز في سرير ناعم ولطيف حالما وصلت إلى المخيم.\n💡 الشرح: النص يقول: 'As soon as I heard that voice I just wanted to go indoors and jump into a nice, soft bed.'"
+},
+{
+"id": "r1_t1_q2",
+"question": "The camp leaders asked the group to ........",
+"options": [
+"have a barbecue and talk around a campfire",
+"put up their tents and sleep in them",
+"go horse-riding around the lake",
+"divide into groups of two"
+],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: put up their tents and sleep in them\n📝 الترجمة: طلب قادة المخيم من المجموعة أن ينصبوا خيامهم ويناموا فيها.\n💡 الشرح: النص يقول: 'Now it's time to put up your tents'."
+},
+{
+"id": "r1_t1_q3",
+"question": "Sally and her friends slept in a tent ........",
+"options": [
+"that was very big and comfortable",
+"that was the size of a single bed",
+"that had three separate rooms",
+"that was full of furniture"
+],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: that was the size of a single bed\n📝 الترجمة: نامت سالي وصديقاتها في خيمة بحجم سرير مفرد.\n💡 الشرح: النص يقول: 'a tent the size of a single bed'."
+},
+{
+"id": "r1_t1_q4",
+"question": "Sally felt ........ when she first arrived at the camp.",
+"options": [
+"excited and full of energy",
+"angry with the camp leaders",
+"tired and wanted to sleep",
+"happy and relaxed"
+],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: tired and wanted to sleep\n📝 الترجمة: شعرت سالي بالتعب وأرادت النوم عندما وصلت إلى المخيم.\n💡 الشرح: النص يقول: 'I just wanted to go indoors and jump into a nice, soft bed'."
+},
+{
+"id": "r1_t1_q5",
+"question": "After the barbecue, the group ........",
+"options": [
+"went straight to bed",
+"sat around a campfire and talked",
+"put up their tents",
+"went for a walk"
+],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: sat around a campfire and talked\n📝 الترجمة: بعد الشواء، جلست المجموعة حول نار المخيم وتحدثت.\n💡 الشرح: النص يقول: 'We all had a barbecue, and then we sat around a campfire and talked.'"
+}
+]
+},
+{
+"id": "R1_T1_P2",
+"text_group": "R1_Scottish_Summer_Camp",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "A Scottish Summer Camp (Continued)",
+"content_exam": "When we woke up the next day, my new friend Ingrid opened the front of the tent, and we all looked out. There was Loch Lomond. 'Loch' means 'lake' in Scottish, and Loch Lomond is one of the most beautiful places I've ever seen! That morning after breakfast, we went horse-riding around the lake. In the next few days, the camp organized different activities. Most sports activities are in the afternoon, and in the morning, you can choose lessons like drawing, chess, drama and cookery. I've never been very good at art and I'm not a great actress, so I went along to the cookery class. I love food. The best things about the camp were learning new things and making new friends. Finally, since I came home, Ingrid and I have been texting every day.",
+"questions": [
+{
+"id": "r1_t1_q6",
+"question": "Sally went horse-riding around the lake in the morning.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: ذهبت سالي لركوب الخيل حول البحيرة في الصباح.\n💡 الشرح: النص يقول: 'That morning after breakfast, we went horse-riding around the lake.'"
+},
+{
+"id": "r1_t1_q7",
+"question": "Sally chose the cookery class because she loves food.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: اختارت سالي صف الطهي لأنها تحب الطعام.\n💡 الشرح: النص يقول: 'so I went along to the cookery class. I love food.'"
+},
+{
+"id": "r1_t1_q8",
+"question": "Sally was a great actress.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: كانت سالي ممثلة رائعة.\n💡 الشرح: النص يقول: 'I'm not a great actress'."
+},
+{
+"id": "r1_t1_q9",
+"question": "What does 'Loch' mean in Scottish?",
+"type": "answer",
+"keywords": ["lake"],
+"explanation": "✅ الإجابة المتوقعة: lake\n📝 الترجمة: ماذا تعني كلمة 'Loch' في الاسكتلندية؟\n💡 الشرح: النص يقول: 'Loch means lake in Scottish'."
+},
+{
+"id": "r1_t1_q10",
+"question": "What were the best things about the camp?",
+"type": "answer",
+"keywords": ["learning new things", "making new friends"],
+"explanation": "✅ الإجابة المتوقعة: learning new things and making new friends\n📝 الترجمة: ما هي أفضل الأشياء في المخيم؟\n💡 الشرح: النص يقول: 'The best things about the camp were learning new things and making new friends.'"
+}
+]
+},
+{
+"id": "R1_T2_P1",
+"text_group": "R1_Celebrations_Of_Culture",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Celebrations of Culture From Around the World",
+"content_exam": "Getting people together is at the heart of what we love about planning parties and events around the world. There are many reasons to get family and friends in one place celebrate and carry on traditions that have been around for many generations. So, why don't we take a tour of some of the world's biggest gatherings? Albuquerque International Balloon Fiesta: Hundreds of balloons set flight at this fiesta which lasts for 9 days in October in Albuquerque, New Mexico. Kids and adults alike gather to the massive launch site for its festival to see countless floating balloons of all shapes, sizes and colors light up the desert sky. Águeda, Portugal: Águeda's streets get a bright inspiration in July, as colorful umbrella canopies line the streets of this town.",
+"questions": [
+{
+"id": "r1_t2_q1",
+"question": "The main reason people plan parties is ........",
+"options": [
+"to get people together",
+"to decorate the streets",
+"to have good food",
+"to wear special clothes"
+],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: to get people together\n📝 الترجمة: السبب الرئيسي لتخطيط الحفلات هو جمع الناس معاً.\n💡 الشرح: النص يقول: 'Getting people together is at the heart of what we love about planning parties and events around the world.'"
+},
+{
+"id": "r1_t2_q2",
+"question": "The Albuquerque International Balloon Fiesta lasts ........",
+"options": [
+"for 5 days in September",
+"for 7 days in August",
+"for 9 days in October",
+"for 12 days in November"
+],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: for 9 days in October\n📝 الترجمة: مهرجان البالونات الدولي في ألبوكيركي يستمر 9 أيام في أكتوبر.\n💡 الشرح: النص يقول: 'which lasts for 9 days in October'."
+},
+{
+"id": "r1_t2_q3",
+"question": "In Águeda, Portugal, the streets are decorated with ........ in July.",
+"options": [
+"colorful lanterns",
+"colorful umbrella canopies",
+"beautiful flowers",
+"bright lights"
+],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: colorful umbrella canopies\n📝 الترجمة: في أغيدا، البرتغال، تُزين الشوارع بمظلات ملونة في يوليو.\n💡 الشرح: النص يقول: 'colorful umbrella canopies line the streets of this town.'"
+},
+{
+"id": "r1_t2_q4",
+"question": "At the Albuquerque International Balloon Fiesta, ........",
+"options": [
+"people throw colorful powder at each other",
+"hundreds of balloons set flight",
+"people release thousands of lanterns",
+"people have parades and markets"
+],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: hundreds of balloons set flight\n📝 الترجمة: في مهرجان البالونات الدولي في ألبوكيركي، تحلق مئات البالونات.\n💡 الشرح: النص يقول: 'Hundreds of balloons set flight at this fiesta'."
+},
+{
+"id": "r1_t2_q5",
+"question": "The Albuquerque Balloon Fiesta is attended by ........",
+"options": [
+"only children",
+"only adults",
+"children and adults",
+"only tourists"
+],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: children and adults\n📝 الترجمة: مهرجان البالونات في ألبوكيركي يحضره الأطفال والكبار.\n💡 الشرح: النص يقول: 'Kids and adults alike gather to the massive launch site'."
+}
+]
+},
+{
+"id": "R1_T2_P2",
+"text_group": "R1_Celebrations_Of_Culture",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Celebrations of Culture From Around the World (Continued)",
+"content_exam": "From the 7th to the 29th of July, visitors and locals can expect art setting up, performances and many street arts as the festival Águeda takes place. Yi Peng Lantern Festival: The sky of Chiang Mai in Thailand is set shining as thousands of lanterns are released throughout the city during the Yi Peng Lantern Festival. This citywide gathering takes place on the evening of the full moon on the 12th month of the Thai lunar calendar (usually November) and is often celebrated alongside Loy Krathong during three days of parades, markets, candle lightings and more. Holi Festival of Color, India: It is a celebration of the triumph of good over evil and the arrival of spring. Holi is a colored-powder-throwing party well-known in different cultures.",
+"questions": [
+{
+"id": "r1_t2_q6",
+"question": "The Águeda festival takes place from the 7th to the 29th of July.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: مهرجان أغيدا يقام من 7 إلى 29 يوليو.\n💡 الشرح: النص يقول: 'From the 7th to the 29th of July'."
+},
+{
+"id": "r1_t2_q7",
+"question": "The Yi Peng Lantern Festival takes place in India.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: مهرجان يي بينغ للفوانيس يقام في الهند.\n💡 الشرح: النص يقول: 'The sky of Chiang Mai in Thailand'."
+},
+{
+"id": "r1_t2_q8",
+"question": "Holi is a celebration of the triumph of good over evil.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: هولي هو احتفال بانتصار الخير على الشر.\n💡 الشرح: النص يقول: 'It is a celebration of the triumph of good over evil'."
+},
+{
+"id": "r1_t2_q9",
+"question": "What does Holi celebrate?",
+"type": "answer",
+"keywords": ["good over evil", "spring"],
+"explanation": "✅ الإجابة المتوقعة: the triumph of good over evil and the arrival of spring\n📝 الترجمة: ماذا يحتفل هولي؟\n💡 الشرح: النص يقول: 'It is a celebration of the triumph of good over evil and the arrival of spring.'"
+},
+{
+"id": "r1_t2_q10",
+"question": "What is Holi known as?",
+"type": "answer",
+"keywords": ["colored-powder-throwing", "party"],
+"explanation": "✅ الإجابة المتوقعة: a colored-powder-throwing party\n📝 الترجمة: بما يُعرف هولي؟\n💡 الشرح: النص يقول: 'Holi is a colored-powder-throwing party well-known in different cultures.'"
+}
+]
+}
+]
+}

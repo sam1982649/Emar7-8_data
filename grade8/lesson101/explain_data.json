@@ -1,0 +1,356 @@
+{
+"vocabulary": [
+{ "word": "summer camp", "translation": "مخيم صيفي", "source": "Student Book - Reading Text" },
+{ "word": "popular", "translation": "شعبي / مشهور", "source": "Student Book - Reading Text" },
+{ "word": "young people", "translation": "شباب", "source": "Student Book - Reading Text" },
+{ "word": "reporter", "translation": "مراسل", "source": "Student Book - Reading Text" },
+{ "word": "travelled", "translation": "سافر", "source": "Student Book - Reading Text" },
+{ "word": "dark", "translation": "مظلم", "source": "Student Book - Reading Text" },
+{ "word": "sign", "translation": "لافتة", "source": "Student Book - Reading Text" },
+{ "word": "indoors", "translation": "في الداخل", "source": "Student Book - Reading Text" },
+{ "word": "soft", "translation": "ناعم", "source": "Student Book - Reading Text" },
+{ "word": "camp leaders", "translation": "قادة المخيم", "source": "Student Book - Reading Text" },
+{ "word": "barbecue", "translation": "شواء", "source": "Student Book - Reading Text" },
+{ "word": "campfire", "translation": "نار المخيم", "source": "Student Book - Reading Text" },
+{ "word": "divided", "translation": "قسم", "source": "Student Book - Reading Text" },
+{ "word": "tents", "translation": "خيام", "source": "Student Book - Reading Text" },
+{ "word": "managed", "translation": "تمكن", "source": "Student Book - Reading Text" },
+{ "word": "single bed", "translation": "سرير مفرد", "source": "Student Book - Reading Text" },
+{ "word": "horse-riding", "translation": "ركوب الخيل", "source": "Student Book - Reading Text" },
+{ "word": "organized", "translation": "نظم", "source": "Student Book - Reading Text" },
+{ "word": "activities", "translation": "أنشطة", "source": "Student Book - Reading Text" },
+{ "word": "drawing", "translation": "رسم", "source": "Student Book - Reading Text" },
+{ "word": "chess", "translation": "شطرنج", "source": "Student Book - Reading Text" },
+{ "word": "drama", "translation": "دراما / مسرح", "source": "Student Book - Reading Text" },
+{ "word": "cookery", "translation": "طبخ", "source": "Student Book - Reading Text" },
+{ "word": "actress", "translation": "ممثلة", "source": "Student Book - Reading Text" },
+{ "word": "texting", "translation": "مراسلة نصية", "source": "Student Book - Reading Text" },
+{ "word": "lake", "translation": "بحيرة", "source": "Student Book - Reading Text" },
+{ "word": "Scottish", "translation": "اسكتلندي", "source": "Student Book - Reading Text" },
+{ "word": "project", "translation": "مشروع", "source": "Student Book - Writing" },
+{ "word": "event", "translation": "حدث / مناسبة", "source": "Student Book - Writing" },
+{ "word": "hiking", "translation": "المشي في الطبيعة", "source": "Student Book - Writing" },
+{ "word": "weather", "translation": "طقس", "source": "Student Book - Writing" },
+{ "word": "rainy", "translation": "ممطر", "source": "Student Book - Writing" },
+{ "word": "nature", "translation": "طبيعة", "source": "Student Book - Writing" },
+{ "word": "plants", "translation": "نباتات", "source": "Student Book - Writing" },
+{ "word": "animals", "translation": "حيوانات", "source": "Student Book - Writing" },
+{ "word": "great time", "translation": "وقت رائع", "source": "Student Book - Writing" },
+{ "word": "clever", "translation": "ذكي", "source": "Student Book - Grammar" },
+{ "word": "grandmother", "translation": "جدة", "source": "Student Book - Grammar" },
+{ "word": "story", "translation": "قصة", "source": "Student Book - Grammar" },
+{ "word": "bank", "translation": "بنك", "source": "Student Book - Grammar" },
+{ "word": "piano", "translation": "بيانو", "source": "Student Book - Grammar" },
+{ "word": "pasta", "translation": "باستا", "source": "Student Book - Grammar" },
+{ "word": "spaghetti", "translation": "سباغيتي", "source": "Student Book - Grammar" },
+{ "word": "living", "translation": "عيش / رزق", "source": "Student Book - Grammar" },
+{ "word": "celebrations", "translation": "احتفالات", "source": "Activity Book - Reading Text" },
+{ "word": "traditions", "translation": "تقاليد", "source": "Activity Book - Reading Text" },
+{ "word": "generations", "translation": "أجيال", "source": "Activity Book - Reading Text" },
+{ "word": "gatherings", "translation": "تجمعات", "source": "Activity Book - Reading Text" },
+{ "word": "balloon", "translation": "بالون", "source": "Activity Book - Reading Text" },
+{ "word": "fiesta", "translation": "مهرجان", "source": "Activity Book - Reading Text" },
+{ "word": "massive", "translation": "ضخم", "source": "Activity Book - Reading Text" },
+{ "word": "launch site", "translation": "موقع الإطلاق", "source": "Activity Book - Reading Text" },
+{ "word": "countless", "translation": "لا يحصى", "source": "Activity Book - Reading Text" },
+{ "word": "floating", "translation": "عائم", "source": "Activity Book - Reading Text" },
+{ "word": "desert sky", "translation": "سماء الصحراء", "source": "Activity Book - Reading Text" },
+{ "word": "inspiration", "translation": "إلهام", "source": "Activity Book - Reading Text" },
+{ "word": "canopies", "translation": "مظلات", "source": "Activity Book - Reading Text" },
+{ "word": "performances", "translation": "عروض", "source": "Activity Book - Reading Text" },
+{ "word": "locals", "translation": "السكان المحليين", "source": "Activity Book - Reading Text" },
+{ "word": "visitors", "translation": "زوار", "source": "Activity Book - Reading Text" },
+{ "word": "lanterns", "translation": "فوانيس", "source": "Activity Book - Reading Text" },
+{ "word": "released", "translation": "تم إطلاق", "source": "Activity Book - Reading Text" },
+{ "word": "lunar calendar", "translation": "تقويم قمري", "source": "Activity Book - Reading Text" },
+{ "word": "parades", "translation": "مسيرات", "source": "Activity Book - Reading Text" },
+{ "word": "candle lightings", "translation": "إضاءة الشموع", "source": "Activity Book - Reading Text" },
+{ "word": "triumph", "translation": "انتصار", "source": "Activity Book - Reading Text" },
+{ "word": "spring", "translation": "ربيع", "source": "Activity Book - Reading Text" },
+{ "word": "colored-powder-throwing", "translation": "رمي مسحوق ملون", "source": "Activity Book - Reading Text" },
+{ "word": "cultures", "translation": "ثقافات", "source": "Activity Book - Reading Text" },
+{ "word": "evil", "translation": "شر", "source": "Activity Book - Reading Text" },
+{ "word": "good", "translation": "خير", "source": "Activity Book - Reading Text" },
+{ "word": "powder", "translation": "مسحوق", "source": "Activity Book - Reading Text" },
+{ "word": "streets", "translation": "شوارع", "source": "Activity Book - Reading Text" },
+{ "word": "town", "translation": "بلدة", "source": "Activity Book - Reading Text" },
+{ "word": "tickets", "translation": "تذاكر", "source": "Activity Book - Grammar" },
+{ "word": "match", "translation": "مباراة", "source": "Activity Book - Grammar" },
+{ "word": "hamburgers", "translation": "همبرغر", "source": "Activity Book - Grammar" },
+{ "word": "dirty water", "translation": "مياه قذرة", "source": "Activity Book - Grammar" },
+{ "word": "rivers", "translation": "أنهار", "source": "Activity Book - Grammar" },
+{ "word": "shoes", "translation": "أحذية", "source": "Activity Book - Grammar" },
+{ "word": "trip", "translation": "رحلة", "source": "Activity Book - Grammar" },
+{ "word": "university teacher", "translation": "مدرس جامعي", "source": "Activity Book - Grammar" },
+{ "word": "exam", "translation": "امتحان", "source": "Activity Book - Grammar" },
+{ "word": "homework", "translation": "واجب منزلي", "source": "Activity Book - Grammar" },
+{ "word": "support", "translation": "دعم", "source": "Activity Book - Grammar" },
+{ "word": "help", "translation": "مساعدة", "source": "Activity Book - Grammar" },
+{ "word": "theatre", "translation": "مسرح", "source": "Activity Book - Listening" },
+{ "word": "concert", "translation": "حفلة موسيقية", "source": "Activity Book - Listening" },
+{ "word": "band", "translation": "فرقة موسيقية", "source": "Activity Book - Listening" },
+{ "word": "birthday", "translation": "عيد ميلاد", "source": "Activity Book - Listening" },
+{ "word": "dinner", "translation": "عشاء", "source": "Activity Book - Listening" },
+{ "word": "shopping", "translation": "تسوق", "source": "Activity Book - Listening" },
+{ "word": "paragraph", "translation": "فقرة", "source": "Activity Book - Writing" },
+{ "word": "special day", "translation": "يوم مميز", "source": "Activity Book - Writing" },
+{ "word": "forget", "translation": "ينسى", "source": "Activity Book - Writing" },
+{ "word": "remember", "translation": "يتذكر", "source": "Activity Book - Writing" },
+{ "word": "celebrate", "translation": "يحتفل", "source": "Activity Book - Writing" },
+{ "word": "delicious", "translation": "لذيذ", "source": "Activity Book - Writing" },
+{ "word": "cake", "translation": "كعكة", "source": "Activity Book - Writing" },
+{ "word": "phone", "translation": "هاتف", "source": "Activity Book - Writing" }
+],
+"tables": [
+{
+"title": "Simple Present (المضارع البسيط)",
+"headers": ["Usage", "Form", "Example"],
+"rows": [
+["حقائق عامة", "Subject + verb (s with he/she/it)", "Water pollutes rivers."],
+["عادات وروتين", "Subject + verb (s with he/she/it)", "He studies every night."],
+["النفي", "Subject + don't/doesn't + infinitive", "He doesn't eat hamburgers."],
+["السؤال", "Do/Does + subject + infinitive", "Does she live with her parents?"]
+],
+"explanation": "يستخدم المضارع البسيط للحقائق العامة والعادات والروتين. مع he, she, it نضيف s للفعل. للنفي نستخدم doesn't مع المفرد و don't مع الجمع. للسؤال نستخدم does مع المفرد و do مع الجمع.",
+"examples": "He studies every night. - Water pollutes rivers. - Albert doesn't eat hamburgers every day. - Jane lives with her parents."
+},
+{
+"title": "Simple Past (الماضي البسيط)",
+"headers": ["Usage", "Form", "Example"],
+"rows": [
+["أحداث انتهت في الماضي", "verb + -ed (regular)", "She travelled to Scotland."],
+["أحداث انتهت في الماضي", "irregular verbs", "She went horse-riding."],
+["النفي", "Subject + didn't + infinitive", "I didn't finish work."],
+["السؤال", "Did + subject + infinitive", "Did you see the lake?"]
+],
+"explanation": "يستخدم الماضي البسيط للتعبير عن أحداث انتهت في الماضي. نضيف '-ed' للأفعال المنتظمة، والأفعال الشاذة لها تصريف خاص.",
+"examples": "She travelled to Scotland. - She went horse-riding. - I forgot to phone her yesterday. - I spent two weeks in Brighton."
+},
+{
+"title": "Present Continuous (المضارع المستمر)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["am/is/are + verb + ing", "حدث يحدث الآن", "He is playing football now."],
+["am/is/are + verb + ing", "خطط مستقبلية", "We are planning to go on a trip."],
+["النفي", "am/is/are + not + verb + ing", "She isn't watching TV."],
+["السؤال", "Am/Is/Are + subject + verb + ing", "Are you studying now?"]
+],
+"explanation": "يستخدم المضارع المستمر للتعبير عن حدث يحدث الآن أو خطط مستقبلية.",
+"examples": "He is playing football now. - We are planning to go on a trip next week. - They are visiting Greece next month."
+},
+{
+"title": "Past Continuous (الماضي المستمر)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["was/were + verb + ing", "حدث مستمر في الماضي قطعه حدث آخر", "They were having lunch when the phone rang."],
+["was/were + verb + ing", "حدث مستمر في وقت محدد في الماضي", "I was watching TV at 6 o'clock yesterday."]
+],
+"explanation": "يستخدم الماضي المستمر للتعبير عن حدث مستمر في الماضي قطعه حدث آخر أو حدث في وقت محدد.",
+"examples": "They were having lunch when the phone rang. - While we were watching TV, some guests arrived. - What were you doing at 6 o'clock yesterday?"
+},
+{
+"title": "Present Perfect (المضارع التام)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["have/has + past participle", "حدث بدأ في الماضي وما زال له تأثير", "I have just bought a new pair of shoes."],
+["have/has + past participle", "مع yet في النفي", "I haven't finished work yet."],
+["have/has + past participle", "مع since", "I have known her since last September."]
+],
+"explanation": "يستخدم المضارع التام للتعبير عن حدث بدأ في الماضي وما زال له تأثير حتى الآن. نستخدم 'just' و 'yet' و 'since' معه.",
+"examples": "I have just bought a new pair of shoes. - I haven't finished work yet. - I have known her since last September."
+},
+{
+"title": "Past Perfect (الماضي التام)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["had + past participle", "حدث وقع قبل حدث آخر في الماضي", "She cooked lunch after she had come home."]
+],
+"explanation": "يستخدم الماضي التام للتعبير عن حدث وقع قبل حدث آخر في الماضي. نستخدم 'had' مع التصريف الثالث للفعل.",
+"examples": "She cooked lunch after she had come home."
+},
+{
+"title": "First Conditional (الجملة الشرطية من النوع الأول)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["If + present simple, will + infinitive", "مواقف حقيقية وممكنة في المستقبل", "He will pass his exam if he studies well."],
+["النفي في جملة if", "If + don't/doesn't + infinitive", "If he doesn't study, he won't pass."],
+["النفي في جملة النتيجة", "won't + infinitive", "If it rains, we won't go out."]
+],
+"explanation": "تستخدم الجملة الشرطية من النوع الأول للتعبير عن مواقف حقيقية وممكنة الحدوث في المستقبل. تتكون من جملة شرطية (If) بزمن المضارع البسيط وجملة نتيجة بزمن will + المصدر.",
+"examples": "He will pass his exam if he studies well."
+},
+{
+"title": "Second Conditional (الجملة الشرطية من النوع الثاني)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["If + past simple, would + infinitive", "مواقف غير حقيقية أو خيالية", "If I were you, I would study hard."],
+["Use 'were' for all subjects (formal)", "مواقف غير حقيقية أو خيالية", "If she were more clever, she wouldn't agree."],
+["النفي في جملة if", "If + didn't + infinitive", "If I didn't have money, I wouldn't travel."],
+["النفي في جملة النتيجة", "wouldn't + infinitive", "If I asked, they wouldn't help me."]
+],
+"explanation": "تستخدم الجملة الشرطية من النوع الثاني للتعبير عن مواقف غير حقيقية أو خيالية في الحاضر أو المستقبل. في اللغة الرسمية، نستخدم 'were' مع جميع الضمائر في جملة if.",
+"examples": "If I were you, I would study hard. - If she were more clever, she wouldn't agree. - I would go to the party if they invited me."
+},
+{
+"title": "Reported Speech (الكلام المنقول)",
+"headers": ["Direct Speech", "Reported Speech", "Example"],
+"rows": [
+["Present Simple", "Present Simple (if still true)", "She said she helps her mother."],
+["Present Simple", "Past Simple (if not true)", "She said she helped her mother."],
+["Past Simple", "Past Simple (no change)", "They said they bought tickets."],
+["can", "could", "She said she couldn't finish."],
+["have to", "had to", "The teacher said we had to do the project."]
+],
+"explanation": "في الكلام المنقول، ننقل ما قاله شخص آخر. تتغير الضمائر والأزمنة حسب السياق. 'can' تتحول إلى 'could'، و 'have to' تتحول إلى 'had to'.",
+"examples": "Jina said she helps her mother at home. - They said they bought tickets for the match. - Nada told her mother she couldn't finish her homework."
+},
+{
+"title": "Question Words (كلمات الاستفهام)",
+"headers": ["Word", "Usage", "Example"],
+"rows": [
+["What", "للسؤال عن الشيء", "What is your job?"],
+["Who", "للسؤال عن الشخص (فاعل)", "Who told you the story?"],
+["Whom", "للسؤال عن الشخص (مفعول به)", "Whom did you meet?"],
+["Where", "للسؤال عن المكان", "Where do you live?"],
+["When", "للسؤال عن الوقت", "When did you arrive?"],
+["Why", "للسؤال عن السبب", "Why do people plan parties?"],
+["How", "للسؤال عن الطريقة", "How does she drive?"],
+["How long", "للسؤال عن المدة", "How long did you stay?"],
+["How often", "للسؤال عن التكرار", "How often do you eat pizza?"],
+["Which", "للسؤال عن الاختيار", "Which festival do you like?"],
+["What ... like", "للسؤال عن الصفة", "What is she like?"]
+],
+"explanation": "تستخدم كلمات الاستفهام لتكوين الأسئلة. للسؤال عن الفاعل نستخدم Who/What بدون فعل مساعد. للسؤال عن المفعول به نستخدم الفعل المساعد.",
+"examples": "What does your dad do for a living? - Who told you the story? - How often does your brother eat pizza?"
+},
+{
+"title": "Subject & Object Pronouns (ضمائر الفاعل والمفعول به)",
+"headers": ["Subject Pronoun", "Object Pronoun", "Example"],
+"rows": [
+["I", "me", "He told me the story."],
+["you", "you", "I called you."],
+["he", "him", "She met him."],
+["she", "her", "He helped her."],
+["it", "it", "I bought it."],
+["we", "us", "They divided us."],
+["they", "them", "She saw them."]
+],
+"explanation": "ضمائر الفاعل تأتي قبل الفعل (I, you, he, she, it, we, they). ضمائر المفعول به تأتي بعد الفعل أو حرف الجر (me, you, him, her, it, us, them).",
+"examples": "They divided us into groups of three."
+},
+{
+"title": "Adjectives vs Adverbs (الصفات والظروف)",
+"headers": ["Type", "Usage", "Example"],
+"rows": [
+["Adjective (صفة)", "تصف الاسم", "He is a slow eater."],
+["Adverb (ظرف)", "يصف الفعل (غالباً ينتهي بـ -ly)", "She drives carefully."]
+],
+"explanation": "الصفة تصف الاسم وتوضع قبله أو بعد فعل الكينونة. الظرف يصف الفعل ويوضع بعده وغالباً ينتهي بـ -ly.",
+"examples": "He is a slow eater. - Sandra drives her car carefully."
+},
+{
+"title": "Prepositions (حروف الجر المهمة)",
+"headers": ["Preposition", "Usage", "Example"],
+"rows": [
+["in", "للأشهر والسنوات", "in July"],
+["in", "للمدن والدول", "in Damascus"],
+["at", "للوقت (الساعة)", "at 6 o'clock"],
+["on", "للأيام والتواريخ", "on Friday"],
+["for", "للمدة", "for 9 days"],
+["with", "للمصاحبة", "with her parents"],
+["without", "بدون", "without your help"],
+["to", "للاتجاه", "to Loch Lomond"],
+["from", "للمصدر", "from his family"],
+["of", "للتكوين", "one of the most beautiful"]
+],
+"explanation": "حروف الجر تربط الأسماء بالجملة. بعض الأفعال تأتي مع حروف جر محددة ويجب حفظها كما هي.",
+"examples": "The festival lasts for 9 days. - I can't finish my work without your help. - She travelled to Scotland."
+},
+{
+"title": "Quantifiers (المحددات)",
+"headers": ["Quantifier", "Usage", "Example"],
+"rows": [
+["many", "مع الأسماء المعدودة (الجمع)", "many reasons"],
+["much", "مع الأسماء غير المعدودة", "much sugar"],
+["some", "في الجمل المثبتة", "some water"],
+["any", "في الجمل المنفية والاستفهامية", "any help"],
+["a little", "مع الأسماء غير المعدودة (كمية صغيرة)", "a little time"],
+["a lot of", "مع المعدود وغير المعدود", "a lot of people"]
+],
+"explanation": "تستخدم المحددات للتعبير عن الكمية. 'many' مع المعدود، 'much' مع غير المعدود. 'some' في المثبت، 'any' في النفي والاستفهام.",
+"examples": "There are many reasons to get family and friends in one place."
+},
+{
+"title": "Modal Verbs (الأفعال الناقصة)",
+"headers": ["Modal Verb", "Usage", "Example"],
+"rows": [
+["can", "للإمكانية في الحاضر", "I can help you."],
+["could", "للإمكانية في الماضي", "He could play the piano."],
+["was able to", "للإمكانية في الماضي (مناسبة أكثر)", "He was able to play the piano."],
+["have to", "للإلزام", "We have to do the project."],
+["had to", "للإلزام في الماضي", "We had to do the project."],
+["would", "للشرط", "I would go to the party."],
+["will", "للمستقبل", "He will pass his exam."],
+["must", "للإلزام القوي", "You must study."]
+],
+"explanation": "الأفعال الناقصة تستخدم للتعبير عن الإمكانية، الإلزام، الشرط، وغيرها. 'can' و 'could' تعبران عن القدرة، 'have to' و 'had to' تعبران عن الإلزام.",
+"examples": "He was able to play the piano when he was 5 years old. - The teacher said we had to do the project."
+},
+{
+"title": "Passive Voice (المبني للمجهول)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["am/is/are + past participle", "المضارع المجهول", "Thousands of lanterns are released."]
+],
+"explanation": "يستخدم المبني للمجهول عندما يكون المفعول به هو الأهم في الجملة. يتكون من: be + past participle.",
+"examples": "Thousands of lanterns are released throughout the city."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["Conjunction", "Usage", "Example"],
+"rows": [
+["and", "للإضافة", "small and soft"],
+["but", "للاستدراك", "small but important"],
+["because", "للسبب", "She left because she was ill."],
+["so", "للنتيجة", "He was tired, so he slept."],
+["or", "للخيار", "Now or later."],
+["when", "للوقت", "I was sleeping when you called."],
+["while", "للوقت (أثناء)", "While we were eating, the phone rang."],
+["if", "للشرط", "If he studies, he will pass."]
+],
+"explanation": "تستخدم أدوات الربط لربط الكلمات والجمل. 'and' للإضافة، 'but' للاستدراك، 'because' للسبب، 'so' للنتيجة، 'or' للخيار، 'when' و 'while' للوقت، 'if' للشرط.",
+"examples": "The human brain is very small and light. - While we were watching TV, some guests arrived."
+},
+{
+"title": "Articles (أدوات التعريف والتنكير)",
+"headers": ["Article", "Usage", "Example"],
+"rows": [
+["a", "قبل الأسماء التي تبدأ بحرف ساكن", "a sign"],
+["an", "قبل الأسماء التي تبدأ بحرف علة (a, e, i, o, u)", "an actress"],
+["the", "للتعريف (شيء محدد أو معروف)", "the lake"]
+],
+"explanation": "نستخدم 'a' و 'an' للتنكير (شيء غير محدد). نستخدم 'the' للتعريف (شيء محدد أو معروف). 'an' تستخدم قبل الكلمات التي تبدأ بحرف علة.",
+"examples": "I saw a sign. - She is an actress. - The lake was beautiful."
+},
+{
+"title": "Word Forms (أشكال الكلمات)",
+"headers": ["Noun", "Adjective", "Adverb", "Verb"],
+"rows": [
+["success", "successful", "successfully", "succeed"],
+["brilliance", "brilliant", "brilliantly", "shine"],
+["certainty", "certain", "certainly", "ascertain"],
+["modesty", "modest", "modestly", "moderate"],
+["reality", "real", "really", "realize"],
+["memory", "memorable", "memorably", "memorize"],
+["advice", "advisable", "advisably", "advise"],
+["dream", "dreamy", "dreamily", "dream"],
+["trade", "trading", "tradingly", "trade"],
+["risk", "risky", "riskily", "risk"],
+["expanding", "expansive", "expansively", "expand"],
+["communication", "communicative", "communicatively", "communicate"]
+],
+"explanation": "الكلمات في اللغة الإنجليزية تأتي بأشكال مختلفة (اسم، صفة، ظرف، فعل). يجب اختيار الشكل المناسب حسب موقعها في الجملة.",
+"examples": "He is a successful man. - He succeeded in his project. - He completed it successfully."
+}
+]
+}

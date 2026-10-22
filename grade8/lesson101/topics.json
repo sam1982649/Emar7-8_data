@@ -1,0 +1,54 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics)",
+"description": "يتم استخراج مواضيع الكتابة من نهاية كل درس في كتاب الطالب وكتاب النشاط.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Writing",
+"Activity Book - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من كتاب الطالب",
+"موضوع واحد من كتاب النشاط",
+"تنويع الأسئلة المساعدة لكل موضوع"
+],
+"applied_to_unit": {
+"grade": 8,
+"unit": 101,
+"title": "Review 1",
+"total_topics": 2,
+"sources": {
+"topic_1": "Student Book - Writing",
+"topic_2": "Activity Book - Writing"
+}
+}
+},
+"topics": [
+{
+"id": "R1_W1",
+"title": "Write a paragraph about a school club event you organized.",
+"source": "Student Book",
+"exact_reference": "Writing Exercise - Page 48",
+"guiding_questions": [
+"What is the name of your club and what do people do there?",
+"What event did you organize and why was it important?",
+"What happened on the day of the event? (Include two good things and one problem)"
+],
+"sample_essay": "I am a member of the Science Club at my school. We organized a camping trip to learn about nature. It was important because we learned new things about plants and animals. On the day, we went hiking and had a barbecue. We also made new friends. However, the weather was rainy, but we still had a great time.",
+"word_count": 50
+},
+{
+"id": "R1_W2",
+"title": "Write a paragraph about a special day in your life that you'll never forget.",
+"source": "Activity Book",
+"exact_reference": "Writing Exercise - Page 29",
+"guiding_questions": [
+"What was the special day?",
+"What happened on that day?",
+"Why will you never forget it?"
+],
+"sample_essay": "My special day was my birthday last year. My family and friends came to celebrate with me. We ate delicious food and played games together. My father gave me a new phone, and my mother made a beautiful cake. I will never forget this day because I felt very happy and loved.",
+"word_count": 50
+}
+]
+}

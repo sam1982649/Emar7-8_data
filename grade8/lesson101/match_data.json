@@ -1,0 +1,154 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة المطابقة (Match)",
+"description": "يتم استخراج أسئلة المطابقة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل التي يمكن تقسيمها إلى بداية ونهاية.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Grammar Exercises",
+"Student Book - After Reading",
+"Activity Book - Reading Text",
+"Activity Book - Vocabulary Exercises",
+"Activity Book - Grammar Exercises"
+],
+"structure": {
+"per_group": "5 بدايات + 6 نهايات (واحدة زائدة)"
+},
+"selection_criteria": [
+"تنويع المصادر داخل كل مجموعة",
+"تجنب الجمل المتشابهة",
+"توزيع بين النص والتمارين",
+"كل جملة موثقة بالمصدر الدقيق"
+],
+"applied_to_unit": {
+"grade": 8,
+"unit": 101,
+"title": "Review 1",
+"total_groups": 2,
+"groups": {
+"group_1": {
+"source": "Student Book",
+"sources_used": ["Reading Text (2)", "Grammar Exercises (3)"]
+},
+"group_2": {
+"source": "Activity Book",
+"sources_used": ["Reading Text (2)", "Grammar Exercises (3)"]
+}
+}
+}
+},
+"groups": [
+{
+"id": "R1_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "R1_Scottish_Summer_Camp",
+"options": [
+{ "letter": "a", "text": "were learning new things." },
+{ "letter": "b", "text": "and gets ready for work." },
+{ "letter": "c", "text": "when the phone rang." },
+{ "letter": "d", "text": "I saw the beautiful lake." },
+{ "letter": "e", "text": "different activities." },
+{ "letter": "f", "text": "the size of a single bed." }
+],
+"sentences": [
+{
+"start": "The best things about the camp",
+"correct": "a",
+"full_sentence": "The best things about the camp were learning new things.",
+"translation": "أفضل الأشياء في المخيم كانت تعلم أشياء جديدة.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Every morning she wakes up early",
+"correct": "b",
+"full_sentence": "Every morning she wakes up early and gets ready for work.",
+"translation": "كل صباح تستيقظ مبكراً وتستعد للعمل.",
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "They were having lunch",
+"correct": "c",
+"full_sentence": "They were having lunch when the phone rang.",
+"translation": "كانوا يتناولون الغداء عندما رن الهاتف.",
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "When I opened my eyes",
+"correct": "d",
+"full_sentence": "When I opened my eyes I saw the beautiful lake.",
+"translation": "عندما فتحت عيني رأيت البحيرة الجميلة.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "the camp organized",
+"correct": "e",
+"full_sentence": "the camp organized different activities.",
+"translation": "نظم المخيم أنشطة مختلفة.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+}
+]
+},
+{
+"id": "R1_M2",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "R1_Celebrations_Of_Culture",
+"options": [
+{ "letter": "a", "text": "well-known in different cultures." },
+{ "letter": "b", "text": "on a trip next week." },
+{ "letter": "c", "text": "for the match." },
+{ "letter": "d", "text": "without your help." },
+{ "letter": "e", "text": "to see countless floating balloons of all shapes." },
+{ "letter": "f", "text": "for many generations." }
+],
+"sentences": [
+{
+"start": "Holi is a colored-powder-throwing party",
+"correct": "a",
+"full_sentence": "Holi is a colored-powder-throwing party well-known in different cultures.",
+"translation": "هولي هو حفلة رمي مسحوق ملون معروفة في ثقافات مختلفة.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "We are planning to go",
+"correct": "b",
+"full_sentence": "We are planning to go on a trip next week.",
+"translation": "نحن نخطط للذهاب في رحلة الأسبوع القادم.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "We bought tickets",
+"correct": "c",
+"full_sentence": "We bought tickets for the match.",
+"translation": "اشترينا تذاكر المباراة.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "I can't finish my work",
+"correct": "d",
+"full_sentence": "I can't finish my work without your help.",
+"translation": "لا أستطيع إنهاء عملي بدون مساعدتك.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "Kids and adults alike gather",
+"correct": "e",
+"full_sentence": "Kids and adults alike gather to see countless floating balloons of all shapes.",
+"translation": "يجتمع الأطفال والكبار على حد سواء لرؤية عدد لا يحصى من البالونات العائمة بجميع الأشكال.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+}
+]
+}
+]
+}
