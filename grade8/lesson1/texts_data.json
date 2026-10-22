@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G8_U1_T1_P1",
+"text_group": "G8_U1_Schools_Past_Present_Future",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Schools in the Past, Present and Future",
+"content_exam": "In the past and about 30 years ago, there were no computers or Internet as we have today. At that period, schools weren't provided with technological innovations of our time. The 21st century schools have changed with the development of modern technology and the needs of students. Nowadays, teachers and students use modern technologies. They are using the Internet, computers, laptops, mobiles and a number of other means which are continually being improved and updated. Modern technologies have played a major role in education so that teachers no longer have to rely on their traditional methods of teaching.",
+"questions": [
+{
+"id": "g8_u1_t1_p1_q1",
+"question": "About 30 years ago, there were no ........ or Internet.",
+"options": ["laptops", "computers", "mobiles", "tablets"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: computers\n📝 الترجمة: منذ حوالي 30 عاماً، لم يكن هناك حواسيب أو إنترنت.\n💡 الشرح: النص يقول: 'there were no computers or Internet'."
+},
+{
+"id": "g8_u1_t1_p1_q2",
+"question": "Schools in the past were not provided with technological ........ of our time.",
+"options": ["innovations", "methods", "means", "systems"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: innovations\n📝 الترجمة: لم تكن المدارس في الماضي مزودة بالابتكارات التكنولوجية في عصرنا.\n💡 الشرح: النص يقول: 'technological innovations of our time'."
+},
+{
+"id": "g8_u1_t1_p1_q3",
+"question": "21st century schools have changed with the development of modern ........ and the needs of students.",
+"options": ["education", "technology", "teachers", "books"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: technology\n📝 الترجمة: تغيرت مدارس القرن الحادي والعشرين مع تطور التكنولوجيا الحديثة واحتياجات الطلاب.\n💡 الشرح: النص يقول: 'with the development of modern technology'."
+},
+{
+"id": "g8_u1_t1_p1_q4",
+"question": "Teachers and students are using the Internet, computers, laptops, mobiles and a number of other .........",
+"options": ["means", "books", "boards", "pens"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: means\n📝 الترجمة: يستخدم المعلمون والطلاب الإنترنت والحواسيب والمحمول وعدداً من الوسائل الأخرى.\n💡 الشرح: النص يقول: 'a number of other means'."
+},
+{
+"id": "g8_u1_t1_p1_q5",
+"question": "Modern technologies have played a major ........ in education.",
+"options": ["method", "role", "means", "system"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: role\n📝 الترجمة: لعبت التكنولوجيا الحديثة دوراً رئيسياً في التعليم.\n💡 الشرح: النص يقول: 'played a major role in education'."
+}
+]
+},
+{
+"id": "G8_U1_T1_P2",
+"text_group": "G8_U1_Schools_Past_Present_Future",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Schools in the Past, Present and Future (Part 2)",
+"content_exam": "That's why the concept of a future school comes in. A future school combines high-quality education with the possibility of new technologies in order to convey useful and practical knowledge. Future educators will have to face the fact that students will need to learn in a flexible, personalized format. This may mean having a more technology-focused classroom. In these future schools, students will prefer their learning experience to meet their interests, their academic needs and their future careers. Some of the main features that are expected to be changed in the system of future schools are: flying vehicles instead of school buses, robotic teachers instead of humans, practical work more than books.",
+"questions": [
+{
+"id": "g8_u1_t1_p2_q1",
+"question": "A future school combines high-quality education with new technologies.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: المدرسة المستقبلية تجمع بين التعليم عالي الجودة والتكنولوجيا الجديدة.\n💡 الشرح: النص يقول: 'A future school combines high-quality education with the possibility of new technologies'."
+},
+{
+"id": "g8_u1_t1_p2_q2",
+"question": "Future educators will not need to change their teaching methods.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: لن يحتاج المعلمون في المستقبل إلى تغيير طرق تدريسهم.\n💡 الشرح: النص يقول: 'Future educators will have to face the fact that students will need to learn in a flexible, personalized format'."
+},
+{
+"id": "g8_u1_t1_p2_q3",
+"question": "In future schools, students will prefer learning that meets their interests and future careers.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: في المدارس المستقبلية، سيفضل الطلاب التعلم الذي يلبي اهتماماتهم ومساراتهم المهنية.\n💡 الشرح: النص يقول: 'students will prefer their learning experience to meet their interests, their academic needs and their future careers'."
+},
+{
+"id": "g8_u1_t1_p2_q4",
+"question": "What does the word 'concept' mean in the text?",
+"type": "answer",
+"keywords": ["idea", "plan"],
+"explanation": "✅ الإجابة الصحيحة: idea or plan\n📝 الترجمة: ماذا تعني كلمة 'concept' في النص؟\n💡 الشرح: 'concept' تعني 'فكرة أو خطة'."
+},
+{
+"id": "g8_u1_t1_p2_q5",
+"question": "Mention one feature expected to change in future schools.",
+"type": "answer",
+"keywords": ["flying vehicles", "robotic teachers", "practical work"],
+"explanation": "✅ الإجابة الصحيحة: flying vehicles instead of school buses / robotic teachers instead of humans / practical work more than books\n📝 الترجمة: اذكر ميزة واحدة متوقع تغييرها في المدارس المستقبلية.\n💡 الشرح: النص يذكر ثلاث ميزات: مركبات طائرة، معلمين روبوت، عمل عملي أكثر من الكتب."
+}
+]
+},
+{
+"id": "G8_U1_T2_P1",
+"text_group": "G8_U1_School_Life",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "School Life",
+"content_exam": "Some people start their school life at a very early age when they can't recognize how important the school and the learning process are. Little kids go to a sort of school which is called kindergarten. At that early age, children are exposed to new concepts that they really don't care for or even understand, especially when they are learning a foreign language. Most people remember the first day of being at school with their parents holding their hands. They remember when they entered a strange building in which there are tables, chairs, lockers, colourful drawings, pictures and people they don't know. Quickly, their parents leave them there crying and shouting feeling depressed. But soon they are accustomed to the situation and they begin to love the place and have the feeling of familiarity.",
+"questions": [
+{
+"id": "g8_u1_t2_p1_q1",
+"question": "Some people start their school life at a very ........ age.",
+"options": ["old", "early", "late", "middle"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: early\n📝 الترجمة: بعض الناس يبدأون حياتهم المدرسية في سن مبكرة جداً.\n💡 الشرح: النص يقول: 'at a very early age'."
+},
+{
+"id": "g8_u1_t2_p1_q2",
+"question": "Little kids go to a school called .........",
+"options": ["primary school", "secondary school", "kindergarten", "university"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: kindergarten\n📝 الترجمة: يذهب الأطفال الصغار إلى مدرسة تسمى الروضة.\n💡 الشرح: النص يقول: 'which is called kindergarten'."
+},
+{
+"id": "g8_u1_t2_p1_q3",
+"question": "Children are exposed to new ........ that they don't understand.",
+"options": ["concepts", "teachers", "books", "schools"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: concepts\n📝 الترجمة: يتعرض الأطفال لمفاهيم جديدة لا يفهمونها.\n💡 الشرح: النص يقول: 'exposed to new concepts'."
+},
+{
+"id": "g8_u1_t2_p1_q4",
+"question": "Parents leave their children at school ........ and shouting.",
+"options": ["smiling", "crying", "laughing", "singing"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: crying\n📝 الترجمة: يترك الآباء أطفالهم في المدرسة وهم يبكون.\n💡 الشرح: النص يقول: 'leave them there crying'."
+},
+{
+"id": "g8_u1_t2_p1_q5",
+"question": "Soon children become ........ to the situation and begin to love the school.",
+"options": ["accustomed", "strange", "new", "different"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: accustomed\n📝 الترجمة: سرعان ما يعتاد الأطفال على الوضع ويبدأون في حب المدرسة.\n💡 الشرح: النص يقول: 'they are accustomed to the situation'."
+}
+]
+},
+{
+"id": "G8_U1_T2_P2",
+"text_group": "G8_U1_School_Life",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "School Life (Part 2)",
+"content_exam": "After that, those little children grow up and go to their schools alone. They learn new things from their teachers and from their books. They begin to read, write and study independently. Soon they will have varied topics discovering that they have remarkable skills in some areas, but limited ones in others. Then they reach higher schools, where they have much work to do. Here their achievement varies and their knowledge increases. Their attitudes will become different towards friends and goals in life. The difference between things that they have chosen and things which can help them decide their future career becomes much clearer for them. When they start working and see the different aspects of life, they discover how lovely school life was.",
+"questions": [
+{
+"id": "g8_u1_t2_p2_q1",
+"question": "Children grow up and go to their schools with their parents.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: يكبر الأطفال ويذهبون إلى مدارسهم مع والديهم.\n💡 الشرح: النص يقول: 'go to their schools alone'."
+},
+{
+"id": "g8_u1_t2_p2_q2",
+"question": "Children begin to read, write and study independently.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يبدأ الأطفال في القراءة والكتابة والدراسة بشكل مستقل.\n💡 الشرح: النص يقول: 'They begin to read, write and study independently'."
+},
+{
+"id": "g8_u1_t2_p2_q3",
+"question": "When children reach higher schools, they have less work to do.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: عندما يصل الأطفال إلى المدارس العليا، يكون لديهم عمل أقل.\n💡 الشرح: النص يقول: 'where they have much work to do'."
+},
+{
+"id": "g8_u1_t2_p2_q4",
+"question": "What does the word 'independently' mean in the text?",
+"type": "answer",
+"keywords": ["confidently", "freely", "alone"],
+"explanation": "✅ الإجابة الصحيحة: confidently and freely / alone\n📝 الترجمة: ماذا تعني كلمة 'independently' في النص؟\n💡 الشرح: 'independently' تعني 'بثقة وحرية' أو 'بشكل مستقل'."
+},
+{
+"id": "g8_u1_t2_p2_q5",
+"question": "What do people discover when they start working?",
+"type": "answer",
+"keywords": ["how lovely school life was", "school life was lovely"],
+"explanation": "✅ الإجابة الصحيحة: how lovely school life was\n📝 الترجمة: ماذا يكتشف الناس عندما يبدأون العمل؟\n💡 الشرح: النص يقول: 'they discover how lovely school life was'."
+}
+]
+}
+]
+}

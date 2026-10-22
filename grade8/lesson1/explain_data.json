@@ -1,0 +1,241 @@
+{
+"vocabulary": [
+{ "word": "provide", "translation": "يُقدّم (يعطي شيئاً ليتم استخدامه)" },
+{ "word": "innovation", "translation": "ابتكار (طريقة جديدة لفعل الأشياء)" },
+{ "word": "innovations", "translation": "ابتكارات" },
+{ "word": "major", "translation": "رئيسي (مهم جداً)" },
+{ "word": "rely on", "translation": "يعتمد على" },
+{ "word": "rely", "translation": "يعتمد على" },
+{ "word": "concept", "translation": "مفهوم (فكرة أو خطة)" },
+{ "word": "combine", "translation": "يدمج (يضع شيئين معاً)" },
+{ "word": "combined", "translation": "مدمج" },
+{ "word": "convey", "translation": "ينقل (يجعل الأفكار معروفة للآخرين)" },
+{ "word": "practical", "translation": "عملي (متعلق بالواقع)" },
+{ "word": "flexible", "translation": "مرن (قادر على التغيير)" },
+{ "word": "personalize", "translation": "يُخصّص (يجعل شيئاً لشخص معين)" },
+{ "word": "format", "translation": "تصميم (الخطة العامة لشيء ما)" },
+{ "word": "means", "translation": "وسيلة" },
+{ "word": "traditional", "translation": "تقليدي" },
+{ "word": "modern", "translation": "حديث" },
+{ "word": "global", "translation": "عالمي" },
+{ "word": "kindergarten", "translation": "روضة أطفال" },
+{ "word": "expose", "translation": "يُعرّض (يُظهر شيئاً كان مخفياً)" },
+{ "word": "independently", "translation": "بشكل مستقل (بثقة وحرية)" },
+{ "word": "accustomed to", "translation": "معتاد على" },
+{ "word": "familiarity", "translation": "ألفة (معرفة جيدة)" },
+{ "word": "attitude", "translation": "موقف (طريقة التفكير والشعور)" },
+{ "word": "remarkable", "translation": "ملحوظ (غير عادي أو مدهش)" },
+{ "word": "achievement", "translation": "إنجاز" },
+{ "word": "vary", "translation": "يختلف (يتنوع)" },
+{ "word": "limited", "translation": "محدود" },
+{ "word": "process", "translation": "عملية (سلسلة من الخطوات)" },
+{ "word": "foreign", "translation": "أجنبي (من بلد آخر)" },
+{ "word": "recognize", "translation": "يتعرّف على (يدرك أن شيئاً موجود)" },
+{ "word": "transportation", "translation": "وسيلة نقل (مواصلات)" },
+{ "word": "illiterate", "translation": "أمي (لا يعرف القراءة والكتابة)" },
+{ "word": "ignorant", "translation": "جاهل (غير مثقف)" },
+{ "word": "technology", "translation": "تكنولوجيا (تقنية)" },
+{ "word": "develop", "translation": "يُطوّر (ينمي)" },
+{ "word": "opportunity", "translation": "فرصة (إمكانية)" },
+{ "word": "schedule", "translation": "جدول (برنامج زمني)" },
+{ "word": "decade", "translation": "عقد (فترة عشر سنوات)" },
+{ "word": "structure", "translation": "هيكل (تنظيم)" },
+{ "word": "imagine", "translation": "يتخيل (يتصور)" },
+{ "word": "solve", "translation": "يُحلّ (يجد حلاً)" },
+{ "word": "solution", "translation": "حل" },
+{ "word": "suggest", "translation": "يقترح" },
+{ "word": "adopt", "translation": "يتبنى (يستخدم طريقة معينة)" },
+{ "word": "bow", "translation": "ينحني (كعلامة احترام)" },
+{ "word": "unison", "translation": "بتناغم (بصوت واحد)" },
+{ "word": "respect", "translation": "احترام (تقدير)" },
+{ "word": "allow", "translation": "يسمح" },
+{ "word": "participate", "translation": "يشارك" },
+{ "word": "shift", "translation": "وردية (نوبة عمل)" },
+{ "word": "litter", "translation": "نفايات (مخلفات)" },
+{ "word": "wipe", "translation": "يمسح (ينظف)" },
+{ "word": "effective", "translation": "فعال (مؤثر)" },
+{ "word": "aware", "translation": "مدرك (واعٍ)" },
+{ "word": "surroundings", "translation": "محيط (بيئة)" },
+{ "word": "goal", "translation": "هدف" },
+{ "word": "career", "translation": "مهنة (مسار وظيفي)" },
+{ "word": "feature", "translation": "ميزة (خاصية)" },
+{ "word": "vehicle", "translation": "مركبة" },
+{ "word": "educator", "translation": "معلم (مربي)" },
+{ "word": "academic", "translation": "أكاديمي (دراسي)" },
+{ "word": "sightseeing", "translation": "جولة سياحية" },
+{ "word": "relatives", "translation": "أقارب" },
+{ "word": "vacation", "translation": "عطلة" },
+{ "word": "accompany", "translation": "يرافق" },
+{ "word": "nervous", "translation": "متوتر (قلق)" },
+{ "word": "excited", "translation": "متحمّس" },
+{ "word": "boil", "translation": "يغلي" },
+{ "word": "pasta", "translation": "معكرونة" },
+{ "word": "desert", "translation": "صحراء" },
+{ "word": "global warming", "translation": "الاحتباس الحراري" },
+{ "word": "graduate", "translation": "يتخرّج" },
+{ "word": "decision", "translation": "قرار" },
+{ "word": "prediction", "translation": "توقع" },
+{ "word": "evidence", "translation": "دليل (برهان)" },
+{ "word": "significant", "translation": "مهم / ذو دلالة" },
+{ "word": "enhance", "translation": "يعزّز / يحسّن" },
+{ "word": "evolve", "translation": "يتطوّر" },
+{ "word": "adapt", "translation": "يتكيّف" },
+{ "word": "transform", "translation": "يحوّل / يغيّر" },
+{ "word": "integrate", "translation": "يدمج" },
+{ "word": "interactive", "translation": "تفاعلي" },
+{ "word": "engage", "translation": "يشارك / ينخرط" },
+{ "word": "virtual", "translation": "افتراضي" },
+{ "word": "electronic", "translation": "إلكتروني" },
+{ "word": "designer", "translation": "مصمم" },
+{ "word": "concern", "translation": "قلق / اهتمام" },
+{ "word": "well-being", "translation": "رفاهية" },
+{ "word": "planner", "translation": "مخطط" },
+{ "word": "laboratory", "translation": "مختبر" },
+{ "word": "surf", "translation": "يتصفح (الإنترنت)" },
+{ "word": "screen", "translation": "شاشة" },
+{ "word": "discuss", "translation": "يناقش" },
+{ "word": "memorable", "translation": "لا يُنسى" },
+{ "word": "experience", "translation": "تجربة" },
+{ "word": "playground", "translation": "ساحة لعب" }
+],
+"tables": [
+{
+"title": "Simple Present Tense (المضارع البسيط)",
+"headers": ["Usage", "Example"],
+"rows": [
+["حقائق عامة", "Water boils at 100 degrees."],
+["عادات وروتين", "I drink coffee every morning."],
+["مع الفاعل المفرد (He/She/It)", "She reads a book every day."],
+["مع الفاعل الجمع (I/You/We/They)", "They play football on Friday."]
+],
+"explanation": "يستخدم المضارع البسيط للحقائق العامة والعادات والروتين. مع he, she, it نضيف s للفعل. للنفي نستخدم doesn't مع المفرد و don't مع الجمع. للسؤال نستخدم does مع المفرد و do مع الجمع.",
+"examples": "The level of Japanese education is high.\nPublic schools in Japan have classes five days a week.\nStudents wash their hands before entering the classroom."
+},
+{
+"title": "Present Progressive (المضارع المستمر)",
+"headers": ["Usage", "Example"],
+"rows": [
+["أحداث تحدث الآن", "The water is boiling now."],
+["أحداث مؤقتة", "I'm drinking too much coffee these days."]
+],
+"explanation": "يستخدم المضارع المستمر للأحداث التي تحدث في لحظة التحدث أو لأحداث مؤقتة. يتكون من فعل to be (am, is, are) + الفعل + ing.",
+"examples": "She is working at this moment.\nMom is making dinner now.\nHe is playing tennis now."
+},
+{
+"title": "Future Tense (will) - المستقبل بـ will",
+"headers": ["Usage", "Example"],
+"rows": [
+["قرارات لحظية", "I will help you."],
+["تنبؤات", "Global warming will cause more deserts."],
+["وعود", "I will call you tomorrow."]
+],
+"explanation": "يستخدم will للمستقبل في القرارات اللحظية والتنبؤات والوعود. النفي: won't. السؤال: will + الفاعل + المصدر.",
+"examples": "They will visit The National Museum next week.\nTeachers will have to face new facts.\nFlying vehicles will replace school buses."
+},
+{
+"title": "Future Tense (going to) - المستقبل بـ going to",
+"headers": ["Usage", "Example"],
+"rows": [
+["خطط مستقبلية", "He is going to spend his vacation in Lattakia."],
+["تنبؤات بناءً على دليل", "Look at those clouds! It's going to rain."]
+],
+"explanation": "يستخدم going to للخطط المستقبلية التي تم التخطيط لها مسبقاً، وللتنبؤات التي تعتمد على دليل واضح.",
+"examples": "He is going to spend his vacation in Lattakia next summer.\nHe is going to graduate next year."
+},
+{
+"title": "Subject & Object Questions (السؤال عن الفاعل والمفعول به)",
+"headers": ["Type", "Form", "Example"],
+"rows": [
+["Subject Question", "Who + verb (no auxiliary)", "Who uses modern technologies?"],
+["Object Question", "Wh- + auxiliary + subject + verb", "What do teachers and students use?"]
+],
+"explanation": "للسؤال عن الفاعل نستخدم Who بدون فعل مساعد، والفعل يبقى مفرداً (يضاف s). للسؤال عن المفعول به نستخدم Wh- مع الفعل المساعد والفاعل.",
+"examples": "Who uses modern technologies?\nWhat do teachers and students use?\nWhat does Hani want?"
+},
+{
+"title": "How often - السؤال عن التكرار",
+"headers": ["Question", "Answer"],
+"rows": [
+["How often do you go to school?", "I go to school five days a week."],
+["How often does she eat rice?", "She eats rice every day."]
+],
+"explanation": "نستخدم How often للسؤال عن عدد مرات حدوث الفعل (التكرار). الإجابة عادةً تحتوي على: once, twice, three times, every day, etc.",
+"examples": "How often do you go to school a week?\nHow often does she eat rice?"
+},
+{
+"title": "Adverbs of Frequency (ظروف التكرار)",
+"headers": ["Adverb", "Translation", "Example"],
+"rows": [
+["always", "دائماً", "I always go to school on time."],
+["usually", "عادةً", "We usually arrive on time."],
+["often", "غالباً", "I often play football."],
+["sometimes", "أحياناً", "I sometimes watch TV."],
+["never", "أبداً", "I never smoke."]
+],
+"explanation": "توضع ظروف التكرار قبل الفعل الرئيسي، وبعد فعل to be (am, is, are). تستخدم للتعبير عن عدد مرات حدوث الفعل.",
+"examples": "We usually arrive on time.\nShe never eats meat."
+},
+{
+"title": "Prepositions - حروف الجر المهمة",
+"headers": ["Preposition", "Usage", "Example"],
+"rows": [
+["of", "التعبير عن التكوين", "consists of (يتكون من)"],
+["from", "التعبير عن الاختلاف", "differs from (يختلف عن)"],
+["on", "التعبير عن الاعتماد", "rely on (يعتمد على)"],
+["at", "التعبير عن الوقت", "at six o'clock"],
+["in", "التعبير عن الأشهر / السنوات", "in April / in 2024"],
+["to", "التعبير عن الاتجاه", "go to school"]
+],
+"explanation": "حروف الجر تربط الكلمات في الجملة. بعض الأفعال تأتي مع حروف جر محددة ويجب حفظها كما هي.",
+"examples": "People rely on the river for their water.\nShe is good at English.\nHe goes to school every day."
+},
+{
+"title": "Relative Clauses (ضمائر الوصل)",
+"headers": ["Pronoun", "Usage", "Example"],
+"rows": [
+["which", "للأشياء (غير العاقل)", "Little kids go to a school which is called kindergarten."],
+["who", "للأشخاص (العاقل)", "The teacher who provided information."],
+["whom", "للأشخاص (مفعول به)", "The man whom I saw."],
+["whose", "للملكية", "The student whose book is lost."]
+],
+"explanation": "تستخدم ضمائر الوصل لربط جملتين. which للشيء، who للعاقل كفاعل، whom للعاقل كمفعول به، whose للملكية.",
+"examples": "Little kids go to a school which is called kindergarten.\nThe teacher was the only one who provided information."
+},
+{
+"title": "Quantifiers (much / many)",
+"headers": ["Quantifier", "Usage", "Example"],
+"rows": [
+["much", "للأسماء غير المعدودة", "I don't have much time."],
+["many", "للأسماء المعدودة (الجمع)", "How many books do you have?"]
+],
+"explanation": "نستخدم much مع الأسماء غير المعدودة (مثل: water, time, work). نستخدم many مع الأسماء المعدودة في صيغة الجمع (مثل: books, students, days).",
+"examples": "They have much work to do.\nHow many members does your family consist of?"
+},
+{
+"title": "Object Pronouns (ضمائر المفعول به)",
+"headers": ["Subject Pronoun", "Object Pronoun", "Example"],
+"rows": [
+["I", "me", "She loves me."],
+["you", "you", "I see you."],
+["he", "him", "She called him."],
+["she", "her", "He helped her."],
+["it", "it", "I like it."],
+["we", "us", "They told us."],
+["they", "them", "She saw them."]
+],
+"explanation": "ضمائر المفعول به تأتي بعد الفعل أو حرف الجر. تستخدم بدلاً من الاسم الذي وقع عليه الفعل.",
+"examples": "Their parents leave them there crying.\nShe gave it to me."
+},
+{
+"title": "Verb Forms (to + infinitive / gerund)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["to + infinitive", "بعد بعض الأفعال", "They begin to read and write."],
+["gerund (verb + ing)", "بعد بعض الأفعال", "When they start working..."],
+["to + infinitive", "للتعبير عن الغرض", "I go to school to learn."]
+],
+"explanation": "بعض الأفعال تتبعها to + infinitive (مثل: begin, want, prefer). بعض الأفعال تتبعها gerund (مثل: start, finish, enjoy).",
+"examples": "They begin to love the place.\nWhen they start working, they discover how lovely school life was."
+}
+]
+}

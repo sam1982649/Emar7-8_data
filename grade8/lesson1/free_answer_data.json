@@ -1,0 +1,84 @@
+{
+"questions": [
+{
+"question": "How did you feel when you went to school for the first time?",
+"translation": "كيف شعرت عندما ذهبت إلى المدرسة لأول مرة؟",
+"keywords": ["excited", "nervous", "happy", "scared", "worried"],
+"suggested_answers": [
+"I felt excited.",
+"I felt nervous.",
+"I felt happy.",
+"I felt scared.",
+"I felt worried."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Page 2 - Q3"
+},
+{
+"question": "Who accompanies you on your first day to school?",
+"translation": "من يرافقك في يومك الأول إلى المدرسة؟",
+"keywords": ["father", "mother", "parents", "brother", "sister"],
+"suggested_answers": [
+"My father accompanies me.",
+"My mother accompanies me.",
+"My parents accompany me.",
+"My brother accompanies me.",
+"My sister accompanies me."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Page 2 - Q2"
+},
+{
+"question": "How often do you go to school a week?",
+"translation": "كم مرة تذهب إلى المدرسة في الأسبوع؟",
+"keywords": ["five", "5", "days", "six", "6"],
+"suggested_answers": [
+"I go to school five days a week.",
+"I go to school 5 days a week.",
+"I go to school six days a week.",
+"I go to school 6 days a week."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Page 2 - Q1 (modified)"
+},
+{
+"question": "Where will you go tomorrow?",
+"translation": "أين ستذهب غداً؟",
+"keywords": ["school", "park", "friend", "house", "home"],
+"suggested_answers": [
+"I will go to school.",
+"I will go to the park.",
+"I will go to my friend's house.",
+"I will go home."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Page 2 - Q4 (modified)"
+},
+{
+"question": "What do you eat for breakfast?",
+"translation": "ماذا تأكل على الإفطار؟",
+"keywords": ["bread", "cheese", "eggs", "milk", "cereal"],
+"suggested_answers": [
+"I eat bread and cheese for breakfast.",
+"I eat eggs for breakfast.",
+"I drink milk for breakfast.",
+"I eat cereal for breakfast."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Page 2 - Q1 (modified)"
+},
+{
+"question": "Why do you go to school?",
+"translation": "لماذا تذهب إلى المدرسة؟",
+"keywords": ["learn", "study", "knowledge", "future", "education"],
+"suggested_answers": [
+"I go to school to learn new things.",
+"I go to school to study.",
+"I go to school to get knowledge.",
+"I go to school for my future."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Page 2 - Q4 (modified)"
+}
+]
+}

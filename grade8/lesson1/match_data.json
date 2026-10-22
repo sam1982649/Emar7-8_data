@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"title": "تمرين المطابقة ١ - متنوع",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "a major role in education" },
+{ "letter": "b", "text": "continually being improved and updated" },
+{ "letter": "c", "text": "good services for the guests" },
+{ "letter": "d", "text": "in Lattakia next summer" },
+{ "letter": "e", "text": "when combined with exercise" },
+{ "letter": "f", "text": "prefer their learning experience" }
+],
+"sentences": [
+{
+"start": "Modern technologies have played",
+"correct": "a",
+"full_sentence": "Modern technologies have played a major role in education",
+"translation": "لعبت التكنولوجيا الحديثة دوراً رئيسياً في التعليم",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Nowadays technologies are",
+"correct": "b",
+"full_sentence": "Nowadays technologies are continually being improved and updated",
+"translation": "يتم تحسين وتحديث التكنولوجيا في الوقت الحاضر بشكل مستمر",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "This hotel provides",
+"correct": "c",
+"full_sentence": "This hotel provides good services for the guests",
+"translation": "يقدم هذا الفندق خدمات جيدة للنزلاء",
+"source": "Student Book",
+"exact_reference": "Vocabulary Exercise"
+},
+{
+"start": "He is going to spend his vacation",
+"correct": "d",
+"full_sentence": "He is going to spend his vacation in Lattakia next summer",
+"translation": "سوف يقضي عطلته في اللاذقية الصيف القادم",
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "Diets are more effective",
+"correct": "e",
+"full_sentence": "Diets are more effective when combined with exercise",
+"translation": "تكون الحميات الغذائية أكثر فعالية عندما تُدمج مع التمارين الرياضية",
+"source": "Student Book",
+"exact_reference": "Vocabulary Exercise"
+}
+]
+},
+{
+"title": "تمرين المطابقة ٢ - متنوع",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "so you can put in the pasta" },
+{ "letter": "b", "text": "more deserts" },
+{ "letter": "c", "text": "themselves" },
+{ "letter": "d", "text": "experience new concepts" },
+{ "letter": "e", "text": "because I'm so busy at work" },
+{ "letter": "f", "text": "the good days of school life" }
+],
+"sentences": [
+{
+"start": "The water is boiling now",
+"correct": "a",
+"full_sentence": "The water is boiling now, so you can put in the pasta",
+"translation": "الماء يغلي الآن، لذا يمكنك وضع المعكرونة",
+"source": "Student Book",
+"exact_reference": "Grammar - Present Progressive"
+},
+{
+"start": "Global warming will cause",
+"correct": "b",
+"full_sentence": "Global warming will cause more deserts",
+"translation": "الاحتباس الحراري سوف يسبب المزيد من الصحاري",
+"source": "Student Book",
+"exact_reference": "Grammar - Future (will)"
+},
+{
+"start": "When children grow up, they do their work depending on",
+"correct": "c",
+"full_sentence": "When children grow up, they do their work depending on themselves",
+"translation": "عندما يكبر الأطفال، يقومون بأعمالهم اعتماداً على أنفسهم",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "At an early age, kids",
+"correct": "d",
+"full_sentence": "At an early age, kids experience new concepts",
+"translation": "في سن مبكرة، يواجه الأطفال مفاهيم جديدة",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "I'm not watching TV these days",
+"correct": "e",
+"full_sentence": "I'm not watching TV these days because I'm so busy at work",
+"translation": "أنا لا أشاهد التلفاز هذه الأيام لأنني مشغول جداً في العمل",
+"source": "Student Book",
+"exact_reference": "Grammar - Present Progressive (Negative)"
+}
+]
+}
+]
+}
