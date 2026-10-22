@@ -1,0 +1,125 @@
+{
+"questions": [
+{
+"id": "SB_G7_U12_C1",
+"original": "They went to the UK.",
+"targetWord": "the UK",
+"correctQuestion": "Where did they go?",
+"correctQuestions": [
+"Where did they go?"
+],
+"wh_word": "where",
+"auxiliary": "did",
+"subject": "they",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading (Diversity)"
+},
+{
+"id": "SB_G7_U12_C2",
+"original": "She will attend the meeting tomorrow.",
+"targetWord": "tomorrow",
+"correctQuestion": "When will she attend the meeting?",
+"correctQuestions": [
+"When will she attend the meeting?"
+],
+"wh_word": "when",
+"auxiliary": "will",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar (First Conditional)"
+},
+{
+"id": "SB_G7_U12_C3",
+"original": "Ali will graduate if he passes his test.",
+"targetWord": "Ali",
+"correctQuestion": "Who will graduate if he passes his test?",
+"correctQuestions": [
+"Who will graduate if he passes his test?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "ali",
+"subject_type": "name_male",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar (First Conditional)"
+},
+{
+"id": "AB_G7_U12_C4",
+"original": "John is from Germany.",
+"targetWord": "Germany",
+"correctQuestion": "Where is John from?",
+"correctQuestions": [
+"Where is John from?"
+],
+"wh_word": "where",
+"auxiliary": "is",
+"subject": "john",
+"subject_type": "name_male",
+"category": "Place",
+"acceptedAnswers": [
+"Where is he from?"
+],
+"source": "Activity Book",
+"exact_reference": "Listening (Wedding Customs)"
+},
+{
+"id": "AB_G7_U12_C5",
+"original": "I prefer to stay in a hotel when I travel abroad.",
+"targetWord": "in a hotel",
+"correctQuestion": "Where do you prefer to stay when you travel abroad?",
+"correctQuestions": [
+"Where do you prefer to stay when you travel abroad?"
+],
+"wh_word": "where",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "AB_G7_U12_C6",
+"original": "The tower was made of three sections.",
+"targetWord": "three sections",
+"correctQuestion": "How many sections was the tower made of?",
+"correctQuestions": [
+"How many sections was the tower made of?"
+],
+"wh_word": "how many",
+"auxiliary": "was",
+"subject": "the tower",
+"subject_type": "noun_thing",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading (The Lighthouse of Alexandria)"
+},
+{
+"id": "SB_G7_U12_C7",
+"original": "She will leave soon.",
+"targetWord": "soon",
+"correctQuestion": "When will she leave?",
+"correctQuestions": [
+"When will she leave?"
+],
+"wh_word": "when",
+"auxiliary": "will",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar (First Conditional)"
+}
+]
+}
