@@ -20,7 +20,7 @@
 {
 "id": "t1_q2",
 "question": "The level of Japanese education is ........ .",
-"options": ["low", "average", "high", "poor"],
+"options": ["low", "bad", "high", "poor"],
 "correct": 2,
 "type": "choice",
 "explanation": "✅ الإجابة الصحيحة: high\n📝 الترجمة: مستوى التعليم الياباني مرتفع.\n💡 الشرح: النص يقول: 'high, even by world standards'."
