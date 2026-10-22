@@ -1,0 +1,122 @@
+{
+"questions": [
+{
+"id": "SB_G7_U8_C1",
+"original": "Selfies are often shared on social media.",
+"targetWord": "on social media",
+"correctQuestion": "Where are selfies often shared?",
+"wh_word": "where",
+"auxiliary": "are",
+"subject": "selfies",
+"subject_type": "noun_plural",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 62"
+},
+{
+"id": "SB_G7_U8_C2",
+"original": "This Instagram shot was taken by Angela.",
+"targetWord": "Angela",
+"correctQuestion": "Who was this Instagram shot taken by?",
+"wh_word": "who",
+"auxiliary": "was",
+"subject": "this instagram shot",
+"subject_type": "noun_thing",
+"category": "Object",
+"acceptedAnswers": [
+"Who was this Instagram shot taken by?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 62"
+},
+{
+"id": "SB_G7_U8_C3",
+"original": "Kate saw a boy.",
+"targetWord": "a boy",
+"correctQuestion": "Who did Kate see?",
+"wh_word": "who",
+"auxiliary": "did",
+"subject": "kate",
+"subject_type": "name_female",
+"category": "Object",
+"acceptedAnswers": [
+"Who did she see?"
+],
+"source": "Student Book",
+"exact_reference": "Listening - Page 64"
+},
+{
+"id": "AB_G7_U8_C4",
+"original": "He needs a miracle to survive.",
+"targetWord": "a miracle",
+"correctQuestion": "What does he need to survive?",
+"wh_word": "what",
+"auxiliary": "does",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 53"
+},
+{
+"id": "AB_G7_U8_C5",
+"original": "The operation cost 2000 dollars.",
+"targetWord": "2000 dollars",
+"correctQuestion": "How much did the operation cost?",
+"wh_word": "how much",
+"auxiliary": "did",
+"subject": "the operation",
+"subject_type": "noun_thing",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 53"
+},
+{
+"id": "AB_G7_U8_C6",
+"original": "I wish our classroom weren't crowded.",
+"targetWord": "our classroom weren't crowded",
+"correctQuestion": "What do you wish?",
+"wh_word": "what",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 54"
+},
+{
+"id": "AB_G7_U8_C7",
+"original": "She couldn't leave work on time because she didn't complete the report.",
+"targetWord": "because she didn't complete the report",
+"correctQuestion": "Why couldn't she leave work on time?",
+"wh_word": "why",
+"auxiliary": "couldn't",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Listening - Page 56"
+},
+{
+"id": "AB_G7_U8_C8",
+"original": "Susan is about twenty-two.",
+"targetWord": "twenty-two",
+"correctQuestion": "How old is Susan?",
+"wh_word": "how old",
+"auxiliary": "is",
+"subject": "susan",
+"subject_type": "name_female",
+"category": "Quantity",
+"acceptedAnswers": [
+"How old is she?"
+],
+"source": "Activity Book",
+"exact_reference": "Listening - Page 56"
+}
+]
+}
