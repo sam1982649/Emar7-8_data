@@ -1,0 +1,134 @@
+{
+"questions": [
+{
+"id": "SB_G7_U7_C1",
+"original": "Titanic was carrying 2207 people.",
+"targetWord": "2207 people",
+"correctQuestion": "How many people was the Titanic carrying?",
+"wh_word": "how many",
+"auxiliary": "was",
+"subject": "the titanic",
+"subject_type": "noun_thing",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 54"
+},
+{
+"id": "SB_G7_U7_C2",
+"original": "Mrs. Tyler had been at hospital for one month.",
+"targetWord": "for one month",
+"correctQuestion": "How long had Mrs. Tyler been at hospital?",
+"wh_word": "how long",
+"auxiliary": "had",
+"subject": "mrs. tyler",
+"subject_type": "name_female",
+"category": "Duration",
+"acceptedAnswers": [
+"How long had she been at hospital?"
+],
+"source": "Student Book",
+"exact_reference": "Listening - Page 57"
+},
+{
+"id": "SB_G7_U7_C3",
+"original": "He found a ring in his garden yesterday.",
+"targetWord": "a ring",
+"correctQuestion": "What did he find in his garden yesterday?",
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Writing - Page 56"
+},
+{
+"id": "AB_G7_U7_C4",
+"original": "Frane Selak was born in Croatia.",
+"targetWord": "in Croatia",
+"correctQuestion": "Where was Frane Selak born?",
+"wh_word": "where",
+"auxiliary": "was",
+"subject": "frane selak",
+"subject_type": "name_male",
+"category": "Place",
+"acceptedAnswers": [
+"Where was he born?"
+],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 50"
+},
+{
+"id": "AB_G7_U7_C5",
+"original": "He was travelling by a train.",
+"targetWord": "by a train",
+"correctQuestion": "How was he travelling?",
+"wh_word": "how",
+"auxiliary": "was",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Manner",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 50"
+},
+{
+"id": "AB_G7_U7_C6",
+"original": "The bus fell into a river.",
+"targetWord": "into a river",
+"correctQuestion": "Where did the bus fall?",
+"wh_word": "where",
+"auxiliary": "did",
+"subject": "the bus",
+"subject_type": "noun_thing",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 50"
+},
+{
+"id": "AB_G7_U7_C7",
+"original": "After the guests had left, I went to bed.",
+"targetWord": "went to bed",
+"correctQuestion": "When did you go to bed?",
+"wh_word": "when",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 51"
+},
+{
+"id": "AB_G7_U7_C8",
+"original": "Athlete's breakfast contains carbohydrates.",
+"targetWord": "carbohydrates",
+"correctQuestion": "What does athlete's breakfast contain?",
+"wh_word": "what",
+"auxiliary": "does",
+"subject": "athlete's breakfast",
+"subject_type": "noun_thing",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Listening - Page 52"
+},
+{
+"id": "AB_G7_U7_C9",
+"original": "Athletes train their muscles to remember unlimited movements and skills.",
+"targetWord": "to remember unlimited movements and skills",
+"correctQuestion": "Why do athletes train their muscles?",
+"wh_word": "why",
+"auxiliary": "do",
+"subject": "athletes",
+"subject_type": "noun_plural",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Listening - Page 52"
+}
+]
+}
