@@ -1,0 +1,182 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة التحويل (Convert) - الدرس 9",
+"description": "تم استخراج أسئلة التحويل من مصادر الدرس (كتاب الطالب وكتاب النشاط) بناءً على القواعد النحوية الموجودة.",
+"applicable_to": "الدرس 9 - Great People",
+"search_sources": [
+"Student Book - Reading Text (Nora & Fatimah)",
+"Student Book - Grammar Exercises",
+"Activity Book - Reading Text (Ruben)",
+"Activity Book - Listening",
+"Activity Book - Grammar Exercises"
+],
+"grammar_focus": ["Simple Past", "Simple Present", "Future", "Modal Verbs", "Present Continuous"],
+"wh_words": ["Why", "What", "How", "Who", "How many", "When", "How long"],
+"auxiliary_verbs": ["did", "does", "should", "will", "can", "were", "are"],
+"special_cases": ["Time", "Quantity", "Ability", "Subject", "Manner", "Description", "Activity"],
+"selection_criteria": [
+"الجملة تحتوي على كلمة أو عبارة يمكن السؤال عنها",
+"الجملة مناسبة للتحويل إلى سؤال",
+"تنويع المصادر (Student Book + Activity Book)",
+"تنويع كلمات الاستفهام",
+"تنويع الأفعال المساعدة"
+],
+"applied_to_unit_9": {
+"grade": 7,
+"unit": 9,
+"title": "Great People",
+"total_questions": 8,
+"grammar_focus": ["Simple Past", "Simple Present", "Future", "Modal Verbs", "Present Continuous"],
+"wh_words_used": ["When", "How many", "What", "Who", "How"],
+"auxiliary_verbs_used": ["were", "did", "will", "could", "does", "was", "are"],
+"special_cases_covered": ["Time", "Quantity", "Ability", "Subject", "Manner", "Description", "Activity"],
+"sources_distribution": {
+"Student Book - Reading Text": 2,
+"Student Book - Grammar": 1,
+"Activity Book - Listening": 2,
+"Activity Book - Reading Text": 2,
+"Activity Book - Grammar": 1
+}
+}
+},
+"questions": [
+{
+"id": "SB_G7_U9_C1",
+"original": "I was born in 2005.",
+"targetWord": "in 2005",
+"correctQuestion": "When were you born?",
+"correctQuestions": [
+"When were you born?"
+],
+"wh_word": "when",
+"auxiliary": "were",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text (Nora)"
+},
+{
+"id": "SB_G7_U9_C2",
+"original": "I won three gold medals.",
+"targetWord": "three",
+"correctQuestion": "How many gold medals did you win?",
+"correctQuestions": [
+"How many gold medals did you win?"
+],
+"wh_word": "how many",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text (Nora)"
+},
+{
+"id": "SB_G7_U9_C3",
+"original": "Japan Olympics will be held in 2030.",
+"targetWord": "in 2030",
+"correctQuestion": "When will Japan Olympics be held?",
+"correctQuestions": [
+"When will Japan Olympics be held?"
+],
+"wh_word": "when",
+"auxiliary": "will",
+"subject": "japan olympics",
+"subject_type": "noun_thing",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text (Nora & Fatimah)"
+},
+{
+"id": "SB_G7_U9_C4",
+"original": "When I was 6 years old, I could speak English.",
+"targetWord": "English",
+"correctQuestion": "What could you speak when you were 6 years old?",
+"correctQuestions": [
+"What could you speak when you were 6 years old?"
+],
+"wh_word": "what",
+"auxiliary": "could",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G7_U9_C5",
+"original": "Paul and Marie plan to go walking together.",
+"targetWord": "Paul and Marie",
+"correctQuestion": "Who plans to go walking together?",
+"correctQuestions": [
+"Who plans to go walking together?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "paul and marie",
+"subject_type": "noun_plural",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Listening"
+},
+{
+"id": "AB_G7_U9_C6",
+"original": "Sami is happy.",
+"targetWord": "happy",
+"correctQuestion": "How does Sami feel?",
+"correctQuestions": [
+"How does Sami feel?"
+],
+"wh_word": "how",
+"auxiliary": "does",
+"subject": "sami",
+"subject_type": "name_male",
+"category": "Feeling",
+"acceptedAnswers": [
+"How does he feel?"
+],
+"source": "Activity Book",
+"exact_reference": "Listening"
+},
+{
+"id": "AB_G7_U9_C7",
+"original": "The restaurant was too noisy.",
+"targetWord": "too noisy",
+"correctQuestion": "What was the restaurant like?",
+"correctQuestions": [
+"What was the restaurant like?"
+],
+"wh_word": "what ... like",
+"auxiliary": "was",
+"subject": "the restaurant",
+"subject_type": "noun_thing",
+"category": "Description",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar B - Q4"
+},
+{
+"id": "AB_G7_U9_C8",
+"original": "I am making a film these days.",
+"targetWord": "a film",
+"correctQuestion": "What are you making these days?",
+"correctQuestions": [
+"What are you making these days?"
+],
+"wh_word": "what",
+"auxiliary": "are",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text (Ruben)"
+}
+]
+}
