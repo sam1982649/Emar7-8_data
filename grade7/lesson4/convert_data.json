@@ -1,0 +1,185 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة التحويل (Convert)",
+"description": "يتم استخراج أسئلة التحويل من جميع مصادر الدرس (النص، التمارين) بناءً على القواعد النحوية الموجودة في كل مصدر.",
+"applicable_to": "جميع الدروس (Unit 4)",
+"search_sources": [
+"Student Book - Reading Text (Beware of Hunger!)",
+"Student Book - Grammar Exercises",
+"Activity Book - Reading Text (The Lost Student)",
+"Activity Book - Grammar Exercises"
+],
+"grammar_focus": ["Past Progressive", "Simple Past", "Prepositions"],
+"wh_words": ["When", "What", "How", "Where", "Who"],
+"auxiliary_verbs": ["did", "were", "was"],
+"special_cases": ["Time", "Feeling", "Action", "Place", "Object", "Subject"],
+"selection_criteria": [
+"الجملة تحتوي على كلمة أو عبارة يمكن السؤال عنها",
+"الجملة مناسبة للتحويل إلى سؤال",
+"تنويع المصادر (Student Book + Activity Book)",
+"تنويع كلمات الاستفهام",
+"تنويع الأفعال المساعدة"
+],
+"applied_to_unit_4": {
+"grade": 7,
+"unit": 4,
+"title": "Unforgettable Experience",
+"total_questions": 8,
+"grammar_focus": "Past Progressive + Simple Past",
+"wh_words_used": ["When", "What", "How", "Where", "Who"],
+"auxiliary_verbs_used": ["did", "were", "was"],
+"special_cases_covered": ["Time", "Feeling", "Action", "Place", "Object", "Subject"],
+"sources_distribution": {
+"Student Book - Reading Text": 3,
+"Student Book - Grammar": 1,
+"Activity Book - Reading Text": 3,
+"Activity Book - Grammar": 1
+}
+}
+},
+"questions": [
+{
+"id": "SB_G7_U4_C1",
+"original": "I went on holiday to Scotland last year.",
+"targetWord": "last year",
+"correctQuestion": "When did you go on holiday to Scotland?",
+"correctQuestions": [
+"When did you go on holiday to Scotland?"
+],
+"wh_word": "when",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text - Line 1"
+},
+{
+"id": "SB_G7_U4_C2",
+"original": "We felt a little bit afraid.",
+"targetWord": "a little bit afraid",
+"correctQuestion": "How did you feel?",
+"correctQuestions": [
+"How did you feel?",
+"What did you feel?"
+],
+"wh_word": "how",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Feeling",
+"acceptedAnswers": [
+"What did you feel?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text - Part 2 - Line 2"
+},
+{
+"id": "SB_G7_U4_C3",
+"original": "We decided to go into the restaurant.",
+"targetWord": "to go into the restaurant",
+"correctQuestion": "What did you decide to do?",
+"correctQuestions": [
+"What did you decide to do?"
+],
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text - Part 2 - Line 3"
+},
+{
+"id": "SB_G7_U4_C4",
+"original": "Julie wasn't sleeping when you called her.",
+"targetWord": "wasn't sleeping",
+"correctQuestion": "What was Julie doing when you called her?",
+"correctQuestions": [
+"What was Julie doing when you called her?"
+],
+"wh_word": "what",
+"auxiliary": "was",
+"subject": "julie",
+"subject_type": "name_female",
+"category": "Object",
+"acceptedAnswers": [
+"What was she doing when you called her?"
+],
+"source": "Student Book",
+"exact_reference": "Grammar Exercise"
+},
+{
+"id": "AB_G7_U4_C5",
+"original": "Mike found a job on a farm.",
+"targetWord": "on a farm",
+"correctQuestion": "Where did Mike find a job?",
+"correctQuestions": [
+"Where did Mike find a job?"
+],
+"wh_word": "where",
+"auxiliary": "did",
+"subject": "mike",
+"subject_type": "name_male",
+"category": "Place",
+"acceptedAnswers": [
+"Where did he find a job?"
+],
+"source": "Activity Book",
+"exact_reference": "Reading Text - The Lost Student - Line 2"
+},
+{
+"id": "AB_G7_U4_C6",
+"original": "He spent the night in the forest.",
+"targetWord": "in the forest",
+"correctQuestion": "Where did he spend the night?",
+"correctQuestions": [
+"Where did he spend the night?"
+],
+"wh_word": "where",
+"auxiliary": "did",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - The Lost Student - Line 5"
+},
+{
+"id": "AB_G7_U4_C7",
+"original": "The rescue services used planes.",
+"targetWord": "planes",
+"correctQuestion": "What did the rescue services use?",
+"correctQuestions": [
+"What did the rescue services use?"
+],
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "the rescue services",
+"subject_type": "noun_plural",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - The Lost Student - Line 7"
+},
+{
+"id": "AB_G7_U4_C8",
+"original": "Helen was sleeping.",
+"targetWord": "Helen",
+"correctQuestion": "Who was sleeping?",
+"correctQuestions": [
+"Who was sleeping?"
+],
+"wh_word": "who",
+"auxiliary": "was",
+"subject": "helen",
+"subject_type": "name_female",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar Exercise"
+}
+]
+}
