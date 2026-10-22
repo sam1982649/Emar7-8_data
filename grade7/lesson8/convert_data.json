@@ -1,0 +1,197 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة التحويل (Convert)",
+"description": "يتم استخراج أسئلة التحويل من جميع مصادر الدرس (النص، التمارين) بناءً على القواعد النحوية الموجودة في كل مصدر.",
+"applicable_to": "جميع الدروس (Unit 8)",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Vocabulary Exercises",
+"Student Book - Grammar Exercises",
+"Activity Book - Reading Text",
+"Activity Book - Grammar Exercises"
+],
+"grammar_focus": ["Simple Past", "Simple Present", "Future", "Modal Verbs", "Present Perfect"],
+"wh_words": ["Why", "What", "How", "Who", "How many", "When", "How long"],
+"auxiliary_verbs": ["did", "does", "should", "will", "can"],
+"special_cases": ["Reason", "Object", "Subject", "Quantity", "Manner", "Time", "Duration"],
+"selection_criteria": [
+"الجملة تحتوي على كلمة أو عبارة يمكن السؤال عنها",
+"الجملة مناسبة للتحويل إلى سؤال",
+"تنويع المصادر (Student Book + Activity Book)",
+"تنويع كلمات الاستفهام",
+"تنويع الأفعال المساعدة"
+],
+"applied_to_unit_8": {
+"grade": 7,
+"unit": 8,
+"title": "The Valuable Nature",
+"total_questions": 9,
+"grammar_focus": "Simple Past, Simple Present, Future, Modal Verbs, Present Perfect",
+"wh_words_used": ["Why", "What", "How", "Who", "How many", "When", "How long"],
+"auxiliary_verbs_used": ["did", "does", "should", "will", "can"],
+"special_cases_covered": ["Reason", "Object", "Subject", "Quantity", "Manner", "Time", "Duration"],
+"sources_distribution": {
+"Student Book - Reading Text": 2,
+"Student Book - Vocabulary": 1,
+"Student Book - Grammar": 2,
+"Activity Book - Reading Text": 1,
+"Activity Book - Grammar": 3
+}
+}
+},
+"questions": [
+{
+"id": "SB_G7_U8_C1",
+"original": "People used herbs to cure their pain.",
+"targetWord": "to cure their pain",
+"correctQuestion": "Why did people use herbs?",
+"correctQuestions": [
+"Why did people use herbs?"
+],
+"wh_word": "why",
+"auxiliary": "did",
+"subject": "people",
+"subject_type": "noun_plural",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U8_C2",
+"original": "Aloe Vera also treats eye infections.",
+"targetWord": "eye infections",
+"correctQuestion": "What does Aloe Vera treat?",
+"correctQuestions": [
+"What does Aloe Vera treat?"
+],
+"wh_word": "what",
+"auxiliary": "does",
+"subject": "aloe vera",
+"subject_type": "noun_thing",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U8_C3",
+"original": "Cyclists should wear a helmet.",
+"targetWord": "a helmet",
+"correctQuestion": "What should cyclists wear?",
+"correctQuestions": [
+"What should cyclists wear?"
+],
+"wh_word": "what",
+"auxiliary": "should",
+"subject": "cyclists",
+"subject_type": "noun_plural",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Vocabulary Exercise"
+},
+{
+"id": "SB_G7_U8_C4",
+"original": "Kate enjoys English lessons at school.",
+"targetWord": "Kate",
+"correctQuestion": "Who enjoys English lessons at school?",
+"correctQuestions": [
+"Who enjoys English lessons at school?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "kate",
+"subject_type": "name_female",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar A - Q1"
+},
+{
+"id": "SB_G7_U8_C5",
+"original": "I have 6 lessons a day at school.",
+"targetWord": "6",
+"correctQuestion": "How many lessons do you have a day at school?",
+"correctQuestions": [
+"How many lessons do you have a day at school?"
+],
+"wh_word": "how many",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar B - Q4"
+},
+{
+"id": "AB_G7_U8_C6",
+"original": "He lived very happily.",
+"targetWord": "very happily",
+"correctQuestion": "How did he live?",
+"correctQuestions": [
+"How did he live?"
+],
+"wh_word": "how",
+"auxiliary": "did",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Manner",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text (Brave Little Tortoise)"
+},
+{
+"id": "AB_G7_U8_C7",
+"original": "I collected stamps last year.",
+"targetWord": "last year",
+"correctQuestion": "When did you collect stamps?",
+"correctQuestions": [
+"When did you collect stamps?"
+],
+"wh_word": "when",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar - Examples"
+},
+{
+"id": "AB_G7_U8_C8",
+"original": "I will buy a new jacket.",
+"targetWord": "a new jacket",
+"correctQuestion": "What will you buy?",
+"correctQuestions": [
+"What will you buy?"
+],
+"wh_word": "what",
+"auxiliary": "will",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar - Q6"
+},
+{
+"id": "AB_G7_U8_C9",
+"original": "A snail can sleep for three years.",
+"targetWord": "for three years",
+"correctQuestion": "How long can a snail sleep?",
+"correctQuestions": [
+"How long can a snail sleep?"
+],
+"wh_word": "how long",
+"auxiliary": "can",
+"subject": "a snail",
+"subject_type": "noun_thing",
+"category": "Duration",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Prepositions - Q4"
+}
+]
+}
