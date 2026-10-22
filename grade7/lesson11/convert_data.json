@@ -1,0 +1,140 @@
+{
+"questions": [
+{
+"id": "SB_G7_U11_C1",
+"original": "He gave the waiter a generous tip.",
+"targetWord": "a generous tip",
+"correctQuestion": "What did he give the waiter?",
+"correctQuestions": [
+"What did he give the waiter?"
+],
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Vocabulary Exercise"
+},
+{
+"id": "SB_G7_U11_C2",
+"original": "I will travel to Egypt with my parents.",
+"targetWord": "my parents",
+"correctQuestion": "Who will travel to Egypt with you?",
+"correctQuestions": [
+"Who will travel to Egypt with you?"
+],
+"wh_word": "who",
+"auxiliary": "will",
+"subject": "my parents",
+"subject_type": "noun_plural",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar Exercise"
+},
+{
+"id": "SB_G7_U11_C3",
+"original": "We will spend fifteen days in Egypt.",
+"targetWord": "fifteen days",
+"correctQuestion": "How many days will you spend in Egypt?",
+"correctQuestions": [
+"How many days will you spend in Egypt?"
+],
+"wh_word": "how many",
+"auxiliary": "will",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar Exercise"
+},
+{
+"id": "SB_G7_U11_C4",
+"original": "It's rainy today.",
+"targetWord": "rainy",
+"correctQuestion": "What is the weather like today?",
+"correctQuestions": [
+"What is the weather like today?"
+],
+"wh_word": "what ... like",
+"auxiliary": "is",
+"subject": "the weather",
+"subject_type": "noun_thing",
+"category": "Weather",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar Exercise"
+},
+{
+"id": "SB_G7_U11_C5",
+"original": "I would like a cup of tea.",
+"targetWord": "a cup of tea",
+"correctQuestion": "What would you like?",
+"correctQuestions": [
+"What would you like?"
+],
+"wh_word": "what",
+"auxiliary": "would",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar Exercise"
+},
+{
+"id": "AB_G7_U11_C6",
+"original": "She will have an accident because she drives so fast.",
+"targetWord": "because she drives so fast",
+"correctQuestion": "Why will she have an accident?",
+"correctQuestions": [
+"Why will she have an accident?"
+],
+"wh_word": "why",
+"auxiliary": "will",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar Exercise"
+},
+{
+"id": "AB_G7_U11_C7",
+"original": "Koreans use chopsticks to eat.",
+"targetWord": "chopsticks",
+"correctQuestion": "What do Koreans use to eat?",
+"correctQuestions": [
+"What do Koreans use to eat?"
+],
+"wh_word": "what",
+"auxiliary": "do",
+"subject": "koreans",
+"subject_type": "noun_plural",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Listening"
+},
+{
+"id": "AB_G7_U11_C8",
+"original": "Pinata is made of paper filled with sweets.",
+"targetWord": "paper",
+"correctQuestion": "What is Pinata made of?",
+"correctQuestions": [
+"What is Pinata made of?"
+],
+"wh_word": "what",
+"auxiliary": "is",
+"subject": "pinata",
+"subject_type": "noun_thing",
+"category": "Material",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Vocabulary"
+}
+]
+}
