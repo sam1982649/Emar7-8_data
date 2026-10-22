@@ -1,0 +1,207 @@
+{
+"metadata": {
+"grade": 8,
+"unit": 10,
+"title": "Creativity and Ambitions"
+},
+"texts": [
+{
+"id": "SB_G10_U10_T1_P1",
+"text_group": "G10_U10_How_to_Find_Your_Dreams_P1",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "How to Find out your own Dreams",
+"content_exam": "Some people believe that \"imagination\" is the best friend in discovering their dreams. But why are other people who have a good life, skills, education, and a good job unable to achieve their dreams? The answer is simple. They don't know what they want in their life. At best, they will be helping others in achieving their dreams. Having no big dreams may be a result of having endless excuses. Jessica De Bry says: \"Passion is your compelling emotion behind your dreams. Your feelings drive your passion. Purpose is the \"WHY\" behind it all. Purpose is the deep reason for your existence\".",
+"questions": [
+{
+"id": "g10_u10_t1_p1_q1",
+"question": "According to the passage, ........ is the best friend in discovering dreams.",
+"options": ["Education", "Imagination", "Skills", "Money"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Imagination\n📝 الترجمة: وفقاً للنص، الخيال هو أفضل صديق في اكتشاف الأحلام.\n💡 الشرح: النص يقول: 'imagination is the best friend in discovering their dreams'."
+},
+{
+"id": "g10_u10_t1_p1_q2",
+"question": "Some people are unable to achieve their dreams because they don't know ........ they want.",
+"options": ["who", "what", "where", "when"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: what\n📝 الترجمة: بعض الناس غير قادرين على تحقيق أحلامهم لأنهم لا يعرفون ماذا يريدون.\n💡 الشرح: النص يقول: 'They don't know what they want in their life'."
+},
+{
+"id": "g10_u10_t1_p1_q3",
+"question": "Having no big dreams may be a result of having endless ........ .",
+"options": ["excuses", "ideas", "skills", "goals"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: excuses\n📝 الترجمة: عدم وجود أحلام كبيرة قد يكون نتيجة وجود أعذار لا نهاية لها.\n💡 الشرح: النص يقول: 'Having no big dreams may be a result of having endless excuses'."
+},
+{
+"id": "g10_u10_t1_p1_q4",
+"question": "According to Jessica De Bry, ........ is the deep reason for your existence.",
+"options": ["Passion", "Purpose", "Imagination", "Investment"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Purpose\n📝 الترجمة: وفقاً لجيسيكا دي براي، الهدف هو السبب العميق لوجودك.\n💡 الشرح: النص يقول: 'Purpose is the deep reason for your existence'."
+},
+{
+"id": "g10_u10_t1_p1_q5",
+"question": "Jessica De Bry says that ........ is your compelling emotion behind your dreams.",
+"options": ["purpose", "imagination", "passion", "investment"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: passion\n📝 الترجمة: تقول جيسيكا دي براي أن الشغف هو عاطفتك الملحة وراء أحلامك.\n💡 الشرح: النص يقول: 'Passion is your compelling emotion behind your dreams'."
+}
+]
+},
+{
+"id": "SB_G10_U10_T1_P2",
+"text_group": "G10_U10_How_to_Find_Your_Dreams_P2",
+"part": 2,
+"type": "tf_choice",
+"source": "student_book",
+"source_text": "How to Find out your own Dreams",
+"content_exam": "The power of dreams lies in your investment in achieving that dream, and in having a strong reason \"why you want it\". The stronger the reason is, the stronger the chance to achieve your dream will be. A dream without passion means to quit when things get tough. Some people balance well between work, family and friends: \"Work-life balance\". They live their life, but they lose the track of their childhood and school dreams. If passionate people fail, they are convinced that they are one step closer to fulfilling their dreams. People who have passion for their dreams will go after them regardless of the challenges and obstacles they face. Their passion will keep them focused and on track.",
+"questions": [
+{
+"id": "g10_u10_t1_p2_q1",
+"question": "The stronger the reason is, the stronger the chance to achieve your dream will be.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: كلما كان السبب أقوى، كانت فرصة تحقيق حلمك أقوى.\n💡 الشرح: النص يقول: 'The stronger the reason is, the stronger the chance to achieve your dream will be'."
+},
+{
+"id": "g10_u10_t1_p2_q2",
+"question": "A dream without passion means to continue when things get tough.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: الحلم بدون شغف يعني الاستمرار عندما تصبح الأمور صعبة.\n💡 الشرح: النص يقول: 'A dream without passion means to quit when things get tough'."
+},
+{
+"id": "g10_u10_t1_p2_q3",
+"question": "Some people balance well between work, family and friends.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: بعض الناس يوازنون بشكل جيد بين العمل والأسرة والأصدقاء.\n💡 الشرح: النص يقول: 'Some people balance well between work, family and friends'."
+},
+{
+"id": "g10_u10_t1_p2_q4",
+"question": "What does passion keep people?",
+"type": "answer",
+"keywords": ["focused", "on track"],
+"correct": ["focused", "on track"],
+"explanation": "✅ الإجابة المتوقعة: focused and on track\n📝 الترجمة: ما الذي يفعله الشغف بالناس؟\n💡 الشرح: النص يقول: 'Their passion will keep them focused and on track'."
+},
+{
+"id": "g10_u10_t1_p2_q5",
+"question": "What does a dream without passion mean?",
+"type": "answer",
+"keywords": ["quit", "tough"],
+"correct": ["to quit when things get tough"],
+"explanation": "✅ الإجابة المتوقعة: to quit when things get tough\n📝 الترجمة: ماذا يعني الحلم بدون شغف؟\n💡 الشرح: النص يقول: 'A dream without passion means to quit when things get tough'."
+}
+]
+},
+{
+"id": "AB_G10_U10_T2_P1",
+"text_group": "G10_U10_A_Son_and_His_Father_P1",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "A Son and His Father",
+"content_exam": "One day a son came to his father for a piece of advice and said, \"Dad, I can't go on doing these lessons of football anymore. They have exhausted me, and the result doesn't change. It seems that it isn't destined for me to play football and I think my dream will never come true\". The father looked at his son with loving eyes and said, \"You know son, every person has a dream and a goal in his life. We have to fight for what we believe in. The easiest way is to quit when we feel that things get difficult. We want everything to be easy. This is how our dreams die, and the goals become unreachable.",
+"questions": [
+{
+"id": "g10_u10_t2_p1_q1",
+"question": "One day a son came to his father for a piece of ........ .",
+"options": ["money", "advice", "food", "help"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: advice\n📝 الترجمة: جاء ابن إلى والده ذات يوم للحصول على نصيحة.\n💡 الشرح: النص يقول: 'came to his father for a piece of advice'."
+},
+{
+"id": "g10_u10_t2_p1_q2",
+"question": "The son said he couldn't go on doing these ........ of football anymore.",
+"options": ["games", "matches", "lessons", "teams"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: lessons\n📝 الترجمة: قال الابن أنه لا يستطيع الاستمرار في دروس كرة القدم هذه.\n💡 الشرح: النص يقول: 'I can't go on doing these lessons of football anymore'."
+},
+{
+"id": "g10_u10_t2_p1_q3",
+"question": "The football lessons have ........ the son.",
+"options": ["excited", "exhausted", "encouraged", "inspired"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: exhausted\n📝 الترجمة: دروس كرة القدم أرهقت الابن.\n💡 الشرح: النص يقول: 'They have exhausted me'."
+},
+{
+"id": "g10_u10_t2_p1_q4",
+"question": "The father looked at his son with ........ eyes.",
+"options": ["angry", "sad", "loving", "tired"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: loving\n📝 الترجمة: نظر الأب إلى ابنه بعيون محبة.\n💡 الشرح: النص يقول: 'The father looked at his son with loving eyes'."
+},
+{
+"id": "g10_u10_t2_p1_q5",
+"question": "The father said that the easiest way is to ........ when things get difficult.",
+"options": ["fight", "quit", "believe", "dream"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: quit\n📝 الترجمة: قال الأب أن أسهل طريق هو الاستسلام عندما تصبح الأمور صعبة.\n💡 الشرح: النص يقول: 'The easiest way is to quit when we feel that things get difficult'."
+}
+]
+},
+{
+"id": "AB_G10_U10_T2_P2",
+"text_group": "G10_U10_A_Son_and_His_Father_P2",
+"part": 2,
+"type": "tf_choice",
+"source": "activity_book",
+"source_text": "A Son and His Father",
+"content_exam": "Gradually, life becomes a routine without depth and meaning. We wait for a new day to make our life different but new obstacles are placed in our path and we stop again. Then we are driven to despair because we couldn't manage to overcome our fears... My son, you only need to remember one thing: never give up and fight to the end. It doesn't matter that you have lost one battle and even dozens of battles. Life goes on! Your biggest enemies which are laziness, fear, doubt, indecision are hidden within yourself. Don't waste time. Remember that the present is your chance to plan for the future. Be a warrior of your dream, a knight of your goal and a soldier of your wishes!",
+"questions": [
+{
+"id": "g10_u10_t2_p2_q1",
+"question": "Life becomes a routine without depth and meaning.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: تصبح الحياة روتيناً بدون عمق ومعنى.\n💡 الشرح: النص يقول: 'life becomes a routine without depth and meaning'."
+},
+{
+"id": "g10_u10_t2_p2_q2",
+"question": "New obstacles are placed in our path and we keep moving forward.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: توضع عقبات جديدة في طريقنا ونستمر في المضي قدماً.\n💡 الشرح: النص يقول: 'new obstacles are placed in our path and we stop again'."
+},
+{
+"id": "g10_u10_t2_p2_q3",
+"question": "Your biggest enemies are hidden within yourself.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: أكبر أعدائك مخفية داخل نفسك.\n💡 الشرح: النص يقول: 'Your biggest enemies... are hidden within yourself'."
+},
+{
+"id": "g10_u10_t2_p2_q4",
+"question": "What does the father tell his son to remember?",
+"type": "answer",
+"keywords": ["never give up", "fight to the end"],
+"correct": ["never give up", "fight to the end"],
+"explanation": "✅ الإجابة المتوقعة: never give up and fight to the end\n📝 الترجمة: ماذا يقول الأب لابنه أن يتذكره؟\n💡 الشرح: النص يقول: 'never give up and fight to the end'."
+},
+{
+"id": "g10_u10_t2_p2_q5",
+"question": "What is your chance to plan for the future?",
+"type": "answer",
+"keywords": ["present"],
+"correct": ["the present"],
+"explanation": "✅ الإجابة المتوقعة: the present\n📝 الترجمة: ما هي فرصتك للتخطيط للمستقبل؟\n💡 الشرح: النص يقول: 'the present is your chance to plan for the future'."
+}
+]
+}
+]
+}

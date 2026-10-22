@@ -1,0 +1,331 @@
+{
+"methodology": {
+"title": "ملف شرح القواعد والمفردات (Explain) - الدرس 10",
+"description": "يحتوي على شرح جميع المفردات الجديدة من الدرس 10، وجداول القواعد النحوية التي وردت في الدرس، إضافة إلى قواعد التحويل إلى سؤال.",
+"applicable_to": "Unit 10 - Creativity and Ambitions",
+"search_sources": [
+"Student Book - Unit Plan & Quotes",
+"Student Book - Key Words",
+"Student Book - Reading Text",
+"Student Book - Grammar",
+"Student Book - Pronunciation",
+"Student Book - Listening",
+"Student Book - Writing",
+"Student Book - Focus on (Chemistry)",
+"Activity Book - Key Words",
+"Activity Book - Reading Text",
+"Activity Book - Grammar",
+"Activity Book - Listening",
+"Activity Book - Writing",
+"Activity Book - Vocabulary"
+]
+},
+"vocabulary": [
+{ "word": "abroad", "translation": "في الخارج" },
+{ "word": "achieve", "translation": "يحقق" },
+{ "word": "admire", "translation": "يعجب بـ" },
+{ "word": "advice", "translation": "نصيحة" },
+{ "word": "aluminum", "translation": "ألومنيوم" },
+{ "word": "ambitions", "translation": "طموحات" },
+{ "word": "aunt", "translation": "عمة / خالة" },
+{ "word": "balance", "translation": "يتوازن" },
+{ "word": "battle", "translation": "معركة" },
+{ "word": "believe in", "translation": "يؤمن بـ" },
+{ "word": "Cairo", "translation": "القاهرة" },
+{ "word": "calcium", "translation": "كالسيوم" },
+{ "word": "Cambridge", "translation": "كامبريدج" },
+{ "word": "carbon", "translation": "كربون" },
+{ "word": "cardiac", "translation": "قلبي" },
+{ "word": "chain of hope", "translation": "سلسلة الأمل" },
+{ "word": "challenge", "translation": "تحدي" },
+{ "word": "challenges", "translation": "تحديات" },
+{ "word": "change", "translation": "يتغير" },
+{ "word": "charity", "translation": "جمعية خيرية" },
+{ "word": "chemical", "translation": "كيميائي" },
+{ "word": "childhood", "translation": "طفولة" },
+{ "word": "children", "translation": "أطفال" },
+{ "word": "chlorine", "translation": "كلور" },
+{ "word": "cinema", "translation": "سينما" },
+{ "word": "clothes", "translation": "ملابس" },
+{ "word": "company", "translation": "شركة" },
+{ "word": "compel", "translation": "يلزم / يجبر" },
+{ "word": "compelling", "translation": "ملح / مقنع" },
+{ "word": "consonants", "translation": "حروف ساكنة" },
+{ "word": "convinced", "translation": "مقتنع" },
+{ "word": "copper", "translation": "نحاس" },
+{ "word": "couch", "translation": "أريكة" },
+{ "word": "creativity", "translation": "إبداع" },
+{ "word": "depth", "translation": "عمق" },
+{ "word": "despair", "translation": "يأس" },
+{ "word": "destined", "translation": "مقدر" },
+{ "word": "destined for", "translation": "مقدر له" },
+{ "word": "determination", "translation": "عزيمة" },
+{ "word": "dialogue", "translation": "حوار" },
+{ "word": "discovering", "translation": "اكتشاف" },
+{ "word": "double-sound", "translation": "صوت مزدوج" },
+{ "word": "doubt", "translation": "شك" },
+{ "word": "dozen", "translation": "عشرات" },
+{ "word": "education", "translation": "تعليم" },
+{ "word": "Egypt", "translation": "مصر" },
+{ "word": "elements", "translation": "عناصر" },
+{ "word": "emotion", "translation": "عاطفة" },
+{ "word": "endless", "translation": "لا نهاية له" },
+{ "word": "entrance", "translation": "دخول / قبول" },
+{ "word": "examination", "translation": "امتحان" },
+{ "word": "excuses", "translation": "أعذار" },
+{ "word": "exhausted", "translation": "مرهق" },
+{ "word": "existence", "translation": "وجود" },
+{ "word": "failure", "translation": "فشل" },
+{ "word": "famous", "translation": "مشهور" },
+{ "word": "fashionable", "translation": "عصري" },
+{ "word": "favourite", "translation": "مفضل" },
+{ "word": "fears", "translation": "مخاوف" },
+{ "word": "Federal", "translation": "اتحادي" },
+{ "word": "fight", "translation": "يقاتل" },
+{ "word": "focused", "translation": "مركز" },
+{ "word": "football", "translation": "كرة قدم" },
+{ "word": "French", "translation": "فرنسي" },
+{ "word": "fulfil", "translation": "يحقق" },
+{ "word": "fulfilment", "translation": "تحقيق" },
+{ "word": "fulfilling", "translation": "تحقيق" },
+{ "word": "future", "translation": "مستقبل" },
+{ "word": "general relativity", "translation": "النسبية العامة" },
+{ "word": "give up", "translation": "يستسلم" },
+{ "word": "goal", "translation": "هدف" },
+{ "word": "goes to", "translation": "يذهب إلى" },
+{ "word": "gold", "translation": "ذهب" },
+{ "word": "hair", "translation": "شعر" },
+{ "word": "heart", "translation": "قلب" },
+{ "word": "hydrogen", "translation": "هيدروجين" },
+{ "word": "imagination", "translation": "خيال" },
+{ "word": "indecision", "translation": "تردد" },
+{ "word": "inspire", "translation": "يلهم" },
+{ "word": "invest", "translation": "يستثمر" },
+{ "word": "investment", "translation": "استثمار" },
+{ "word": "iron", "translation": "حديد" },
+{ "word": "Jordan", "translation": "الأردن" },
+{ "word": "juice", "translation": "عصير" },
+{ "word": "knight", "translation": "فارس" },
+{ "word": "Latin", "translation": "لاتيني" },
+{ "word": "laziness", "translation": "كسل" },
+{ "word": "lesson", "translation": "درس" },
+{ "word": "London", "translation": "لندن" },
+{ "word": "looked at", "translation": "نظر إلى" },
+{ "word": "lose the track", "translation": "يفقد المسار" },
+{ "word": "lovely", "translation": "جميل" },
+{ "word": "meaning", "translation": "معنى" },
+{ "word": "medals", "translation": "ميداليات" },
+{ "word": "medical field", "translation": "المجال الطبي" },
+{ "word": "New Zealand", "translation": "نيوزيلندا" },
+{ "word": "Nobel Prize", "translation": "جائزة نوبل" },
+{ "word": "obstacles", "translation": "عقبات" },
+{ "word": "on track", "translation": "على المسار الصحيح" },
+{ "word": "operate", "translation": "يجري عملية" },
+{ "word": "overcome", "translation": "يتغلب على" },
+{ "word": "oxygen", "translation": "أكسجين" },
+{ "word": "paintings", "translation": "لوحات فنية" },
+{ "word": "passing score", "translation": "درجة النجاح" },
+{ "word": "passion", "translation": "شغف" },
+{ "word": "photo", "translation": "صورة" },
+{ "word": "Physics", "translation": "فيزياء" },
+{ "word": "pioneer", "translation": "رائد" },
+{ "word": "plan", "translation": "يخطط" },
+{ "word": "Polytechnic", "translation": "بوليتكنيك" },
+{ "word": "present", "translation": "حاضر" },
+{ "word": "prizes", "translation": "جوائز" },
+{ "word": "progress", "translation": "تقدم" },
+{ "word": "pronunciation", "translation": "نطق" },
+{ "word": "purpose", "translation": "هدف / غاية" },
+{ "word": "quit", "translation": "يستسلم / يترك" },
+{ "word": "radio programme", "translation": "برنامج إذاعي" },
+{ "word": "regardless of", "translation": "بغض النظر عن" },
+{ "word": "result", "translation": "نتيجة" },
+{ "word": "retired", "translation": "تقاعد" },
+{ "word": "routine", "translation": "روتين" },
+{ "word": "running", "translation": "جري" },
+{ "word": "scientists", "translation": "علماء" },
+{ "word": "setbacks", "translation": "نكسات" },
+{ "word": "silver", "translation": "فضة" },
+{ "word": "skills", "translation": "مهارات" },
+{ "word": "soldier", "translation": "جندي" },
+{ "word": "subjects", "translation": "مواد دراسية" },
+{ "word": "success", "translation": "نجاح" },
+{ "word": "surgeon", "translation": "جراح" },
+{ "word": "swimming", "translation": "سباحة" },
+{ "word": "Swiss", "translation": "سويسري" },
+{ "word": "symbol", "translation": "رمز" },
+{ "word": "teacher", "translation": "معلم" },
+{ "word": "teenagers", "translation": "مراهقون" },
+{ "word": "theory", "translation": "نظرية" },
+{ "word": "top model", "translation": "عارضة أزياء" },
+{ "word": "tough", "translation": "صعب" },
+{ "word": "types of sentences", "translation": "أنواع الجمل" },
+{ "word": "videogames", "translation": "ألعاب فيديو" },
+{ "word": "warrior", "translation": "محارب" },
+{ "word": "well-known", "translation": "مشهور" },
+{ "word": "went on", "translation": "استمر" },
+{ "word": "writer", "translation": "كاتب" },
+{ "word": "Zurich", "translation": "زيورخ" }
+],
+"tables": [
+{
+"title": "Question Tags - القاعدة الرئيسية للدرس",
+"headers": ["القاعدة", "الشرح", "المثال"],
+"rows": [
+["الجملة المثبتة + سؤال منفي", "عندما تكون الجملة مثبتة، نستخدم سؤالاً منفياً", "Jack is from Spain, isn't he?"],
+["الجملة المنفية + سؤال مثبت", "عندما تكون الجملة منفية، نستخدم سؤالاً مثبتاً", "They aren't funny, are they?"],
+["المضارع البسيط (do / does)", "في المضارع البسيط نستخدم do / does", "You play the guitar, don't you?"],
+["الماضي البسيط (did)", "في الماضي البسيط نستخدم did", "They went to the cinema, didn't they?"],
+["المضارع التام (have / has)", "في المضارع التام نستخدم have / has", "They've drunk all the juice, haven't they?"],
+["الأفعال الناقصة (can, will, etc.)", "نستخدم نفس الفعل المساعد", "Mary can speak English, can't she?"]
+],
+"explanation": "نستخدم Question Tags لتأكيد المعلومات أو طلب الموافقة. تتكون من فعل مساعد وضمير. إذا كانت الجملة مثبتة، يكون السؤال منفياً، والعكس صحيح.",
+"examples": "Jack is from Spain, isn't he? / They aren't funny, are they? / You play the guitar, don't you? / They went to the cinema, didn't they? / They've drunk all the juice, haven't they? / Mary can speak English, can't she?"
+},
+{
+"title": "Superlative Adjectives (صفات التفضيل)",
+"headers": ["القاعدة", "الشرح", "المثال"],
+"rows": [
+["صفات قصيرة (مقطع واحد)", "نضيف -est", "good → best"],
+["صفات تنتهي بـ -y", "نغير y إلى i ونضيف -est", "easy → easiest"]
+],
+"explanation": "نستخدم صفات التفضيل للمقارنة بين أكثر من اثنين. نضيف -est للصفات القصيرة، ونستخدم the قبلها.",
+"examples": "Imagination is the best friend in discovering dreams. / The easiest way is to quit."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["حرف الجر", "الاستخدام", "المثال"],
+"rows": [
+["of", "للتعبير عن المحتوى أو النقص", "a result of, a piece of, regardless of"],
+["for", "للتعبير عن السبب أو الغرض", "destined for, fight for"],
+["in", "للتعبير عن المكان أو المجال", "investment in"]
+],
+"explanation": "حروف الجر تربط الأسماء بالجملة. بعض الأفعال تأتي مع حروف جر محددة ويجب حفظها.",
+"examples": "a result of / a piece of / regardless of / destined for / fight for / investment in"
+},
+{
+"title": "Passive Voice (المبني للمجهول)",
+"headers": ["الزمن", "الشرح", "المثال"],
+"rows": [
+["المضارع البسيط", "am/is/are + past participle", "New obstacles are placed in our path."],
+["الماضي البسيط", "was/were + past participle", "They are convinced that they are closer."]
+],
+"explanation": "نستخدم المبني للمجهول عندما يكون الفاعل هو المتلقي للفعل وليس الفاعل.",
+"examples": "New obstacles are placed in our path. / They are convinced that they are closer."
+},
+{
+"title": "Object Pronouns (ضمائر المفعول)",
+"headers": ["ضمير الفاعل", "ضمير المفعول", "المعنى"],
+"rows": [
+["I", "me", "ني / ياء المتكلم"],
+["you", "you", "ك / كِ"],
+["he", "him", "ه / إياه"],
+["she", "her", "ها / إياها"],
+["it", "it", "ه (لغير العاقل)"],
+["we", "us", "نا / إيانا"],
+["they", "them", "هم / إياهم"]
+],
+"explanation": "نستخدم ضمائر المفعول بعد الفعل أو بعد حروف الجر.",
+"examples": "His earlier setbacks did not stop him from winning the Nobel Prize. / It isn't destined for me to play football."
+},
+{
+"title": "Simple Present (المضارع البسيط)",
+"headers": ["الضمير", "الشرح", "المثال"],
+"rows": [
+["I / You / We / They", "الفعل بدون s", "Scientists often use the Latin name."],
+["He / She / It", "الفعل + s", "She goes to school by bus."]
+],
+"explanation": "نستخدم المضارع البسيط للتعبير عن حقائق عامة أو عادات.",
+"examples": "Scientists often use the Latin name of an element to create its symbol. / She goes to school by bus."
+},
+{
+"title": "Simple Past (الماضي البسيط)",
+"headers": ["التركيب", "الشرح", "المثال"],
+"rows": [
+["الفعل في الماضي (V2)", "للتعبير عن حدث وقع وانتهى في الماضي", "They went to the cinema."]
+],
+"explanation": "نستخدم الماضي البسيط للتعبير عن أحداث وقعت وانتهت في الماضي.",
+"examples": "They went to the cinema."
+},
+{
+"title": "Present Perfect (المضارع التام)",
+"headers": ["التركيب", "الشرح", "المثال"],
+"rows": [
+["have/has + past participle", "للتعبير عن حدث بدأ في الماضي واستمر للحاضر", "They've drunk all the juice."],
+["have/has + past participle", "للتعبير عن حدث وقع في الماضي بدون تحديد وقت", "He hasn't eaten all the cake."]
+],
+"explanation": "نستخدم المضارع التام للتعبير عن أحداث بدأت في الماضي ولها علاقة بالحاضر.",
+"examples": "They've drunk all the juice. / He hasn't eaten all the cake."
+},
+{
+"title": "Modal Verbs (الأفعال الناقصة)",
+"headers": ["الفعل الناقص", "الاستخدام", "المثال"],
+"rows": [
+["can", "للتعبير عن القدرة", "Mary can speak English."],
+["could", "للتعبير عن القدرة في الماضي", "Years ago, we could run fast."],
+["will", "للتعبير عن المستقبل", "She will come."],
+["should", "للتعبير عن النصيحة", "I should go now."]
+],
+"explanation": "الأفعال الناقصة تستخدم للتعبير عن القدرة، النصيحة، المستقبل، وغيرها. لا تتغير مع الضمائر.",
+"examples": "Mary can speak English. / Years ago, we could run fast. / She will come. / I should go now."
+},
+{
+"title": "Adverbs (الحال)",
+"headers": ["النوع", "الاستخدام", "المثال"],
+"rows": [
+["well", "يصف الفعل (كيف)", "Some people balance well between work, family and friends."]
+],
+"explanation": "بعد الفعل نستخدم حال (well) وليس صفة (good).",
+"examples": "Some people balance well between work, family and friends."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["أداة الربط", "الاستخدام", "المثال"],
+"rows": [
+["because", "للتعبير عن السبب", "We are driven to despair because we couldn't manage to overcome our fears."]
+],
+"explanation": "تستخدم أدوات الربط لربط الجمل. 'because' تستخدم لبيان السبب.",
+"examples": "We are driven to despair because we couldn't manage to overcome our fears."
+},
+{
+"title": "Phrasal Verbs (الأفعال المركبة)",
+"headers": ["الفعل المركب", "المعنى", "المثال"],
+"rows": [
+["give up", "يستسلم", "You shouldn't give up so easily."],
+["look at", "ينظر إلى", "They looked at each other and smiled."],
+["believe in", "يؤمن بـ", "Believe in yourself."],
+["go on", "يستمر", "My father went on working until he was 70."],
+["go to", "يذهب إلى", "She goes to school by bus."],
+["destined for", "مقدر له", "John is destined for a medical career."]
+],
+"explanation": "الأفعال المركبة هي أفعال تتكون من فعل + حرف جر أو ظرف، ويكون لها معنى خاص.",
+"examples": "give up / look at / believe in / go on / go to / destined for"
+},
+{
+"title": "Question Words (كلمات الاستفهام) - من Convert",
+"headers": ["كلمة الاستفهام", "الاستخدام", "المثال"],
+"rows": [
+["What", "للسؤال عن الشيء", "What do you want to be?"],
+["Where", "للسؤال عن المكان", "Where does she live?"],
+["How", "للسؤال عن الحالة", "How are you?"],
+["How long", "للسؤال عن المدة", "How long have they been working there?"],
+["Who", "للسؤال عن الفاعل", "Who could run fast?"]
+],
+"explanation": "تستخدم كلمات الاستفهام لتكوين الأسئلة. نختار كلمة الاستفهام حسب ما نريد السؤال عنه.",
+"examples": "What do you want to be? / Where does she live? / How are you? / How long have they been working there? / Who could run fast?"
+},
+{
+"title": "Derivation (الاشتقاقات)",
+"headers": ["الفعل (Verb)", "الاسم (Noun)", "الصفة (Adjective)", "المعنى"],
+"rows": [
+["exist", "existence", "existing", "وجود / موجود"],
+["invest", "investment", "investing", "يستثمر / استثمار"],
+["fulfil", "fulfilment", "fulfilled", "يحقق / تحقيق"],
+["achieve", "achievement", "achievable", "يحقق / إنجاز / ممكن التحقيق"],
+["educate", "education", "educational", "يعلم / تعليم / تعليمي"]
+],
+"explanation": "الاشتقاق هو تحويل الكلمة من صيغة إلى أخرى (فعل إلى اسم، اسم إلى صفة، إلخ) بإضافة لاحقات. يساعد فهم الاشتقاقات في معرفة معاني الكلمات الجديدة وتوسيع المفردات.",
+"examples": "exist → existence (اسم) → existing (صفة) / invest → investment (اسم) → investing (صفة) / fulfil → fulfilment (اسم) → fulfilled (صفة) / achieve → achievement (اسم) → achievable (صفة) / educate → education (اسم) → educational (صفة)"
+}
+]
+}

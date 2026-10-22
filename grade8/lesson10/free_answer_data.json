@@ -1,0 +1,111 @@
+{
+"metadata": {
+"grade": 8,
+"unit": 10,
+"title": "Creativity and Ambitions"
+},
+"questions": [
+{
+"id": "SB_G10_U10_F1",
+"question": "What is your dream?",
+"translation": "ما هو حلمك؟",
+"keywords": ["dream", "future", "goal", "ambition"],
+"suggested_answers": [
+"My dream is to become a successful doctor.",
+"My dream is to be a famous writer.",
+"My dream is to travel around the world.",
+"My dream is to start my own business."
+],
+"wh_word": "What",
+"auxiliary": "is",
+"category": "Dreams/Goals",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G10_U10_F2",
+"question": "What do you have to do to achieve your dream?",
+"translation": "ماذا يجب أن تفعل لتحقيق حلمك؟",
+"keywords": ["achieve", "dream", "work hard", "study", "plan"],
+"suggested_answers": [
+"I have to work hard and study well.",
+"I have to believe in myself and never give up.",
+"I have to make a plan and follow it.",
+"I have to stay focused and work every day."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Dreams/Goals",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G10_U10_F3",
+"question": "Who do you think can help you to achieve your dream?",
+"translation": "من تعتقد أنه يمكنه مساعدتك لتحقيق حلمك؟",
+"keywords": ["help", "achieve", "dream", "parents", "teachers", "friends"],
+"suggested_answers": [
+"My parents can help me.",
+"My teachers can help me.",
+"My friends can help me.",
+"My family can help me."
+],
+"wh_word": "Who",
+"auxiliary": "do",
+"category": "Help",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G10_U10_F4",
+"question": "What languages can you speak?",
+"translation": "ما هي اللغات التي تستطيع التحدث بها؟",
+"keywords": ["languages", "speak", "Arabic", "English", "French"],
+"suggested_answers": [
+"I can speak Arabic and English.",
+"I can speak Arabic, English, and French.",
+"I can speak Arabic only.",
+"I can speak Arabic and Spanish."
+],
+"wh_word": "What",
+"auxiliary": "can",
+"category": "Languages",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G10_U10_F5",
+"question": "Which musical instrument can you play?",
+"translation": "أي آلة موسيقية يمكنك العزف عليها؟",
+"keywords": ["musical", "instrument", "play", "piano", "guitar", "violin"],
+"suggested_answers": [
+"I can play the piano.",
+"I can play the guitar.",
+"I can play the violin.",
+"I can play the drums."
+],
+"wh_word": "Which",
+"auxiliary": "can",
+"category": "Music",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G10_U10_F6",
+"question": "What do you usually drink in hot weather?",
+"translation": "ماذا تشرب عادة في الطقس الحار؟",
+"keywords": ["drink", "hot weather", "water", "juice", "lemonade"],
+"suggested_answers": [
+"I usually drink water.",
+"I usually drink juice.",
+"I usually drink lemonade.",
+"I usually drink cold drinks."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Drinks",
+"source": "Student Book",
+"exact_reference": "Speaking"
+}
+]
+}

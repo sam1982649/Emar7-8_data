@@ -1,0 +1,121 @@
+{
+"metadata": {
+"grade": 8,
+"unit": 10,
+"title": "Creativity and Ambitions"
+},
+"groups": [
+{
+"id": "SB_G10_U10_M1",
+"title": "Match A with B to complete the sentences",
+"source": "Student Book",
+"text_group": "G10_U10_Listening_Writing",
+"options": [
+{ "letter": "a", "text": "long straight brown hair." },
+{ "letter": "b", "text": "fashionable clothes." },
+{ "letter": "c", "text": "are Math, Science and English." },
+{ "letter": "d", "text": "watching TV or playing with videogames." },
+{ "letter": "e", "text": "failure in progress." },
+{ "letter": "f", "text": "general relativity." }
+],
+"sentences": [
+{
+"start": "Her favourite subjects",
+"correct": "c",
+"full_sentence": "Her favourite subjects are Math, Science and English.",
+"translation": "موادها المفضلة هي الرياضيات والعلوم واللغة الإنجليزية.",
+"source": "Student Book",
+"exact_reference": "Listening"
+},
+{
+"start": "She has got",
+"correct": "a",
+"full_sentence": "She has got long straight brown hair.",
+"translation": "لديها شعر بني طويل مستقيم.",
+"source": "Student Book",
+"exact_reference": "Listening"
+},
+{
+"start": "She likes wearing",
+"correct": "b",
+"full_sentence": "She likes wearing fashionable clothes.",
+"translation": "تحب ارتداء الملابس العصرية.",
+"source": "Student Book",
+"exact_reference": "Listening"
+},
+{
+"start": "She doesn't like",
+"correct": "d",
+"full_sentence": "She doesn't like watching TV or playing with videogames.",
+"translation": "لا تحب مشاهدة التلفاز أو اللعب بألعاب الفيديو.",
+"source": "Student Book",
+"exact_reference": "Listening"
+},
+{
+"start": "Success is",
+"correct": "e",
+"full_sentence": "Success is failure in progress.",
+"translation": "النجاح هو فشل في التقدم.",
+"source": "Student Book",
+"exact_reference": "Writing"
+}
+]
+},
+{
+"id": "AB_G10_U10_M1",
+"title": "Match column A with B",
+"source": "Activity Book",
+"text_group": "G10_U10_A_Son_and_His_Father",
+"options": [
+{ "letter": "a", "text": "to be easy." },
+{ "letter": "b", "text": "a knight of your goal." },
+{ "letter": "c", "text": "a dream and a goal." },
+{ "letter": "d", "text": "what you believe in." },
+{ "letter": "e", "text": "or you'll never succeed." },
+{ "letter": "f", "text": "have lost one battle." }
+],
+"sentences": [
+{
+"start": "Every person in life has",
+"correct": "c",
+"full_sentence": "Every person in life has a dream and a goal.",
+"translation": "كل شخص في الحياة لديه حلم وهدف.",
+"source": "Activity Book",
+"exact_reference": "Reading"
+},
+{
+"start": "You have to fight for",
+"correct": "d",
+"full_sentence": "You have to fight for what you believe in.",
+"translation": "عليك أن تقاتل من أجل ما تؤمن به.",
+"source": "Activity Book",
+"exact_reference": "Reading"
+},
+{
+"start": "We want everything",
+"correct": "a",
+"full_sentence": "We want everything to be easy.",
+"translation": "نريد كل شيء أن يكون سهلاً.",
+"source": "Activity Book",
+"exact_reference": "Reading"
+},
+{
+"start": "Be a warrior of your dream and",
+"correct": "b",
+"full_sentence": "Be a warrior of your dream and a knight of your goal.",
+"translation": "كن محارباً لحلمك وفارساً لهدفك.",
+"source": "Activity Book",
+"exact_reference": "Reading"
+},
+{
+"start": "Believe in yourself,",
+"correct": "e",
+"full_sentence": "Believe in yourself, or you'll never succeed.",
+"translation": "آمن بنفسك، وإلا لن تنجح أبداً.",
+"source": "Activity Book",
+"exact_reference": "Vocabulary"
+}
+]
+}
+]
+}
