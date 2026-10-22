@@ -1,0 +1,150 @@
+{
+"questions": [
+{
+"id": "SB_G7_U3_C1",
+"original": "Origami was created by the Japanese.",
+"targetWord": "by the Japanese",
+"correctQuestion": "Who was origami created by?",
+"correctQuestions": [
+"Who was origami created by?"
+],
+"wh_word": "who",
+"auxiliary": "was",
+"subject": "origami",
+"subject_type": "noun_thing",
+"category": "Object",
+"acceptedAnswers": [
+"Who was origami created by?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U3_C2",
+"original": "Teachers are using origami to explain many concepts.",
+"targetWord": "Teachers",
+"correctQuestion": "Who is using origami to explain many concepts?",
+"correctQuestions": [
+"Who is using origami to explain many concepts?"
+],
+"wh_word": "who",
+"auxiliary": "is",
+"subject": "teachers",
+"subject_type": "noun_plural",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U3_C3",
+"original": "Sarah and Luke are playing tennis now.",
+"targetWord": "playing tennis",
+"correctQuestion": "What are Sarah and Luke doing now?",
+"correctQuestions": [
+"What are Sarah and Luke doing now?"
+],
+"wh_word": "what",
+"auxiliary": "are",
+"subject": "sarah and luke",
+"subject_type": "noun_plural",
+"category": "Object",
+"acceptedAnswers": [
+"What are they doing now?"
+],
+"source": "Student Book",
+"exact_reference": "Grammar B"
+},
+{
+"id": "SB_G7_U3_C4",
+"original": "Maria is swimming in the pool.",
+"targetWord": "in the pool",
+"correctQuestion": "Where is Maria swimming?",
+"correctQuestions": [
+"Where is Maria swimming?"
+],
+"wh_word": "where",
+"auxiliary": "is",
+"subject": "maria",
+"subject_type": "name_female",
+"category": "Place",
+"acceptedAnswers": [
+"Where is she swimming?"
+],
+"source": "Student Book",
+"exact_reference": "Grammar B"
+},
+{
+"id": "AB_G7_U3_C5",
+"original": "We borrow books from the library twice a month.",
+"targetWord": "twice a month",
+"correctQuestion": "How often do you borrow books from the library?",
+"correctQuestions": [
+"How often do you borrow books from the library?"
+],
+"wh_word": "how often",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Frequency",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G7_U3_C6",
+"original": "Kelly is from the UK.",
+"targetWord": "the UK",
+"correctQuestion": "Where is Kelly from?",
+"correctQuestions": [
+"Where is Kelly from?"
+],
+"wh_word": "where",
+"auxiliary": "is",
+"subject": "kelly",
+"subject_type": "name_female",
+"category": "Place",
+"acceptedAnswers": [
+"Where is she from?"
+],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G7_U3_C7",
+"original": "Ali likes reading stories.",
+"targetWord": "reading stories",
+"correctQuestion": "What does Ali like?",
+"correctQuestions": [
+"What does Ali like?"
+],
+"wh_word": "what",
+"auxiliary": "does",
+"subject": "ali",
+"subject_type": "name_male",
+"category": "Object",
+"acceptedAnswers": [
+"What does he like?"
+],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G7_U3_C8",
+"original": "I like to go to the country to take photos.",
+"targetWord": "to take photos",
+"correctQuestion": "Why do you like to go to the country?",
+"correctQuestions": [
+"Why do you like to go to the country?"
+],
+"wh_word": "why",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+}
+]
+}
