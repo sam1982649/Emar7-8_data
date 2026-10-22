@@ -1,0 +1,134 @@
+{
+"questions": [
+{
+"id": "SB_G7_U9_C1",
+"original": "Mariam was a teacher.",
+"targetWord": "a teacher",
+"correctQuestion": "What was Mariam's job?",
+"wh_word": "what",
+"auxiliary": "was",
+"subject": "mariam's job",
+"subject_type": "noun_thing",
+"category": "Object",
+"acceptedAnswers": [
+"What was her job?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 70"
+},
+{
+"id": "SB_G7_U9_C2",
+"original": "He asked the girl for some food.",
+"targetWord": "some food",
+"correctQuestion": "What did he ask the girl for?",
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Listening - Page 73"
+},
+{
+"id": "SB_G7_U9_C3",
+"original": "The girl had a beautiful face.",
+"targetWord": "a beautiful face",
+"correctQuestion": "What did the girl look like?",
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "the girl",
+"subject_type": "noun_person",
+"category": "Description",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Listening - Page 73"
+},
+{
+"id": "AB_G7_U9_C4",
+"original": "The mother worked hard to make her daughter feel comfortable.",
+"targetWord": "to make her daughter feel comfortable",
+"correctQuestion": "Why did the mother work hard?",
+"wh_word": "why",
+"auxiliary": "did",
+"subject": "the mother",
+"subject_type": "noun_person",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 59"
+},
+{
+"id": "AB_G7_U9_C5",
+"original": "She spends her free time in the school library.",
+"targetWord": "in the school library",
+"correctQuestion": "Where does she spend her free time?",
+"wh_word": "where",
+"auxiliary": "does",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 59"
+},
+{
+"id": "AB_G7_U9_C6",
+"original": "My sister wore a mask.",
+"targetWord": "a mask",
+"correctQuestion": "What did your sister wear?",
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "your sister",
+"subject_type": "noun_person",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 61"
+},
+{
+"id": "AB_G7_U9_C7",
+"original": "I live in the city center.",
+"targetWord": "in the city center",
+"correctQuestion": "Where do you live?",
+"wh_word": "where",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 61"
+},
+{
+"id": "AB_G7_U9_C8",
+"original": "Leila gave me a beautiful souvenir.",
+"targetWord": "a beautiful souvenir",
+"correctQuestion": "What did Leila give you?",
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "leila",
+"subject_type": "name_female",
+"category": "Object",
+"acceptedAnswers": [
+"What did she give you?"
+],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 61"
+},
+{
+"id": "AB_G7_U9_C9",
+"original": "Last week I met Mrs. Smith.",
+"targetWord": "Last week",
+"correctQuestion": "When did you meet Mrs. Smith?",
+"wh_word": "when",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 61"
+}
+]
+}
