@@ -1,1 +1,234 @@
-{"methodology":{"title":"منهجية استخراج أسئلة التحويل (Convert)","description":"يتم استخراج أسئلة التحويل من جميع مصادر الدرس (النص، التمارين) بناءً على القواعد النحوية الموجودة في كل مصدر.","applicable_to":"جميع الدروس (Unit 1, Unit 2, Unit 3, ...)","search_sources":["Student Book - Reading Text","Student Book - Grammar Exercises","Student Book - After Reading","Activity Book - Reading Text","Activity Book - Grammar Exercises"],"grammar_focus":["Simple Present","Simple Past","Present Perfect","Future","Modal Verbs"],"wh_words":["When","What","How","Why","Who","How many","How much","Where","How often","How long","How far","Whose","What colour","What time"],"auxiliary_verbs":{"present":["do","does","is","are","am"],"past":["did","was","were"],"future":["will","is going to","are going to","am going to"],"present_perfect":["have","has"],"modal":["can","must","should"]},"special_cases":["الوقت (Time)","المكان (Place)","السبب (Reason)","الطريقة (Manner)","العدد (Quantity)","الصفة الشكلية (Physical Description)","الصفة غير الشكلية (Quality)","الشعور (Feeling)","المهنة (Job)","الملكية (Possession)","الفاعل (Subject)","المفعول به (Object)","التكرار (Frequency)","المدة (Duration)","المسافة (Distance)","السعر (Price)"],"difficulty_levels":["سهل","متوسط","صعب"],"selection_criteria":["الجملة تحتوي على كلمة أو عبارة يمكن السؤال عنها","الجملة مناسبة للتحويل إلى سؤال","تنويع المصادر (Student Book + Activity Book)","تنويع كلمات الاستفهام","تنويع الأفعال المساعدة","تغطية أكبر عدد من الحالات الخاصة","تحديد المصدر بدقة"],"total_questions_recommended":"8-10 أسئلة لكل درس","important_note":"⚠️ هذه المنهجية قابلة للتطبيق على أي درس. يتم تغيير القواعد النحوية حسب محتوى كل وحدة.","applied_to_unit_1":{"grade":7,"unit":1,"title":"School Life","total_questions":9,"grammar_focus":"Simple Present + Simple Past","wh_words_used":["When","How","What colour","Why","What","How many","Who"],"auxiliary_verbs_used":["does","do","is","did",""],"special_cases_covered":["الوقت (Time)","الشعور (Feeling)","الصفة الشكلية (Physical Description)","السبب (Reason)","المفعول به (Object)","العدد (Quantity)","الطريقة (Manner)","الفاعل (Subject)"],"sources_distribution":{"Student Book - Reading Text":3,"Student Book - Grammar A":1,"Student Book - After Reading C":1,"Activity Book - Reading Text":3,"Activity Book - Grammar A":1}}},"questions":[{"id":"SB_G7_U1_C1","original":"The school year begins in August.","targetWord":"in April","correctQuestion":"When does the school year begin?","correctQuestions":["When does the school year begin?"],"wh_word":"when","auxiliary":"does","subject":"the school year","subject_type":"noun_thing","category":"Time","acceptedAnswers":[],"source":"Student Book","exact_reference":"Reading Text"},{"id":"AB_G7_U1_C2","original":"Students are excited about their new school.","targetWord":"excited","correctQuestion":"How do students feel about their new school?","correctQuestions":["How do students feel about their new school?"],"wh_word":"how","auxiliary":"do","subject":"students","subject_type":"noun_plural","category":"Feeling","acceptedAnswers":[],"source":"Activity Book","exact_reference":"Grammar A - Q3 (modified)"},{"id":"SB_G7_U1_C3","original":"The uniform is blue and white.","targetWord":"blue and white","correctQuestion":"What colour is the uniform?","correctQuestions":["What colour is the uniform?"],"wh_word":"what colour","auxiliary":"is","subject":"the uniform","subject_type":"noun_thing","category":"Physical Description","acceptedAnswers":[],"source":"Student Book","exact_reference":"Reading Text (modified)"},{"id":"SB_G7_U1_C4","original":"Students bow to show respect.","targetWord":"to show respect","correctQuestion":"Why do students bow?","correctQuestions":["Why do students bow?"],"wh_word":"why","auxiliary":"do","subject":"students","subject_type":"noun_plural","category":"Reason","acceptedAnswers":[],"source":"Student Book","exact_reference":"Reading Text"},{"id":"SB_G7_U1_C5","original":"Students in Japan wash their hands before entering the classroom.","targetWord":"their hands","correctQuestion":"What do students in Japan wash before entering the classroom?","correctQuestions":["What do students in Japan wash before entering the classroom?"],"wh_word":"what","auxiliary":"do","subject":"students in japan","subject_type":"noun_plural","category":"Object","acceptedAnswers":[],"source":"Student Book","exact_reference":"Grammar A - Q4"},{"id":"SB_G7_U1_C6","original":"My family consists of five members.","targetWord":"five","correctQuestion":"How many members does your family consist of?","correctQuestions":["How many members does your family consist of?"],"wh_word":"how many","auxiliary":"does","subject":"your family","subject_type":"noun_plural","category":"Quantity","acceptedAnswers":[],"source":"Student Book","exact_reference":"After Reading C - Q1"},{"id":"AB_G7_U1_C7","original":"They went to school by bus.","targetWord":"by bus","correctQuestion":"How did they go to school?","correctQuestions":["How did they go to school?"],"wh_word":"how","auxiliary":"did","subject":"they","subject_type":"pronoun","category":"Manner","acceptedAnswers":[],"source":"Activity Book","exact_reference":"Reading Text - Line 6"},{"id":"AB_G7_U1_C8","original":"The teacher provided information and knowledge.","targetWord":"The teacher","correctQuestion":"Who provided information and knowledge?","correctQuestions":["Who provided information and knowledge?"],"wh_word":"who","auxiliary":"","subject":"the teacher","subject_type":"noun_person","category":"Subject","acceptedAnswers":[],"source":"Activity Book","exact_reference":"Reading Text - Line 7"},{"id":"AB_G7_U1_C9","original":"Students relied heavily on their teachers.","targetWord":"their teachers","correctQuestion":"Who did students rely heavily on?","correctQuestions":["Who did students rely heavily on?"],"wh_word":"who","auxiliary":"did","subject":"students","subject_type":"noun_plural","category":"Object","acceptedAnswers":[],"source":"Activity Book","exact_reference":"Reading Text - Line 8"}]}
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة التحويل (Convert)",
+"description": "يتم استخراج أسئلة التحويل من جميع مصادر الدرس (النص، التمارين) بناءً على القواعد النحوية الموجودة في كل مصدر.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Grammar Exercises",
+"Student Book - After Reading",
+"Activity Book - Reading Text",
+"Activity Book - Grammar Exercises"
+],
+"grammar_focus": ["Simple Present", "Simple Past", "Present Perfect", "Future", "Modal Verbs"],
+"wh_words": ["When", "What", "How", "Why", "Who", "How many", "How much", "Where", "How often", "How long", "How far", "Whose", "What colour", "What time"],
+"auxiliary_verbs": {
+"present": ["do", "does", "is", "are", "am"],
+"past": ["did", "was", "were"],
+"future": ["will", "is going to", "are going to", "am going to"],
+"present_perfect": ["have", "has"],
+"modal": ["can", "must", "should"]
+},
+"special_cases": [
+"الوقت (Time)",
+"المكان (Place)",
+"السبب (Reason)",
+"الطريقة (Manner)",
+"العدد (Quantity)",
+"الصفة الشكلية (Physical Description)",
+"الصفة غير الشكلية (Quality)",
+"الشعور (Feeling)",
+"المهنة (Job)",
+"الملكية (Possession)",
+"الفاعل (Subject)",
+"المفعول به (Object)",
+"التكرار (Frequency)",
+"المدة (Duration)",
+"المسافة (Distance)",
+"السعر (Price)"
+],
+"difficulty_levels": ["سهل", "متوسط", "صعب"],
+"selection_criteria": [
+"الجملة تحتوي على كلمة أو عبارة يمكن السؤال عنها",
+"الجملة مناسبة للتحويل إلى سؤال",
+"تنويع المصادر (Student Book + Activity Book)",
+"تنويع كلمات الاستفهام",
+"تنويع الأفعال المساعدة",
+"تغطية أكبر عدد من الحالات الخاصة",
+"تحديد المصدر بدقة"
+],
+"total_questions_recommended": "8-10 أسئلة لكل درس",
+"important_note": "⚠️ هذه المنهجية قابلة للتطبيق على أي درس. يتم تغيير القواعد النحوية حسب محتوى كل وحدة.",
+"applied_to_unit_1": {
+"grade": 7,
+"unit": 1,
+"title": "School Life",
+"total_questions": 9,
+"grammar_focus": "Simple Present + Simple Past",
+"wh_words_used": ["When", "How", "What colour", "Why", "What", "How many", "Who"],
+"auxiliary_verbs_used": ["does", "do", "is", "did", ""],
+"special_cases_covered": [
+"الوقت (Time)",
+"الشعور (Feeling)",
+"الصفة الشكلية (Physical Description)",
+"السبب (Reason)",
+"المفعول به (Object)",
+"العدد (Quantity)",
+"الطريقة (Manner)",
+"الفاعل (Subject)"
+],
+"sources_distribution": {
+"Student Book - Reading Text": 3,
+"Student Book - Grammar A": 1,
+"Student Book - After Reading C": 1,
+"Activity Book - Reading Text": 3,
+"Activity Book - Grammar A": 1
+}
+}
+},
+"questions": [
+{
+"id": "SB_G7_U1_C1",
+"original": "The school year begins in August.",
+"targetWord": "in April",
+"correctQuestion": "When does the school year begin?",
+"correctQuestions": [
+"When does the school year begin?"
+],
+"wh_word": "when",
+"auxiliary": "does",
+"subject": "the school year",
+"subject_type": "noun_thing",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G7_U1_C2",
+"original": "Students are excited about their new school.",
+"targetWord": "excited",
+"correctQuestion": "How do students feel about their new school?",
+"correctQuestions": [
+"How do students feel about their new school?"
+],
+"wh_word": "how",
+"auxiliary": "do",
+"subject": "students",
+"subject_type": "noun_plural",
+"category": "Feeling",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar A - Q3 (modified)"
+},
+{
+"id": "SB_G7_U1_C3",
+"original": "The uniform is blue and white.",
+"targetWord": "blue and white",
+"correctQuestion": "What colour is the uniform?",
+"correctQuestions": [
+"What colour is the uniform?"
+],
+"wh_word": "what colour",
+"auxiliary": "is",
+"subject": "the uniform",
+"subject_type": "noun_thing",
+"category": "Physical Description",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text (modified)"
+},
+{
+"id": "SB_G7_U1_C4",
+"original": "Students bow to show respect.",
+"targetWord": "to show respect",
+"correctQuestion": "Why do students bow?",
+"correctQuestions": [
+"Why do students bow?"
+],
+"wh_word": "why",
+"auxiliary": "do",
+"subject": "students",
+"subject_type": "noun_plural",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U1_C5",
+"original": "Students in Japan wash their hands before entering the classroom.",
+"targetWord": "their hands",
+"correctQuestion": "What do students in Japan wash before entering the classroom?",
+"correctQuestions": [
+"What do students in Japan wash before entering the classroom?"
+],
+"wh_word": "what",
+"auxiliary": "do",
+"subject": "students in japan",
+"subject_type": "noun_plural",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar A - Q4"
+},
+{
+"id": "SB_G7_U1_C6",
+"original": "My family consists of five members.",
+"targetWord": "five",
+"correctQuestion": "How many members does your family consist of?",
+"correctQuestions": [
+"How many members does your family consist of?"
+],
+"wh_word": "how many",
+"auxiliary": "does",
+"subject": "your family",
+"subject_type": "noun_plural",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "After Reading C - Q1"
+},
+{
+"id": "AB_G7_U1_C7",
+"original": "They went to school by bus.",
+"targetWord": "by bus",
+"correctQuestion": "How did they go to school?",
+"correctQuestions": [
+"How did they go to school?"
+],
+"wh_word": "how",
+"auxiliary": "did",
+"subject": "they",
+"subject_type": "pronoun",
+"category": "Manner",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Line 6"
+},
+{
+"id": "AB_G7_U1_C8",
+"original": "The teacher provided information and knowledge.",
+"targetWord": "The teacher",
+"correctQuestion": "Who provided information and knowledge?",
+"correctQuestions": [
+"Who provided information and knowledge?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "the teacher",
+"subject_type": "noun_person",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Line 7"
+},
+{
+"id": "AB_G7_U1_C9",
+"original": "Students relied heavily on their teachers.",
+"targetWord": "their teachers",
+"correctQuestion": "Who did students rely heavily on?",
+"correctQuestions": [
+"Who did students rely heavily on?"
+],
+"wh_word": "who",
+"auxiliary": "did",
+"subject": "students",
+"subject_type": "noun_plural",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Line 8"
+}
+]
+}
