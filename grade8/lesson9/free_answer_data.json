@@ -1,0 +1,135 @@
+{
+"metadata": {
+"grade": 8,
+"unit": 9,
+"title": "Life Goals"
+},
+"questions": [
+{
+"id": "SB_G8_U9_F1",
+"question": "What are the dreams you want to achieve?",
+"translation": "ما هي الأحلام التي تريد تحقيقها؟",
+"keywords": ["dreams", "achieve", "future", "goals", "success"],
+"suggested_answers": [
+"I want to achieve my dream of becoming a doctor.",
+"I want to achieve my dream of travelling around the world.",
+"I want to achieve my dream of owning my own business.",
+"I want to achieve my dream of helping people.",
+"I want to achieve my dream of being a successful teacher."
+],
+"wh_word": "What",
+"auxiliary": "are",
+"category": "Dreams/Goals",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G8_U9_F2",
+"question": "How can you achieve your dreams?",
+"translation": "كيف يمكنك تحقيق أحلامك؟",
+"keywords": ["achieve", "dreams", "work hard", "plan", "believe", "never give up"],
+"suggested_answers": [
+"I can achieve my dreams by working hard.",
+"I can achieve my dreams by making a plan.",
+"I can achieve my dreams by believing in myself.",
+"I can achieve my dreams by never giving up.",
+"I can achieve my dreams by staying focused."
+],
+"wh_word": "How",
+"auxiliary": "can",
+"category": "Dreams/Goals",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G8_U9_F3",
+"question": "Why do you want to achieve your dreams?",
+"translation": "لماذا تريد تحقيق أحلامك؟",
+"keywords": ["achieve", "dreams", "happy", "future", "success", "family"],
+"suggested_answers": [
+"I want to achieve my dreams to make my family proud.",
+"I want to achieve my dreams to be happy.",
+"I want to achieve my dreams to have a better future.",
+"I want to achieve my dreams to help others.",
+"I want to achieve my dreams to prove myself."
+],
+"wh_word": "Why",
+"auxiliary": "do",
+"category": "Dreams/Goals",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G8_U9_F4",
+"question": "What obstacles did you face when you tried to achieve your dream?",
+"translation": "ما هي العقبات التي واجهتها عندما حاولت تحقيق حلمك؟",
+"keywords": ["obstacles", "face", "achieve", "dream", "difficult"],
+"suggested_answers": [
+"I faced many obstacles like lack of money.",
+"I faced the obstacle of not having enough time.",
+"I faced difficulties with my studies.",
+"I faced the obstacle of fear and doubt.",
+"I faced the obstacle of not having support from others."
+],
+"wh_word": "What",
+"auxiliary": "did",
+"category": "Obstacles",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "AB_G8_U9_F5",
+"question": "How could you overcome all the problems you face?",
+"translation": "كيف يمكنك التغلب على جميع المشاكل التي تواجهها؟",
+"keywords": ["overcome", "problems", "face", "solution", "strong", "patient"],
+"suggested_answers": [
+"I can overcome problems by staying patient.",
+"I can overcome problems by finding solutions.",
+"I can overcome problems by asking for help.",
+"I can overcome problems by working hard.",
+"I can overcome problems by never giving up."
+],
+"wh_word": "How",
+"auxiliary": "could",
+"category": "Overcoming Problems",
+"source": "Activity Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "AB_G8_U9_F6",
+"question": "Who influenced you to achieve your dreams?",
+"translation": "من أثر فيك لتحقيق أحلامك؟",
+"keywords": ["influenced", "achieve", "dreams", "family", "teacher", "friend"],
+"suggested_answers": [
+"My parents influenced me to achieve my dreams.",
+"My teacher influenced me to achieve my dreams.",
+"My friend influenced me to achieve my dreams.",
+"My brother influenced me to achieve my dreams.",
+"A famous person influenced me to achieve my dreams."
+],
+"wh_word": "Who",
+"auxiliary": "did",
+"category": "Influence",
+"source": "Activity Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "AB_G8_U9_F7",
+"question": "What do you wish you could do when you were younger?",
+"translation": "ماذا تتمنى لو كنت تستطيع فعله عندما كنت أصغر سناً؟",
+"keywords": ["wish", "younger", "could do", "past", "regret"],
+"suggested_answers": [
+"I wish I could travel when I was younger.",
+"I wish I could learn a new language when I was younger.",
+"I wish I could play a musical instrument when I was younger.",
+"I wish I could spend more time with my family.",
+"I wish I could study harder when I was younger."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Wishes/Regrets",
+"source": "Activity Book",
+"exact_reference": "Speaking"
+}
+]
+}

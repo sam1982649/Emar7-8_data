@@ -1,0 +1,308 @@
+{
+"methodology": {
+"title": "ملف شرح القواعد والمفردات (Explain)",
+"description": "يحتوي على شرح المفردات الجديدة من الدرس، وجداول القواعد النحوية التي وردت في الدرس، إضافة إلى قواعد التحويل إلى سؤال التي ظهرت في ملف convert.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Unit Plan & Quotes",
+"Student Book - Key Words",
+"Student Book - Reading Text",
+"Student Book - Grammar",
+"Student Book - Pronunciation",
+"Student Book - Listening",
+"Student Book - Writing",
+"Activity Book - Key Words",
+"Activity Book - Reading Text",
+"Activity Book - Grammar",
+"Activity Book - Listening",
+"Activity Book - Writing"
+]
+},
+"vocabulary": [
+{ "word": "achieve", "translation": "يحقق" },
+{ "word": "create", "translation": "يبدع / ينشئ" },
+{ "word": "think", "translation": "يفكر" },
+{ "word": "learn", "translation": "يتعلم" },
+{ "word": "read", "translation": "يقرأ" },
+{ "word": "goal", "translation": "هدف" },
+{ "word": "plan", "translation": "خطة" },
+{ "word": "dream", "translation": "حلم" },
+{ "word": "amputate", "translation": "يبتر" },
+{ "word": "competitive", "translation": "تنافسي" },
+{ "word": "able-bodied", "translation": "سليم الجسم" },
+{ "word": "thrilled", "translation": "مسرور جداً" },
+{ "word": "navigate", "translation": "يجد الطريق / يوجه" },
+{ "word": "dotted", "translation": "منتشر / مليء" },
+{ "word": "obstacle", "translation": "عقبة / عائق" },
+{ "word": "mind-numbing", "translation": "ممل جداً" },
+{ "word": "quit", "translation": "يستسلم / يترك" },
+{ "word": "give up", "translation": "يستسلم" },
+{ "word": "promising", "translation": "واعد" },
+{ "word": "road accident", "translation": "حادث طريق" },
+{ "word": "amputated", "translation": "مقطوع / مبتر" },
+{ "word": "pool", "translation": "مسبح" },
+{ "word": "qualified", "translation": "مؤهل" },
+{ "word": "disabled", "translation": "معاق" },
+{ "word": "overcome", "translation": "يتغلب على" },
+{ "word": "turn back", "translation": "يعود أدراجه" },
+{ "word": "smoker", "translation": "مدخن" },
+{ "word": "heavy smoker", "translation": "مدخن بكثرة" },
+{ "word": "arrive", "translation": "يصل" },
+{ "word": "spend", "translation": "يقضي" },
+{ "word": "mobile phone", "translation": "هاتف محمول" },
+{ "word": "married", "translation": "متزوج" },
+{ "word": "truth", "translation": "حقيقة" },
+{ "word": "tell the truth", "translation": "يقول الحقيقة" },
+{ "word": "listen to", "translation": "يستمع إلى" },
+{ "word": "leaf", "translation": "ورقة شجر" },
+{ "word": "wife", "translation": "زوجة" },
+{ "word": "knife", "translation": "سكين" },
+{ "word": "thief", "translation": "لص" },
+{ "word": "safe", "translation": "آمن" },
+{ "word": "prove", "translation": "يثبت" },
+{ "word": "vegetables", "translation": "خضروات" },
+{ "word": "save", "translation": "ينقذ / يوفر" },
+{ "word": "life", "translation": "حياة" },
+{ "word": "proof", "translation": "دليل / إثبات" },
+{ "word": "live", "translation": "يعيش" },
+{ "word": "scarf", "translation": "وشاح" },
+{ "word": "scarves", "translation": "أوشحة (جمع)" },
+{ "word": "set goals", "translation": "يحدد أهدافاً" },
+{ "word": "training", "translation": "تدريب" },
+{ "word": "success", "translation": "نجاح" },
+{ "word": "relaxation", "translation": "استرخاء" },
+{ "word": "skills", "translation": "مهارات" },
+{ "word": "hobbies", "translation": "هوايات" },
+{ "word": "businessman", "translation": "رجل أعمال" },
+{ "word": "helpful", "translation": "مفيد" },
+{ "word": "fame", "translation": "شهرة" },
+{ "word": "good relations", "translation": "علاقات جيدة" },
+{ "word": "conjunction", "translation": "أداة ربط" },
+{ "word": "although", "translation": "على الرغم من" },
+{ "word": "because", "translation": "لأن" },
+{ "word": "but", "translation": "لكن" },
+{ "word": "decision", "translation": "قرار" },
+{ "word": "factory", "translation": "مصنع" },
+{ "word": "uniform", "translation": "زي رسمي" },
+{ "word": "factory pass", "translation": "بطاقة دخول المصنع" },
+{ "word": "failure", "translation": "فشل / شخص فاشل" },
+{ "word": "fired", "translation": "طُرد من العمل" },
+{ "word": "gain", "translation": "يكسب / يحقق" },
+{ "word": "popularity", "translation": "شعبية" },
+{ "word": "slew", "translation": "عدد كبير" },
+{ "word": "form", "translation": "يؤسس / يشكل" },
+{ "word": "pave the way", "translation": "يمهد الطريق" },
+{ "word": "labor", "translation": "عمل / جهد" },
+{ "word": "bankruptcy", "translation": "إفلاس" },
+{ "word": "well-known", "translation": "مشهور" },
+{ "word": "surprised", "translation": "مندهش" },
+{ "word": "generations", "translation": "أجيال" },
+{ "word": "fantastic", "translation": "رائع" },
+{ "word": "cartoon", "translation": "كرتون / رسوم متحركة" },
+{ "word": "creation", "translation": "إبداع" },
+{ "word": "considered", "translation": "يعتبر" },
+{ "word": "editor", "translation": "محرر" },
+{ "word": "lack", "translation": "نقص" },
+{ "word": "imagination", "translation": "خيال" },
+{ "word": "character", "translation": "شخصية (رسوم)" },
+{ "word": "animation", "translation": "رسوم متحركة" },
+{ "word": "studio", "translation": "استوديو" },
+{ "word": "manage", "translation": "يدير" },
+{ "word": "debt", "translation": "دين" },
+{ "word": "file for bankruptcy", "translation": "يتقدم بطلب إفلاس" },
+{ "word": "move forward", "translation": "يتقدم / يمضي قدماً" },
+{ "word": "blow to hopes", "translation": "ضربة للآمال" },
+{ "word": "theme park", "translation": "مدينة ترفيهية" },
+{ "word": "animated movies", "translation": "أفلام رسوم متحركة" },
+{ "word": "in spite of", "translation": "على الرغم من" },
+{ "word": "will", "translation": "إرادة" },
+{ "word": "hard work", "translation": "عمل جاد" },
+{ "word": "driving test", "translation": "اختبار القيادة" },
+{ "word": "whistle", "translation": "يصفر" },
+{ "word": "Spanish", "translation": "الإسبانية (اللغة)" },
+{ "word": "Italy", "translation": "إيطاليا" },
+{ "word": "photography", "translation": "تصوير فوتوغرافي" },
+{ "word": "snowboarding", "translation": "التزلج على الثلج" },
+{ "word": "chess", "translation": "شطرنج" },
+{ "word": "cinema", "translation": "سينما" },
+{ "word": "theater", "translation": "مسرح" },
+{ "word": "dancing", "translation": "رقص" },
+{ "word": "tricks", "translation": "حركات بهلوانية" },
+{ "word": "jumps", "translation": "قفزات" },
+{ "word": "inspiring", "translation": "ملهم" },
+{ "word": "amusing", "translation": "مسلٍّ" },
+{ "word": "entertaining", "translation": "مسلي" },
+{ "word": "tennis", "translation": "تنس" },
+{ "word": "rap music", "translation": "موسيقى راب" },
+{ "word": "ice skating", "translation": "تزلج على الجليد" },
+{ "word": "free time", "translation": "وقت فراغ" },
+{ "word": "swimming", "translation": "سباحة" },
+{ "word": "running", "translation": "جري" }
+],
+"tables": [
+{
+"title": "Wish - قاعدة مبسطة (أمنية في الحاضر) - القاعدة الرئيسية للدرس",
+"headers": ["التركيب", "متى نستخدم؟", "مثال"],
+"rows": [
+["wish + فعل في الماضي البسيط", "للتعبير عن أمنية في الحاضر نتمنى أن تكون مختلفة", "I wish I had a car."],
+["wish + فعل في الماضي البسيط", "مع I / he / she / it نستخدم were (رسمي)", "I wish I were rich."],
+["wish + would", "للتعبير عن رغبة في تغيير سلوك شخص آخر", "I wish you would listen."],
+["wish + could", "للتعبير عن رغبة في القدرة على فعل شيء", "I wish I could fly."]
+],
+"explanation": "نستخدم 'wish' عندما نتمنى أن يكون شيء ما مختلفاً في الحاضر. بعد 'wish' نستخدم الفعل في الماضي البسيط. مع I / he / she / it نستخدم were في اللغة الرسمية (أو was في اللغة العامية).",
+"examples": "I wish I had a big house. / I wish I were rich. / She wishes she were married. / I wish you would tell me the truth. / We wish we could help you."
+},
+{
+"title": "Simple Past (الماضي البسيط)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["الفعل في الماضي (V2)", "للتعبير عن حدث وقع وانتهى في الماضي", "She lost her leg when she was 17."],
+["الفعل في الماضي (V2)", "للتعبير عن حدث وقع وانتهى في الماضي", "I swam for the first time."],
+["الفعل في الماضي (V2)", "للتعبير عن حدث وقع وانتهى في الماضي", "The business sank deeper in debt."]
+],
+"explanation": "نستخدم الماضي البسيط للتعبير عن أحداث وقعت وانتهت في الماضي. الأفعال المنتظمة تنتهي بـ -ed، والأفعال غير المنتظمة لها أشكال خاصة يجب حفظها.",
+"examples": "She was 17 when she lost her leg. / I swam faster than before. / The business sank deeper in debt."
+},
+{
+"title": "Nouns - Derivation (اشتقاق الأسماء)",
+"headers": ["الفعل", "الاسم (المشتق)", "المعنى"],
+"rows": [
+["swim", "swimmer", "سبّاح"],
+["swim", "swimmers", "سبّاحون (جمع)"],
+["amputate", "amputation", "بتر"]
+],
+"explanation": "نشتق الأسماء من الأفعال بإضافة لاحقات مثل -er / -or للدلالة على الفاعل، و -tion / -sion للدلالة على العملية أو النتيجة.",
+"examples": "She was one of the promising young swimmers."
+},
+{
+"title": "Comparative Adjectives (صفات المقارنة)",
+"headers": ["النوع", "القاعدة", "مثال"],
+"rows": [
+["صفات قصيرة (مقطع واحد)", "نضيف -er + than", "fast → faster than"],
+["صفات تنتهي بـ -y", "نغير y إلى i ونضيف -er", "happy → happier than"],
+["صفات طويلة (مقطعين أو أكثر)", "نستخدم more + صفة + than", "beautiful → more beautiful than"]
+],
+"explanation": "نستخدم صفات المقارنة للمقارنة بين شخصين أو شيئين. نضيف -er للصفات القصيرة، و more للصفات الطويلة، ونستخدم than بعدها.",
+"examples": "My dream is to swim faster than I did before the accident."
+},
+{
+"title": "Object Pronouns (ضمائر المفعول)",
+"headers": ["ضمير الفاعل", "ضمير المفعول", "المعنى"],
+"rows": [
+["I", "me", "ني / ياء المتكلم"],
+["you", "you", "ك / كِ"],
+["he", "him", "ه / إياه"],
+["she", "her", "ها / إياها"],
+["it", "it", "ه (لغير العاقل)"],
+["we", "us", "نا / إيانا"],
+["they", "them", "هم / إياهم"]
+],
+"explanation": "نستخدم ضمائر المفعول بعد الفعل أو بعد حروف الجر. تأتي في محل المفعول به في الجملة.",
+"examples": "The early failures didn't prevent him from moving forward."
+},
+{
+"title": "Derivation - Adjectives (اشتقاق الصفات)",
+"headers": ["الاسم", "الصفة", "المعنى"],
+"rows": [
+["success", "successful", "ناجح"],
+["care", "careful", "حريص"],
+["beauty", "beautiful", "جميل"]
+],
+"explanation": "نشتق الصفات من الأسماء بإضافة لاحقات مثل -ful، -less، -ous، -ive، -al.",
+"examples": "All of his past failures helped to pave the way for a successful business."
+},
+{
+"title": "Question Words (كلمات الاستفهام) - من Convert",
+"headers": ["كلمة الاستفهام", "الاستخدام", "مثال"],
+"rows": [
+["What", "للسؤال عن الشيء", "What did John eat?"],
+["Who", "للسؤال عن الفاعل", "Who arrives home late?"],
+["When", "للسؤال عن الوقت", "When did Natalie go back to the pool?"],
+["How old", "للسؤال عن العمر", "How old was Natalie?"],
+["How often", "للسؤال عن التكرار", "How often does he visit Italy?"]
+],
+"explanation": "تستخدم كلمات الاستفهام لتكوين الأسئلة. نختار كلمة الاستفهام حسب ما نريد السؤال عنه (شيء، فاعل، وقت، عمر، تكرار).",
+"examples": "What did you pass? / Who faced failure? / How often does he visit Italy?"
+},
+{
+"title": "Pronunciation - /f/ vs /v/",
+"headers": ["/f/", "/v/"],
+"rows": [
+["leaf → leaves", ""],
+["wife → wives", ""],
+["knife → knives", ""],
+["thief → thieves", ""],
+["safe", "save"],
+["fat", "vet"],
+["feel", "vegetables"],
+["off", "of"],
+["proof", "prove"],
+["life", "live"]
+],
+"explanation": "ننتبه إلى الفرق بين صوت /f/ و /v/ في النطق. صوت /f/ ينطق مع اهتزاز خفيف بينما /v/ ينطق مع اهتزاز أقوى.",
+"examples": "leaf → leaves / wife → wives / knife → knives / thief → thieves"
+},
+{
+"title": "Conjunctions (أدوات الربط) - من Writing",
+"headers": ["أداة الربط", "الاستخدام", "مثال"],
+"rows": [
+["but", "للتباين", "I enjoy working with you, but I find it difficult to arrive on time."],
+["although", "للتنازل", "Although I enjoy working with you, I find it difficult."],
+["because", "للسبب", "I decided to leave because I moved to the countryside."]
+],
+"explanation": "تستخدم أدوات الربط لربط الكلمات والجمل. 'but' للتباين، 'although' للتنازل، 'because' للسبب.",
+"examples": "I enjoy working with you, but I find it difficult to arrive on time every morning. / Although I enjoy working with you, I find it difficult to arrive on time. / I decided to leave because I moved to the countryside."
+},
+{
+"title": "Relative Clauses (جمل الوصل) - من Activity Book",
+"headers": ["ضمير الوصل", "الاستخدام", "مثال"],
+"rows": [
+["who", "للعاقل (فاعل)", "The man who has affected generations was once considered a failure."]
+],
+"explanation": "تستخدم ضمائر الوصل لربط الجمل. 'who' للعاقل كفاعل في جملة الوصل.",
+"examples": "The man who has affected generations was once considered a failure."
+},
+{
+"title": "Passive Voice - Simple Past (المبني للمجهول - الماضي البسيط)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["was/were + past participle", "عندما يكون الفاعل هو المتلقي للفعل في الماضي", "Disney was fired from his job in 1919."],
+["was/were + past participle", "عندما يكون الفاعل هو المتلقي للفعل في الماضي", "Her leg had to be amputated."]
+],
+"explanation": "نستخدم المبني للمجهول في الماضي البسيط عندما يكون الفاعل هو المتلقي للفعل في الماضي. التركيب: was/were + التصريف الثالث.",
+"examples": "In 1919, Disney was fired from his job. / Her leg had to be amputated at the knee."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["حرف الجر", "الاستخدام", "مثال"],
+"rows": [
+["of", "للتعبير عن المحتوى أو النقص", "lack of imagination"],
+["for", "للتعبير عن السبب أو الغرض", "filed for bankruptcy"],
+["in spite of", "للتعبير عن التنازل (على الرغم من)", "in spite of failure"],
+["an", "قبل الكلمات التي تبدأ بحرف علة", "an animation studio"]
+],
+"explanation": "حروف الجر تربط الأسماء بالجملة. بعض الأفعال تأتي مع حروف جر محددة ويجب حفظها.",
+"examples": "Disney showed a lack of imagination. / He filed for bankruptcy. / He went on establishing an animation studio. / He succeeded in spite of failure."
+},
+{
+"title": "Conditionals - Second Conditional (الجمل الشرطية - النوع الثاني)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["If + Past Simple, would + base form", "للتعبير عن موقف غير حقيقي أو افتراضي في الحاضر", "If Disney gave up, things would be far different."]
+],
+"explanation": "نستخدم الشرط الثاني للتعبير عن موقف غير حقيقي أو افتراضي في الحاضر. التركيب: If + Past Simple, would + base form.",
+"examples": "If Disney gave up, things would be far different."
+},
+{
+"title": "Articles (أدوات التعريف والتنكير)",
+"headers": ["الأداة", "الاستخدام", "مثال"],
+"rows": [
+["a", "قبل الكلمات التي تبدأ بحرف ساكن", "a goal, a plan"],
+["an", "قبل الكلمات التي تبدأ بحرف علة", "an animation studio, an obstacle"],
+["the", "للتعريف (شيء معروف)", "the pool, the final"]
+],
+"explanation": "نستخدم 'a' قبل الكلمات التي تبدأ بحرف ساكن، و 'an' قبل الكلمات التي تبدأ بحرف علة، و 'the' للتعريف.",
+"examples": "He went on establishing an animation studio."
+}
+]
+}

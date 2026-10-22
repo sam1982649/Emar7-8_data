@@ -1,0 +1,43 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics)",
+"description": "يتم استخراج مواضيع الكتابة من نهاية كل درس في كتاب الطالب وكتاب النشاط.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Writing",
+"Activity Book - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من كتاب الطالب",
+"موضوع واحد من كتاب النشاط"
+]
+},
+"topics": [
+{
+"id": "SB_G8_U9_W1",
+"title": "Write a letter to your boss about leaving your job.",
+"source": "Student Book",
+"exact_reference": "Writing - Page 71",
+"guiding_questions": [
+"Why did you decide to leave your job?",
+"How do you feel about leaving?",
+"What are your plans for the future?"
+],
+"sample_essay": "Dear Harry,\nI am writing to tell you about my decision to leave my job. I enjoyed working with you, but I find it difficult to arrive on time every morning. I moved to the countryside, so the journey is very long. I'm sorry to leave, but I have to. Thank you for your help during my time with the company.\nYours,\nTom",
+"word_count": 55
+},
+{
+"id": "AB_G8_U9_W1",
+"title": "Write a paragraph about how you spend your free time.",
+"source": "Activity Book",
+"exact_reference": "Writing - Page 41",
+"guiding_questions": [
+"What do you do in your free time?",
+"How often do you do these activities?",
+"Why do you enjoy them?"
+],
+"sample_essay": "I enjoy spending my free time doing different activities. I like playing football with my friends. I also go swimming every weekend. Sometimes I watch films with my family. I love reading books because they help me learn new things. My free time makes me happy and helps me relax after a long day.",
+"word_count": 55
+}
+]
+}

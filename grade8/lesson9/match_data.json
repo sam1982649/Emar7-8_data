@@ -1,0 +1,121 @@
+{
+"metadata": {
+"grade": 8,
+"unit": 9,
+"title": "Life Goals"
+},
+"groups": [
+{
+"id": "SB_G8_U9_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G8_U9_Life_Goals",
+"options": [
+{ "letter": "a", "text": "always easy to navigate." },
+{ "letter": "b", "text": "after one year." },
+{ "letter": "c", "text": "using her mobile phone." },
+{ "letter": "d", "text": "on time every morning." },
+{ "letter": "e", "text": "my job at the factory." },
+{ "letter": "f", "text": "obstacles to overcome." }
+],
+"sentences": [
+{
+"start": "The road to one's dreams isn't",
+"correct": "a",
+"full_sentence": "The road to one's dreams isn't always easy to navigate.",
+"translation": "الطريق إلى أحلام المرء ليس دائماً سهلاً.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Natalie could participate at the Commonwealth Games",
+"correct": "b",
+"full_sentence": "Natalie could participate at the Commonwealth Games after one year.",
+"translation": "تمكنت ناتالي من المشاركة في ألعاب الكومنولث بعد عام واحد.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "My mother spends too much time",
+"correct": "c",
+"full_sentence": "My mother spends too much time using her mobile phone.",
+"translation": "أمي تقضي وقتاً طويلاً في استخدام هاتفها المحمول.",
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "I find it difficult to arrive",
+"correct": "d",
+"full_sentence": "I find it difficult to arrive on time every morning.",
+"translation": "أجد صعوبة في الوصول في الوقت المحدد كل صباح.",
+"source": "Student Book",
+"exact_reference": "Writing"
+},
+{
+"start": "I decided to leave",
+"correct": "e",
+"full_sentence": "I decided to leave my job at the factory.",
+"translation": "قررت ترك وظيفتي في المصنع.",
+"source": "Student Book",
+"exact_reference": "Writing"
+}
+]
+},
+{
+"id": "AB_G8_U9_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G8_U9_Failure_Led_Fame",
+"options": [
+{ "letter": "a", "text": "the business sank deeper in debt." },
+{ "letter": "b", "text": "enjoy the fruits of Disney's labor." },
+{ "letter": "c", "text": "were alive now." },
+{ "letter": "d", "text": "by his cartoon creations." },
+{ "letter": "e", "text": "my driving test." },
+{ "letter": "f", "text": "a blow to his hopes." }
+],
+"sentences": [
+{
+"start": "he was unable to manage money and",
+"correct": "a",
+"full_sentence": "he was unable to manage money and the business sank deeper in debt.",
+"translation": "لم يكن قادراً على إدارة المال وغرق العمل في الديون.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "both children and adults now",
+"correct": "b",
+"full_sentence": "both children and adults now enjoy the fruits of Disney's labor.",
+"translation": "يستمتع الأطفال والكبار الآن بثمار عمل ديزني.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "They wish their grandparents",
+"correct": "c",
+"full_sentence": "They wish their grandparents were alive now.",
+"translation": "يتمنون لو كان أجدادهم على قيد الحياة الآن.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "Disney has influenced generations",
+"correct": "d",
+"full_sentence": "Disney has influenced generations by his cartoon creations.",
+"translation": "أثر ديزني على الأجيال من خلال إبداعاته الكرتونية.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "I passed",
+"correct": "e",
+"full_sentence": "I passed my driving test.",
+"translation": "نجحت في اختبار القيادة.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+}
+]
+}
+]
+}

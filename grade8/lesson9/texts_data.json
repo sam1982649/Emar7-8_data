@@ -1,0 +1,152 @@
+{
+"texts": [
+{
+"id": "G8_U9_T1_P1",
+"text_group": "G8_U9_Dream_Believe_Achieve_P1",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Dream it, Believe it, Achieve it",
+"content_exam": "Natalie du Toit, the South African swimmer, was only 17 when she lost her leg in a road accident. She was a promising young swimmer. Her leg had to be amputated at the knee. Everybody thought she would never be able to swim competitively again. But Natalie went back to the pool three months after the accident. After one year, at the Commonwealth Games, she qualified for the final - not for disabled swimmers, but for able-bodied ones. She says, \"I remember how thrilled I was the first time I swam. Swimming was my life, and still is. My dream is to swim faster than I did before the accident.\" Natalie added: \"The road to one's dreams isn't always easy. It is dotted with obstacles to overcome and hard times that make a person feel like quitting. Anything worth having doesn't come easy. So don't give up.\"",
+"questions": [
+{
+"id": "g8_u9_t1_p1_q1",
+"question": "Natalie du Toit was a swimmer from ........ .",
+"options": ["South Africa", "England", "America", "Australia"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: South Africa\n📝 الترجمة: كانت ناتالي دو توا سبّاحة من جنوب أفريقيا.\n💡 الشرح: النص يقول: 'Natalie du Toit, the South African swimmer'."
+},
+{
+"id": "g8_u9_t1_p1_q2",
+"question": "Natalie lost her leg at the age of ........ .",
+"options": ["15", "16", "17", "18"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: 17\n📝 الترجمة: فقدت ناتالي ساقها في سن 17.\n💡 الشرح: النص يقول: 'was only 17 when she lost her leg'."
+},
+{
+"id": "g8_u9_t1_p1_q3",
+"question": "Natalie went back to the pool ........ after the accident.",
+"options": ["one month", "two months", "three months", "six months"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: three months\n📝 الترجمة: عادت ناتالي إلى المسبح بعد ثلاثة أشهر من الحادث.\n💡 الشرح: النص يقول: 'Natalie went back to the pool three months after the accident'."
+},
+{
+"id": "g8_u9_t1_p1_q4",
+"question": "Natalie qualified for the final at the ........ .",
+"options": ["Olympic Games", "Commonwealth Games", "World Cup", "National Games"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Commonwealth Games\n📝 الترجمة: تأهلت ناتالي للنهائي في ألعاب الكومنولث.\n💡 الشرح: النص يقول: 'at the Commonwealth Games'."
+},
+{
+"id": "g8_u9_t1_p1_q5",
+"question": "Natalie's dream is to swim ........ than before the accident.",
+"options": ["slower", "faster", "better", "longer"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: faster\n📝 الترجمة: حلم ناتالي هو السباحة بشكل أسرع مما قبل الحادث.\n💡 الشرح: النص يقول: 'My dream is to swim faster than I did before the accident'."
+}
+]
+},
+{
+"id": "G8_U9_T2_P1",
+"text_group": "G8_U9_Failure_Led_Fame_P1",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Failure Led to Fame (Part 1)",
+"content_exam": "Walt Elias Disney is a well-known name all over the world. You'll be surprised when you know that the man who has affected generations by his fantastic cartoon creations was once considered a failure. In 1919, Disney was fired from his job at the Kansas City Star paper by the editor, who said that Disney showed a lack of imagination and had no good ideas. However, the man who brought us Mickey Mouse and a slew of other characters didn't stop there. He went on establishing an animation studio called \"Laugh-O-Gram\" because at that time Disney's cartoon creations had gained popularity in the Kansas City area. But unfortunately, he was unable to manage money and the business sank deeper in debt. He filed for bankruptcy and moved to Hollywood, California.",
+"questions": [
+{
+"id": "g8_u9_t2_p1_q1",
+"question": "Disney was fired from his job in ........ .",
+"options": ["1917", "1918", "1919", "1920"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: 1919\n📝 الترجمة: طُرد ديزني من وظيفته في عام 1919.\n💡 الشرح: النص يقول: 'In 1919, Disney was fired from his job'."
+},
+{
+"id": "g8_u9_t2_p1_q2",
+"question": "Disney worked at the ........ paper.",
+"options": ["Kansas City Star", "New York Times", "Washington Post", "Los Angeles Times"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Kansas City Star\n📝 الترجمة: عمل ديزني في صحيفة كانساس سيتي ستار.\n💡 الشرح: النص يقول: 'at the Kansas City Star paper'."
+},
+{
+"id": "g8_u9_t2_p1_q3",
+"question": "The editor said that Disney had no good ........ .",
+"options": ["ideas", "skills", "plans", "goals"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: ideas\n📝 الترجمة: قال المحرر أن ديزني ليس لديه أفكار جيدة.\n💡 الشرح: النص يقول: 'had no good ideas'."
+},
+{
+"id": "g8_u9_t2_p1_q4",
+"question": "Disney established an animation studio called ........ .",
+"options": ["Walt Disney Studio", "Laugh-O-Gram", "Mickey Mouse Studio", "Hollywood Studio"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Laugh-O-Gram\n📝 الترجمة: أسس ديزني استوديو رسوم متحركة اسمه Laugh-O-Gram.\n💡 الشرح: النص يقول: 'an animation studio called \"Laugh-O-Gram\"'."
+},
+{
+"id": "g8_u9_t2_p1_q5",
+"question": "Disney was unable to manage ........ .",
+"options": ["people", "time", "money", "ideas"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: money\n📝 الترجمة: كان ديزني غير قادر على إدارة المال.\n💡 الشرح: النص يقول: 'he was unable to manage money'."
+}
+]
+},
+{
+"id": "G8_U9_T2_P2",
+"text_group": "G8_U9_Failure_Led_Fame_P2",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Failure Led to Fame (Part 2)",
+"content_exam": "The early failures in Disney's life didn't prevent him from moving forward. Disney's failures were a blow to his hopes. However, when he formed the Walt Disney Company, all of his past failures helped to pave the way for a successful business. Disney and the Walt Disney Company have touched the lives of millions across the globe. From cartoons, to theme parks, and animated movies, both children and adults now enjoy the fruits of Disney's labor. If Disney gave up, things would be far different. But in spite of failure and bankruptcy, he went on to achieve success through will and hard work.",
+"questions": [
+{
+"id": "g8_u9_t2_p2_q1",
+"question": "Disney's early failures prevented him from moving forward.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: فشل ديزني المبكر منعه من المضي قدماً.\n💡 الشرح: النص يقول: 'didn't prevent him from moving forward'."
+},
+{
+"id": "g8_u9_t2_p2_q2",
+"question": "The Walt Disney Company was formed after Disney's failures.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: تأسست شركة والت ديزني بعد فشل ديزني.\n💡 الشرح: النص يقول: 'when he formed the Walt Disney Company, all of his past failures helped'."
+},
+{
+"id": "g8_u9_t2_p2_q3",
+"question": "Only children enjoy Disney's cartoons and movies.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: الأطفال فقط يستمتعون بكرتون وأفلام ديزني.\n💡 الشرح: النص يقول: 'both children and adults now enjoy'."
+},
+{
+"id": "g8_u9_t2_p2_q4",
+"question": "What helped Disney to pave the way for a successful business?",
+"type": "answer",
+"keywords": ["past failures"],
+"explanation": "✅ الإجابة المتوقعة: past failures\n📝 الترجمة: ما الذي ساعد ديزني في تمهيد الطريق لأعمال ناجحة؟\n💡 الشرح: النص يقول: 'all of his past failures helped to pave the way for a successful business'."
+},
+{
+"id": "g8_u9_t2_p2_q5",
+"question": "What helped Disney to achieve success?",
+"type": "answer",
+"keywords": ["will", "hard work"],
+"explanation": "✅ الإجابة المتوقعة: will and hard work\n📝 الترجمة: ما الذي ساعد ديزني على تحقيق النجاح؟\n💡 الشرح: النص يقول: 'he went on to achieve success through will and hard work'."
+}
+]
+}
+]
+}
