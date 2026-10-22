@@ -1,0 +1,299 @@
+{
+"methodology": {
+"title": "ملف شرح القواعد والمفردات (Explain)",
+"description": "يحتوي على شرح المفردات الجديدة من الدرس، وجداول القواعد النحوية التي وردت في الدرس، إضافة إلى قواعد التحويل إلى سؤال التي ظهرت في ملف convert.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Key Words (المفردات الجديدة)",
+"Grammar Tables (جداول القواعد)",
+"Convert Rules (قواعد التحويل إلى سؤال)"
+]
+},
+"vocabulary": [
+{ "word": "good-looking", "translation": "جميل المظهر" },
+{ "word": "green", "translation": "أخضر" },
+{ "word": "fair", "translation": "أشقر (للشعر)" },
+{ "word": "straight", "translation": "ناعم / مستقيم" },
+{ "word": "round", "translation": "مستدير" },
+{ "word": "elegant", "translation": "أنيق" },
+{ "word": "black", "translation": "أسود" },
+{ "word": "red", "translation": "أحمر" },
+{ "word": "blue", "translation": "أزرق" },
+{ "word": "cardigans", "translation": "كنزات صوفية" },
+{ "word": "smart", "translation": "ذكي" },
+{ "word": "generous", "translation": "كريم" },
+{ "word": "helpful", "translation": "مفيد / مساعد" },
+{ "word": "sense of humor", "translation": "حس فكاهة" },
+{ "word": "niece", "translation": "ابنة أخ / ابنة أخت" },
+{ "word": "fringe", "translation": "غرة" },
+{ "word": "bright", "translation": "لامع / زاهي" },
+{ "word": "lovely", "translation": "جميل / رائع" },
+{ "word": "shy", "translation": "خجول" },
+{ "word": "chatterbox", "translation": "شخص ثرثار" },
+{ "word": "flowery", "translation": "مزهر" },
+{ "word": "girlish", "translation": "بناتي" },
+{ "word": "jeans", "translation": "جينز" },
+{ "word": "T-shirt", "translation": "تي شيرت" },
+{ "word": "serious", "translation": "جاد" },
+{ "word": "talkative", "translation": "ثرثار" },
+{ "word": "height", "translation": "الطول" },
+{ "word": "hair", "translation": "الشعر" },
+{ "word": "eyes", "translation": "العيون" },
+{ "word": "body build", "translation": "بنية الجسم" },
+{ "word": "skin", "translation": "البشرة" },
+{ "word": "appearance", "translation": "المظهر" },
+{ "word": "taller", "translation": "أطول" },
+{ "word": "shyer", "translation": "أكثر خجلاً" },
+{ "word": "older", "translation": "أكبر سناً" },
+{ "word": "heavier", "translation": "أثقل" },
+{ "word": "more important", "translation": "أكثر أهمية" },
+{ "word": "ancient", "translation": "قديم" },
+{ "word": "remains", "translation": "بقايا" },
+{ "word": "syllable", "translation": "مقطع لفظي" },
+{ "word": "notebook", "translation": "دفتر" },
+{ "word": "milk", "translation": "حليب" },
+{ "word": "pencil", "translation": "قلم رصاص" },
+{ "word": "sandwich", "translation": "ساندويش" },
+{ "word": "shoes", "translation": "أحذية" },
+{ "word": "bee", "translation": "نحلة" },
+{ "word": "book", "translation": "كتاب" },
+{ "word": "rabbit", "translation": "أرنب" },
+{ "word": "duck", "translation": "بطة" },
+{ "word": "number", "translation": "رقم" },
+{ "word": "home", "translation": "منزل" },
+{ "word": "taken", "translation": "مأخوذ" },
+{ "word": "dolphin", "translation": "دلفين" },
+{ "word": "lady", "translation": "سيدة" },
+{ "word": "cow", "translation": "بقرة" },
+{ "word": "active", "translation": "نشيط" },
+{ "word": "hard", "translation": "صعب" },
+{ "word": "easy", "translation": "سهل" },
+{ "word": "expensive", "translation": "مكلف" },
+{ "word": "healthy", "translation": "صحي" },
+{ "word": "funny", "translation": "مضحك" },
+{ "word": "wise", "translation": "حكيم" },
+{ "word": "angry", "translation": "غاضب" },
+{ "word": "bossy", "translation": "متسلط" },
+{ "word": "hysterical", "translation": "هستيري" },
+{ "word": "inquisitive", "translation": "فضولي" },
+{ "word": "fast", "translation": "سريع" },
+{ "word": "slow", "translation": "بطيء" },
+{ "word": "good", "translation": "جيد" },
+{ "word": "bad", "translation": "سيء" },
+{ "word": "housing", "translation": "سكن" },
+{ "word": "characters", "translation": "شخصيات" },
+{ "word": "meals", "translation": "وجبات" },
+{ "word": "exhibition", "translation": "معرض" },
+{ "word": "agricultural", "translation": "زراعي" },
+{ "word": "exhibits", "translation": "معروضات" },
+{ "word": "displayed", "translation": "معروض" },
+{ "word": "blacksmith", "translation": "حداد" },
+{ "word": "rocket launcher", "translation": "قاذف صواريخ" },
+{ "word": "carpenter", "translation": "نجار" },
+{ "word": "radio set", "translation": "جهاز راديو" },
+{ "word": "hand-made", "translation": "يدوي" },
+{ "word": "statues", "translation": "تماثيل" },
+{ "word": "success", "translation": "نجاح" },
+{ "word": "recent", "translation": "حديث / أخير" },
+{ "word": "weigh", "translation": "يزن" },
+{ "word": "officially", "translation": "رسمياً" },
+{ "word": "participate", "translation": "يشارك" },
+{ "word": "actress", "translation": "ممثلة" },
+{ "word": "conquer", "translation": "يتغلب / يسيطر" },
+{ "word": "inspire", "translation": "يلهم" },
+{ "word": "measure", "translation": "يقيس" },
+{ "word": "registered", "translation": "مسجل" },
+{ "word": "apply", "translation": "يضع / يطبق" },
+{ "word": "prevent", "translation": "يمنع" },
+{ "word": "support", "translation": "يدعم" },
+{ "word": "advantage", "translation": "ميزة" },
+{ "word": "disadvantage", "translation": "عيب" },
+{ "word": "suitable", "translation": "مناسب" },
+{ "word": "currently", "translation": "حالياً" },
+{ "word": "occasionally", "translation": "أحياناً" },
+{ "word": "realise", "translation": "يدرك" },
+{ "word": "homemade", "translation": "منزلي" },
+{ "word": "secret", "translation": "سر" },
+{ "word": "ingredients", "translation": "مكونات" },
+{ "word": "glue", "translation": "صمغ" },
+{ "word": "surfaces", "translation": "أسطح" },
+{ "word": "fear", "translation": "خوف" },
+{ "word": "ambitious", "translation": "طموح" },
+{ "word": "colourful", "translation": "ملون" },
+{ "word": "comfortable", "translation": "مريح" },
+{ "word": "intelligent", "translation": "ذكي" },
+{ "word": "narrow", "translation": "ضيق" },
+{ "word": "pretty", "translation": "جميل" },
+{ "word": "quiet", "translation": "هادئ" },
+{ "word": "simple", "translation": "بسيط" },
+{ "word": "hotter", "translation": "أكثر حرارة" },
+{ "word": "quieter", "translation": "أكثر هدوءاً" },
+{ "word": "better", "translation": "أفضل" },
+{ "word": "worse", "translation": "أسوأ" },
+{ "word": "farther", "translation": "أبعد" },
+{ "word": "further", "translation": "أبعد (مجازي)" },
+{ "word": "honest", "translation": "صادق" },
+{ "word": "exhausted", "translation": "مرهق" },
+{ "word": "attractive", "translation": "جذاب" },
+{ "word": "scared", "translation": "خائف" },
+{ "word": "prettier", "translation": "أجمل" },
+{ "word": "modest", "translation": "متواضع" },
+{ "word": "handsome", "translation": "وسيم" },
+{ "word": "mild", "translation": "لطيف" },
+{ "word": "younger", "translation": "أصغر سناً" },
+{ "word": "mature", "translation": "ناضج" },
+{ "word": "natural", "translation": "طبيعي" },
+{ "word": "nervous", "translation": "متوتر" },
+{ "word": "embarrassed", "translation": "محرج" },
+{ "word": "slimmer", "translation": "أنحف" },
+{ "word": "cute", "translation": "لطيف" },
+{ "word": "muscular", "translation": "عضلي" },
+{ "word": "full-bodied", "translation": "ممتلئ" },
+{ "word": "glasses", "translation": "نظارات" },
+{ "word": "hairstyle", "translation": "تسريحة شعر" },
+{ "word": "uniform", "translation": "زي موحد" },
+{ "word": "tracksuit", "translation": "بدلة رياضية" },
+{ "word": "item", "translation": "قطعة / عنصر" },
+{ "word": "fashion show", "translation": "عرض أزياء" },
+{ "word": "report", "translation": "تقرير" },
+{ "word": "aim", "translation": "هدف" },
+{ "word": "purpose", "translation": "غرض" },
+{ "word": "discuss", "translation": "يناقش" },
+{ "word": "suggest", "translation": "يقترح" },
+{ "word": "achieve", "translation": "يحقق" }
+],
+"tables": [
+{
+"title": "Comparative Adjectives (صفات المقارنة)",
+"headers": ["النوع", "القاعدة", "مثال"],
+"rows": [
+["صفات قصيرة (مقطع واحد)", "نضيف -er + than", "tall → taller than"],
+["صفات تنتهي بـ -y", "نغير y إلى i ونضيف -er", "heavy → heavier than"],
+["صفات ذات مقطعين تنتهي بـ -y, -er, -ow, -le", "نضيف -er + than", "pretty → prettier than, narrow → narrower than, simple → simpler than"],
+["صفات طويلة (مقطعين أو أكثر)", "نستخدم more + adjective + than", "ambitious → more ambitious than"],
+["صفات شاذة (غير منتظمة)", "حفظ", "good → better, bad → worse, far → farther/further"]
+],
+"explanation": "تستخدم صفات المقارنة للمقارنة بين شخصين أو شيئين. مع الصفات القصيرة نضيف -er، مع الصفات الطويلة نستخدم more، وبعض الصفات لها أشكال شاذة يجب حفظها.",
+"examples": "Doris is taller than me. / Amanda is more ambitious than her classmates."
+},
+{
+"title": "Simple Present - Have/Has",
+"headers": ["الفاعل", "الفعل", "مثال"],
+"rows": [
+["I / You / We / They", "have", "I have green eyes."],
+["He / She / It", "has", "She has green eyes."]
+],
+"explanation": "نستخدم 'have' مع (I, You, We, They) و 'has' مع (He, She, It) في المضارع البسيط للتعبير عن الملكية.",
+"examples": "She has green eyes. / They have a big house."
+},
+{
+"title": "Articles (أدوات التعريف والتنكير)",
+"headers": ["أداة", "الاستخدام", "مثال"],
+"rows": [
+["a", "قبل الأسماء المفردة التي تبدأ بحرف ساكن", "a smart woman"],
+["an", "قبل الأسماء المفردة التي تبدأ بحرف علة", "an Indian actress"],
+["the", "للتعريف (شيء محدد أو معروف)", "the world's smallest woman"]
+],
+"explanation": "نستخدم 'a' و 'an' للتنكير، و 'the' للتعريف.",
+"examples": "She is a smart woman. / She is an Indian actress."
+},
+{
+"title": "Gerunds (المصدر - الفعل + ing)",
+"headers": ["الاستخدام", "مثال"],
+"rows": [
+["بعد أفعال مثل: like, love, enjoy, hate, start, stop", "She likes telling jokes."],
+["بعد حروف الجر", "She prevents her from studying."]
+],
+"explanation": "المصدر هو الفعل + ing ويستخدم كاسم، ويأتي بعد أفعال معينة أو بعد حروف الجر.",
+"examples": "She likes telling jokes. / Her hair-care doesn't prevent her from studying."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["حرف الجر", "الاستخدام", "مثال"],
+"rows": [
+["with", "للمصاحبة", "She is with her friends."],
+["of", "للتعبير عن المحتوى أو الملكية", "sense of humor, source of vitamins"],
+["from", "للتعبير عن المصدر أو المنع", "prevent her from studying"],
+["on", "للتعبير عن الارتداء أو الوسيلة", "puts on jeans"]
+],
+"explanation": "حروف الجر تربط الأسماء بالجملة. بعض الأفعال تأتي مع حروف جر محددة.",
+"examples": "She has a great sense of humor. / She puts on jeans."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["أداة الربط", "الاستخدام", "مثال"],
+"rows": [
+["but", "للاستدراك (تضاد)", "She used to like dresses, but now she wears jeans."],
+["because", "للسبب", "She sings loudly because she forgets."]
+],
+"explanation": "تستخدم أدوات الربط لربط الجمل. 'But' للاستدراك، 'Because' للسبب.",
+"examples": "She used to like flowery dresses, but now she wears jeans."
+},
+{
+"title": "Second Conditional (الجملة الشرطية من النوع الثاني)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["If + Past Simple, would + verb", "للتعبير عن شيء غير حقيقي أو خيالي في الحاضر", "If you saw her, you would think she was older."]
+],
+"explanation": "تستخدم للتعبير عن مواقف غير حقيقية أو خيالية في الحاضر. تتكون من 'if' + الماضي البسيط، و 'would' + الفعل.",
+"examples": "If you saw Lou in the street, you would think she was three years older."
+},
+{
+"title": "Relative Clauses (جمل الوصل)",
+"headers": ["ضمير الوصل", "الاستخدام", "مثال"],
+"rows": [
+["who", "للعاقل (فاعل)", "Scientists who found the remains"],
+["which / that", "لغير العاقل (فاعل أو مفعول به)", "exhibits which the farmers had displayed"],
+["where", "للمكان", "platform where users watch videos"]
+],
+"explanation": "تستخدم ضمائر الوصل لربط الجمل. 'who' للعاقل، 'which/that' لغير العاقل، 'where' للمكان.",
+"examples": "Scientists who found the remains say this discovery is important."
+},
+{
+"title": "Passive Voice - Simple Past (المبني للمجهول - الماضي البسيط)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["was/were + past participle", "عندما يكون الفاعل هو المتلقي للفعل", "An exhibition was held last week."]
+],
+"explanation": "نستخدم المبني للمجهول عندما يكون الفاعل هو المتلقي للفعل وليس الفاعل. في الماضي البسيط: was/were + التصريف الثالث.",
+"examples": "An exhibition was held last week."
+},
+{
+"title": "Past Ability (القدرة في الماضي)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["was/were able to + verb", "للتعبير عن القدرة في الماضي", "She wasn't able to participate."],
+["could + verb", "للتعبير عن القدرة في الماضي", "He could find suitable clothes."]
+],
+"explanation": "نستخدم 'was/were able to' أو 'could' للتعبير عن القدرة في الماضي.",
+"examples": "She wasn't able to participate in things they were doing."
+},
+{
+"title": "Phrasal Verbs (الأفعال المركبة)",
+"headers": ["الفعل المركب", "المعنى", "مثال"],
+"rows": [
+["put on", "يرتدي (ملابس)", "She puts on jeans."],
+["get to know", "يتعرف على", "When she gets to know you."],
+["tell apart", "يميز بين", "You can't tell them apart."]
+],
+"explanation": "الأفعال المركبة تتكون من فعل + حرف جر أو ظرف، ويكون معناها مختلفاً عن معنى الفعل الأصلي.",
+"examples": "She just puts on jeans and a T-shirt."
+},
+{
+"title": "Question Words (كلمات الاستفهام) - من Convert",
+"headers": ["كلمة الاستفهام", "الاستخدام", "مثال"],
+"rows": [
+["What ... like?", "للسؤال عن الصفة", "What is Doris like?"],
+["What does ... look like?", "للسؤال عن المظهر", "What does she look like?"],
+["How old?", "للسؤال عن العمر", "How old is Lou?"],
+["How long?", "للسؤال عن الطول أو المدة", "How long is her hair?"],
+["How?", "للسؤال عن الطريقة", "How does Lou sing?"],
+["Why?", "للسؤال عن السبب", "Why does he work as a farmer?"],
+["Who?", "للسؤال عن الفاعل", "Who registered your names?"],
+["What ... like / How?", "للسؤال عن الطقس", "What is the weather like? / How is the weather today?"]
+],
+"explanation": "تستخدم كلمات الاستفهام لتكوين الأسئلة. نختار كلمة الاستفهام حسب ما نريد السؤال عنه.",
+"examples": "What is Doris like? / How old is Lou? / How long is her hair?"
+}
+]
+}

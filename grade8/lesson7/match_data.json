@@ -1,0 +1,154 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة المطابقة (Match)",
+"description": "يتم استخراج أسئلة المطابقة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل التي يمكن تقسيمها إلى بداية ونهاية.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Grammar Exercises",
+"Student Book - After Reading",
+"Activity Book - Reading Text",
+"Activity Book - Vocabulary Exercises",
+"Activity Book - Grammar Exercises"
+],
+"structure": {
+"per_group": "5 بدايات + 6 نهايات (واحدة زائدة)"
+},
+"selection_criteria": [
+"تنويع المصادر داخل كل مجموعة",
+"تجنب الجمل المتشابهة",
+"توزيع بين النص والتمارين",
+"كل جملة موثقة بالمصدر الدقيق"
+],
+"applied_to_unit": {
+"grade": 8,
+"unit": 7,
+"title": "Ideal Beauty",
+"total_groups": 2,
+"groups": {
+"group_1": {
+"source": "Student Book",
+"sources_used": ["Reading Text (3)", "Grammar Exercises (1)", "After Reading (1)"]
+},
+"group_2": {
+"source": "Activity Book",
+"sources_used": ["Reading Text (2)", "Grammar Exercises (2)", "Vocabulary (1)"]
+}
+}
+}
+},
+"groups": [
+{
+"id": "SB_G8_U7_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G8_U7_Faces",
+"options": [
+{ "letter": "a", "text": "with a fringe." },
+{ "letter": "b", "text": "more girlish." },
+{ "letter": "c", "text": "like her mother." },
+{ "letter": "d", "text": "of humor." },
+{ "letter": "e", "text": "models of an airplane." },
+{ "letter": "f", "text": "the recent fair." }
+],
+"sentences": [
+{
+"start": "She's got straight hair",
+"correct": "a",
+"full_sentence": "She's got straight hair with a fringe.",
+"translation": "لديها شعر ناعم مع غرة.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Flowery dresses are",
+"correct": "b",
+"full_sentence": "Flowery dresses are more girlish.",
+"translation": "الفساتين المزهرة أكثر بناتية.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "She looks a bit",
+"correct": "c",
+"full_sentence": "She looks a bit like her mother.",
+"translation": "هي تشبه والدتها قليلاً.",
+"source": "Student Book",
+"exact_reference": "After Reading"
+},
+{
+"start": "She has a great sense",
+"correct": "d",
+"full_sentence": "She has a great sense of humor.",
+"translation": "لديها حس فكاهة رائع.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "A blacksmith had put",
+"correct": "e",
+"full_sentence": "A blacksmith had put models of an airplane.",
+"translation": "حداد قد وضع نماذج لطائرة.",
+"source": "Student Book",
+"exact_reference": "Writing"
+}
+]
+},
+{
+"id": "AB_G8_U7_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G8_U7_World_Records",
+"options": [
+{ "letter": "a", "text": "were more polite." },
+{ "letter": "b", "text": "to carry out their own projects." },
+{ "letter": "c", "text": "has plans to conquer Hollywood." },
+{ "letter": "d", "text": "than her classmates." },
+{ "letter": "e", "text": "to both surfaces." },
+{ "letter": "f", "text": "prevent her from studying." }
+],
+"sentences": [
+{
+"start": "In the past, people",
+"correct": "a",
+"full_sentence": "In the past, people were more polite.",
+"translation": "في الماضي، كان الناس أكثر تهذيباً.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "Schools inspire children",
+"correct": "b",
+"full_sentence": "Schools inspire children to carry out their own projects.",
+"translation": "المدارس تلهم الأطفال لتنفيذ مشاريعهم الخاصة.",
+"source": "Activity Book",
+"exact_reference": "Vocabulary"
+},
+{
+"start": "She is now an Indian actress who",
+"correct": "c",
+"full_sentence": "She is now an Indian actress who has plans to conquer Hollywood.",
+"translation": "هي الآن ممثلة هندية لديها خطط لغزو هوليوود.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Amanda is more ambitious",
+"correct": "d",
+"full_sentence": "Amanda is more ambitious than her classmates.",
+"translation": "أماندا أكثر طموحاً من زملائها في الصف.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "The glue should be applied",
+"correct": "e",
+"full_sentence": "The glue should be applied to both surfaces.",
+"translation": "يجب وضع الصمغ على كلا السطحين.",
+"source": "Activity Book",
+"exact_reference": "Vocabulary"
+}
+]
+}
+]
+}

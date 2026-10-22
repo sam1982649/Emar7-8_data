@@ -1,0 +1,56 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics)",
+"description": "يتم استخراج مواضيع الكتابة من نهاية كل درس في كتاب الطالب وكتاب النشاط.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Writing",
+"Activity Book - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من كتاب الطالب",
+"موضوع واحد من كتاب النشاط",
+"تنويع الأسئلة المساعدة لكل موضوع"
+],
+"applied_to_unit": {
+"grade": 8,
+"unit": 7,
+"title": "Ideal Beauty",
+"total_topics": 2,
+"sources": {
+"topic_1": "Student Book - Describing an exhibition",
+"topic_2": "Activity Book - Fashion show report"
+}
+}
+},
+"topics": [
+{
+"id": "SB_G8_U7_W1",
+"title": "Describing an exhibition.",
+"source": "Student Book",
+"exact_reference": "Writing - Page 55",
+"guiding_questions": [
+"Where was the exhibition held?",
+"What agricultural exhibits were there?",
+"What did the blacksmith display?",
+"What did the carpenter display?"
+],
+"sample_essay": "The exhibition was held in our town last week. It was not as big as the recent fair, but it was interesting in its own way. There were many agricultural exhibits like carrots, radish, and tomatoes. The blacksmith displayed models of an airplane and a rocket launcher. The carpenter showed a radio set and hand-made statues. The exhibition was a great success.",
+"word_count": 55
+},
+{
+"id": "AB_G8_U7_W1",
+"title": "Write a newspaper report about a fashion show you have watched on TV.",
+"source": "Activity Book",
+"exact_reference": "Writing - Page 33",
+"guiding_questions": [
+"When did you watch the fashion show?",
+"What did the models wear?",
+"What did you like about the show?",
+"How was the show?"
+],
+"sample_essay": "Last Friday, I watched a fashion show on TV. The show was amazing and full of beautiful designs. The models wore elegant dresses, modern suits, and stylish casual clothes. I liked the colorful dresses and the wonderful music. The lights and music made the show very exciting. It was a wonderful and unforgettable show.",
+"word_count": 52
+}
+]
+}

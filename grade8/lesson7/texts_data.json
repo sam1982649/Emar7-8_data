@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G8_U7_T1",
+"text_group": "G8_U7_Faces",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Faces",
+"content_exam": "My sister, Doris, is a good-looking person. She has green eyes, fair straight hair and a round face. She is taller than me. She is very elegant and generally dressed in black skirts, red shirts, blue cardigans and black shoes. She is a smart woman. She is generous and helpful with a great sense of humor. My little niece, Lou, is eight years old and she looks exactly like my sister. I have a photo of my sister when she was at the same age and you can't tell them apart. She's got straight hair with a fringe and her bright blue eyes are the first thing you notice about her.",
+"questions": [
+{
+"id": "t1_q1",
+"question": "Doris has ........ eyes.",
+"options": ["green", "blue", "brown", "black"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: green\n📝 الترجمة: دوريس لها عيون خضراء.\n💡 الشرح: النص يقول: 'She has green eyes'."
+},
+{
+"id": "t1_q2",
+"question": "Doris has fair ........ hair.",
+"options": ["curly", "straight", "wavy", "short"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: straight\n📝 الترجمة: دوريس لها شعر أشقر ناعم.\n💡 الشرح: النص يقول: 'fair straight hair'."
+},
+{
+"id": "t1_q3",
+"question": "Doris is ........ than me.",
+"options": ["shorter", "taller", "younger", "older"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: taller\n📝 الترجمة: دوريس أطول مني.\n💡 الشرح: النص يقول: 'She is taller than me'."
+},
+{
+"id": "t1_q4",
+"question": "Doris generally wears black skirts, red shirts and blue ........ .",
+"options": ["trousers", "cardigans", "jackets", "dresses"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: cardigans\n📝 الترجمة: دوريس عادة ترتدي تنانير سوداء وقمصان حمراء وكنزات زرقاء.\n💡 الشرح: النص يقول: 'black skirts, red shirts, blue cardigans'."
+},
+{
+"id": "t1_q5",
+"question": "Doris is a ........ woman.",
+"options": ["smart", "shy", "lazy", "serious"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: smart\n📝 الترجمة: دوريس امرأة ذكية.\n💡 الشرح: النص يقول: 'She is a smart woman'."
+}
+]
+},
+{
+"id": "G8_U7_T2",
+"text_group": "G8_U7_Faces",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Faces (Continued)",
+"content_exam": "She's got a lovely smile. She seems quite shy, but when she gets to know you, she never stops talking. Her teachers say she's a real chatterbox. She particularly likes telling jokes, and when she is with her friends they never stop laughing. When she finds something funny, it's impossible not to laugh. She used to like wearing flowery dresses, but now she thinks that they are more \"girlish.\" Most of the time, she just puts on jeans and a T-shirt. If you saw her in the street, you would probably think she was two or three years older. She sings at the top of her voice because she keeps forgetting that everyone can hear her.",
+"questions": [
+{
+"id": "t2_q1",
+"question": "Lou looks exactly like her aunt Doris.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: لو تشبه خالتها دوريس تماماً.\n💡 الشرح: النص يقول: 'she looks exactly like my sister'."
+},
+{
+"id": "t2_q2",
+"question": "Lou has brown eyes.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: لو لها عيون بنية.\n💡 الشرح: النص يقول: 'her bright blue eyes'."
+},
+{
+"id": "t2_q3",
+"question": "Lou's teachers say she is a real chatterbox.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: معلمات لو يقلن إنها ثرثارة حقيقية.\n💡 الشرح: النص يقول: 'Her teachers say she's a real chatterbox'."
+},
+{
+"id": "t2_q4",
+"question": "What does Lou like telling?",
+"type": "answer",
+"keywords": ["jokes"],
+"explanation": "✅ الإجابة المتوقعة: jokes\n📝 الترجمة: ماذا تحب لو أن تحكي؟\n💡 الشرح: النص يقول: 'She particularly likes telling jokes'."
+},
+{
+"id": "t2_q5",
+"question": "What does Lou wear most of the time?",
+"type": "answer",
+"keywords": ["jeans", "T-shirt"],
+"explanation": "✅ الإجابة المتوقعة: jeans and a T-shirt\n📝 الترجمة: ماذا ترتدي لو معظم الوقت؟\n💡 الشرح: النص يقول: 'she just puts on jeans and a T-shirt'."
+}
+]
+},
+{
+"id": "G8_U7_T3",
+"text_group": "G8_U7_World_Records",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "World's Smallest Woman & Tallest Man",
+"content_exam": "At just 63 centimeters tall, and weighing five kilograms, Jyoti Amge has been officially named as the world's smallest woman by Guinness World Records. She realised she was different when all of her friends started growing. She wasn't able to participate in things they were doing which made her really sad. She is now an Indian actress who has plans to conquer Hollywood, and she hopes her story inspires others to follow their dreams. Sultan Kösen was the first man over 8 ft (2.43 m) to be measured by Guinness World Records in over 20 years. He works occasionally as a farmer to support his family.",
+"questions": [
+{
+"id": "t3_q1",
+"question": "Jyoti Amge is only 63 ........ tall.",
+"options": ["meters", "centimeters", "feet", "inches"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: centimeters\n📝 الترجمة: جيوتي أمجي طولها 63 سنتيمتراً فقط.\n💡 الشرح: النص يقول: 'At just 63 centimeters tall'."
+},
+{
+"id": "t3_q2",
+"question": "Jyoti Amge is an ........ actress.",
+"options": ["American", "Indian", "British", "Australian"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Indian\n📝 الترجمة: جيوتي أمجي ممثلة هندية.\n💡 الشرح: النص يقول: 'She is now an Indian actress'."
+},
+{
+"id": "t3_q3",
+"question": "Jyoti hopes her story ........ others.",
+"options": ["inspires", "stops", "changes", "forgets"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: inspires\n📝 الترجمة: جيوتي تأمل أن قصتها تلهم الآخرين.\n💡 الشرح: النص يقول: 'she hopes her story inspires others'."
+},
+{
+"id": "t3_q4",
+"question": "Jyoti wasn't able to ........ in things her friends were doing.",
+"options": ["participate", "watch", "enjoy", "share"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: participate\n📝 الترجمة: لم تكن جيوتي قادرة على المشاركة في الأشياء التي كان يفعلها أصدقاؤها.\n💡 الشرح: النص يقول: 'She wasn't able to participate in things they were doing'."
+},
+{
+"id": "t3_q5",
+"question": "Jyoti wants to ........ Hollywood.",
+"options": ["visit", "conquer", "leave", "forget"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: conquer\n📝 الترجمة: جيوتي تريد غزو هوليوود.\n💡 الشرح: النص يقول: 'who has plans to conquer Hollywood'."
+}
+]
+},
+{
+"id": "G8_U7_T4",
+"text_group": "G8_U7_World_Records",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "World Records (Continued)",
+"content_exam": "One of the advantages of being tall is helping his mum with jobs such as changing a broken light bulb and hanging curtains. On the other hand, it is difficult for him to find suitable clothes and shoes or to fit into a regular size car. A bad haircut at the age of six led to Nilanshi Patel to get her name registered in Guinness World Records for the longest hair on a teenager. Her hair currently measures 190cm. When asked about the secret behind her long hair, the 17-year-old girl says that she applies a homemade hair oil that her mother prepares with some secret ingredients. She loves her hair; she never wants to get her hair cut. She says her hair-care doesn't prevent her from studying.",
+"questions": [
+{
+"id": "t4_q1",
+"question": "Sultan Kösen was the first man over 8 ft to be measured by Guinness World Records in over 20 years.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: سلطان كوسن كان أول رجل يزيد طوله عن 8 أقدام يتم قياسه من قبل موسوعة غينيس للأرقام القياسية منذ أكثر من 20 عاماً.\n💡 الشرح: النص يقول: 'Sultan Kösen was the first man over 8 ft to be measured by Guinness World Records in over 20 years'."
+},
+{
+"id": "t4_q2",
+"question": "Sultan works as a farmer to support his family.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: سلطان يعمل مزارعاً لدعم عائلته.\n💡 الشرح: النص يقول: 'He works occasionally as a farmer to support his family'."
+},
+{
+"id": "t4_q3",
+"question": "Sultan can easily find suitable clothes and shoes.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: سلطان يجد بسهولة ملابس وأحذية مناسبة.\n💡 الشرح: النص يقول: 'it is difficult for him to find suitable clothes and shoes'."
+},
+{
+"id": "t4_q4",
+"question": "What does Nilanshi Patel apply to her hair?",
+"type": "answer",
+"keywords": ["homemade hair oil", "oil"],
+"explanation": "✅ الإجابة المتوقعة: homemade hair oil\n📝 الترجمة: ماذا تضع نيلانشي باتيل على شعرها؟\n💡 الشرح: النص يقول: 'she applies a homemade hair oil that her mother prepares'."
+},
+{
+"id": "t4_q5",
+"question": "Does Nilanshi Patel want to cut her hair?",
+"type": "answer",
+"keywords": ["never", "no"],
+"explanation": "✅ الإجابة المتوقعة: No, she never wants to get her hair cut.\n📝 الترجمة: هل تريد نيلانشي باتيل قص شعرها؟\n💡 الشرح: النص يقول: 'she never wants to get her hair cut'."
+}
+]
+}
+]
+}

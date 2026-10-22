@@ -1,0 +1,118 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة الإجابة الحرة (Free Answer)",
+"description": "يتم استخراج أسئلة الإجابة الحرة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل العامة والمعلوماتية الموجودة في كل مصدر.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Speaking",
+"Student Book - Grammar Exercises",
+"Activity Book - Vocabulary",
+"Activity Book - Grammar Exercises"
+],
+"selection_criteria": [
+"السؤال من التمارين نفسها وليس من النص",
+"السؤال عام ولا يحتاج إلى قراءة النص للإجابة عليه",
+"الجواب واضح ومحدد وقصير (كلمة أو بضع كلمات)",
+"لا نستخدم أسئلة إجابتها Yes/No"
+],
+"wh_words": ["What", "How", "When", "Where", "How many", "How often", "What time", "Why", "Who", "Which"],
+"auxiliary_verbs": ["do", "does", "is", "are", "was", "were", "did"],
+"answer_type": "كلمة مفتاحية أو عبارة قصيرة",
+"verification_method": "البحث عن الكلمات المفتاحية في إجابة الطالب (case-insensitive)",
+"important_note": "⚠️ الأسئلة مأخوذة من التمارين وليس من النص. تم تغيير الأسماء إلى صيغة المخاطب (your parents, your friend, your teacher)."
+},
+"questions": [
+{
+"id": "SB_G8_U7_F1",
+"question": "What does your mother look like?",
+"translation": "كيف تبدو والدتك؟",
+"keywords": ["tall", "short", "long hair", "brown eyes", "beautiful"],
+"suggested_answers": [
+"She is tall.",
+"She has long hair.",
+"She has brown eyes.",
+"She is beautiful.",
+"She is short."
+],
+"wh_word": "What",
+"auxiliary": "does",
+"category": "Physical Description",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G8_U7_F2",
+"question": "What do you usually wear at home?",
+"translation": "ماذا ترتدي عادة في المنزل؟",
+"keywords": ["jeans", "t-shirt", "comfortable", "shorts", "pyjamas", "casual"],
+"suggested_answers": [
+"I wear jeans and a T-shirt.",
+"I wear comfortable clothes.",
+"I wear shorts.",
+"I wear pyjamas.",
+"I wear casual clothes."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Clothes",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G8_U7_F3",
+"question": "What did you feel when you watched the film?",
+"translation": "ماذا شعرت عندما شاهدت الفيلم؟",
+"keywords": ["happy", "excited", "sad", "bored", "glad"],
+"suggested_answers": [
+"I felt happy.",
+"I was happy.",
+"I felt excited.",
+"I felt sad.",
+"I felt bored."
+],
+"wh_word": "What",
+"auxiliary": "did",
+"category": "Feeling",
+"source": "Student Book",
+"exact_reference": "Listening"
+},
+{
+"id": "SB_G8_U7_F4",
+"question": "What is your house like?",
+"translation": "كيف يبدو منزلك؟",
+"keywords": ["big", "small", "modern", "old", "comfortable", "garden", "three bedrooms"],
+"suggested_answers": [
+"My house is big.",
+"My house is small.",
+"My house is modern.",
+"My house is old.",
+"My house is comfortable.",
+"My house has a garden.",
+"My house has three bedrooms."
+],
+"wh_word": "What ... like",
+"auxiliary": "is",
+"category": "Place Description",
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G8_U7_F5",
+"question": "How do you face fear?",
+"translation": "كيف تواجه الخوف؟",
+"keywords": ["brave", "calm", "run away", "positive", "help"],
+"suggested_answers": [
+"I face fear by being brave.",
+"I face fear by not running away.",
+"I face fear by staying calm.",
+"I face fear by thinking positively.",
+"I face fear by asking for help."
+],
+"wh_word": "How",
+"auxiliary": "do",
+"category": "Manner",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Q1"
+}
+]
+}
