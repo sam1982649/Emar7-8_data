@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G8_U3_T1_P1",
+"text_group": "G8_U3_My_Amazing_Journey",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "My Amazing Journey",
+"content_exam": "People need to interact and communicate with others. Travel is a means of amusement and enjoyment that allows interaction among people. I would like to share with you a journey to Spain accompanied by my family. The tourist company had done an amazing job. It organized the trip and confirmed the dates and places that we were going to visit in Spain. Our flight tickets showed that we needed two hours to reach our destination, which is about 800 kilometers. Upon arrival, a bus was waiting to drive us to the hotel. We enjoyed the beautiful views and lots of amazing things on our way to the hotel.",
+"questions": [
+{
+"id": "g8_u3_t1_p1_q1",
+"question": "Travel is a means of amusement and ........",
+"options": ["enjoyment", "education", "work", "study"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: enjoyment\n📝 الترجمة: السفر هو وسيلة للتسلية والمتعة.\n💡 الشرح: النص يقول: 'Travel is a means of amusement and enjoyment'."
+},
+{
+"id": "g8_u3_t1_p1_q2",
+"question": "The tourist company ........ the trip.",
+"options": ["cancelled", "organized", "ignored", "forgot"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: organized\n📝 الترجمة: نظمت شركة السياحة الرحلة.\n💡 الشرح: النص يقول: 'It organized the trip and confirmed the dates and places'."
+},
+{
+"id": "g8_u3_t1_p1_q3",
+"question": "The flight tickets showed that they needed ........ hours to reach their destination.",
+"options": ["one", "two", "three", "four"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: two\n📝 الترجمة: أظهرت تذاكر الطيران أنهم يحتاجون ساعتين للوصول إلى وجهتهم.\n💡 الشرح: النص يقول: 'we needed two hours to reach our destination'."
+},
+{
+"id": "g8_u3_t1_p1_q4",
+"question": "The distance to the destination is about ........ kilometers.",
+"options": ["80", "800", "8000", "8"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: 800\n📝 الترجمة: المسافة إلى الوجهة حوالي 800 كيلومتر.\n💡 الشرح: النص يقول: 'which is about 800 kilometers'."
+},
+{
+"id": "g8_u3_t1_p1_q5",
+"question": "Upon arrival, a ........ was waiting to drive us to the hotel.",
+"options": ["car", "bus", "train", "taxi"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: bus\n📝 الترجمة: عند الوصول، كانت حافلة تنتظر لتقلنا إلى الفندق.\n💡 الشرح: النص يقول: 'Upon arrival, a bus was waiting to drive us to the hotel'."
+}
+]
+},
+{
+"id": "G8_U3_T1_P2",
+"text_group": "G8_U3_My_Amazing_Journey",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "My Amazing Journey (Part 2)",
+"content_exam": "We passed through a mountainous area with many high volcanic mountains. After checking in our rooms, we headed to a small restaurant which served delicious traditional food. The view from the restaurant was great. During the three-day trip we visited various ancient sites and old markets and we bought nice souvenirs for our friends. Besides, we met people from different nationalities and we learnt about various traditions and cultures. That amazing trip has increased our knowledge about the world. At the end of the trip, we thanked the trip supervisor and the tourism company for their great efforts.",
+"questions": [
+{
+"id": "g8_u3_t1_p2_q1",
+"question": "They passed through a mountainous area with many high volcanic mountains.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: مروا بمنطقة جبلية بها العديد من الجبال البركانية العالية.\n💡 الشرح: النص يقول: 'We passed through a mountainous area with many high volcanic mountains'."
+},
+{
+"id": "g8_u3_t1_p2_q2",
+"question": "They ate fast food in a big restaurant.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: تناولوا الطعام السريع في مطعم كبير.\n💡 الشرح: النص يقول: 'a small restaurant which served delicious traditional food'."
+},
+{
+"id": "g8_u3_t1_p2_q3",
+"question": "The trip lasted for three days.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: استمرت الرحلة ثلاثة أيام.\n💡 الشرح: النص يقول: 'During the three-day trip'."
+},
+{
+"id": "g8_u3_t1_p2_q4",
+"question": "What did they buy for their friends?",
+"type": "answer",
+"keywords": ["souvenirs", "gifts", "nice souvenirs"],
+"explanation": "✅ الإجابة الصحيحة: nice souvenirs (هدايا تذكارية)\n📝 الترجمة: ماذا اشتروا لأصدقائهم؟\n💡 الشرح: النص يقول: 'we bought nice souvenirs for our friends'."
+},
+{
+"id": "g8_u3_t1_p2_q5",
+"question": "Who did they thank at the end of the trip?",
+"type": "answer",
+"keywords": ["trip supervisor", "tourism company", "supervisor and company"],
+"explanation": "✅ الإجابة الصحيحة: the trip supervisor and the tourism company (مشرف الرحلة وشركة السياحة)\n💡 الشرح: النص يقول: 'we thanked the trip supervisor and the tourism company'."
+}
+]
+},
+{
+"id": "G8_U3_T2_P1",
+"text_group": "G8_U3_My_Favourite_Country",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "My Favourite Country",
+"content_exam": "Last summer, my family and I had the opportunity to travel and discover the beautiful continent of Australia. It was not an easy choice among the other beautiful places in the world, but this country has always fascinated us with its culture. In fact, Australia is one of the richest continents and is also one of the largest countries in the world. It is located in the southern hemisphere, and all its states use the Australian dollar. Australian English is the national and popular language of the country. It is similar to English in grammar and spelling with some notable exceptions.",
+"questions": [
+{
+"id": "g8_u3_t2_p1_q1",
+"question": "The family had the opportunity to travel to ........",
+"options": ["America", "Australia", "Asia", "Africa"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Australia\n📝 الترجمة: أتيحت للعائلة فرصة السفر إلى أستراليا.\n💡 الشرح: النص يقول: 'travel and discover the beautiful continent of Australia'."
+},
+{
+"id": "g8_u3_t2_p1_q2",
+"question": "Australia has always fascinated them with its ........",
+"options": ["food", "people", "culture", "weather"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: culture\n📝 الترجمة: لطالما فتنتهم أستراليا بثقافتها.\n💡 الشرح: النص يقول: 'this country has always fascinated us with its culture'."
+},
+{
+"id": "g8_u3_t2_p1_q3",
+"question": "Australia is located in the ........ hemisphere.",
+"options": ["northern", "southern", "eastern", "western"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: southern\n📝 الترجمة: تقع أستراليا في نصف الكرة الجنوبي.\n💡 الشرح: النص يقول: 'It is located in the southern hemisphere'."
+},
+{
+"id": "g8_u3_t2_p1_q4",
+"question": "All states in Australia use the Australian ........",
+"options": ["pound", "euro", "dollar", "yen"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: dollar\n📝 الترجمة: تستخدم جميع ولايات أستراليا الدولار الأسترالي.\n💡 الشرح: النص يقول: 'all its states use the Australian dollar'."
+},
+{
+"id": "g8_u3_t2_p1_q5",
+"question": "Australian English is similar to English in grammar and ........",
+"options": ["vocabulary", "pronunciation", "spelling", "writing"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: spelling\n📝 الترجمة: الإنجليزية الأسترالية مشابهة للإنجليزية في القواعد والتهجئة.\n💡 الشرح: النص يقول: 'similar to English in grammar and spelling'."
+}
+]
+},
+{
+"id": "G8_U3_T2_P2",
+"text_group": "G8_U3_My_Favourite_Country",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "My Favourite Country (Part 2)",
+"content_exam": "When my parents learned about wonders of Australia that awaited us, they immediately bought airline tickets. We woke up early in the morning to catch a direct flight to Australia. The flight lasted about 20 hours. Finally, we arrived in Sydney and settled in a hotel. The next day, we visited the Opera House which had a beautiful architecture. It was a perfect day. In the afternoon we went to Taronga Zoo to see the famous Australian animals like kangaroos and koalas. The following days, we enjoyed the beaches, shopping centers and beautiful museums of Sydney. Unfortunately, we had to prepare our luggage to return home to Montreal before I could realize that our seven-day vacation had already passed.",
+"questions": [
+{
+"id": "g8_u3_t2_p2_q1",
+"question": "The flight lasted about 20 hours.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: استغرقت الرحلة حوالي 20 ساعة.\n💡 الشرح: النص يقول: 'The flight lasted about 20 hours'."
+},
+{
+"id": "g8_u3_t2_p2_q2",
+"question": "They visited the Opera House on the first day.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: زاروا دار الأوبرا في اليوم الأول.\n💡 الشرح: النص يقول: 'The next day, we visited the Opera House' أي في اليوم التالي."
+},
+{
+"id": "g8_u3_t2_p2_q3",
+"question": "What did they see at Taronga Zoo?",
+"type": "answer",
+"keywords": ["kangaroos", "koalas", "kangaroos and koalas"],
+"explanation": "✅ الإجابة الصحيحة: kangaroos and koalas (الكنغر والكوالا)\n📝 الترجمة: ماذا رأوا في حديقة حيوان تارونغا؟\n💡 الشرح: النص يقول: 'to see the famous Australian animals like kangaroos and koalas'."
+},
+{
+"id": "g8_u3_t2_p2_q4",
+"question": "How long did the vacation last?",
+"type": "answer",
+"keywords": ["seven days", "7 days", "seven-day"],
+"explanation": "✅ الإجابة الصحيحة: seven days (سبعة أيام)\n📝 الترجمة: كم استمرت العطلة؟\n💡 الشرح: النص يقول: 'our seven-day vacation'."
+},
+{
+"id": "g8_u3_t2_p2_q5",
+"question": "Where did they return home to?",
+"type": "answer",
+"keywords": ["Montreal", "to Montreal"],
+"explanation": "✅ الإجابة الصحيحة: Montreal (مونتريال)\n📝 الترجمة: أين عادوا إلى منزلهم؟\n💡 الشرح: النص يقول: 'return home to Montreal'."
+}
+]
+}
+]
+}

@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"title": "تمرين المطابقة ١ - Student Book",
+"source": "Student Book",
+"options": [
+{ "letter": "a", "text": "two hours to reach our destination" },
+{ "letter": "b", "text": "various ancient sites" },
+{ "letter": "c", "text": "the late arrival of the train" },
+{ "letter": "d", "text": "to see the Pyramids" },
+{ "letter": "e", "text": "and we took a boat down the river" },
+{ "letter": "f", "text": "volcanic mountains" }
+],
+"sentences": [
+{
+"start": "Our flight tickets showed that we needed",
+"correct": "a",
+"full_sentence": "Our flight tickets showed that we needed two hours to reach our destination.",
+"translation": "أظهرت تذاكر الطيران أننا كنا بحاجة إلى ساعتين للوصول إلى وجهتنا.",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 21"
+},
+{
+"start": "During the three-day trip we visited",
+"correct": "b",
+"full_sentence": "During the three-day trip we visited various ancient sites.",
+"translation": "خلال الرحلة التي استمرت ثلاثة أيام، زرنا مواقع قديمة مختلفة.",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 21"
+},
+{
+"start": "The company apologized for",
+"correct": "c",
+"full_sentence": "The company apologized for the late arrival of the train.",
+"translation": "اعتذرت الشركة عن تأخر وصول القطار.",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 22"
+},
+{
+"start": "I'm going to travel to Egypt",
+"correct": "d",
+"full_sentence": "I'm going to travel to Egypt to see the Pyramids.",
+"translation": "سأسافر إلى مصر لرؤية الأهرامات.",
+"source": "Student Book",
+"exact_reference": "Reported Speech - Page 23"
+},
+{
+"start": "We visited some of the islands",
+"correct": "e",
+"full_sentence": "We visited some of the islands and we took a boat down the river.",
+"translation": "زرنا بعض الجزر وأخذنا قارباً في النهر.",
+"source": "Student Book",
+"exact_reference": "Writing - Page 25"
+}
+]
+},
+{
+"title": "تمرين المطابقة ٢ - Activity Book",
+"source": "Activity Book",
+"options": [
+{ "letter": "f", "text": "the southern hemisphere" },
+{ "letter": "g", "text": "had a beautiful architecture" },
+{ "letter": "h", "text": "scary movies" },
+{ "letter": "i", "text": "at our house on Saturday" },
+{ "letter": "j", "text": "to return home" },
+{ "letter": "k", "text": "shopping centers" }
+],
+"sentences": [
+{
+"start": "Australia is located in",
+"correct": "f",
+"full_sentence": "Australia is located in the southern hemisphere.",
+"translation": "تقع أستراليا في نصف الكرة الجنوبي.",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 10"
+},
+{
+"start": "We visited the Opera House which",
+"correct": "g",
+"full_sentence": "We visited the Opera House which had a beautiful architecture.",
+"translation": "زرنا دار الأوبرا التي كانت تتمتع بهندسة معمارية جميلة.",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 10"
+},
+{
+"start": "Max doesn't like",
+"correct": "h",
+"full_sentence": "Max doesn't like scary movies.",
+"translation": "ماكس لا يحب أفلام الرعب.",
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 13"
+},
+{
+"start": "We are having lunch",
+"correct": "i",
+"full_sentence": "We are having lunch at our house on Saturday.",
+"translation": "سنتناول الغداء في منزلنا يوم السبت.",
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 13"
+},
+{
+"start": "We had to prepare our luggage",
+"correct": "j",
+"full_sentence": "We had to prepare our luggage to return home.",
+"translation": "كان علينا تجهيز أمتعتنا للعودة إلى المنزل.",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 10"
+}
+]
+}
+]
+}

@@ -1,0 +1,130 @@
+{
+"questions": [
+{
+"question": "Which transport do you like to travel by?",
+"translation": "أي وسيلة نقل تفضل السفر بها؟",
+"keywords": ["plane", "train", "car", "ship", "bus"],
+"suggested_answers": [
+"I like to travel by plane.",
+"I like to travel by train.",
+"I like to travel by car.",
+"I like to travel by ship.",
+"I like to travel by bus."
+],
+"source": "Student Book",
+"exact_reference": "Speaking - Page 20"
+},
+{
+"question": "What do you usually pack when you go away for a short trip?",
+"translation": "ماذا تحزم عادةً عندما تذهب في رحلة قصيرة؟",
+"keywords": ["clothes", "shoes", "bag", "phone", "money"],
+"suggested_answers": [
+"I usually pack my clothes.",
+"I usually pack my shoes.",
+"I usually pack my bag.",
+"I usually pack my phone.",
+"I usually pack some money."
+],
+"source": "Student Book",
+"exact_reference": "Speaking - Page 20"
+},
+{
+"question": "Who do you usually travel with?",
+"translation": "مع من تسافر عادةً؟",
+"keywords": ["family", "friends", "parents", "brother", "sister"],
+"suggested_answers": [
+"I usually travel with my family.",
+"I usually travel with my friends.",
+"I usually travel with my parents.",
+"I usually travel with my brother.",
+"I usually travel with my sister."
+],
+"source": "Student Book",
+"exact_reference": "Speaking - Page 20"
+},
+{
+"question": "How was your last trip?",
+"translation": "كيف كانت رحلتك الأخيرة؟",
+"keywords": ["great", "amazing", "wonderful", "nice", "fantastic"],
+"suggested_answers": [
+"It was great.",
+"It was amazing.",
+"It was wonderful.",
+"It was nice.",
+"It was fantastic."
+],
+"source": "Student Book",
+"exact_reference": "Speaking - Page 20"
+},
+{
+"question": "How long have you studied English?",
+"translation": "منذ متى وأنت تدرس اللغة الإنجليزية؟",
+"keywords": ["years", "months", "since", "for", "grade"],
+"suggested_answers": [
+"I have studied English for five years.",
+"I have studied English for three years.",
+"I have studied English since primary school.",
+"I have studied English for six months.",
+"I have studied English since Grade 1."
+],
+"source": "Activity Book",
+"exact_reference": "Speaking - Page 10"
+},
+{
+"question": "What kind of food do you like?",
+"translation": "أي نوع من الطعام تحب؟",
+"keywords": ["traditional", "delicious", "fast", "healthy", "spicy"],
+"suggested_answers": [
+"I like traditional food.",
+"I like delicious food.",
+"I like fast food.",
+"I like healthy food.",
+"I like spicy food."
+],
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 21"
+},
+{
+"question": "What are you doing this evening?",
+"translation": "ماذا ستفعل هذا المساء؟",
+"keywords": ["homework", "TV", "reading", "studying", "friends"],
+"suggested_answers": [
+"I'm doing my homework.",
+"I'm watching TV.",
+"I'm reading a book.",
+"I'm studying for the exam.",
+"I'm meeting my friends."
+],
+"source": "Activity Book",
+"exact_reference": "Speaking - Page 10"
+},
+{
+"question": "How many languages can you speak?",
+"translation": "كم لغة تستطيع التحدث بها؟",
+"keywords": ["two", "three", "one", "Arabic", "English"],
+"suggested_answers": [
+"I can speak two languages.",
+"I can speak three languages.",
+"I can speak one language.",
+"I can speak Arabic and English.",
+"I can speak Arabic only."
+],
+"source": "Student Book",
+"exact_reference": "Speaking - Page 20"
+},
+{
+"question": "What is your father's job like?",
+"translation": "كيف تبدو وظيفة والدك؟",
+"keywords": ["interesting", "hard", "easy", "busy", "tiring"],
+"suggested_answers": [
+"It is interesting.",
+"It is hard.",
+"It is easy.",
+"He is busy.",
+"It is tiring."
+],
+"source": "Student Book",
+"exact_reference": "Speaking - Page 20"
+}
+]
+}
