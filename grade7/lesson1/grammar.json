@@ -60,7 +60,7 @@
 "id": "SB_G7_U1_G3",
 "unique_id": "SB_G7_U1_GrammarA_Q3",
 "q": "The school year ....... in April.",
-"o": ["begin", "begins", "beginning", "began"],
+"o": ["begin", "begins", "is beginning", "began"],
 "c": 1,
 "cat": "Grammar",
 "sub": "Simple Present",
