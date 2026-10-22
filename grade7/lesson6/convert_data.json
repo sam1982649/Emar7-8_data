@@ -1,0 +1,181 @@
+{
+"questions": [
+{
+"id": "SB_G7_U6_C1",
+"original": "Chris is a 9 year old kid.",
+"targetWord": "9 year old",
+"correctQuestion": "How old is Chris?",
+"correctQuestions": [
+"How old is Chris?"
+],
+"wh_word": "how old",
+"auxiliary": "is",
+"subject": "chris",
+"subject_type": "name_male",
+"category": "Age",
+"acceptedAnswers": [
+"How old is he?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U6_C2",
+"original": "Chris gave his friends helpful hints.",
+"targetWord": "helpful hints",
+"correctQuestion": "What did Chris give his friends?",
+"correctQuestions": [
+"What did Chris give his friends?"
+],
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "chris",
+"subject_type": "name_male",
+"category": "Object",
+"acceptedAnswers": [
+"What did he give his friends?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U6_C3",
+"original": "Chris's father was a basketball coach.",
+"targetWord": "a basketball coach",
+"correctQuestion": "What was his father's job?",
+"correctQuestions": [
+"What was his father's job?",
+"What does his father do?"
+],
+"wh_word": "what",
+"auxiliary": "was",
+"subject": "his father's job",
+"subject_type": "noun_thing",
+"category": "Job",
+"acceptedAnswers": [
+"What does his father do?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U6_C4",
+"original": "He had studied in the library.",
+"targetWord": "in the library",
+"correctQuestion": "Where had he studied?",
+"correctQuestions": [
+"Where had he studied?"
+],
+"wh_word": "where",
+"auxiliary": "had",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar B - Q3"
+},
+{
+"id": "SB_G7_U6_C5",
+"original": "My uncle had left.",
+"targetWord": "My uncle",
+"correctQuestion": "Who had left?",
+"correctQuestions": [
+"Who had left?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "my uncle",
+"subject_type": "noun_person",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar B - Q5"
+},
+{
+"id": "AB_G7_U6_C6",
+"original": "The tower cleans 30,000 cubic meters of air per hour.",
+"targetWord": "30,000 cubic meters",
+"correctQuestion": "How much air does the tower clean per hour?",
+"correctQuestions": [
+"How much air does the tower clean per hour?"
+],
+"wh_word": "how much",
+"auxiliary": "does",
+"subject": "the tower",
+"subject_type": "noun_thing",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G7_U6_C7",
+"original": "The Tower is made to clean the air.",
+"targetWord": "to clean the air",
+"correctQuestion": "Why is the Tower made?",
+"correctQuestions": [
+"Why is the Tower made?"
+],
+"wh_word": "why",
+"auxiliary": "is",
+"subject": "the tower",
+"subject_type": "noun_thing",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G7_U6_C8",
+"original": "The clean air is blown back into the environment.",
+"targetWord": "back into the environment",
+"correctQuestion": "Where is the clean air blown?",
+"correctQuestions": [
+"Where is the clean air blown?"
+],
+"wh_word": "where",
+"auxiliary": "is",
+"subject": "the clean air",
+"subject_type": "noun_thing",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G7_U6_C9",
+"original": "The doctor took off the plaster.",
+"targetWord": "the plaster",
+"correctQuestion": "What did the doctor take off?",
+"correctQuestions": [
+"What did the doctor take off?"
+],
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "the doctor",
+"subject_type": "noun_person",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar 1 - Q5"
+},
+{
+"id": "AB_G7_U6_C10",
+"original": "She went out to play.",
+"targetWord": "to play",
+"correctQuestion": "Why did she go out?",
+"correctQuestions": [
+"Why did she go out?"
+],
+"wh_word": "why",
+"auxiliary": "did",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar 1 - Q3"
+}
+]
+}
