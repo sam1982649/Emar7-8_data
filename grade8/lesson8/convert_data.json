@@ -1,0 +1,248 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة التحويل (Convert)",
+"description": "يتم استخراج أسئلة التحويل من جميع مصادر الدرس (النص، التمارين) بناءً على القواعد النحوية الموجودة في كل مصدر.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Grammar Exercises",
+"Student Book - After Reading",
+"Activity Book - Reading Text",
+"Activity Book - Grammar Exercises"
+],
+"grammar_focus": ["Simple Present", "Simple Past", "Present Continuous", "Future", "Modal Verbs", "Superlative Adjectives"],
+"wh_words": ["What", "How", "Why", "Who", "How many", "How much", "Where", "When", "What ... like", "How long"],
+"auxiliary_verbs": {
+"present": ["do", "does", "is", "are", "am"],
+"past": ["did", "was", "were"],
+"future": ["will", "is going to", "are going to", "am going to"],
+"present_perfect": ["have", "has"],
+"modal": ["can", "must", "should"]
+},
+"special_cases": [
+"الوقت (Time)",
+"المكان (Place)",
+"السبب (Reason)",
+"الطريقة (Manner)",
+"العدد (Quantity)",
+"السعر (Price)",
+"الصفة الشكلية (Physical Description)",
+"الصفة غير الشكلية (Quality)",
+"الشعور (Feeling)",
+"المهنة (Job)",
+"الملكية (Possession)",
+"الفاعل (Subject)",
+"المفعول به (Object)",
+"التكرار (Frequency)",
+"المدة (Duration)",
+"المسافة (Distance)"
+],
+"difficulty_levels": ["سهل", "متوسط", "صعب"],
+"selection_criteria": [
+"الجملة تحتوي على كلمة أو عبارة يمكن السؤال عنها",
+"الجملة مناسبة للتحويل إلى سؤال",
+"تنويع المصادر (Student Book + Activity Book)",
+"تنويع كلمات الاستفهام",
+"تنويع الأفعال المساعدة",
+"تغطية أكبر عدد من الحالات الخاصة",
+"تحديد المصدر بدقة"
+],
+"total_questions_recommended": "8-10 أسئلة لكل درس",
+"important_note": "⚠️ هذه المنهجية قابلة للتطبيق على أي درس. يتم تغيير القواعد النحوية حسب محتوى كل وحدة.",
+"applied_to_unit": {
+"grade": 8,
+"unit": 8,
+"title": "Fashion",
+"total_questions": 10,
+"grammar_focus": "Simple Present + Simple Past + Superlative Adjectives",
+"wh_words_used": ["What", "Where", "What ... like", "Why", "How", "How much"],
+"auxiliary_verbs_used": ["is", "did", "was", "are", "does", "do"],
+"special_cases_covered": [
+"المفعول به (Object)",
+"المكان (Place)",
+"الصفة غير الشكلية (Quality)",
+"السبب (Reason)",
+"المهنة (Job)",
+"الطريقة (Manner)",
+"الطقس (Weather)",
+"السعر (Price)"
+],
+"sources_distribution": {
+"Student Book": 7,
+"Activity Book": 3
+}
+}
+},
+"questions": [
+{
+"id": "SB_G8_U8_C1",
+"original": "English is the most difficult subject at school.",
+"targetWord": "the most difficult subject",
+"correctQuestion": "What is the most difficult subject at school?",
+"correctQuestions": [
+"What is the most difficult subject at school?"
+],
+"wh_word": "what",
+"auxiliary": "is",
+"subject": "the most difficult subject at school",
+"subject_type": "noun_thing",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "SB_G8_U8_C2",
+"original": "The rose lived in the woods.",
+"targetWord": "in the woods",
+"correctQuestion": "Where did the rose live?",
+"correctQuestions": [
+"Where did the rose live?"
+],
+"wh_word": "where",
+"auxiliary": "did",
+"subject": "the rose",
+"subject_type": "noun_thing",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Stories"
+},
+{
+"id": "SB_G8_U8_C3",
+"original": "She was so arrogant.",
+"targetWord": "so arrogant",
+"correctQuestion": "What was she like?",
+"correctQuestions": [
+"What was she like?"
+],
+"wh_word": "what ... like",
+"auxiliary": "was",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Quality",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Stories"
+},
+{
+"id": "SB_G8_U8_C4",
+"original": "Fashion shows are held to impress people.",
+"targetWord": "to impress people",
+"correctQuestion": "Why are fashion shows held?",
+"correctQuestions": [
+"Why are fashion shows held?"
+],
+"wh_word": "why",
+"auxiliary": "are",
+"subject": "fashion shows",
+"subject_type": "noun_plural",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G8_U8_C5",
+"original": "She hopes to become a designer.",
+"targetWord": "a designer",
+"correctQuestion": "What does she hope to become?",
+"correctQuestions": [
+"What does she hope to become?"
+],
+"wh_word": "what",
+"auxiliary": "does",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Job",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Vocabulary"
+},
+{
+"id": "AB_G8_U8_C6",
+"original": "My family went to the countryside.",
+"targetWord": "to the countryside",
+"correctQuestion": "Where did your family go?",
+"correctQuestions": [
+"Where did your family go?"
+],
+"wh_word": "where",
+"auxiliary": "did",
+"subject": "your family",
+"subject_type": "noun_plural",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G8_U8_C7",
+"original": "He keeps fit by jogging 5 miles a day.",
+"targetWord": "by jogging 5 miles a day",
+"correctQuestion": "How does he keep fit?",
+"correctQuestions": [
+"How does he keep fit?"
+],
+"wh_word": "how",
+"auxiliary": "does",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Manner",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Vocabulary B"
+},
+{
+"id": "SB_G8_U8_C8",
+"original": "It's hot today.",
+"targetWord": "hot",
+"correctQuestion": "What is the weather like?",
+"correctQuestions": [
+"What is the weather like?"
+],
+"wh_word": "what ... like",
+"auxiliary": "is",
+"subject": "the weather",
+"subject_type": "noun_thing",
+"category": "Weather",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G8_U8_C9",
+"original": "Everest is the highest mountain in the world.",
+"targetWord": "the highest mountain",
+"correctQuestion": "What is the highest mountain in the world?",
+"correctQuestions": [
+"What is the highest mountain in the world?"
+],
+"wh_word": "what",
+"auxiliary": "is",
+"subject": "the highest mountain in the world",
+"subject_type": "noun_thing",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "SB_G8_U8_C10",
+"original": "The shoes cost 13,000 S.P.",
+"targetWord": "13,000 S.P.",
+"correctQuestion": "How much do the shoes cost?",
+"correctQuestions": [
+"How much do the shoes cost?"
+],
+"wh_word": "how much",
+"auxiliary": "do",
+"subject": "the shoes",
+"subject_type": "noun_plural",
+"category": "Price",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Listening"
+}
+]
+}
