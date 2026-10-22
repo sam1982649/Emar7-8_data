@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "R2_T1_P1",
+"text_group": "R2_Reading_Benefits",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Reading",
+"content_exam": "Reading is one of the simplest forms of relaxation for mind and body. Relaxation reading helps us take our minds off our problems even if only for a short time. This helps to reduce stress levels. The pressures of work and life these days mean that more people are getting stressed and find it difficult to relax. A good story can aid you in relaxing the mind. Reading can also be fun. Lately, fewer people are reading books and more people are watching television and playing video games. Many people have forgotten how much fun it is to read a book.",
+"questions": [
+{
+"id": "r2_t1_q1",
+"question": "Reading is one of the simplest forms of ........ for mind and body.",
+"options": ["exercise", "relaxation", "work", "entertainment"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: relaxation\n📝 الترجمة: القراءة هي أحد أبسط أشكال الاسترخاء للعقل والجسد.\n💡 الشرح: النص يقول: 'Reading is one of the simplest forms of relaxation for mind and body.'"
+},
+{
+"id": "r2_t1_q2",
+"question": "Relaxation reading helps us take our minds off our ........ .",
+"options": ["books", "problems", "work", "friends"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: problems\n📝 الترجمة: قراءة الاسترخاء تساعدنا في إبعاد عقولنا عن مشاكلنا.\n💡 الشرح: النص يقول: 'Relaxation reading helps us take our minds off our problems.'"
+},
+{
+"id": "r2_t1_q3",
+"question": "Lately, more people are watching television and playing ........ .",
+"options": ["sports", "music", "video games", "cards"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: video games\n📝 الترجمة: مؤخراً، المزيد من الناس يشاهدون التلفاز ويلعبون ألعاب الفيديو.\n💡 الشرح: النص يقول: 'fewer people are reading books and more people are watching television and playing video games.'"
+},
+{
+"id": "r2_t1_q4",
+"question": "A book can open a world of excitement and ........ for the reader.",
+"options": ["adventure", "boredom", "sadness", "fear"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: adventure\n📝 الترجمة: يمكن للكتاب أن يفتح عالمًا من الإثارة والمغامرة للقارئ.\n💡 الشرح: النص يقول: 'A book can open a world of excitement and adventure for the reader.'"
+},
+{
+"id": "r2_t1_q5",
+"question": "Many people have forgotten how much fun it is to ........ .",
+"options": ["watch TV", "read a book", "play games", "watch a film"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: read a book\n📝 الترجمة: كثير من الناس نسوا كم هو ممتع قراءة كتاب.\n💡 الشرح: النص يقول: 'Many people have forgotten how much fun it is to read a book.'"
+}
+]
+},
+{
+"id": "R2_T1_P2",
+"text_group": "R2_Reading_Benefits",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Reading (Continued)",
+"content_exam": "A book can open a world of excitement and adventure for the reader. Reading helps improve your knowledge and increases your understanding of the world. Choosing a book that suits you is as easy as choosing a DVD! There are many different kinds of books, and authors have different styles of writing. Most people have a favourite actor or a kind of film. It is just as easy to have a favourite book or author. There are books for everyone: Fiction, Romance, Thriller, Action Adventure, or Horror. Why don't you start reading a new book today? You might be lucky enough to find a book that changes your life!",
+"questions": [
+{
+"id": "r2_t1_q6",
+"question": "Reading helps reduce stress levels.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: القراءة تساعد في تقليل مستويات التوتر.\n💡 الشرح: النص يقول: 'This helps to reduce stress levels.'"
+},
+{
+"id": "r2_t1_q7",
+"question": "More people are reading books nowadays.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: المزيد من الناس يقرؤون الكتب هذه الأيام.\n💡 الشرح: النص يقول: 'fewer people are reading books and more people are watching television and playing video games.'"
+},
+{
+"id": "r2_t1_q8",
+"question": "There are books for everyone: Fiction, Romance, Thriller, Action Adventure, or Horror.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: هناك كتب للجميع: خيال، رومانسية، إثارة، مغامرة أكشن، أو رعب.\n💡 الشرح: النص يقول: 'There are books for everyone: Fiction, Romance, Thriller, Action Adventure, or Horror.'"
+},
+{
+"id": "r2_t1_q9",
+"question": "How can reading help people?",
+"type": "answer",
+"keywords": ["take our minds off our problems", "reduce stress"],
+"explanation": "✅ الإجابة المتوقعة: take our minds off our problems and reduce stress\n📝 الترجمة: كيف يمكن للقراءة أن تساعد الناس؟\n💡 الشرح: النص يقول: 'helps us take our minds off our problems' and 'helps to reduce stress levels.'"
+},
+{
+"id": "r2_t1_q10",
+"question": "What types of books are mentioned in the text?",
+"type": "answer",
+"keywords": ["Fiction", "Romance", "Thriller", "Action Adventure", "Horror"],
+"explanation": "✅ الإجابة المتوقعة: Fiction, Romance, Thriller, Action Adventure, and Horror\n📝 الترجمة: ما هي أنواع الكتب المذكورة في النص؟\n💡 الشرح: النص يذكر: 'Fiction, Romance, Thriller, Action Adventure, or Horror.'"
+}
+]
+},
+{
+"id": "R2_T2_P1",
+"text_group": "R2_Differences_Between_People",
+"part": 1,
+"type": "choice",
+"source": "progress_test",
+"source_text": "Differences between People",
+"content_exam": "Family behaviors and characteristics are noted by adoring parents who think that their baby looks like another family member or definitely takes after the mother's side or, without a doubt, has his father's nose. Eye colour, skin colour and the hair are all different and depend on inherited genes. Hair can be fine, thick, straight or curly. European people in general have paler skin than people who come from Africa or Asia. Skin can change colour if exposed to sunlight. The rate at which we develop and grow is variable.",
+"questions": [
+{
+"id": "r2_t2_q1",
+"question": "Family behaviors and characteristics are noted by ........ parents.",
+"options": ["angry", "adoring", "strict", "tired"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: adoring\n📝 الترجمة: سلوكيات وخصائص العائلة يلاحظها الآباء المحبون.\n💡 الشرح: النص يقول: 'noted by adoring parents'."
+},
+{
+"id": "r2_t2_q2",
+"question": "Eye colour, skin colour and hair depend on inherited ........ .",
+"options": ["food", "environment", "genes", "education"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: genes\n📝 الترجمة: لون العين، لون البشرة والشعر يعتمدون على الجينات الوراثية.\n💡 الشرح: النص يقول: 'depend on inherited genes'."
+},
+{
+"id": "r2_t2_q3",
+"question": "European people in general have ........ skin than people from Africa or Asia.",
+"options": ["darker", "paler", "thicker", "thinner"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: paler\n📝 الترجمة: الناس الأوروبيون عمومًا لديهم بشرة أفتح من الناس من أفريقيا أو آسيا.\n💡 الشرح: النص يقول: 'European people in general have paler skin than people who come from Africa or Asia.'"
+},
+{
+"id": "r2_t2_q4",
+"question": "Skin can change colour if exposed to ........ .",
+"options": ["water", "air", "sunlight", "wind"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: sunlight\n📝 الترجمة: يمكن للبشرة أن تغير لونها إذا تعرضت لأشعة الشمس.\n💡 الشرح: النص يقول: 'Skin can change colour if exposed to sunlight.'"
+},
+{
+"id": "r2_t2_q5",
+"question": "Hair can be fine, thick, straight or ........ .",
+"options": ["long", "short", "curly", "dark"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: curly\n📝 الترجمة: يمكن أن يكون الشعر ناعماً، كثيفاً، مستقيماً أو مجعداً.\n💡 الشرح: النص يقول: 'Hair can be fine, thick, straight or curly.'"
+}
+]
+},
+{
+"id": "R2_T2_P2",
+"text_group": "R2_Differences_Between_People",
+"part": 2,
+"type": "tf_answer",
+"source": "progress_test",
+"source_text": "Differences between People (Continued)",
+"content_exam": "Boys and girls of the same age show big differences in growth. At the age of 12, girls are much taller than boys, but at 16, boys grow up and overtake the girls in height and body strength. The food we eat will also determine how we grow and gives us strong bones. A lack of activity and eating too much sugary food can result in people gaining unnecessary amounts of weight. It seems unfair that one person can eat all sorts of fattening food and not put on weight while others just 'by looking at a cream cake' can put on pounds or kilos.",
+"questions": [
+{
+"id": "r2_t2_q6",
+"question": "Boys are taller than girls at the age of 12.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: الأولاد أطول من الفتيات في عمر 12.\n💡 الشرح: النص يقول: 'At the age of 12, girls are much taller than boys.'"
+},
+{
+"id": "r2_t2_q7",
+"question": "Skin can change colour if exposed to sunlight.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يمكن للبشرة أن تغير لونها إذا تعرضت لأشعة الشمس.\n💡 الشرح: النص يقول: 'Skin can change colour if exposed to sunlight.'"
+},
+{
+"id": "r2_t2_q8",
+"question": "Eating too much sugary food results in losing weight.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: تناول الكثير من السكريات يؤدي إلى فقدان الوزن.\n💡 الشرح: النص يقول: 'eating too much sugary food can result in people gaining unnecessary amounts of weight.'"
+},
+{
+"id": "r2_t2_q9",
+"question": "What causes pale skin to become tanned?",
+"type": "answer",
+"keywords": ["exposed to sunlight"],
+"explanation": "✅ الإجابة المتوقعة: exposed to sunlight\n📝 الترجمة: ما الذي يسبب اسمرار البشرة الفاتحة؟\n💡 الشرح: النص يقول: 'Skin can change colour if exposed to sunlight.'"
+},
+{
+"id": "r2_t2_q10",
+"question": "How do girls and boys differ while growing up?",
+"type": "answer",
+"keywords": ["girls are much taller than boys at 12", "boys overtake girls at 16"],
+"explanation": "✅ الإجابة المتوقعة: girls are much taller than boys at 12, but boys overtake girls at 16\n📝 الترجمة: كيف يختلف الفتيات والفتيان أثناء النمو؟\n💡 الشرح: النص يقول: 'At the age of 12, girls are much taller than boys, but at 16, boys grow up and overtake the girls.'"
+}
+]
+}
+]
+}

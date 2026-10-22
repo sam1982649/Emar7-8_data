@@ -1,0 +1,148 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة الإجابة الحرة (Free Answer)",
+"description": "تم استخراج أسئلة الإجابة الحرة من مصادر الدرس (كتاب الطالب، كتاب النشاط) بناءً على الجمل العامة والمعلوماتية التي تتيح للطالب التعبير عن رأيه أو معرفته.",
+"applicable_to": "جميع الدروس",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Grammar Exercises",
+"Activity Book - Reading Text",
+"Activity Book - Listening",
+"Activity Book - Vocabulary"
+],
+"selection_criteria": [
+"السؤال عام ولا يحتاج إلى قراءة النص للإجابة عليه",
+"الجواب مفتوح ويعتمد على معرفة الطالب أو رأيه الشخصي",
+"تنويع المواضيع (القراءة، الطقس، الصحة، الزراعة، الكتب)",
+"الأسئلة موجهة للطالب بصيغة المخاطب"
+],
+"wh_words": ["What", "Why", "How", "Which"],
+"answer_type": "إجابة مفتوحة (جملة أو أكثر)",
+"verification_method": "البحث عن الكلمات المفتاحية في إجابة الطالب",
+"total_questions": 7,
+"applied_to_unit": {
+"grade": 8,
+"unit": 102,
+"title": "Review 2",
+"total_questions": 7,
+"sources": {
+"student_book": 3,
+"activity_book": 4
+}
+}
+},
+"questions": [
+{
+"id": "R2_F1",
+"question": "What kind of books do you like to read? Why?",
+"translation": "ما نوع الكتب التي تحب قراءتها؟ ولماذا؟",
+"keywords": ["fiction", "romance", "thriller", "adventure", "horror", "science", "comics", "stories"],
+"suggested_answers": [
+"I like reading adventure books because they are exciting.",
+"I like reading science books because they are interesting.",
+"I like reading stories because they are fun."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Personal Preference",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "R2_F2",
+"question": "Why do you think fewer people read books nowadays?",
+"translation": "لماذا تعتقد أن عدداً أقل من الناس يقرأ الكتب هذه الأيام؟",
+"keywords": ["technology", "phones", "TV", "video games", "internet", "social media", "time", "busy"],
+"suggested_answers": [
+"Because they spend more time on phones and social media.",
+"Because they are busy with work and life.",
+"Because they prefer watching TV and playing video games."
+],
+"wh_word": "Why",
+"auxiliary": "do",
+"category": "Opinion",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "R2_F3",
+"question": "What book would you recommend to a friend? Why?",
+"translation": "ما الكتاب الذي تنصح به صديقك؟ ولماذا؟",
+"keywords": ["recommend", "book", "friend", "interesting", "useful", "story", "adventure", "knowledge"],
+"suggested_answers": [
+"I would recommend a story book because it is interesting.",
+"I would recommend a science book because it is useful.",
+"I would recommend an adventure book because it is exciting."
+],
+"wh_word": "What",
+"auxiliary": "would",
+"category": "Recommendation",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "R2_F4",
+"question": "What happens if you eat too much sugary food?",
+"translation": "ماذا يحدث إذا تناولت الكثير من الأطعمة السكرية؟",
+"keywords": ["weight", "gain", "health", "sugar", "diabetes", "teeth", "energy", "illness"],
+"suggested_answers": [
+"You may gain weight.",
+"You may get health problems like diabetes.",
+"It can affect your teeth."
+],
+"wh_word": "What",
+"auxiliary": "does",
+"category": "Health",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "R2_F5",
+"question": "What do you do to stay healthy?",
+"translation": "ماذا تفعل لتبقى بصحة جيدة؟",
+"keywords": ["exercise", "sport", "eat", "vegetables", "fruits", "sleep", "water", "walk", "run"],
+"suggested_answers": [
+"I exercise every day.",
+"I eat fruits and vegetables.",
+"I drink water and sleep well."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Health",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "R2_F6",
+"question": "What do farmers plant in your country?",
+"translation": "ماذا يزرع المزارعون في بلدك؟",
+"keywords": ["wheat", "corn", "olives", "grapes", "vegetables", "fruits", "rice", "cotton", "tomatoes", "potatoes"],
+"suggested_answers": [
+"Farmers plant wheat and corn.",
+"Farmers plant olives and grapes.",
+"Farmers plant vegetables like tomatoes and potatoes."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Agriculture",
+"source": "Activity Book",
+"exact_reference": "Vocabulary"
+},
+{
+"id": "R2_F7",
+"question": "What kind of weather do you prefer? Why?",
+"translation": "ما نوع الطقس الذي تفضله؟ ولماذا؟",
+"keywords": ["sunny", "rainy", "cloudy", "snowy", "hot", "cold", "mild", "warm", "windy"],
+"suggested_answers": [
+"I prefer sunny weather because I can play outside.",
+"I prefer rainy weather because it's cool and relaxing.",
+"I prefer mild weather because it is comfortable."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Personal Preference",
+"source": "Activity Book",
+"exact_reference": "Listening"
+}
+]
+}

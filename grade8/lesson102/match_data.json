@@ -1,0 +1,151 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة المطابقة (Match)",
+"description": "تم استخراج أسئلة المطابقة من مصادر الدرس (كتاب الطالب، كتاب النشاط) بناءً على الجمل التي يمكن تقسيمها إلى بداية ونهاية.",
+"applicable_to": "جميع الدروس",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Grammar Exercises",
+"Activity Book - Reading Text",
+"Activity Book - Grammar Exercises"
+],
+"structure": {
+"per_group": "5 بدايات + 6 نهايات (واحدة زائدة)"
+},
+"selection_criteria": [
+"تنويع المصادر داخل كل مجموعة",
+"تجنب الجمل المتشابهة",
+"توزيع بين النص والتمارين"
+],
+"applied_to_unit": {
+"grade": 8,
+"unit": 102,
+"title": "Review 2",
+"total_groups": 2,
+"groups": {
+"group_1": {
+"source": "Student Book",
+"sources_used": ["Reading Text (2)", "Grammar Exercises (3)"]
+},
+"group_2": {
+"source": "Activity Book",
+"sources_used": ["Reading Text (2)", "Grammar Exercises (3)"]
+}
+}
+}
+},
+"groups": [
+{
+"id": "R2_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "R2_Reading_Benefits",
+"options": [
+{ "letter": "a", "text": "because our savings are not enough." },
+{ "letter": "b", "text": "new computer software." },
+{ "letter": "c", "text": "in relaxing the mind." },
+{ "letter": "d", "text": "your knowledge." },
+{ "letter": "e", "text": "favourite actor." },
+{ "letter": "f", "text": "changes your life." }
+],
+"sentences": [
+{
+"start": "We have to stay home this summer",
+"correct": "a",
+"full_sentence": "We have to stay home this summer because our savings are not enough.",
+"translation": "علينا البقاء في المنزل هذا الصيف لأن مدخراتنا ليست كافية.",
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "The engineer installed a",
+"correct": "b",
+"full_sentence": "The engineer installed a new computer software.",
+"translation": "قام المهندس بتثبيت برنامج كمبيوتر جديد.",
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "A good story can aid you",
+"correct": "c",
+"full_sentence": "A good story can aid you in relaxing the mind.",
+"translation": "القصة الجيدة يمكن أن تساعدك في استرخاء العقل.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Reading helps improve",
+"correct": "d",
+"full_sentence": "Reading helps improve your knowledge.",
+"translation": "القراءة تساعد في تحسين معرفتك.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Most people have a",
+"correct": "e",
+"full_sentence": "Most people have a favourite actor.",
+"translation": "معظم الناس لديهم ممثل مفضل.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+}
+]
+},
+{
+"id": "R2_M2",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "R2_Differences_Between_People",
+"options": [
+{ "letter": "a", "text": "exposed to sunlight." },
+{ "letter": "b", "text": "completely blank." },
+{ "letter": "c", "text": "the letters every morning." },
+{ "letter": "d", "text": "depend on inherited genes." },
+{ "letter": "e", "text": "people gaining unnecessary amounts of weight." },
+{ "letter": "f", "text": "height and body strength." }
+],
+"sentences": [
+{
+"start": "Skin can change colour if",
+"correct": "a",
+"full_sentence": "Skin can change colour if exposed to sunlight.",
+"translation": "يمكن للبشرة أن تغير لونها إذا تعرضت لأشعة الشمس.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Your exam paper is",
+"correct": "b",
+"full_sentence": "Your exam paper is completely blank.",
+"translation": "ورقة امتحانك فارغة تماماً.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "The secretary types",
+"correct": "c",
+"full_sentence": "The secretary types the letters every morning.",
+"translation": "السكرتيرة تكتب الرسائل كل صباح.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "Skin colour and the hair",
+"correct": "d",
+"full_sentence": "Skin colour and the hair depend on inherited genes.",
+"translation": "لون البشرة والشعر يعتمدان على الجينات الوراثية.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Too much sugary food can result in",
+"correct": "e",
+"full_sentence": "Too much sugary food can result in people gaining unnecessary amounts of weight.",
+"translation": "الكثير من الأطعمة السكرية يمكن أن يؤدي إلى زيادة الوزن غير الضرورية.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+}
+]
+}
+]
+}

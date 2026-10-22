@@ -1,0 +1,273 @@
+{
+"vocabulary": [
+{ "word": "relaxation", "translation": "استرخاء", "source": "Student Book - Reading Text" },
+{ "word": "stress levels", "translation": "مستويات التوتر", "source": "Student Book - Reading Text" },
+{ "word": "pressures", "translation": "ضغوط", "source": "Student Book - Reading Text" },
+{ "word": "aid", "translation": "يساعد / يعين", "source": "Student Book - Reading Text" },
+{ "word": "knowledge", "translation": "المعرفة / المعلومات", "source": "Student Book - Vocabulary" },
+{ "word": "understanding", "translation": "فهم", "source": "Student Book - Reading Text" },
+{ "word": "suits", "translation": "يناسب", "source": "Student Book - Vocabulary" },
+{ "word": "styles", "translation": "أساليب", "source": "Student Book - Reading Text" },
+{ "word": "favourite", "translation": "مفضل", "source": "Student Book - Reading Text" },
+{ "word": "author", "translation": "كاتب / مؤلف", "source": "Student Book - Vocabulary" },
+{ "word": "Fiction", "translation": "خيال", "source": "Student Book - Reading Text" },
+{ "word": "Romance", "translation": "رومانسية", "source": "Student Book - Reading Text" },
+{ "word": "Thriller", "translation": "إثارة", "source": "Student Book - Vocabulary" },
+{ "word": "Action Adventure", "translation": "مغامرة أكشن", "source": "Student Book - Reading Text" },
+{ "word": "Horror", "translation": "رعب", "source": "Student Book - Reading Text" },
+{ "word": "reduce", "translation": "يقلل / ينقص", "source": "Student Book - Vocabulary" },
+{ "word": "forget", "translation": "ينسى", "source": "Student Book - Reading Text" },
+{ "word": "adventure", "translation": "مغامرة", "source": "Student Book - Reading Text" },
+{ "word": "excitement", "translation": "إثارة", "source": "Student Book - Reading Text" },
+{ "word": "reader", "translation": "قارئ", "source": "Student Book - Reading Text" },
+{ "word": "improve", "translation": "يحسن", "source": "Student Book - Reading Text" },
+{ "word": "increases", "translation": "يزيد", "source": "Student Book - Reading Text" },
+{ "word": "choosing", "translation": "اختيار", "source": "Student Book - Reading Text" },
+{ "word": "changes", "translation": "يغير", "source": "Student Book - Reading Text" },
+{ "word": "lucky", "translation": "محظوظ", "source": "Student Book - Reading Text" },
+{ "word": "wish", "translation": "يتمنى", "source": "Student Book - Grammar" },
+{ "word": "professional", "translation": "محترف", "source": "Student Book - Grammar" },
+{ "word": "grapes", "translation": "عنب", "source": "Student Book - Grammar" },
+{ "word": "comics", "translation": "قصص مصورة", "source": "Student Book - Grammar" },
+{ "word": "restaurant", "translation": "مطعم", "source": "Student Book - Grammar" },
+{ "word": "software", "translation": "برنامج", "source": "Student Book - Grammar" },
+{ "word": "engineer", "translation": "مهندس", "source": "Student Book - Grammar" },
+{ "word": "mountains", "translation": "جبال", "source": "Student Book - Grammar" },
+{ "word": "installed", "translation": "مثبت", "source": "Student Book - Grammar" },
+{ "word": "behaviors", "translation": "سلوكيات", "source": "Activity Book - Reading Text" },
+{ "word": "characteristics", "translation": "خصائص", "source": "Activity Book - Reading Text" },
+{ "word": "adoring", "translation": "محب / متعبد", "source": "Activity Book - Reading Text" },
+{ "word": "parents", "translation": "آباء", "source": "Activity Book - Reading Text" },
+{ "word": "inherited", "translation": "وراثي", "source": "Activity Book - Reading Text" },
+{ "word": "genes", "translation": "جينات", "source": "Activity Book - Reading Text" },
+{ "word": "fine", "translation": "ناعم", "source": "Activity Book - Reading Text" },
+{ "word": "thick", "translation": "كثيف", "source": "Activity Book - Reading Text" },
+{ "word": "straight", "translation": "مستقيم", "source": "Activity Book - Reading Text" },
+{ "word": "curly", "translation": "مجعد", "source": "Activity Book - Reading Text" },
+{ "word": "European", "translation": "أوروبي", "source": "Activity Book - Reading Text" },
+{ "word": "paler", "translation": "أفتح", "source": "Activity Book - Reading Text" },
+{ "word": "exposed", "translation": "معرض / مكشوف", "source": "Activity Book - Reading Text" },
+{ "word": "sunlight", "translation": "ضوء الشمس", "source": "Activity Book - Reading Text" },
+{ "word": "rate", "translation": "معدل", "source": "Activity Book - Reading Text" },
+{ "word": "develop", "translation": "يتطور", "source": "Activity Book - Reading Text" },
+{ "word": "grow", "translation": "ينمو", "source": "Activity Book - Reading Text" },
+{ "word": "variable", "translation": "متغير / قابل للتغيير", "source": "Activity Book - Reading Text" },
+{ "word": "growth", "translation": "نمو", "source": "Activity Book - Reading Text" },
+{ "word": "overtake", "translation": "يتفوق على", "source": "Activity Book - Reading Text" },
+{ "word": "height", "translation": "طول", "source": "Activity Book - Reading Text" },
+{ "word": "strength", "translation": "قوة", "source": "Activity Book - Reading Text" },
+{ "word": "bones", "translation": "عظام", "source": "Activity Book - Reading Text" },
+{ "word": "lack", "translation": "نقص", "source": "Activity Book - Reading Text" },
+{ "word": "activity", "translation": "نشاط", "source": "Activity Book - Reading Text" },
+{ "word": "sugary", "translation": "سكري", "source": "Activity Book - Reading Text" },
+{ "word": "weight", "translation": "وزن", "source": "Activity Book - Reading Text" },
+{ "word": "fattening", "translation": "مسمن", "source": "Activity Book - Reading Text" },
+{ "word": "unfair", "translation": "غير عادل", "source": "Activity Book - Reading Text" },
+{ "word": "pounds", "translation": "باوندات", "source": "Activity Book - Reading Text" },
+{ "word": "kilos", "translation": "كيلوغرامات", "source": "Activity Book - Reading Text" },
+{ "word": "novelist", "translation": "روائي", "source": "Activity Book - Grammar" },
+{ "word": "addicted", "translation": "مدمن", "source": "Activity Book - Grammar" },
+{ "word": "regular", "translation": "نظامي / أساسي", "source": "Activity Book - Grammar" },
+{ "word": "owner", "translation": "مالك", "source": "Activity Book - Grammar" },
+{ "word": "emergency", "translation": "طوارئ", "source": "Activity Book - Grammar" },
+{ "word": "secretary", "translation": "سكرتيرة", "source": "Activity Book - Grammar" },
+{ "word": "letters", "translation": "رسائل", "source": "Activity Book - Grammar" },
+{ "word": "spider", "translation": "عنكبوت", "source": "Activity Book - Grammar" },
+{ "word": "snake", "translation": "ثعبان", "source": "Activity Book - Grammar" },
+{ "word": "lane", "translation": "حارة", "source": "Activity Book - Grammar" },
+{ "word": "calculator", "translation": "آلة حاسبة", "source": "Activity Book - Grammar" },
+{ "word": "exhausts", "translation": "عوادم", "source": "Activity Book - Grammar" },
+{ "word": "vehicles", "translation": "مركبات", "source": "Activity Book - Grammar" },
+{ "word": "invention", "translation": "اختراع", "source": "Progress Test 2 - Writing" },
+{ "word": "useful", "translation": "مفيد", "source": "Progress Test 2 - Writing" },
+{ "word": "inventor", "translation": "مخترع", "source": "Progress Test 2 - Writing" },
+{ "word": "mobile phone", "translation": "هاتف محمول", "source": "Progress Test 2 - Writing" }
+],
+"tables": [
+{
+"title": "Wish (الماضي البسيط مع Wish)",
+"headers": ["Usage", "Form", "Example"],
+"rows": [
+["أمنية في الحاضر", "wish + past simple", "I wish I didn't say that."],
+["أمنية في الحاضر (قدرة)", "wish + could", "I wish I could play the piano."]
+],
+"explanation": "نستخدم Wish للتعبير عن أمنية في الحاضر. يأتي بعدها الماضي البسيط أو could للقدرة.",
+"examples": "I wish I didn't say that. - I wish we didn't have to stay home. - Hani wishes he had a car."
+},
+{
+"title": "Articles (أدوات التعريف والتنكير)",
+"headers": ["Article", "Usage", "Example"],
+"rows": [
+["a", "قبل الأسماء التي تبدأ بحرف ساكن", "He wishes he became a professional player."],
+["an", "قبل الأسماء التي تبدأ بحرف علة", "an engineer"],
+["the", "للتعريف (شيء محدد أو معروف)", "the museum"],
+["x", "مع أسماء الرياضات (Zero Article)", "Tom likes football very much."]
+],
+"explanation": "نستخدم 'a' و 'an' للتنكير (شيء غير محدد). نستخدم 'the' للتعريف (شيء محدد أو معروف). لا نستخدم أداة تعريف مع أسماء الرياضات.",
+"examples": "Tom likes football very much. - He wishes he became a professional player."
+},
+{
+"title": "Passive Voice (المبني للمجهول)",
+"headers": ["Tense", "Form", "Example"],
+"rows": [
+["Present", "am/is/are + past participle", "The grapes are grown in our garden."],
+["Past", "was/were + past participle", "The first fast food restaurant was built in 1916."]
+],
+"explanation": "يستخدم المبني للمجهول عندما يكون المفعول به هو الأهم في الجملة. يتكون من: be + past participle.",
+"examples": "The grapes are grown in our garden. - A new software was installed by the engineer. - Air is polluted by factories."
+},
+{
+"title": "Reported Speech (الكلام المنقول)",
+"headers": ["Direct Speech", "Reported Speech", "Example"],
+"rows": [
+["Present Simple", "Past Simple", "Ken said, 'Joy reads comics.' → Ken said that Joy read comics."],
+["Present Continuous", "Past Continuous", "She said, 'I am reading.' → She said she was reading."],
+["Past Simple", "Past Perfect", "He said, 'I bought a car.' → He said he had bought a car."],
+["will", "would", "She said, 'I will help you.' → She said she would help me."],
+["can", "could", "He said, 'I can swim.' → He said he could swim."]
+],
+"explanation": "عندما يكون الفعل الرئيسي في الماضي (said, told)، تتحول جميع الأزمنة إلى الماضي في الكلام المنقول.",
+"examples": "Ken said that Joy read comics. - She said she was reading. - He said he had bought a car."
+},
+{
+"title": "Question Tags (السؤال المذيل)",
+"headers": ["Statement", "Question Tag", "Example"],
+"rows": [
+["جملة مثبتة", "فعل مساعد منفي", "You're addicted to shopping, aren't you?"],
+["جملة منفية", "فعل مساعد مثبت", "They weren't part of the team, were they?"],
+["جملة منفية (mustn't)", "فعل مساعد مثبت", "They mustn't come early, mustn't they?"]
+],
+"explanation": "في السؤال المذيل، نكرر الفعل المساعد مع عكس الإشارة.",
+"examples": "You're addicted to shopping, aren't you? - They mustn't come early, mustn't they? - He wouldn't agree with you, would he?"
+},
+{
+"title": "Present Perfect (المضارع التام)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["have/has + past participle", "حدث بدأ في الماضي وما زال له تأثير", "The novelist has already written eight pages."],
+["have/has + past participle", "نتيجة ظاهرة الآن", "My sister has eaten everything."]
+],
+"explanation": "يستخدم المضارع التام للتعبير عن حدث بدأ في الماضي وما زال له تأثير حتى الآن. نستخدم 'already' معه.",
+"examples": "The novelist has already written eight pages. - My sister has eaten everything."
+},
+{
+"title": "Present Continuous (المضارع المستمر)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["am/is/are + verb + ing", "حدث يحدث الآن", "I am not reading this book now."]
+],
+"explanation": "يستخدم المضارع المستمر للتعبير عن حدث يحدث في لحظة التحدث.",
+"examples": "I am not reading this book now."
+},
+{
+"title": "Comparatives (المقارنة)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["صفة + er + than", "مقارنة بين شيئين (كلمات قصيرة)", "Girls are taller than boys."],
+["more + صفة + than", "مقارنة بين شيئين (كلمات طويلة)", "A computer is more expensive than a calculator."]
+],
+"explanation": "نستخدم المقارنة للمقارنة بين شيئين. للكلمات القصيرة نضيف er، وللكلمات الطويلة نستخدم more.",
+"examples": "Girls are taller than boys. - A spider is more frightening than a snake. - A computer is more expensive than a calculator."
+},
+{
+"title": "Superlatives (التفضيل)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["the + صفة + est", "مقارنة بين أكثر من شيئين (كلمات قصيرة)", "The Nile is one of the longest rivers."],
+["the most + صفة", "مقارنة بين أكثر من شيئين (كلمات طويلة)", "This is the most interesting book."]
+],
+"explanation": "نستخدم التفضيل للمقارنة بين أكثر من شيئين. للكلمات القصيرة نضيف est، وللكلمات الطويلة نستخدم most.",
+"examples": "The Nile is one of the longest rivers. - This is the most interesting book."
+},
+{
+"title": "Object Pronouns (ضمائر المفعول به)",
+"headers": ["Subject Pronoun", "Object Pronoun", "Example"],
+"rows": [
+["I", "me", "She told me."],
+["we", "us", "Relaxation reading helps us."],
+["he", "him", "I called him."],
+["she", "her", "He helped her."],
+["they", "them", "She saw them."]
+],
+"explanation": "ضمائر المفعول به تأتي بعد الفعل أو حرف الجر (me, us, him, her, it, them).",
+"examples": "Relaxation reading helps us take our minds off our problems."
+},
+{
+"title": "Prepositions (حروف الجر المهمة)",
+"headers": ["Preposition", "Usage", "Example"],
+"rows": [
+["on", "depend on", "depend on inherited genes."],
+["of", "lack of", "lack of activity."],
+["of", "kinds of", "kinds of books."],
+["of", "styles of", "styles of writing."],
+["to", "exposed to", "exposed to sunlight."]
+],
+"explanation": "بعض الأفعال تأتي مع حروف جر محددة يجب حفظها.",
+"examples": "depend on, lack of, kinds of, styles of, exposed to"
+},
+{
+"title": "Gerunds (الأسماء المشتقة من الأفعال)",
+"headers": ["Usage", "Form", "Example"],
+"rows": [
+["كفاعل", "verb + ing", "Reading helps improve your knowledge."],
+["بعد start", "verb + ing", "Less people start reading."]
+],
+"explanation": "نستخدم الفعل مع ing كفاعل أو بعد بعض الأفعال مثل start.",
+"examples": "Reading helps improve your knowledge. - Less people start reading."
+},
+{
+"title": "Relative Pronouns (ضمائر الوصل)",
+"headers": ["Pronoun", "Usage", "Example"],
+"rows": [
+["that", "للأشياء وغير البشر", "Choosing a book that suits you."],
+["who", "للأشخاص", "People who come from Africa."]
+],
+"explanation": "that تعود على الأشياء، who تعود على الأشخاص.",
+"examples": "Choosing a book that suits you. - People who come from Africa."
+},
+{
+"title": "Word Forms (أشكال الكلمات)",
+"headers": ["Noun", "Adjective", "Adverb", "Verb"],
+"rows": [
+["difference", "different", "differently", "differ"],
+["growth", "growing", "growingly", "grow"],
+["variable", "variable", "variably", "vary"],
+["activity", "active", "actively", "act"]
+],
+"explanation": "الكلمات في اللغة الإنجليزية تأتي بأشكال مختلفة (اسم، صفة، ظرف، فعل). يجب اختيار الشكل المناسب حسب موقعها في الجملة.",
+"examples": "Boys and girls show big differences in growth. - The rate is variable."
+}
+],
+"convert": [
+{
+"wh_word": "Who",
+"usage": "السؤال عن الفاعل (شخص)",
+"example": "Who have different styles of writing?"
+},
+{
+"wh_word": "Where",
+"usage": "السؤال عن المكان",
+"example": "Where do you have to stay?"
+},
+{
+"wh_word": "How",
+"usage": "السؤال عن الطريقة أو الوسيلة",
+"example": "How does she go to the museum?"
+},
+{
+"wh_word": "What",
+"usage": "السؤال عن الشيء أو الفعل",
+"example": "What will determine how we grow?"
+},
+{
+"wh_word": "How many",
+"usage": "السؤال عن العدد (للأسماء المعدودة)",
+"example": "How many pages has the novelist written?"
+},
+{
+"wh_word": "What ... like",
+"usage": "السؤال عن الصفة أو الوصف",
+"example": "What was the weather like yesterday?"
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics)",
+"description": "تم استخراج موضوعات الكتابة من نهاية الدرس في Progress Test 2.",
+"applicable_to": "جميع الدروس",
+"search_sources": [
+"Progress Test 2 - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من Progress Test",
+"أسئلة إرشادية للمساعدة في الكتابة"
+],
+"applied_to_unit": {
+"grade": 8,
+"unit": 102,
+"title": "Review 2",
+"total_topics": 1,
+"source": "Progress Test 2 - Writing"
+}
+},
+"topics": [
+{
+"id": "R2_W1",
+"title": "Write about an invention you think is useful for daily life.",
+"source": "Progress Test 2",
+"exact_reference": "Writing - Page 56",
+"guiding_questions": [
+"What is it?",
+"Who invented it?",
+"Why is it useful?"
+],
+"sample_essay": "The mobile phone is a very useful invention. It was invented by Martin Cooper in 1973. People use it every day to call their friends and family. It also helps us read news and send messages. I think it is the most important invention in our daily life because it makes everything easier and faster.",
+"word_count": 55
+}
+]
+}
