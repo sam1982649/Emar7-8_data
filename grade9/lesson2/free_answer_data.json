@@ -1,0 +1,52 @@
+{
+"questions": [
+{
+"question": "How long have you been in your city?",
+"translation": "منذ متى وأنت تعيش في مدينتك؟",
+"keywords": ["for", "since", "years", "months", "live", "born", "moved"],
+"suggested_answers": [
+"I have been in my city for ten years.",
+"I have lived in my city since I was born.",
+"I have been in my city for five years, since we moved here."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 12"
+},
+{
+"question": "What do you enjoy doing?",
+"translation": "ماذا تستمتع بفعله؟",
+"keywords": ["hobbies", "sports", "reading", "music", "games", "football", "books", "drawing"],
+"suggested_answers": [
+"I enjoy reading books and playing football in my free time.",
+"I like listening to music and playing games with my friends.",
+"I enjoy doing sports and reading stories because they are fun."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 12"
+},
+{
+"question": "What do you do to help elderly people?",
+"translation": "ماذا تفعل لمساعدة كبار السن؟",
+"keywords": ["carry", "bags", "visit", "cross street", "support", "talk", "help"],
+"suggested_answers": [
+"I help elderly people carry their bags and cross the street.",
+"I visit old people and talk with them to make them happy.",
+"I help elderly people by carrying things for them and supporting them."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 15"
+},
+{
+"question": "Who helps you with your homework?",
+"translation": "من يساعدك في واجباتك المدرسية؟",
+"keywords": ["mother", "father", "sister", "brother", "friend", "teacher", "parents", "family"],
+"suggested_answers": [
+"My mother helps me with my homework.",
+"My father and my brother help me with my homework.",
+"My teacher helps me with my homework when I don't understand."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 12"
+}
+]
+}

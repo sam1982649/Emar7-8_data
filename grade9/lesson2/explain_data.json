@@ -1,0 +1,273 @@
+{
+"vocabulary": [
+{ "word": "Absolutely", "translation": "تماماً / قطعاً" },
+{ "word": "Access", "translation": "وصول" },
+{ "word": "Act", "translation": "فعل / عمل" },
+{ "word": "Actual", "translation": "فعلي / حقيقي" },
+{ "word": "Administration", "translation": "إدارة" },
+{ "word": "Afford", "translation": "يستطيع تحمل التكلفة" },
+{ "word": "Aim", "translation": "هدف" },
+{ "word": "Announce", "translation": "يعلن" },
+{ "word": "Appearance", "translation": "مظهر" },
+{ "word": "Attract", "translation": "يجذب" },
+{ "word": "Badge", "translation": "شارة" },
+{ "word": "Benefit", "translation": "فائدة / منفعة" },
+{ "word": "Birthday", "translation": "عيد ميلاد" },
+{ "word": "Braille", "translation": "طريقة برايل" },
+{ "word": "Bring", "translation": "يجلب" },
+{ "word": "Celebrate", "translation": "يحتفل" },
+{ "word": "Century", "translation": "قرن" },
+{ "word": "College", "translation": "كلية" },
+{ "word": "Common", "translation": "شائع / عادي" },
+{ "word": "Common cold", "translation": "زكام" },
+{ "word": "Contact", "translation": "يتواصل / يتصل" },
+{ "word": "Cost", "translation": "يكلف / ثمن" },
+{ "word": "Cross", "translation": "يعبر" },
+{ "word": "Crossing", "translation": "عبور" },
+{ "word": "Cure", "translation": "علاج / شفاء" },
+{ "word": "Curriculum", "translation": "منهاج دراسي" },
+{ "word": "Customer", "translation": "زبون" },
+{ "word": "CV", "translation": "سيرة ذاتية" },
+{ "word": "Date back", "translation": "يعود تاريخه إلى" },
+{ "word": "December", "translation": "ديسمبر" },
+{ "word": "Desire", "translation": "رغبة" },
+{ "word": "Disabled", "translation": "معاق" },
+{ "word": "Discover", "translation": "يكتشف" },
+{ "word": "Divide", "translation": "يقسم" },
+{ "word": "Drinking water", "translation": "مياه شرب" },
+{ "word": "Elderly", "translation": "مسن / كبير بالسن" },
+{ "word": "Environment", "translation": "بيئة" },
+{ "word": "Exam", "translation": "امتحان" },
+{ "word": "Facebook", "translation": "فيسبوك" },
+{ "word": "Finished", "translation": "منتهي / مكتمل" },
+{ "word": "Format", "translation": "صيغة" },
+{ "word": "Free", "translation": "مجاني" },
+{ "word": "Grades", "translation": "صفوف دراسية" },
+{ "word": "Homeless", "translation": "بلا مأوى" },
+{ "word": "Impaired", "translation": "ضعيف / معاق" },
+{ "word": "Includes", "translation": "يشمل / يضم" },
+{ "word": "Initiative", "translation": "مبادرة" },
+{ "word": "Job hunting", "translation": "البحث عن عمل" },
+{ "word": "Judge", "translation": "يحكم / يقيّم" },
+{ "word": "Kindness", "translation": "لطف" },
+{ "word": "Laptop", "translation": "حاسوب محمول" },
+{ "word": "Lift", "translation": "مصعد" },
+{ "word": "Light", "translation": "نور" },
+{ "word": "Like", "translation": "إعجاب (في فيسبوك)" },
+{ "word": "Meet", "translation": "يلبي / يقابل" },
+{ "word": "Message", "translation": "رسالة" },
+{ "word": "Mobile", "translation": "هاتف محمول" },
+{ "word": "Montage", "translation": "مونتاج" },
+{ "word": "Mp3", "translation": "ام بي ثري" },
+{ "word": "Neck", "translation": "رقبة" },
+{ "word": "Needs", "translation": "احتياجات" },
+{ "word": "Network", "translation": "شبكة" },
+{ "word": "Otherwise", "translation": "وإلا / لولا ذلك" },
+{ "word": "Page", "translation": "صفحة" },
+{ "word": "Paid", "translation": "مدفوع" },
+{ "word": "Paper", "translation": "ورق" },
+{ "word": "Parents' house", "translation": "منزل الوالدين" },
+{ "word": "Party", "translation": "حفلة" },
+{ "word": "Pass", "translation": "يمر / يمرر" },
+{ "word": "Pay forward", "translation": "يدفع مقدماً" },
+{ "word": "Plant", "translation": "يزرع / نبات" },
+{ "word": "Plumber", "translation": "سباك" },
+{ "word": "Professional", "translation": "احترافي" },
+{ "word": "Project", "translation": "مشروع" },
+{ "word": "Provide", "translation": "يزود / يقدم" },
+{ "word": "Publish", "translation": "ينشر" },
+{ "word": "Rank", "translation": "رتبة" },
+{ "word": "Record", "translation": "يسجل (صوتياً)" },
+{ "word": "Recording", "translation": "تسجيل" },
+{ "word": "Reference", "translation": "مرجع" },
+{ "word": "Repair", "translation": "يصلح" },
+{ "word": "Responsible", "translation": "مسؤول" },
+{ "word": "Revive", "translation": "يحيي / يعيد" },
+{ "word": "Safe", "translation": "آمن" },
+{ "word": "Save", "translation": "يحفظ / يوفر" },
+{ "word": "Saved", "translation": "محفوظ" },
+{ "word": "School", "translation": "مدرسة" },
+{ "word": "Scout", "translation": "كشاف" },
+{ "word": "Service", "translation": "خدمة" },
+{ "word": "Sight", "translation": "بصر" },
+{ "word": "Sight problems", "translation": "مشاكل بصرية" },
+{ "word": "Social media", "translation": "وسائل التواصل الاجتماعي" },
+{ "word": "Started", "translation": "بدأ" },
+{ "word": "Stranger", "translation": "شخص غريب" },
+{ "word": "Street", "translation": "شارع" },
+{ "word": "Stressed", "translation": "متوتر" },
+{ "word": "Suffer", "translation": "يعاني" },
+{ "word": "Suspended", "translation": "معلق / موقف مؤقتاً" },
+{ "word": "Syllabus", "translation": "منهاج / خطة دراسية" },
+{ "word": "Syrian", "translation": "سوري" },
+{ "word": "Target", "translation": "هدف" },
+{ "word": "Task", "translation": "مهمة" },
+{ "word": "Ton", "translation": "طن" },
+{ "word": "Tools", "translation": "أدوات" },
+{ "word": "Tradition", "translation": "تقاليد" },
+{ "word": "Tree", "translation": "شجرة" },
+{ "word": "Turn", "translation": "يحول / يدور" },
+{ "word": "University", "translation": "جامعة" },
+{ "word": "Voluntarily", "translation": "طواعية / تطوعاً" },
+{ "word": "Volunteer", "translation": "متطوع / يتطوع" },
+{ "word": "Watering", "translation": "يسقي" },
+{ "word": "Well-dressed", "translation": "أنيق الملبس" },
+{ "word": "Wood", "translation": "خشب" },
+{ "word": "YouTube", "translation": "يوتيوب" }
+],
+"tables": [
+{
+"title": "Present Perfect (المضارع التام)",
+"headers": ["النوع", "الصيغة", "مثال من التمارين"],
+"rows": [
+["الإثبات (Affirmative)", "Subject + have/has + Past Participle (V3)", "She has been a volunteer for two years."],
+["النفي (Negative)", "Subject + have/has + not + Past Participle (V3)", "She hasn't seen him for a long time."],
+["السؤال (Question)", "Have/Has + Subject + Past Participle (V3)?", "Have you done your homework?"]
+],
+"explanation": "المضارع التام يتكون من (have/has) + التصريف الثالث للفعل. يستخدم للأحداث التي بدأت في الماضي وما زالت مستمرة، أو الأحداث التي حدثت في وقت غير محدد في الماضي ولها تأثير على الحاضر.",
+"examples": "I have lived here for five years. / She has already eaten. / They haven't finished yet."
+},
+{
+"title": "Present Perfect: الاستخدامات",
+"headers": ["الاستخدام", "الشرح", "مثال من التمارين"],
+"rows": [
+["خبرة سابقة", "حدث في وقت غير محدد في الماضي", "I have tried sushi."],
+["نتيجة في الحاضر", "حدث انتهى في الماضي ولكن له نتيجة الآن", "I have lost my pen. I can't do my exercise."],
+["مع since و for", "حدث بدأ في الماضي وما زال مستمراً", "I have been here since 2019. / I have worked here for two years."],
+["مع already", "حدث تم قبل الآن (في الإثبات)", "She has already seen this film."],
+["مع yet", "حدث لم يحدث بعد (في النفي والسؤال)", "They haven't discovered a cure yet. / Have you eaten yet?"],
+["إنجازات", "أحداث حدثت في وقت غير محدد", "They have won several awards."]
+],
+"explanation": "نستخدم المضارع التام مع: (already, yet, since, for, ever, never, just, recently, so far, up to now).",
+"examples": "I have already eaten. / She hasn't called yet. / We have known her since 2010."
+},
+{
+"title": "since و for في Present Perfect",
+"headers": ["since", "for"],
+"rows": [
+["يستخدم مع نقطة بداية في الزمن", "يستخدم مع فترة زمنية"],
+["since 2010", "for two years"],
+["since Monday", "for five days"],
+["since I was born", "for a long time"]
+],
+"explanation": "نستخدم 'since' مع نقطة بداية محددة، و 'for' مع فترة زمنية.",
+"examples": "I have lived here since 2015. / I have lived here for eight years."
+},
+{
+"title": "التصريف الثالث للأفعال (Past Participle)",
+"headers": ["Verb 1 (Present)", "Verb 2 (Past)", "Verb 3 (Past Participle)"],
+"rows": [
+["be", "was/were", "been"],
+["eat", "ate", "eaten"],
+["see", "saw", "seen"],
+["do", "did", "done"],
+["go", "went", "gone"],
+["have", "had", "had"],
+["know", "knew", "known"],
+["read", "read", "read"],
+["write", "wrote", "written"],
+["teach", "taught", "taught"],
+["win", "won", "won"],
+["lose", "lost", "lost"],
+["buy", "bought", "bought"],
+["meet", "met", "met"],
+["pay", "paid", "paid"],
+["revive", "revived", "revived"],
+["plant", "planted", "planted"],
+["repair", "repaired", "repaired"],
+["record", "recorded", "recorded"],
+["divide", "divided", "divided"],
+["provide", "provided", "provided"],
+["publish", "published", "published"],
+["attract", "attracted", "attracted"],
+["celebrate", "celebrated", "celebrated"],
+["decide", "decided", "decided"],
+["want", "wanted", "wanted"],
+["need", "needed", "needed"]
+],
+"explanation": "التصريف الثالث للفعل (V3) يستخدم مع المضارع التام والمبني للمجهول.",
+"examples": "She has eaten lunch. / They have gone home. / It has been divided."
+},
+{
+"title": "Question Formation (تكوين السؤال)",
+"headers": ["الخطوة", "الشرح"],
+"rows": [
+["١. كلمة السؤال (Question Word)", "What, Who, Where, When, Why, How long, How many, ..."],
+["٢. الفعل المساعد (Auxiliary Verb)", "do/does, did, have/has, am/is/are, was/were, ..."],
+["٣. الفاعل (Subject)", "I, you, he, she, it, we, they, ..."],
+["٤. الفعل الرئيسي (Main Verb)", "المصدر (في present/past) أو التصريف الثالث (في present perfect)"],
+["٥. باقي الجملة (Rest of sentence)", "...?"]
+],
+"explanation": "لتحويل أي جملة إلى سؤال، نتبع الخطوات التالية: ١- نضع كلمة السؤال في البداية، ٢- نضع الفعل المساعد المناسب للزمن، ٣- نضع الفاعل، ٤- نضع الفعل الرئيسي (مصدر أو تصريف ثالث حسب الزمن)، ٥- نضع باقي الجملة ثم علامة الاستفهام.",
+"examples": "What do they record?\nThey record university books.\n\nWhat did Daniel want to repair?\nDaniel wanted to repair the house.\n\nHow long has Maya taught English?\nMaya has taught English since 2019.\n\nWhen did suspended coffee revive again?\nSuspended coffee revived again in 2011.\n\nHow many awards have they won?\nThey have won several awards.\n\nWhat is she working on?\nShe is working on a new project.\n\nWho does this car belong to?\nThis car belongs to Martin.\n\nWhat was Sima planting?\nSima was planting plants."
+},
+{
+"title": "Present Simple Passive (المبني للمجهول - مضارع بسيط)",
+"headers": ["النوع", "الصيغة", "مثال من التمارين"],
+"rows": [
+["الإثبات (Affirmative)", "Subject + am/is/are + Past Participle (V3)", "20 trees are needed to make a ton of paper."],
+["السؤال (Question)", "Am/Is/Are + Subject + Past Participle (V3)?", "Are the books recorded?"]
+],
+"explanation": "المبني للمجهول يستخدم عندما يكون الفاعل غير معروف أو غير مهم. يتكون من (am/is/are) + التصريف الثالث.",
+"examples": "The book is divided into tasks. / The recordings are saved in mp3 format."
+},
+{
+"title": "Past Perfect (الماضي التام)",
+"headers": ["النوع", "الصيغة", "مثال من التمارين"],
+"rows": [
+["الإثبات (Affirmative)", "Subject + had + Past Participle (V3)", "Eight hours later, the page had attracted more than 20,000 likes."]
+],
+"explanation": "نستخدم Past Perfect لحدث انتهى قبل حدث آخر في الماضي.",
+"examples": "The page had attracted more than 20,000 likes."
+},
+{
+"title": "decide / want + to + infinitive",
+"headers": ["القاعدة", "الشرح", "مثال من التمارين"],
+"rows": [
+["decide + to + infinitive", "بعد الفعل decide نستخدم to + المصدر", "Jane decided to plant a tree."],
+["want + to + infinitive", "بعد الفعل want نستخدم to + المصدر", "Daniel wanted to repair the house."]
+],
+"explanation": "بعد أفعال معينة مثل (decide, want, need, plan, hope) نستخدم to + المصدر.",
+"examples": "Jane decided to plant a tree. / Daniel wanted to repair the house."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["Preposition", "الاستخدام", "مثال من التمارين"],
+"rows": [
+["for", "لـ / من أجل (مع pay)", "pay for a cup"],
+["on", "في (مع التواريخ)", "on March 27, 2013"],
+["to", "إلى (هدف)", "to help the old people"],
+["of", "لـ (ملكية / جزء من)", "an act of kindness"]
+],
+"explanation": "حروف الجر لها استخدامات محددة حسب السياق.",
+"examples": "They pay for a cup. / It started on March 27, 2013."
+},
+{
+"title": "Relative Pronouns (ضمائر الوصل)",
+"headers": ["Relative Pronoun", "الاستخدام", "مثال من التمارين"],
+"rows": [
+["which", "لغير العاقل (أشياء)", "Suspended coffee is a tradition which comes from Naples, Italy."]
+],
+"explanation": "نستخدم 'which' للإشارة إلى أشياء غير عاقلة.",
+"examples": "Suspended coffee is a tradition which comes from Naples, Italy."
+},
+{
+"title": "Passive Infinitive (المصدر في المبني للمجهول)",
+"headers": ["النوع", "الصيغة", "مثال من التمارين"],
+"rows": [
+["Passive Infinitive", "to be + Past Participle (V3)", "Suspended Coffee Day started to be celebrated each December."]
+],
+"explanation": "نستخدم 'to be + past participle' للتعبير عن المبني للمجهول بعد بعض الأفعال.",
+"examples": "Suspended Coffee Day started to be celebrated each December."
+},
+{
+"title": "Noun after preposition (الاسم بعد حرف الجر)",
+"headers": ["القاعدة", "الشرح", "مثال من التمارين"],
+"rows": [
+["of + noun", "بعد حرف الجر 'of' نستخدم اسماً", "an act of kindness"]
+],
+"explanation": "بعد حروف الجر نستخدم اسماً (وليس صفة أو فعلاً).",
+"examples": "an act of kindness (kindness اسم / ليس kind صفة)"
+}
+]
+}

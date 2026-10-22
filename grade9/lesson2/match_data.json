@@ -1,0 +1,166 @@
+{
+"groups": [
+{
+"title": "Match the Sentence Parts - Light Initiative",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "if you have a network." },
+{ "letter": "b", "text": "the syllabus into Braille." },
+{ "letter": "c", "text": "after it is divided into several tasks." },
+{ "letter": "d", "text": "of the recordings." },
+{ "letter": "e", "text": "to help the old people in crossing the street." },
+{ "letter": "f", "text": "his parents' house." }
+],
+"sentences": [
+{
+"start": "Volunteers record the book",
+"correct": "c",
+"full_sentence": "Volunteers record the book after it is divided into several tasks",
+"translation": "يسجل المتطوعون الكتاب بعد تقسيمه إلى عدة مهام",
+"source": "Student Book",
+"exact_reference": "Reading Comprehension - Page 13"
+},
+{
+"start": "Mp3 is the form",
+"correct": "d",
+"full_sentence": "Mp3 is the form of the recordings",
+"translation": "Mp3 هو شكل التسجيلات",
+"source": "Student Book",
+"exact_reference": "Reading Comprehension - Page 13"
+},
+{
+"start": "You can listen to the recordings",
+"correct": "a",
+"full_sentence": "You can listen to the recordings if you have a network",
+"translation": "يمكنك الاستماع إلى التسجيلات إذا كان لديك شبكة",
+"source": "Student Book",
+"exact_reference": "Reading Comprehension - Page 13"
+},
+{
+"start": "Nowadays, volunteers are turning",
+"correct": "b",
+"full_sentence": "Nowadays, volunteers are turning the syllabus into Braille",
+"translation": "حالياً، المتطوعون يحولون المنهاج إلى طريقة برايل",
+"source": "Student Book",
+"exact_reference": "Reading Comprehension - Page 13"
+},
+{
+"start": "Ahmad's project was",
+"correct": "e",
+"full_sentence": "Ahmad's project was to help the old people in crossing the street",
+"translation": "كان مشروع أحمد مساعدة كبار السن في عبور الشارع",
+"source": "Student Book",
+"exact_reference": "Listening - Page 15"
+}
+]
+},
+{
+"title": "Match the Sentence Parts - Grammar",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "Yes, I have." },
+{ "letter": "b", "text": "She will speak to you in a minute." },
+{ "letter": "c", "text": "since she arrived to our city." },
+{ "letter": "d", "text": "for two months." },
+{ "letter": "e", "text": "to Paris before." },
+{ "letter": "f", "text": "enough money for the charity." }
+],
+"sentences": [
+{
+"start": "Have you done your homework?",
+"correct": "a",
+"full_sentence": "Have you done your homework? Yes, I have.",
+"translation": "هل أنهيت واجبك المنزلي؟ نعم، أنهيته",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 14"
+},
+{
+"start": "She has just arrived.",
+"correct": "b",
+"full_sentence": "She has just arrived. She will speak to you in a minute.",
+"translation": "لقد وصلت للتو. ستتحدث معك بعد دقيقة",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 14"
+},
+{
+"start": "We have known her",
+"correct": "c",
+"full_sentence": "We have known her since she arrived to our city",
+"translation": "نحن نعرفها منذ وصولها إلى مدينتنا",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 14"
+},
+{
+"start": "He has worked here",
+"correct": "d",
+"full_sentence": "He has worked here for two months",
+"translation": "لقد عمل هنا لمدة شهرين",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 14"
+},
+{
+"start": "I haven't been",
+"correct": "e",
+"full_sentence": "I haven't been to Paris before",
+"translation": "لم أكن إلى باريس من قبل",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 14"
+}
+]
+},
+{
+"title": "Match the Sentence Parts - Mixed",
+"source": "activity_book",
+"options": [
+{ "letter": "a", "text": "make a ton of paper." },
+{ "letter": "b", "text": "plant a tree every year." },
+{ "letter": "c", "text": "for the common cold yet." },
+{ "letter": "d", "text": "change a life and make a difference." },
+{ "letter": "e", "text": "repairing the house." },
+{ "letter": "f", "text": "volunteer for two years." }
+],
+"sentences": [
+{
+"start": "20 trees are needed to",
+"correct": "a",
+"full_sentence": "20 trees are needed to make a ton of paper",
+"translation": "هناك حاجة إلى 20 شجرة لصنع طن من الورق",
+"source": "Activity Book",
+"exact_reference": "Listening - Page 13"
+},
+{
+"start": "Jane decided to",
+"correct": "b",
+"full_sentence": "Jane decided to plant a tree every year",
+"translation": "قررت جين أن تزرع شجرة كل عام",
+"source": "Activity Book",
+"exact_reference": "Listening - Page 13"
+},
+{
+"start": "They haven't discovered a cure",
+"correct": "c",
+"full_sentence": "They haven't discovered a cure for the common cold yet",
+"translation": "لم يكتشفوا علاجاً لمرض الزكام حتى الآن",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 12"
+},
+{
+"start": "An act of kindness can",
+"correct": "d",
+"full_sentence": "An act of kindness can change a life and make a difference",
+"translation": "عمل لطف يمكن أن يغير حياة ويحدث فرقاً",
+"source": "Activity Book",
+"exact_reference": "Reading - Page 10"
+},
+{
+"start": "Daniel felt responsible for",
+"correct": "e",
+"full_sentence": "Daniel felt responsible for repairing the house",
+"translation": "شعر دانيال بالمسؤولية لإصلاح المنزل",
+"source": "Student Book",
+"exact_reference": "Listening - Page 15"
+}
+]
+}
+]
+}

@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G9_U2_T1_P1",
+"text_group": "G9_U2_Light_Initiative",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Light Initiative - Part 1",
+"content_exam": "Light Initiative started with two people and now it includes more than 350 volunteers. They voluntarily record school and college books for the benefit of the visually impaired people. They started recording the books of the 9th and the 12th grades; they also record university books and references. Their aim is to meet the visually impaired people's actual needs whatever they are.\n\nUsually, the visually impaired person who has the desire to study a curriculum or a reference, contacts the initiative administration and provides them with the books needed. Then, the book is divided into tasks for a number of volunteers to record them.\n\nThey use a Facebook page and a YouTube channel. On the Facebook page they announce that they finished this book or this curriculum, and they use the YouTube channel to publish the recordings. These records are saved in mp3 format.\n\nTheir services are absolutely free; i.e. the volunteer is not paid, and it doesn't cost the visually impaired person anything. Anyone with a network can have access to their records.\n\nVolunteers need very simple things. They use mobiles for recording and laptops to do the montage. No professional tools are needed.\n\nLight Initiative's new project is turning the Syrian curriculum into Braille. This will help Syrian students who suffer from sight problems.\n\nLight Initiative is trying to bring some light into the visually impaired people's lives.",
+"questions": [
+{
+"id": "L2_TXT_C01",
+"type": "choice",
+"question": "Light Initiative started with two people and now it includes ______ .",
+"options": ["more than 50 volunteers", "more than 100 volunteers", "more than 200 volunteers", "more than 350 volunteers"],
+"correct": 3,
+"explanation": "✅ الإجابة الصحيحة: more than 350 volunteers\n📝 الترجمة: بدأت مبادرة Light Initiative بشخصين والآن تضم أكثر من 350 متطوعاً.\n💡 الشرح: النص يقول: 'now it includes more than 350 volunteers'."
+},
+{
+"id": "L2_TXT_C02",
+"type": "choice",
+"question": "Light Initiative records school and college books ______ .",
+"options": ["for the harm of visually impaired people", "for the benefit of visually impaired people", "for the loss of visually impaired people", "for the cost of visually impaired people"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: for the benefit of visually impaired people\n📝 الترجمة: مبادرة Light Initiative تسجل كتب المدارس والجامعات لصالح الأشخاص ضعاف البصر.\n💡 الشرح: النص يقول: 'for the benefit of the visually impaired people'."
+},
+{
+"id": "L2_TXT_C03",
+"type": "choice",
+"question": "______ the initiative and provides the books needed.",
+"options": ["The visually impaired person waits for", "The visually impaired person ignores", "The visually impaired person contacts", "The visually impaired person avoids"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: The visually impaired person contacts\n📝 الترجمة: الشخص ضعيف البصر يتواصل مع المبادرة ويقدم الكتب المطلوبة.\n💡 الشرح: النص يقول: 'the visually impaired person contacts the initiative administration'."
+},
+{
+"id": "L2_TXT_C04",
+"type": "choice",
+"question": "The book is divided into ______ for volunteers to record.",
+"options": ["chapters", "pages", "tasks", "lessons"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: tasks\n📝 الترجمة: يتم تقسيم الكتاب إلى مهام ليقوم المتطوعون بتسجيلها.\n💡 الشرح: النص يقول: 'the book is divided into tasks for a number of volunteers'."
+},
+{
+"id": "L2_TXT_C05",
+"type": "choice",
+"question": "Light Initiative started recording books of the ______ grades first.",
+"options": ["7th and 8th", "9th and 12th", "10th and 11th", "6th and 9th"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: 9th and 12th\n📝 الترجمة: بدأوا بتسجيل كتب الصف التاسع والثاني عشر.\n💡 الشرح: النص يقول: 'They started recording the books of the 9th and the 12th grades'."
+}
+]
+},
+{
+"id": "G9_U2_T1_P2",
+"text_group": "G9_U2_Light_Initiative",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Light Initiative - Part 2",
+"content_exam": "Light Initiative uses a Facebook page to announce finished books and a YouTube channel to publish the recordings. These records are saved in mp3 format. Their services are absolutely free. The volunteer is not paid, and it doesn't cost the visually impaired person anything. Anyone with an internet connection can have access to their records. Volunteers need very simple things. They use mobiles for recording and laptops to do the montage. No professional tools are needed. Light Initiative's new project is turning the Syrian curriculum into Braille. This will help Syrian students who suffer from sight problems. Light Initiative is trying to bring some light into the visually impaired people's lives.",
+"questions": [
+{
+"id": "L2_TXT_TF01",
+"type": "truefalse",
+"question": "Light Initiative uses a YouTube channel to announce finished books.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: تستخدم مبادرة Light Initiative قناة يوتيوب للإعلان عن الكتب المنتهية.\n💡 الشرح: النص يقول إن الإعلان يتم على صفحة فيسبوك، ويوتيوب لنشر التسجيلات."
+},
+{
+"id": "L2_TXT_TF02",
+"type": "truefalse",
+"question": "The recordings are saved in mp3 format.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: التسجيلات تُحفظ بصيغة mp3.\n💡 الشرح: النص يقول: 'These records are saved in mp3 format'."
+},
+{
+"id": "L2_TXT_TF03",
+"type": "truefalse",
+"question": "Volunteers need professional recording tools.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: يحتاج المتطوعون إلى أدوات تسجيل احترافية.\n💡 الشرح: النص يقول إنهم يستخدمون أشياء بسيطة (هواتف + حاسوب محمول) ولا يحتاجون أدوات احترافية."
+},
+{
+"id": "L2_TXT_A01",
+"type": "answer",
+"question": "What is Light Initiative's new project?",
+"keywords": ["Syrian curriculum", "Braille", "turning Syrian curriculum into Braille"],
+"explanation": "✅ الإجابة الصحيحة: turning the Syrian curriculum into Braille\n📝 الترجمة: ما هو مشروع مبادرة Light Initiative الجديد؟\n💡 الشرح: مشروعهم الجديد هو تحويل المنهاج السوري إلى طريقة برايل."
+},
+{
+"id": "L2_TXT_A02",
+"type": "answer",
+"question": "Are Light Initiative's services free or paid?",
+"keywords": ["free", "absolutely free", "no cost"],
+"explanation": "✅ الإجابة الصحيحة: free (absolutely free)\n📝 الترجمة: هل خدمات مبادرة Light Initiative مجانية أم مدفوعة؟\n💡 الشرح: خدماتهم مجانية تماماً — المتطوع لا يتقاضى أجراً والشخص ضعيف البصر لا يدفع شيئاً."
+}
+]
+},
+{
+"id": "G9_U2_T2_P1",
+"text_group": "G9_U2_Pay_It_Forward",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Pay It Forward - Part 1",
+"content_exam": "On March 27, 2013, John Sweeney, a plumber from Ireland, started a Facebook page called Suspended Coffees. His message was simple: Buy a cup of coffee for a stranger, because an act of kindness can change a life and make a difference. Eight hours later, the page had attracted more than 20,000 likes.\n\nSuspended coffee is a tradition that comes from Naples, Italy, and dates back to the 20th century. When customers buy coffee, they also pay in advance for a cup to be given to somebody else; usually someone who otherwise couldn't afford it. This initiative was forgotten, but then it revived again in 2011.",
+"questions": [
+{
+"id": "L2_TXT_C06",
+"type": "choice",
+"question": "John Sweeney started a Facebook page called ______ .",
+"options": ["Free Coffees", "Suspended Coffees", "Charity Coffees", "Kindness Coffees"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: Suspended Coffees\n📝 الترجمة: بدأ جون سويني صفحة فيسبوك باسم Suspended Coffees.\n💡 الشرح: النص يقول: 'started a Facebook page called Suspended Coffees'."
+},
+{
+"id": "L2_TXT_C07",
+"type": "choice",
+"question": "John Sweeney's message was to buy a cup of coffee for ______ .",
+"options": ["a friend", "a family member", "a stranger", "a colleague"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: a stranger\n📝 الترجمة: رسالة جون سويني كانت شراء فنجان قهوة لشخص غريب.\n💡 الشرح: النص يقول: 'Buy a cup of coffee for a stranger'."
+},
+{
+"id": "L2_TXT_C08",
+"type": "choice",
+"question": "The page attracted more than ______ likes within eight hours.",
+"options": ["10,000", "15,000", "20,000", "25,000"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: 20,000\n📝 الترجمة: اجتذبت الصفحة أكثر من 20,000 إعجاب خلال ثماني ساعات.\n💡 الشرح: النص يقول: 'the page had attracted more than 20,000 likes'."
+},
+{
+"id": "L2_TXT_C09",
+"type": "choice",
+"question": "Suspended coffee is a tradition that comes from ______ .",
+"options": ["Rome, Italy", "Naples, Italy", "Paris, France", "London, England"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: Naples, Italy\n📝 الترجمة: القهوة المعلقة هي تقليد يأتي من نابولي، إيطاليا.\n💡 الشرح: النص يقول: 'comes from Naples, Italy'."
+},
+{
+"id": "L2_TXT_C10",
+"type": "choice",
+"question": "The suspended coffee initiative revived in ______ .",
+"options": ["2010", "2011", "2012", "2013"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: 2011\n📝 الترجمة: عادت مبادرة القهوة المعلقة من جديد في عام 2011.\n💡 الشرح: النص يقول: 'it revived again in 2011'."
+}
+]
+},
+{
+"id": "G9_U2_T2_P2",
+"text_group": "G9_U2_Pay_It_Forward",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Pay It Forward - Part 2",
+"content_exam": "That's when 'Suspended Coffee Day' started to be celebrated each December. You can buy it for anyone in need. It can be for the homeless person you pass by every day on the street, a stressed student in the middle of exams, a mother of children who can't afford coffee. It may be a well-dressed man whom you may not think from his appearance that he's in need but he may be in his third month of job hunting. It's not up to us to judge. If someone asks, then they are in need. No CV required. An act of kindness can change a life and make a difference.",
+"questions": [
+{
+"id": "L2_TXT_TF04",
+"type": "truefalse",
+"question": "Suspended Coffee Day is celebrated each December.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يُحتفل بيوم القهوة المعلقة كل شهر ديسمبر.\n💡 الشرح: النص يقول: 'Suspended Coffee Day started to be celebrated each December'."
+},
+{
+"id": "L2_TXT_TF05",
+"type": "truefalse",
+"question": "Suspended coffee can only be given to homeless people.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: يمكن منح القهوة المعلقة فقط للأشخاص بلا مأوى.\n💡 الشرح: يمكن شراؤها لأي شخص محتاج: بلا مأوى، طالب متوتر، أم، باحث عن عمل، إلخ."
+},
+{
+"id": "L2_TXT_TF06",
+"type": "truefalse",
+"question": "A person who needs suspended coffee must provide a CV to prove they are poor.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: يجب على من يحتاج القهوة المعلقة تقديم سيرة ذاتية لإثبات فقره.\n💡 الشرح: النص يقول: 'No CV required' — ليس من مسؤوليتنا أن نحكم."
+},
+{
+"id": "L2_TXT_A03",
+"type": "answer",
+"question": "When is Suspended Coffee Day celebrated?",
+"keywords": ["December", "each December", "every December"],
+"explanation": "✅ الإجابة الصحيحة: each December\n📝 الترجمة: متى يُحتفل بيوم القهوة المعلقة؟\n💡 الشرح: النص يقول: 'Suspended Coffee Day started to be celebrated each December'."
+},
+{
+"id": "L2_TXT_A04",
+"type": "answer",
+"question": "What is the main message of the Suspended Coffees initiative?",
+"keywords": ["kindness", "change", "life", "coffee", "stranger", "act of kindness"],
+"explanation": "✅ الإجابة الصحيحة: An act of kindness can change a life and make a difference.\n📝 الترجمة: ما هي الرسالة الرئيسية لمبادرة القهوة المعلقة؟\n💡 الشرح: أن فعل اللطف يمكن أن يغير حياة شخص ويُحدث فرقاً."
+}
+]
+}
+]
+}
