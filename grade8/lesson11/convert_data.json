@@ -1,0 +1,165 @@
+{
+"metadata": {
+"grade": 8,
+"unit": 11,
+"title": "What's Happening",
+"total_questions": 9
+},
+"questions": [
+{
+"id": "SB_G8_U11_C1",
+"original": "I left my jacket at the office.",
+"targetWord": "office",
+"correctQuestion": "Where did you leave your jacket?",
+"correctQuestions": [
+"Where did you leave your jacket?"
+],
+"wh_word": "where",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "SB_G8_U11_C2",
+"original": "Christmas day is on Sunday.",
+"targetWord": "Sunday",
+"correctQuestion": "When is Christmas day?",
+"correctQuestions": [
+"When is Christmas day?"
+],
+"wh_word": "when",
+"auxiliary": "is",
+"subject": "christmas day",
+"subject_type": "noun_thing",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "SB_G8_U11_C3",
+"original": "I made a cake.",
+"targetWord": "a cake",
+"correctQuestion": "What did you make?",
+"correctQuestions": [
+"What did you make?"
+],
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "SB_G8_U11_C4",
+"original": "Scientists explained the phenomenon.",
+"targetWord": "Scientists",
+"correctQuestion": "Who explained the phenomenon?",
+"correctQuestions": [
+"Who explained the phenomenon?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "scientists",
+"subject_type": "noun_plural",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G8_U11_C5",
+"original": "We need nine months to be born.",
+"targetWord": "nine months",
+"correctQuestion": "How many months do we need to be born?",
+"correctQuestions": [
+"How many months do we need to be born?"
+],
+"wh_word": "how many",
+"auxiliary": "do",
+"subject": "we",
+"subject_type": "pronoun",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G8_U11_C6",
+"original": "They bought a computer.",
+"targetWord": "a computer",
+"correctQuestion": "What did they buy?",
+"correctQuestions": [
+"What did they buy?"
+],
+"wh_word": "what",
+"auxiliary": "did",
+"subject": "they",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G8_U11_C7",
+"original": "My brother is a teacher.",
+"targetWord": "a teacher",
+"correctQuestion": "What is your brother's job?",
+"correctQuestions": [
+"What is your brother's job?"
+],
+"wh_word": "what",
+"auxiliary": "is",
+"subject": "your brother's job",
+"subject_type": "noun_thing",
+"category": "Job",
+"acceptedAnswers": [
+"What is his job?"
+],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G8_U11_C8",
+"original": "She is a nice girl.",
+"targetWord": "nice",
+"correctQuestion": "What is she like?",
+"correctQuestions": [
+"What is she like?"
+],
+"wh_word": "what ... like",
+"auxiliary": "is",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Description",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G8_U11_C9",
+"original": "He usually has breakfast at 7 o'clock.",
+"targetWord": "at 7 o'clock",
+"correctQuestion": "What time does he usually have breakfast?",
+"correctQuestions": [
+"What time does he usually have breakfast?"
+],
+"wh_word": "what time",
+"auxiliary": "does",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+}
+]
+}
