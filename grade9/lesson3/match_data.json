@@ -1,0 +1,166 @@
+{
+"groups": [
+{
+"title": "Match the Sentence Parts - Life in the Future",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "will win the match." },
+{ "letter": "b", "text": "a birthday party for my mother." },
+{ "letter": "c", "text": "I will lift it for you." },
+{ "letter": "d", "text": "but I think it will continue raining." },
+{ "letter": "e", "text": "It is going to snow soon." },
+{ "letter": "f", "text": "largest economy in the world." }
+],
+"sentences": [
+{
+"start": "I'd love to go out,",
+"correct": "d",
+"full_sentence": "I'd love to go out, but I think it will continue raining",
+"translation": "أود الخروج، لكنني أعتقد أن المطر سيستمر",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 22"
+},
+{
+"start": "It is freezing today.",
+"correct": "e",
+"full_sentence": "It is freezing today. It is going to snow soon",
+"translation": "الجو بارد جداً اليوم. سوف تتساقط الثلوج قريباً",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 22"
+},
+{
+"start": "I think our team",
+"correct": "a",
+"full_sentence": "I think our team will win the match",
+"translation": "أعتقد أن فريقنا سيفوز بالمباراة",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 22"
+},
+{
+"start": "Tonight we are going to have",
+"correct": "b",
+"full_sentence": "Tonight we are going to have a birthday party for my mother",
+"translation": "الليلة سنقيم حفلة عيد ميلاد لأمي",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 22"
+},
+{
+"start": "It is a heavy box.",
+"correct": "c",
+"full_sentence": "It is a heavy box. I will lift it for you",
+"translation": "إنه صندوق ثقيل. سأرفعه لك",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 22"
+}
+]
+},
+{
+"title": "Match the Sentence Parts - Mixed",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "with its demographics." },
+{ "letter": "b", "text": "is to use cars less." },
+{ "letter": "c", "text": "new types of crops" },
+{ "letter": "d", "text": "cure to many diseases" },
+{ "letter": "e", "text": "so easy and relaxing" },
+{ "letter": "f", "text": "billion people in the world." }
+],
+"sentences": [
+{
+"start": "China will have many problems",
+"correct": "a",
+"full_sentence": "China will have many problems with its demographics",
+"translation": "الصين سيكون لديها مشاكل كثيرة مع التركيبة السكانية",
+"source": "Student Book",
+"exact_reference": "Listening - Page 23"
+},
+{
+"start": "The obvious way of reducing pollution",
+"correct": "b",
+"full_sentence": "The obvious way of reducing pollution is to use cars less",
+"translation": "الطريقة الواضحة لتقليل التلوث هي استخدام السيارات بشكل أقل",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 21"
+},
+{
+"start": "People will grow",
+"correct": "c",
+"full_sentence": "People will grow new types of crops",
+"translation": "سينمو الناس أنواعاً جديدة من المحاصيل",
+"source": "Student Book",
+"exact_reference": "Reading - Page 20"
+},
+{
+"start": "scientists and researchers will find",
+"correct": "d",
+"full_sentence": "scientists and researchers will find cure to many diseases",
+"translation": "العلماء والباحثون سيجدون علاجاً للعديد من الأمراض",
+"source": "Student Book",
+"exact_reference": "Reading - Page 20"
+},
+{
+"start": "life in the future would be",
+"correct": "e",
+"full_sentence": "life in the future would be so easy and relaxing",
+"translation": "الحياة في المستقبل ستكون سهلة ومريحة",
+"source": "Student Book",
+"exact_reference": "Reading - Page 20"
+}
+]
+},
+{
+"title": "Match the Sentence Parts - Living in Space",
+"source": "activity_book",
+"options": [
+{ "letter": "a", "text": "he graduates from college." },
+{ "letter": "b", "text": "see the doctor." },
+{ "letter": "c", "text": "to work and live in the space station" },
+{ "letter": "d", "text": "to help him breathe" },
+{ "letter": "e", "text": "the work of humans." },
+{ "letter": "f", "text": "establishing the new city." }
+],
+"sentences": [
+{
+"start": "Malik will start his job as soon as",
+"correct": "a",
+"full_sentence": "Malik will start his job as soon as he graduates from college",
+"translation": "مالك سيبدأ وظيفته بمجرد تخرجه من الجامعة",
+"source": "Activity Book",
+"exact_reference": "Listening - Page 19"
+},
+{
+"start": "I am not free tomorrow. I am going to",
+"correct": "b",
+"full_sentence": "I am not free tomorrow. I am going to see the doctor",
+"translation": "أنا لست حراً غداً. سأذهب إلى الطبيب",
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 18"
+},
+{
+"start": "Hundreds of astronauts are going",
+"correct": "c",
+"full_sentence": "Hundreds of astronauts are going to work and live in the space station",
+"translation": "المئات من رواد الفضاء سيعملون ويعيشون في محطة الفضاء",
+"source": "Activity Book",
+"exact_reference": "Reading - Page 16"
+},
+{
+"start": "Doctors gave Hani oxygen",
+"correct": "d",
+"full_sentence": "Doctors gave Hani oxygen to help him breathe",
+"translation": "أعطى الأطباء هانئ الأكسجين لمساعدته على التنفس",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 17"
+},
+{
+"start": "Robots will do",
+"correct": "e",
+"full_sentence": "Robots will do the work of humans",
+"translation": "الروبوتات ستفعل عمل البشر",
+"source": "Activity Book",
+"exact_reference": "Comprehension - Page 17"
+}
+]
+}
+]
+}

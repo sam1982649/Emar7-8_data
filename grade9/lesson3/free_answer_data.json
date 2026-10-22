@@ -1,0 +1,52 @@
+{
+"questions": [
+{
+"question": "What do you think life will be like in 50 years?",
+"translation": "كيف تعتقد أن الحياة ستكون بعد 50 سنة؟",
+"keywords": ["future", "technology", "robots", "medicine", "environment", "transport", "different", "change"],
+"suggested_answers": [
+"I think life will be very different because of new technology and robots.",
+"In 50 years, medicine and transport will improve a lot and the environment will change.",
+"Life will be easier and faster, with smart technology everywhere."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 24"
+},
+{
+"question": "What kind of house would you like to live in the future?",
+"translation": "أي نوع من المنازل تريد أن تسكن في المستقبل؟",
+"keywords": ["future", "house", "comfortable", "technology", "smart", "modern", "big", "design"],
+"suggested_answers": [
+"I would like to live in a smart house with modern technology.",
+"I would like a big, comfortable house with a nice design and smart systems.",
+"In the future, I want to live in a modern house that uses technology to make life easier."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 24"
+},
+{
+"question": "What job would you like to have in the future? Why?",
+"translation": "ما الوظيفة التي تريد أن تحصل عليها في المستقبل؟ لماذا؟",
+"keywords": ["job", "future", "like", "career", "dream", "work", "help", "people", "earn"],
+"suggested_answers": [
+"I would like to be a doctor because I want to help people.",
+"I want to be an engineer in the future because I like building things.",
+"My dream job is to be a teacher because I want to help students learn."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 24"
+},
+{
+"question": "How will people travel in the future?",
+"translation": "كيف سيسافر الناس في المستقبل؟",
+"keywords": ["travel", "future", "flying cars", "rockets", "transport", "space", "fast", "technology"],
+"suggested_answers": [
+"People will travel in flying cars and very fast trains.",
+"In the future, people may travel to space using rockets.",
+"Travel will be faster and easier with new technology and modern transport."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 24"
+}
+]
+}

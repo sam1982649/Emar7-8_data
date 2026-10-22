@@ -1,0 +1,255 @@
+{
+"vocabulary": [
+{ "word": "Absent", "translation": "غائب" },
+{ "word": "Aids", "translation": "إيدز" },
+{ "word": "Allow", "translation": "يسمح" },
+{ "word": "Architect", "translation": "مهندس معماري" },
+{ "word": "Aspects", "translation": "جوانب / ملامح" },
+{ "word": "Astronauts", "translation": "رواد فضاء" },
+{ "word": "Blood", "translation": "دم" },
+{ "word": "Blood pressure", "translation": "ضغط الدم" },
+{ "word": "Bread", "translation": "خبز" },
+{ "word": "Breathe", "translation": "يتنفس" },
+{ "word": "Buildings", "translation": "مباني" },
+{ "word": "Cancer", "translation": "سرطان" },
+{ "word": "Centre", "translation": "مركز" },
+{ "word": "Century", "translation": "قرن" },
+{ "word": "Change", "translation": "يغير" },
+{ "word": "Cheaper", "translation": "أرخص" },
+{ "word": "Collection", "translation": "مجموعة" },
+{ "word": "College", "translation": "كلية" },
+{ "word": "Comfortable", "translation": "مريح" },
+{ "word": "Creatures", "translation": "مخلوقات" },
+{ "word": "Crops", "translation": "محاصيل" },
+{ "word": "Cure", "translation": "علاج / شفاء" },
+{ "word": "Demographics", "translation": "ديموغرافيا" },
+{ "word": "Difficult", "translation": "صعب" },
+{ "word": "Disease", "translation": "مرض" },
+{ "word": "Diseases", "translation": "أمراض" },
+{ "word": "Dreadful", "translation": "فظيع" },
+{ "word": "Economy", "translation": "اقتصاد" },
+{ "word": "Education", "translation": "تعليم" },
+{ "word": "Efforts", "translation": "جهود" },
+{ "word": "Energy", "translation": "طاقة" },
+{ "word": "Entertainment", "translation": "ترفيه" },
+{ "word": "Establish", "translation": "يؤسس" },
+{ "word": "Establishing", "translation": "يؤسس" },
+{ "word": "Exert", "translation": "يبذل" },
+{ "word": "Expeditions", "translation": "رحلات استكشافية" },
+{ "word": "Expectations", "translation": "توقعات" },
+{ "word": "Factories", "translation": "مصانع" },
+{ "word": "Fearfully", "translation": "بخوف" },
+{ "word": "Fields", "translation": "مجالات" },
+{ "word": "Fight", "translation": "يقاتل" },
+{ "word": "Folksongs", "translation": "أغاني شعبية" },
+{ "word": "Future", "translation": "مستقبل" },
+{ "word": "Futurologist", "translation": "مستقبلي / خبير تنبؤ" },
+{ "word": "Futurologists", "translation": "مستقبليون" },
+{ "word": "Gigantic", "translation": "عملاق / ضخم جداً" },
+{ "word": "Glass", "translation": "زجاج" },
+{ "word": "Goal", "translation": "هدف" },
+{ "word": "Happier", "translation": "أكثر سعادة" },
+{ "word": "Health", "translation": "صحة" },
+{ "word": "Housework", "translation": "أعمال منزلية" },
+{ "word": "Housing", "translation": "سكن" },
+{ "word": "Hunger", "translation": "جوع" },
+{ "word": "Imagine", "translation": "يتخيل" },
+{ "word": "Improve", "translation": "يحسن" },
+{ "word": "Improved", "translation": "محسن" },
+{ "word": "Infection", "translation": "عدوى" },
+{ "word": "Inhabitants", "translation": "سكان" },
+{ "word": "Knowledge", "translation": "معرفة" },
+{ "word": "Lake", "translation": "بحيرة" },
+{ "word": "Languages", "translation": "لغات" },
+{ "word": "Lead", "translation": "يقود / يعيش" },
+{ "word": "Love", "translation": "حب" },
+{ "word": "Married", "translation": "متزوج" },
+{ "word": "Mars", "translation": "المريخ" },
+{ "word": "Medicines", "translation": "أدوية" },
+{ "word": "Mercury", "translation": "عطارد" },
+{ "word": "Normal", "translation": "طبيعي" },
+{ "word": "Nuclear", "translation": "نووي" },
+{ "word": "Obtain", "translation": "يحصل على" },
+{ "word": "Obvious", "translation": "واضح" },
+{ "word": "Online", "translation": "عبر الإنترنت" },
+{ "word": "Oxygen", "translation": "أكسجين" },
+{ "word": "Peace", "translation": "سلام" },
+{ "word": "Permanent", "translation": "دائم" },
+{ "word": "Permission", "translation": "إذن" },
+{ "word": "Pharmacy", "translation": "صيدلية" },
+{ "word": "Pills", "translation": "حبوب دواء" },
+{ "word": "Planets", "translation": "كواكب" },
+{ "word": "Pluto", "translation": "بلوتو" },
+{ "word": "Pollution", "translation": "تلوث" },
+{ "word": "Population", "translation": "سكان" },
+{ "word": "Predict", "translation": "يتنبأ" },
+{ "word": "Property", "translation": "عقار" },
+{ "word": "Relaxing", "translation": "مريح" },
+{ "word": "Replace", "translation": "يحل محل" },
+{ "word": "Replaces", "translation": "يحل محل" },
+{ "word": "Research", "translation": "بحث" },
+{ "word": "Researchers", "translation": "باحثون" },
+{ "word": "Resources", "translation": "موارد" },
+{ "word": "Robots", "translation": "روبوتات" },
+{ "word": "Rockets", "translation": "صواريخ" },
+{ "word": "Roofs", "translation": "أسطح" },
+{ "word": "Scientists", "translation": "علماء" },
+{ "word": "Serve", "translation": "يخدم" },
+{ "word": "Settlements", "translation": "مستوطنات" },
+{ "word": "Settlers", "translation": "مستوطنون" },
+{ "word": "Someday", "translation": "يوماً ما" },
+{ "word": "Space", "translation": "فضاء" },
+{ "word": "Space station", "translation": "محطة فضاء" },
+{ "word": "Space-suits", "translation": "بدلات فضاء" },
+{ "word": "Spilt", "translation": "انسكب" },
+{ "word": "Spread", "translation": "ينتشر" },
+{ "word": "Technology", "translation": "تكنولوجيا" },
+{ "word": "Traditional", "translation": "تقليدي" },
+{ "word": "University", "translation": "جامعة" },
+{ "word": "Weapons", "translation": "أسلحة" },
+{ "word": "Wheel", "translation": "عجلة" },
+{ "word": "Worse", "translation": "أسوأ" }
+],
+"tables": [
+{
+"title": "will vs (be) going to - الفرق",
+"headers": ["will", "(be) going to"],
+"rows": [
+["تنبؤات بدون دليل ملموس", "تنبؤات مع دليل ملموس"],
+["قرارات فورية في لحظة التحدث", "خطط ونوايا مسبقة"],
+["Futurologists predict that life will be very different.", "Amal has bought a new book. Tonight she is going to stay at home and start reading it."],
+["I think our team will win the match.", "We are going to attend a football match next Saturday."],
+["Scientists and researchers will find cure for many diseases.", "Tonight we are going to have a birthday party for our mother."]
+],
+"explanation": "نستخدم 'will' للتنبؤات بدون دليل والقرارات الفورية. نستخدم '(be) going to' للتنبؤات مع دليل والخطط المسبقة.",
+"examples": "I think our team will win the match. / We are going to attend a football match next Saturday."
+},
+{
+"title": "Future with will - الصيغة",
+"headers": ["النوع", "الصيغة", "مثال من التمارين"],
+"rows": [
+["الإثبات (Affirmative)", "Subject + will + Verb 1", "People will live longer."],
+["النفي (Negative)", "Subject + will + not + Verb 1", "People won't need to eat."],
+["السؤال (Question)", "Will + Subject + Verb 1?", "Will robots replace teachers?"]
+],
+"explanation": "نستخدم 'will' للتنبؤات المستقبلية والقرارات الفورية. النفي: will not = won't. السؤال: نضع will قبل الفاعل.",
+"examples": "I think our team will win the match. / Futurologists predict that life will be very different."
+},
+{
+"title": "Future with (be) going to - الصيغة",
+"headers": ["النوع", "الصيغة", "مثال من التمارين"],
+"rows": [
+["الإثبات (Affirmative)", "Subject + am/is/are + going to + Verb 1", "Tonight she is going to stay at home."],
+["النفي (Negative)", "Subject + am/is/are + not + going to + Verb 1", "I am not going to attend the match."],
+["السؤال (Question)", "Am/Is/Are + Subject + going to + Verb 1?", "Are you going to visit Aleppo?"]
+],
+"explanation": "نستخدم '(be) going to' للخطط المسبقة والتنبؤات مع دليل ملموس.",
+"examples": "We are going to have a birthday party for our mother. / Tonight we are going to have a birthday party for our mother."
+},
+{
+"title": "Comparatives (صفات المقارنة)",
+"headers": ["الصفة", "المقارنة", "مثال من التمارين"],
+"rows": [
+["good", "better", "Are e-books better than traditional ones?"],
+["comfortable", "more comfortable", "Living on the moon will be more comfortable."],
+["easy", "easier", "Living on the moon will be easier."],
+["cheap", "cheaper", "Property in Homs is cheaper than property in Damascus."],
+["difficult", "more difficult", "Life will be more difficult for some people."]
+],
+"explanation": "للمقارنة بين شيئين نستخدم: صفة + er (للصفات القصيرة) أو more + صفة (للصفات الطويلة) + than.",
+"examples": "E-books are better than traditional books. / Life on the moon will be easier than in a space station."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["Conjunction", "الاستخدام", "مثال من التمارين"],
+"rows": [
+["because", "للتعبير عن سبب", "I will be a teacher because it's my favourite subject."],
+["but", "للتعبير عن تباين", "We will have a nice house but it will not be very big."],
+["so", "للتعبير عن نتيجة", "I'm interested in music, so I will have a wonderful collection."],
+["and", "للربط بين كلمات متشابهة", "Everyone will have education, health, home and food."],
+["because of", "لربط السبب (اسم)", "People will have better education because of technology."],
+["as soon as", "بمجرد أن", "He will start his job as soon as he graduates."]
+],
+"explanation": "أدوات الربط تستخدم لربط الجمل والكلمات.",
+"examples": "I will be an English teacher because it's my favourite subject. / We have a nice house but it is not big."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["Preposition", "الاستخدام", "مثال من التمارين"],
+"rows": [
+["of", "لـ (ملكية / جزء من)", "new types of crops"],
+["because of", "بسبب (اسم)", "because of technology"],
+["to", "إلى (هدف / اتجاه)", "to help him breathe"],
+["for", "لـ (لمدة / من أجل)", "for six months"],
+["on", "على (مكان / سطح)", "on the roofs of buildings"],
+["from", "من (مصدر)", "from a large ice lake"]
+],
+"explanation": "حروف الجر لها استخدامات محددة حسب السياق.",
+"examples": "new types of crops / because of technology / on the roofs of buildings"
+},
+{
+"title": "Question Formation (تكوين السؤال)",
+"headers": ["الخطوة", "الشرح"],
+"rows": [
+["١. كلمة السؤال (Question Word)", "What, Who, Where, When, Why, How long, How often, ..."],
+["٢. الفعل المساعد (Auxiliary Verb)", "will, do/does, did, have/has, am/is/are, ..."],
+["٣. الفاعل (Subject)", "I, you, he, she, it, we, they, ..."],
+["٤. الفعل الرئيسي (Main Verb)", "المصدر (مع will) أو التصريف الثالث (مع have/has)"],
+["٥. باقي الجملة (Rest of sentence)", "...?"]
+],
+"explanation": "لتحويل أي جملة إلى سؤال، نتبع الخطوات: ١- كلمة السؤال ٢- الفعل المساعد ٣- الفاعل ٤- الفعل الرئيسي ٥- باقي الجملة ثم علامة الاستفهام.",
+"examples": "Why will people have better education?\nPeople will have better education because of technology.\n\nWho will robots help?\nRobots will help doctors.\n\nWhat will the space city be like?\nThe space city will be like a gigantic glass wheel.\n\nHow often will they take a pill?\nThey will take a pill three times a day.\n\nWhat will the weather be like tomorrow?\nThe weather will be dreadful tomorrow."
+},
+{
+"title": "Articles a / an (أدوات التنكير)",
+"headers": ["أداة التنكير", "الاستخدام", "مثال من التمارين"],
+"rows": [
+["a", "قبل الكلمات التي تبدأ بحرف ساكن (consonant sound)", "a job, a doctor, a teacher"],
+["an", "قبل الكلمات التي تبدأ بحرف علة (vowel sound)", "an architect, an English teacher, an astronaut"]
+],
+"explanation": "نستخدم 'a' قبل الكلمات التي تبدأ بصوت ساكن، و 'an' قبل الكلمات التي تبدأ بصوت علة (a, e, i, o, u).",
+"examples": "Malik wants to become an architect. / He would like to have a job to serve his country."
+},
+{
+"title": "Possessive Pronouns (ضمائر الملكية)",
+"headers": ["ضمير الملكية", "الاستخدام", "مثال من التمارين"],
+"rows": [
+["my", "يسبق الاسم (صفة ملكية)", "my book, my house"],
+["his", "يسبق الاسم (صفة ملكية)", "his library, his country"]
+],
+"explanation": "ضمائر الملكية تأتي قبل الاسم للدلالة على الملكية.",
+"examples": "He will run his library in his country."
+},
+{
+"title": "Relative Pronouns - who (ضمائر الوصل)",
+"headers": ["ضمير الوصل", "الاستخدام", "مثال من التمارين"],
+"rows": [
+["who", "للعاقل (الناس)", "Malik would like to help poor people who can't afford money."]
+],
+"explanation": "نستخدم 'who' للإشارة إلى الأشخاص (العاقل).",
+"examples": "Malik would like to help poor people who can't afford money to build their houses."
+},
+{
+"title": "Pronunciation - /e/ vs /i:/",
+"headers": ["الصوت القصير /e/", "الصوت الطويل /i:/"],
+"rows": [
+["men", "mean"],
+["red", "read"],
+["met", "meet"],
+["led", "lead"],
+["set", "seat"],
+["fell", "feel"],
+["wet", "wheat"],
+["hell", "heal"],
+["ten", "teen"],
+["peck", "peek"],
+["egg", "deal"],
+["vent", "seal"],
+["lend", "need"],
+["tell", "feel"]
+],
+"explanation": "الصوت القصير /e/ يظهر في كلمات مثل (men, red, met) والصوت الطويل /i:/ يظهر في كلمات مثل (mean, read, meet). جميع الأمثلة مأخوذة من تمرين النطق في كتاب الطالب صفحة 23.",
+"examples": "Listen and repeat: men vs mean, red vs read, met vs meet."
+}
+]
+}

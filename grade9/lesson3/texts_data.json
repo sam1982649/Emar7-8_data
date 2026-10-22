@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G9_U3_T1_P1",
+"text_group": "G9_U3_Life_In_The_Future",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Life in the Future - Part 1",
+"content_exam": "Life in the future will be very different. Futurologists predict that life will probably be very different in all the fields of activity, from entertainment to technology. Some people have imagined that life in the future would be so easy and relaxing, while others have seen that it would be worse and more difficult. I think that in the future we will have a more comfortable life. This will be obvious in all aspects of life.\n\nFirst, as for education, people will have better education because of technology. E-books will replace traditional books, robots will replace teachers, and students will not have to go to schools every day as they will study at home through on-line teaching. So even absent students will learn. Second, health will improve. Technology will also play a very important role in that. New medicines will help people get better. Robots will help doctors and sometimes replace them. Add to that, scientists and researchers will find cure to many diseases like Aids and cancer. So people will live longer.\n\nThird, housing problems will end. People will build houses everywhere. So everyone will have a place to live in.\n\nFourth, hunger will come to an end. People will grow new types of crops everywhere even on the roofs of buildings. Fifth and last, world peace will spread because of all the previous aspects. The world will have nothing to fight for. Everyone will have education, health, home and food. So everyone will be happier and love will be everywhere.",
+"questions": [
+{
+"id": "L3_TXT_C01",
+"type": "choice",
+"question": "The writer thinks that life in the future will be ______ .",
+"options": ["worse and more difficult", "more comfortable", "the same as today", "more stressful"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: more comfortable\n📝 الترجمة: يعتقد الكاتب أن الحياة في المستقبل ستكون أكثر راحة.\n💡 الشرح: النص يقول: 'I think that in the future we will have a more comfortable life'."
+},
+{
+"id": "L3_TXT_C02",
+"type": "choice",
+"question": "Traditional books will be replaced by ______ .",
+"options": ["robots", "e-books", "online teaching", "new medicines"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: e-books\n📝 الترجمة: الكتب التقليدية ستُستبدل بالكتب الإلكترونية.\n💡 الشرح: النص يقول: 'E-books will replace traditional books'."
+},
+{
+"id": "L3_TXT_C03",
+"type": "choice",
+"question": "In the future, teachers will be replaced by ______ .",
+"options": ["e-books", "students", "robots", "parents"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: robots\n📝 الترجمة: في المستقبل، سيُستبدل المعلمون بالروبوتات.\n💡 الشرح: النص يقول: 'robots will replace teachers'."
+},
+{
+"id": "L3_TXT_C04",
+"type": "choice",
+"question": "Students will study ______ in the future.",
+"options": ["at school", "at home online", "in libraries", "in special centers"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: at home online\n📝 الترجمة: سيدرس الطلاب في المنزل عبر الإنترنت في المستقبل.\n💡 الشرح: النص يقول: 'they will study at home through on-line teaching'."
+},
+{
+"id": "L3_TXT_C05",
+"type": "choice",
+"question": "______ students will still learn online even if they are not at school.",
+"options": ["Absent", "Lazy", "Sick", "Late"],
+"correct": 0,
+"explanation": "✅ الإجابة الصحيحة: Absent\n📝 الترجمة: حتى الطلاب الغائبون سيتعلمون عبر الإنترنت.\n💡 الشرح: النص يقول: 'So even absent students will learn'."
+}
+]
+},
+{
+"id": "G9_U3_T1_P2",
+"text_group": "G9_U3_Life_In_The_Future",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Life in the Future - Part 2",
+"content_exam": "Second, health will improve. Technology will also play a very important role in that. New medicines will help people get better. Robots will help doctors and sometimes replace them. Scientists and researchers will find cures for many diseases like AIDS and cancer. So people will live longer. Third, housing problems will end. People will build houses everywhere. So everyone will have a place to live in. Fourth, hunger will come to an end. People will grow new types of crops everywhere, even on the roofs of buildings. Fifth and last, world peace will spread because of all the previous aspects. The world will have nothing to fight for. Everyone will have education, health, home and food. So everyone will be happier and love will be everywhere.",
+"questions": [
+{
+"id": "L3_TXT_TF01",
+"type": "truefalse",
+"question": "New medicines will help people get better in the future.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: ستساعد الأدوية الجديدة الناس على التحسن في المستقبل.\n💡 الشرح: النص يقول: 'New medicines will help people get better'."
+},
+{
+"id": "L3_TXT_TF02",
+"type": "truefalse",
+"question": "Robots will replace doctors completely.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: ستستبدل الروبوتات الأطباء بالكامل.\n💡 الشرح: النص يقول إن الروبوتات ستساعد الأطباء وأحياناً تستبدلهم — ليس بالكامل."
+},
+{
+"id": "L3_TXT_TF03",
+"type": "truefalse",
+"question": "People will live shorter lives in the future.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: سيعيش الناس حياة أقصر في المستقبل.\n💡 الشرح: النص يقول: 'So people will live longer'."
+},
+{
+"id": "L3_TXT_A01",
+"type": "answer",
+"question": "How will housing problems end?",
+"keywords": ["build houses everywhere", "houses everywhere", "everywhere"],
+"explanation": "✅ الإجابة الصحيحة: People will build houses everywhere.\n📝 الترجمة: كيف ستنتهي مشاكل السكن؟\n💡 الشرح: سيبني الناس منازل في كل مكان، فيكون لكل شخص مكان يعيش فيه."
+},
+{
+"id": "L3_TXT_A02",
+"type": "answer",
+"question": "Where will people grow crops?",
+"keywords": ["roofs", "roofs of buildings", "everywhere"],
+"explanation": "✅ الإجابة الصحيحة: everywhere, even on the roofs of buildings\n📝 الترجمة: أين سيزرع الناس المحاصيل؟\n💡 الشرح: النص يقول: 'grow new types of crops everywhere even on the roofs of buildings'."
+}
+]
+},
+{
+"id": "G9_U3_T2_P1",
+"text_group": "G9_U3_Living_In_Space",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Living in Space - Part 1",
+"content_exam": "Someday people will live in space. By the end of this century, there will be permanent settlements that will allow people to lead a normal life in space. Hundreds of astronauts are going to work and live in the space station, which will take ten years to build. In some way, living on the moon will be easier than living in a space station and it will be cheaper because people won't bring everything from the Earth by rockets. The space city will be like a gigantic glass wheel that will contain buildings, factories and special meeting places. Inside it, people won't live differently from small towns on the Earth. It will have air so that inhabitants can breathe and they won't need to wear special space-suits inside the buildings.",
+"questions": [
+{
+"id": "L3_TXT_C06",
+"type": "choice",
+"question": "People will live in permanent space settlements ______ .",
+"options": ["by the end of this decade", "by the end of this century", "by the end of next year", "by 2050"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: by the end of this century\n📝 الترجمة: سيعيش الناس في مستوطنات فضائية دائمة بنهاية هذا القرن.\n💡 الشرح: النص يقول: 'By the end of this century, there will be permanent settlements'."
+},
+{
+"id": "L3_TXT_C07",
+"type": "choice",
+"question": "The space station will take ______ to build.",
+"options": ["five years", "ten years", "fifteen years", "twenty years"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: ten years\n📝 الترجمة: سيستغرق بناء محطة الفضاء عشر سنوات.\n💡 الشرح: النص يقول: 'which will take ten years to build'."
+},
+{
+"id": "L3_TXT_C08",
+"type": "choice",
+"question": "The space city will look like ______ .",
+"options": ["a gigantic metal ball", "a gigantic glass wheel", "a huge rocket", "a large floating island"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: a gigantic glass wheel\n📝 الترجمة: ستبدو مدينة الفضاء مثل عجلة زجاجية عملاقة.\n💡 الشرح: النص يقول: 'The space city will be like a gigantic glass wheel'."
+},
+{
+"id": "L3_TXT_C09",
+"type": "choice",
+"question": "People won't need space-suits inside the buildings because there is ______ inside.",
+"options": ["no gravity", "air", "water", "food"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: air\n📝 الترجمة: لن يحتاج الناس إلى بدلات فضاء داخل المباني لوجود الهواء.\n💡 الشرح: النص يقول: 'It will have air so that inhabitants can breathe'."
+},
+{
+"id": "L3_TXT_C10",
+"type": "choice",
+"question": "Living on the moon will be ______ than living in a space station.",
+"options": ["more difficult", "more expensive", "easier and cheaper", "more dangerous"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: easier and cheaper\n📝 الترجمة: ستكون الحياة على القمر أسهل وأرخص من محطة الفضاء.\n💡 الشرح: النص يقول: 'living on the moon will be easier ... and it will be cheaper'."
+}
+]
+},
+{
+"id": "G9_U3_T2_P2",
+"text_group": "G9_U3_Living_In_Space",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Living in Space - Part 2",
+"content_exam": "Scientists also believe that they will obtain water from a large ice lake on the moon. People won't have to do housework because robots will do that for them. Food won't be a problem, as settlers won't need to eat. Instead, they will take a pill three times a day. The first group of astronauts will live on the moon for six months and then they will return to the Earth and another group will travel. This will be repeated until the first settlers can finish establishing the new city. Life on the moon will be just the beginning. We hope they will use the knowledge we get there to plan expeditions to Mars, Mercury and even Pluto.",
+"questions": [
+{
+"id": "L3_TXT_TF04",
+"type": "truefalse",
+"question": "Scientists will obtain water from a large ice lake on the moon.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: سيحصل العلماء على الماء من بحيرة جليدية كبيرة على القمر.\n💡 الشرح: النص يقول: 'they will obtain water from a large ice lake on the moon'."
+},
+{
+"id": "L3_TXT_TF05",
+"type": "truefalse",
+"question": "People will have to do housework on the moon.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: سيتعين على الناس القيام بالأعمال المنزلية على القمر.\n💡 الشرح: النص يقول: 'robots will do that for them'."
+},
+{
+"id": "L3_TXT_TF06",
+"type": "truefalse",
+"question": "Settlers on the moon will eat normal food three times a day.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: سيتناول المستوطنون على القمر طعاماً عادياً ثلاث مرات يومياً.\n💡 الشرح: النص يقول: 'they will take a pill three times a day' — حبوب وليس طعاماً."
+},
+{
+"id": "L3_TXT_A03",
+"type": "answer",
+"question": "How long will the first group of astronauts stay on the moon?",
+"keywords": ["six months", "6 months"],
+"explanation": "✅ الإجابة الصحيحة: six months\n📝 الترجمة: كم من الوقت سيبقى أول فريق من رواد الفضاء على القمر؟\n💡 الشرح: النص يقول: 'The first group of astronauts will live on the moon for six months'."
+},
+{
+"id": "L3_TXT_A04",
+"type": "answer",
+"question": "Name two planets that expeditions will go to in the future.",
+"keywords": ["Mars", "Mercury", "Mars and Mercury", "Mars Mercury Pluto"],
+"explanation": "✅ الإجابة الصحيحة: Mars and Mercury (also Pluto)\n📝 الترجمة: اذكر كوكبين ستنطلق إليهما الرحلات الاستكشافية في المستقبل.\n💡 الشرح: النص يقول: 'plan expeditions to Mars, Mercury and even Pluto'."
+}
+]
+}
+]
+}
