@@ -1,0 +1,167 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة الإجابة الحرة (Free Answer)",
+"description": "يتم استخراج أسئلة الإجابة الحرة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل العامة والمعلوماتية الموجودة في كل مصدر.",
+"applicable_to": "جميع الدروس (Unit 4)",
+"search_sources": [
+"Student Book - Speaking",
+"Student Book - Grammar Exercises",
+"Activity Book - Vocabulary",
+"Activity Book - Grammar Exercises"
+],
+"selection_criteria": [
+"السؤال من التمارين نفسها وليس من النص",
+"السؤال عام ولا يحتاج إلى قراءة النص للإجابة عليه",
+"الجواب واضح ومحدد وقصير (كلمة أو بضع كلمات)",
+"لا نستخدم أسئلة إجابتها Yes/No"
+],
+"wh_words": ["What", "How", "When", "Where", "Who", "How many", "How often"],
+"auxiliary_verbs": ["do", "does", "is", "are", "was", "were", "did"],
+"answer_type": "كلمة مفتاحية أو عبارة قصيرة",
+"verification_method": "البحث عن الكلمات المفتاحية في إجابة الطالب (case-insensitive)",
+"important_note": "⚠️ الأسئلة مأخوذة من التمارين وليس من النص."
+},
+"questions": [
+{
+"id": "SB_G7_U4_F1",
+"question": "What were you doing at 6.00 this morning?",
+"translation": "ماذا كنت تفعل في السادسة صباحاً؟",
+"keywords": ["sleeping", "getting ready", "having breakfast", "exercising", "reading"],
+"suggested_answers": [
+"I was sleeping",
+"I was getting ready for school",
+"I was having breakfast",
+"I was exercising",
+"I was reading a book"
+],
+"wh_word": "What",
+"auxiliary": "were",
+"category": "Activity",
+"source": "Student Book",
+"exact_reference": "Speaking - Time"
+},
+{
+"id": "SB_G7_U4_F2",
+"question": "Where were you at 6.00 this morning?",
+"translation": "أين كنت في السادسة صباحاً؟",
+"keywords": ["at home", "in my room", "in the kitchen", "in the garden"],
+"suggested_answers": [
+"I was at home",
+"I was in my room",
+"I was in the kitchen",
+"I was in the garden"
+],
+"wh_word": "Where",
+"auxiliary": "were",
+"category": "Place",
+"source": "Student Book",
+"exact_reference": "Speaking - Time"
+},
+{
+"id": "SB_G7_U4_F3",
+"question": "Who were you playing with?",
+"translation": "مع من كنت تلعب؟",
+"keywords": ["my friends", "my brother", "my sister", "my cousin"],
+"suggested_answers": [
+"I was playing with my friends",
+"I was playing with my brother",
+"I was playing with my sister",
+"I was playing with my cousin"
+],
+"wh_word": "Who",
+"auxiliary": "were",
+"category": "Person",
+"source": "Student Book",
+"exact_reference": "Writing - Dialogue"
+},
+{
+"id": "SB_G7_U4_F4",
+"question": "Where were you playing?",
+"translation": "أين كنت تلعب؟",
+"keywords": ["in the gym", "in the park", "in the garden", "at school"],
+"suggested_answers": [
+"I was playing in the gym",
+"I was playing in the park",
+"I was playing in the garden",
+"I was playing at school"
+],
+"wh_word": "Where",
+"auxiliary": "were",
+"category": "Place",
+"source": "Student Book",
+"exact_reference": "Writing - Dialogue"
+},
+{
+"id": "AB_G7_U4_F1",
+"question": "What do you do when you feel scared?",
+"translation": "ماذا تفعل عندما تشعر بالخوف؟",
+"keywords": ["call someone", "stay calm", "hide", "run away", "ask for help"],
+"suggested_answers": [
+"I call someone",
+"I stay calm",
+"I hide",
+"I run away",
+"I ask for help"
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Action",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Feelings"
+},
+{
+"id": "AB_G7_U4_F2",
+"question": "What do you do when you get lost?",
+"translation": "ماذا تفعل عندما تضيع؟",
+"keywords": ["ask for help", "use a map", "call someone", "stay calm", "look for signs"],
+"suggested_answers": [
+"I ask for help",
+"I use a map",
+"I call someone",
+"I stay calm",
+"I look for signs"
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Action",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Feelings"
+},
+{
+"id": "AB_G7_U4_F3",
+"question": "What do you take on holiday?",
+"translation": "ماذا تأخذ معك في العطلة؟",
+"keywords": ["clothes", "camera", "mobile phone", "money", "sunglasses"],
+"suggested_answers": [
+"I take clothes",
+"I take a camera",
+"I take my mobile phone",
+"I take money",
+"I take sunglasses"
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Objects",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Holiday"
+},
+{
+"id": "AB_G7_U4_F4",
+"question": "How often do you go on holiday?",
+"translation": "كم مرة تذهب في عطلة؟",
+"keywords": ["once a year", "twice a year", "every summer", "every winter", "once every two years"],
+"suggested_answers": [
+"I go once a year",
+"I go twice a year",
+"I go every summer",
+"I go every winter",
+"I go once every two years"
+],
+"wh_word": "How often",
+"auxiliary": "do",
+"category": "Frequency",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Holiday"
+}
+]
+}

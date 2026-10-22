@@ -1,0 +1,190 @@
+{
+"vocabulary": [
+{ "word": "holiday", "translation": "عطلة" },
+{ "word": "Scotland", "translation": "اسكتلندا" },
+{ "word": "bungee jumping", "translation": "القفز بالحبل" },
+{ "word": "mountain biking", "translation": "ركوب الجبال" },
+{ "word": "white water rafting", "translation": "التجديف في المياه البيضاء" },
+{ "word": "windowpane", "translation": "زجاج النافذة" },
+{ "word": "breeches", "translation": "سراويل قصيرة" },
+{ "word": "petticoats", "translation": "تنورات داخلية" },
+{ "word": "century", "translation": "قرن (100 سنة)" },
+{ "word": "costume party", "translation": "حفلة تنكرية" },
+{ "word": "come across", "translation": "يجد بالصدفة" },
+{ "word": "unusual", "translation": "غير عادي" },
+{ "word": "scary", "translation": "مخيف" },
+{ "word": "normal", "translation": "طبيعي" },
+{ "word": "abnormal", "translation": "غير طبيعي" },
+{ "word": "distinguish", "translation": "يميز" },
+{ "word": "look through", "translation": "ينظر من خلال" },
+{ "word": "realize", "translation": "يدرك" },
+{ "word": "strange", "translation": "غريب" },
+{ "word": "afraid", "translation": "خائف" },
+{ "word": "employer", "translation": "صاحب العمل" },
+{ "word": "rescue", "translation": "إنقاذ" },
+{ "word": "SOS", "translation": "إشارة استغاثة" },
+{ "word": "signal", "translation": "إشارة" },
+{ "word": "forest", "translation": "غابة" },
+{ "word": "backpack", "translation": "حقيبة ظهر" },
+{ "word": "map", "translation": "خريطة" },
+{ "word": "thick", "translation": "كثيف" },
+{ "word": "pilot", "translation": "طيار" },
+{ "word": "spot", "translation": "يكتشف" },
+{ "word": "common sense", "translation": "حس سليم" },
+{ "word": "breathless", "translation": "منقطع النفس" },
+{ "word": "pretend", "translation": "يتظاهر" },
+{ "word": "creature", "translation": "مخلوق" },
+{ "word": "false friend", "translation": "صديق مزيف" },
+{ "word": "rescue services", "translation": "خدمات الإنقاذ" },
+{ "word": "emergency", "translation": "طوارئ" },
+{ "word": "fees", "translation": "رسوم" },
+{ "word": "college", "translation": "كلية" },
+{ "word": "run", "translation": "يجري" },
+{ "word": "wallet", "translation": "محفظة" },
+{ "word": "rescue planes", "translation": "طائرات إنقاذ" },
+{ "word": "thick trees", "translation": "أشجار كثيفة" },
+{ "word": "voluntary", "translation": "تطوعي" },
+{ "word": "charity", "translation": "جمعية خيرية" },
+{ "word": "homeless", "translation": "بلا مأوى" },
+{ "word": "shelter", "translation": "مأوى" },
+{ "word": "meals", "translation": "وجبات" },
+{ "word": "medicine", "translation": "دواء" },
+{ "word": "hostel", "translation": "نزل" },
+{ "word": "experience", "translation": "تجربة" },
+{ "word": "gym", "translation": "صالة رياضية" },
+{ "word": "basketball", "translation": "كرة السلة" },
+{ "word": "shoot", "translation": "يسدد (الهدف)" },
+{ "word": "accident", "translation": "حادث" },
+{ "word": "motorbike", "translation": "دراجة نارية" },
+{ "word": "elevator", "translation": "مصعد" },
+{ "word": "mobile phone", "translation": "هاتف محمول" },
+{ "word": "patient", "translation": "صبور" },
+{ "word": "stuck", "translation": "عالق" },
+{ "word": "bear", "translation": "دب" },
+{ "word": "climb", "translation": "يتسلق" },
+{ "word": "dead", "translation": "ميت" },
+{ "word": "whisper", "translation": "يهمس" },
+{ "word": "advise", "translation": "ينصح" },
+{ "word": "false", "translation": "مزيف" }
+],
+"tables": [
+{
+"title": "Past Progressive (الماضي المستمر)",
+"headers": ["Usage", "Example"],
+"rows": [
+["فعل كان مستمراً في الماضي", "I was sleeping at 11 o'clock last night."],
+["فعل مستمر قطعه فعل آخر", "I was driving to work when I saw an accident."],
+["فعلان مستمران في نفس الوقت", "My family was having dinner while I was working."]
+],
+"explanation": "يتكون الماضي المستمر من (was/were + V-ing). يستخدم للتعبير عن فعل كان مستمراً في الماضي، أو فعل مستمر قطعه فعل آخر، أو فعلين مستمرين في نفس الوقت.",
+"examples": "I was sleeping at 11 o'clock last night.\nLisa was reading a newspaper when I arrived.\nMy family was having dinner while I was working."
+},
+{
+"title": "Simple Past (الماضي البسيط)",
+"headers": ["Form", "Example"],
+"rows": [
+["التصريف الثاني للفعل (regular: +ed)", "I walked to school yesterday."],
+["التصريف الثاني للفعل (irregular)", "I went to Scotland last year."],
+["النفي: didn't + المصدر", "He didn't have a map."],
+["السؤال: Did + الفاعل + المصدر", "Did you see the accident?"]
+],
+"explanation": "يستخدم الماضي البسيط للتعبير عن أحداث وقعت وانتهت في الماضي. مع الكلمات الدالة على الماضي مثل: yesterday, last year, ago, in 2010.",
+"examples": "I went on holiday to Scotland last year.\nHe didn't have a map.\nThey called the police."
+},
+{
+"title": "Prepositions (حروف الجر المهمة في الدرس)",
+"headers": ["Preposition", "Usage", "Example"],
+"rows": [
+["on", "مع المزرعة", "He found a job on a farm."],
+["on", "مع العطلة", "I went on holiday."],
+["on", "مع الملابس", "Women were putting on petticoats."],
+["for", "مع الانتظار", "We waited for the waiter."],
+["for", "مع الذهاب للجري", "He went for a run."],
+["from", "مع التمييز", "Distinguish the normal from the abnormal."],
+["because of", "مع السبب (اسم)", "They couldn't find him because of the thick trees."]
+],
+"explanation": "حروف الجر تربط الكلمات في الجملة. بعض الأفعال تأتي مع حروف جر محددة ويجب حفظها كما هي.",
+"examples": "He found a job on a farm.\nWe waited for the waiter.\nThey couldn't find him because of the thick trees."
+},
+{
+"title": "Relative Pronouns (ضمائر الوصل)",
+"headers": ["Pronoun", "Usage", "Example"],
+"rows": [
+["who", "للعاقل (فاعل)", "Mike is a student who used to work."],
+["whom", "للعاقل (مفعول به)", "The man whom you saw."],
+["which", "لغير العاقل", "The book which I read."],
+["whose", "للملكية", "The student whose book is lost."]
+],
+"explanation": "تستخدم ضمائر الوصل لربط جملتين. who للعاقل كفاعل، whom للعاقل كمفعول به، which لغير العاقل، whose للملكية.",
+"examples": "Mike is a student who used to work in the summer.\nThey called the police who contacted the rescue services."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["Conjunction", "Usage", "Example"],
+"rows": [
+["so", "للنتيجة", "They were eating, so we realized it was a restaurant."],
+["because", "للسبب", "We felt afraid because nobody looked normal."],
+["when", "للتوقيت (قطع الفعل)", "I was driving when I saw an accident."],
+["while", "للتوقيت (فعلين مستمرين)", "Snow was falling while we were walking."]
+],
+"explanation": "أدوات الربط تستخدم لربط الجمل. 'so' للنتيجة، 'because' للسبب، 'when' و 'while' للتوقيت.",
+"examples": "They were eating, so we realized it was a restaurant.\nWe felt afraid because nobody looked normal.\nI was driving when I saw an accident."
+},
+{
+"title": "Possessive Adjectives (صفات الملكية)",
+"headers": ["Subject Pronoun", "Possessive Adjective", "Example"],
+"rows": [
+["I", "my", "This is my book."],
+["You", "your", "Where is your bag?"],
+["He", "his", "That is his car."],
+["She", "her", "This is her room."],
+["They", "their", "Their hair was different."]
+],
+"explanation": "صفات الملكية تأتي قبل الأسماء. 'their' تستخدم للجمع الغائب وتعني 'خاصتهم'.",
+"examples": "Their hair and faces were also different."
+},
+{
+"title": "Past Passive (الماضي المبني للمجهول)",
+"headers": ["Form", "Example"],
+"rows": [
+["was/were + past participle", "The restaurant was booked for a costume party."]
+],
+"explanation": "يستخدم الماضي المبني للمجهول عندما يكون الفاعل غير معروف أو غير مهم. يتكون من (was/were + التصريف الثالث للفعل).",
+"examples": "The restaurant was booked for a costume party."
+},
+{
+"title": "Quantifiers (المحددات الكمية)",
+"headers": ["Quantifier", "Usage", "Example"],
+"rows": [
+["many", "مع الأسماء المعدودة (جمع)", "We practised many activities."],
+["much", "مع الأسماء غير المعدودة (مفرد)", "How much water do you need?"],
+["a lot of", "مع المعدود وغير المعدود", "We have a lot of time."],
+["little", "مع غير المعدود (كمية قليلة)", "There is little water left."]
+],
+"explanation": "'many' تستخدم مع الأسماء المعدودة الجمع، 'much' مع الأسماء غير المعدودة، 'a lot of' مع كليهما، 'little' تعني كمية قليلة وتستخدم مع غير المعدود.",
+"examples": "We practised many activities like bungee jumping and mountain biking."
+},
+{
+"title": "Adverbs (الظروف)",
+"headers": ["Adverb", "Usage", "Example"],
+"rows": [
+["well", "يصف الفعل (بشكل جيد)", "He didn't know the place well."],
+["badly", "يصف الفعل (بشكل سيئ)", "He played badly."],
+["quickly", "يصف الفعل (بسرعة)", "He ran quickly."],
+["slowly", "يصف الفعل (ببطء)", "He walked slowly."]
+],
+"explanation": "الظروف تصف الأفعال وتأتي عادة بعد الفعل. 'well' تعني بشكل جيد، 'badly' بشكل سيئ، 'quickly' بسرعة، 'slowly' ببطء.",
+"examples": "He didn't know the place well."
+},
+{
+"title": "Infinitives (المصدر مع to)",
+"headers": ["Form", "Example"],
+"rows": [
+["to + verb", "We decided to go into the restaurant."],
+["to + verb", "He went to find the way home."]
+],
+"explanation": "المصدر مع 'to' يستخدم بعد بعض الأفعال مثل: decide, want, need, try. يتكون من (to + الفعل في المصدر).",
+"examples": "We decided to go into the restaurant.\nHe tried to find the way home."
+}
+]
+}

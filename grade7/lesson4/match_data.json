@@ -1,0 +1,114 @@
+{
+"groups": [
+{
+"id": "SB_G7_U4_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G7_U4_Beware_of_Hunger",
+"options": [
+{ "letter": "a", "text": "like bungee jumping, mountain biking and white water rafting" },
+{ "letter": "b", "text": "and saw lots of people" },
+{ "letter": "c", "text": "I saw an accident" },
+{ "letter": "d", "text": "people wear unusual clothes" },
+{ "letter": "e", "text": "pretending to be a dead man" }
+],
+"sentences": [
+{
+"start": "We practised many activities",
+"correct": "a",
+"full_sentence": "We practised many activities like bungee jumping, mountain biking and white water rafting",
+"translation": "مارسنا العديد من الأنشطة مثل القفز بالحبل وركوب الجبال والتجديف في المياه البيضاء",
+"source": "Student Book",
+"exact_reference": "Reading Text - Line 2"
+},
+{
+"start": "We looked through the windowpane",
+"correct": "b",
+"full_sentence": "We looked through the windowpane and saw lots of people",
+"translation": "نظرنا من خلال زجاج النافذة ورأينا الكثير من الناس",
+"source": "Student Book",
+"exact_reference": "Reading Text - Line 5"
+},
+{
+"start": "While I was driving to work",
+"correct": "c",
+"full_sentence": "While I was driving to work, I saw an accident",
+"translation": "بينما كنت أقود إلى العمل، رأيت حادثاً",
+"source": "Student Book",
+"exact_reference": "Grammar Exercise"
+},
+{
+"start": "In a costume party",
+"correct": "d",
+"full_sentence": "In a costume party, people wear unusual clothes",
+"translation": "في الحفلة التنكرية، يرتدي الناس ملابس غير عادية",
+"source": "Student Book",
+"exact_reference": "Key Words"
+},
+{
+"start": "He lay down on the ground breathless",
+"correct": "e",
+"full_sentence": "He lay down on the ground breathless, pretending to be a dead man",
+"translation": "استلقى على الأرض دون أن يتنفس متظاهراً بأنه ميت",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Friends"
+}
+]
+},
+{
+"id": "AB_G7_U4_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G7_U4_The_Lost_Student",
+"options": [
+{ "letter": "a", "text": "while he was singing" },
+{ "letter": "b", "text": "when I arrived" },
+{ "letter": "c", "text": "to find the way home" },
+{ "letter": "d", "text": "who contacted the rescue services" },
+{ "letter": "e", "text": "flying over the place" }
+],
+"sentences": [
+{
+"start": "Somebody threw a tomato at him",
+"correct": "a",
+"full_sentence": "Somebody threw a tomato at him while he was singing",
+"translation": "ألقى شخص ما طماطم عليه بينما كان يغني",
+"source": "Activity Book",
+"exact_reference": "Grammar B - Q1"
+},
+{
+"start": "Lisa was reading a newspaper",
+"correct": "b",
+"full_sentence": "Lisa was reading a newspaper when I arrived",
+"translation": "كانت ليزا تقرأ صحيفة عندما وصلت",
+"source": "Activity Book",
+"exact_reference": "Grammar - Examples"
+},
+{
+"start": "He tried all day",
+"correct": "c",
+"full_sentence": "He tried all day to find the way home",
+"translation": "حاول طوال اليوم أن يجد الطريق إلى المنزل",
+"source": "Activity Book",
+"exact_reference": "Reading Text - The Lost Student - Line 5"
+},
+{
+"start": "They called the police",
+"correct": "d",
+"full_sentence": "They called the police who contacted the rescue services",
+"translation": "اتصلوا بالشرطة التي اتصلت بخدمات الإنقاذ",
+"source": "Activity Book",
+"exact_reference": "Reading Text - The Lost Student - Line 7"
+},
+{
+"start": "He saw the rescue planes",
+"correct": "e",
+"full_sentence": "He saw the rescue planes flying over the place",
+"translation": "رأى طائرات الإنقاذ تحلق فوق المكان",
+"source": "Activity Book",
+"exact_reference": "Reading Text - The Lost Student - Line 8"
+}
+]
+}
+]
+}

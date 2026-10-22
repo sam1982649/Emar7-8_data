@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "SB_G7_U4_T1_P1",
+"text_group": "G7_U4_Beware_of_Hunger",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Beware of Hunger!",
+"content_exam": "I'm Daniel. Mum, dad and I were on holiday to Scotland last year. We practised many activities like bungee jumping, mountain biking, and white water rafting. We went to a lot of places. One day, we were looking for a place to eat. We came across a big old building. We looked through the windowpane and saw lots of people. They were eating, drinking, and talking so we realized it was a restaurant. However, there was something strange. Men were wearing breeches and big hats while women were putting on petticoats and dresses from the 18th century. Their hair and faces were also different.",
+"questions": [
+{
+"id": "t1_p1_q1",
+"question": "Daniel went on holiday to ........ last year.",
+"options": ["England", "Scotland", "Ireland", "Wales"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Scotland\n📝 الترجمة: ذهب دانيال في عطلة إلى اسكتلندا العام الماضي.\n💡 الشرح: النص يقول: 'Mum, dad and I were on holiday to Scotland last year.'"
+},
+{
+"id": "t1_p1_q2",
+"question": "Daniel practised activities like bungee jumping, mountain biking and ........ .",
+"options": ["horse riding", "white water rafting", "swimming", "climbing"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: white water rafting\n📝 الترجمة: مارس دانيال أنشطة مثل القفز بالحبل وركوب الجبال والتجديف في المياه البيضاء.\n💡 الشرح: النص يقول: 'We practised many activities like bungee jumping, mountain biking, and white water rafting.'"
+},
+{
+"id": "t1_p1_q3",
+"question": "Daniel and his family stopped at the big old building because they were looking for a place to ........ .",
+"options": ["rest", "eat", "sleep", "take photos"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: eat\n📝 الترجمة: توقف دانيال وعائلته عند المبنى القديم الكبير لأنهم كانوا يبحثون عن مكان لتناول الطعام.\n💡 الشرح: النص يقول: 'we were looking for a place to eat'."
+},
+{
+"id": "t1_p1_q4",
+"question": "Through the windowpane, Daniel saw people ........ .",
+"options": ["sleeping", "eating, drinking and talking", "dancing", "reading"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: eating, drinking and talking\n📝 الترجمة: من خلال زجاج النافذة، رأى دانيال أشخاصاً يأكلون ويشربون ويتحدثون.\n💡 الشرح: النص يقول: 'They were eating, drinking, and talking'."
+},
+{
+"id": "t1_p1_q5",
+"question": "Men in the restaurant were wearing ........ and big hats.",
+"options": ["suits", "breeches", "jeans", "uniforms"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: breeches\n📝 الترجمة: كان الرجال في المطعم يرتدون سراويل قصيرة وقبعات كبيرة.\n💡 الشرح: النص يقول: 'Men were wearing breeches and big hats'."
+}
+]
+},
+{
+"id": "SB_G7_U4_T1_P2",
+"text_group": "G7_U4_Beware_of_Hunger",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Beware of Hunger!",
+"content_exam": "It was dinner time, the sun was setting and everything looked scary. We felt a little bit afraid because nobody looked normal. But because we were very hungry, we decided to go into the restaurant, which we did with slow steps and eyes looking around. We chose a table and waited for the waiter to order. He came with a big smile on his face saying that we couldn't have our meal because the restaurant was booked for a costume party! It seemed that because we were hungry, we couldn't distinguish the normal from the abnormal!",
+"questions": [
+{
+"id": "t1_p2_q1",
+"question": "Daniel felt happy when he saw the restaurant.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: شعر دانيال بالسعادة عندما رأى المطعم.\n💡 الشرح: النص يقول: 'We felt a little bit afraid' (وليس happy)."
+},
+{
+"id": "t1_p2_q2",
+"question": "Daniel decided to go into the restaurant because he was very hungry.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: قرر دانيال الدخول إلى المطعم لأنه كان جائعاً جداً.\n💡 الشرح: النص يقول: 'because we were very hungry, we decided to go into the restaurant'."
+},
+{
+"id": "t1_p2_q3",
+"question": "The waiter said they could have their meal immediately.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: قال النادل إنهم يستطيعون تناول وجبتهم فوراً.\n💡 الشرح: النص يقول: 'we couldn't have our meal because the restaurant was booked for a costume party'."
+},
+{
+"id": "t1_p2_q4",
+"question": "Why couldn't Daniel have his meal?",
+"type": "answer",
+"keywords": ["costume party", "booked for a costume party", "restaurant was booked"],
+"explanation": "✅ الإجابة الصحيحة: because the restaurant was booked for a costume party\n📝 الترجمة: لماذا لم يستطع دانيال تناول وجبته؟\n💡 الشرح: النص يقول: 'the restaurant was booked for a costume party'."
+},
+{
+"id": "t1_p2_q5",
+"question": "What couldn't Daniel distinguish because he was hungry?",
+"type": "answer",
+"keywords": ["normal from abnormal", "the normal from the abnormal", "normal", "abnormal"],
+"explanation": "✅ الإجابة الصحيحة: the normal from the abnormal\n📝 الترجمة: ما الذي لم يستطع دانيال تمييزه لأنه كان جائعاً؟\n💡 الشرح: النص يقول: 'we couldn't distinguish the normal from the abnormal'."
+}
+]
+},
+{
+"id": "AB_G7_U4_T1",
+"text_group": "G7_U4_Friends",
+"part": 1,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Friends",
+"content_exam": "Once two friends were walking through the forest. They knew that anything dangerous can happen to them at any time in the forest. So they promised each other that they would remain united in any case of danger. Suddenly, they saw a large bear approaching them. One of the friends at once climbed a nearby tree, but the other one did not know how to climb. So being led by his common sense, he lay down on the ground breathless, pretending to be a dead man. The bear came near the man lying on the ground. It smelled his ears, and slowly left the place, because bears do not touch dead creatures.",
+"questions": [
+{
+"id": "t2_q1",
+"question": "The two friends were walking through the mountains.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: كان الصديقان يسيران عبر الجبال.\n💡 الشرح: النص يقول: 'walking through the forest' (وليس mountains)."
+},
+{
+"id": "t2_q2",
+"question": "One of the friends climbed a tree when he saw the bear.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: تسلق أحد الصديقين شجرة عندما رأى الدب.\n💡 الشرح: النص يقول: 'One of the friends at once climbed a nearby tree'."
+},
+{
+"id": "t2_q3",
+"question": "The bear ate the man who lay on the ground.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: أكل الدب الرجل الذي كان مستلقياً على الأرض.\n💡 الشرح: النص يقول: 'bears do not touch dead creatures'."
+},
+{
+"id": "t2_q4",
+"question": "Why did the man lie down on the ground?",
+"type": "answer",
+"keywords": ["pretending to be dead", "pretend to be dead", "dead man"],
+"explanation": "✅ الإجابة الصحيحة: pretending to be a dead man\n📝 الترجمة: لماذا استلقى الرجل على الأرض؟\n💡 الشرح: النص يقول: 'pretending to be a dead man'."
+},
+{
+"id": "t2_q5",
+"question": "What did the bear advise the man?",
+"type": "answer",
+"keywords": ["not to believe a false friend", "false friend", "don't believe a false friend"],
+"explanation": "✅ الإجابة الصحيحة: not to believe a false friend\n📝 الترجمة: ماذا نصح الدب الرجل؟\n💡 الشرح: النص يقول: 'The bear advised me not to believe a false friend'."
+}
+]
+},
+{
+"id": "AB_G7_U4_T2",
+"text_group": "G7_U4_The_Lost_Student",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "The Lost Student",
+"content_exam": "Mike is a student who used to work on a farm to collect his college fees. One morning, he decided to go for a run. He took his backpack and a bottle of water. However, he didn't have a map and he didn't know the place well. After two hours, he finished his water and realized he was lost. He tried all day to find the way home but in the end he had to spend the night in the forest. The next morning, his employers missed him and called the police. The rescue services used planes to search for him. Mike saw the planes but they couldn't find him because of the thick trees. He made an SOS signal from his clothes and the pilot spotted him.",
+"questions": [
+{
+"id": "t3_q1",
+"question": "Mike worked on a farm to collect his ........ fees.",
+"options": ["school", "college", "university", "training"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: college\n📝 الترجمة: عمل مايك في مزرعة لجمع رسوم دراسته الجامعية.\n💡 الشرح: النص يقول: 'to collect his college fees'."
+},
+{
+"id": "t3_q2",
+"question": "Mike took his backpack and a bottle of ........ .",
+"options": ["juice", "milk", "water", "tea"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: water\n📝 الترجمة: أخذ مايك حقيبة ظهره وزجاجة ماء.\n💡 الشرح: النص يقول: 'He took his backpack and a bottle of water'."
+},
+{
+"id": "t3_q3",
+"question": "Mike got lost because he didn't have a ........ .",
+"options": ["phone", "map", "compass", "torch"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: map\n📝 الترجمة: ضاع مايك لأنه لم يكن لديه خريطة.\n💡 الشرح: النص يقول: 'he didn't have a map'."
+},
+{
+"id": "t3_q4",
+"question": "Mike spent the night in the ........ .",
+"options": ["cave", "tent", "forest", "hotel"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: forest\n📝 الترجمة: أمضى مايك الليل في الغابة.\n💡 الشرح: النص يقول: 'he had to spend the night in the forest'."
+},
+{
+"id": "t3_q5",
+"question": "The rescue services found Mike using ........ .",
+"options": ["cars", "planes", "ships", "trains"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: planes\n📝 الترجمة: عثرت خدمات الإنقاذ على مايك باستخدام الطائرات.\n💡 الشرح: النص يقول: 'The rescue services used planes to search for him'."
+}
+]
+}
+]
+}
