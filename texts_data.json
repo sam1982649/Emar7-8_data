@@ -1,0 +1,101 @@
+{
+"texts": [
+{
+"id": "G7_U1_T1",
+"text_group": "G7_U1_A_Window_on_the_World",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "A Window on the World",
+"content_exam": "The Japanese school system consists of six-year elementary schools, three-year junior high schools and three-year high schools. The level of Japanese education is high, even by world standards. Public schools in Japan have classes five days a week from Monday to Friday. The school year begins in April and ends in March of the following year. Most schools adopt a three-semester system with three breaks. English is a compulsory subject in junior high and high schools. In Japan, students greet their teachers by getting out of their seats and bowing in unison, as a mark of respect. They wear a uniform called seifuku, and it differs from one school to another. Students are not allowed to wear make-up, dye their hair, or get any tattoos.",
+"questions": [
+{
+"id": "t1_q1",
+"question": "The Japanese school system consists of ........ elementary schools.",
+"options": ["three-year", "five-year", "six-year", "eight-year"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: six-year\n📝 الترجمة: يتكون النظام المدرسي الياباني من مدارس ابتدائية مدتها ست سنوات.\n💡 الشرح: النص يقول: 'six-year elementary schools'."
+},
+{
+"id": "t1_q2",
+"question": "The level of Japanese education is ........ .",
+"options": ["low", "average", "high", "poor"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: high\n📝 الترجمة: مستوى التعليم الياباني مرتفع.\n💡 الشرح: النص يقول: 'high, even by world standards'."
+},
+{
+"id": "t1_q3",
+"question": "Public schools in Japan have classes ........ days a week.",
+"options": ["four", "five", "six", "seven"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: five\n📝 الترجمة: المدارس العامة في اليابان لديها فصول دراسية خمسة أيام في الأسبوع.\n💡 الشرح: النص يقول: 'five days a week'."
+},
+{
+"id": "t1_q4",
+"question": "The school year begins in ........ .",
+"options": ["January", "April", "September", "March"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: April\n📝 الترجمة: السنة الدراسية تبدأ في أبريل.\n💡 الشرح: النص يقول: 'begins in April'."
+},
+{
+"id": "t1_q5",
+"question": "English is a ........ subject in Japanese schools.",
+"options": ["optional", "compulsory", "easy", "difficult"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: compulsory\n📝 الترجمة: اللغة الإنجليزية مادة إلزامية في المدارس اليابانية.\n💡 الشرح: النص يقول: 'compulsory subject'."
+}
+]
+},
+{
+"id": "G7_U1_T2",
+"text_group": "G7_U1_Imagine_If",
+"part": 1,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Imagine If...",
+"content_exam": "Learning is one of the most important needs of every individual. Without learning, we will be ignorant and undeveloped. Science and technology develop people's minds. Grandfathers say that learning in the past was not as easy as it is today. They had few opportunities to continue their education. To get to school, sometimes they had to go on foot because of the lack of transportation. Therefore, many people couldn't read and were called illiterate. At that time, the teacher was the most respected person and the only one who provided information. Students relied heavily on their teachers. However, learning is easier today. Most students have mobile phones through which they can get information.",
+"questions": [
+{
+"id": "t2_q1",
+"question": "The teacher was the most respected person in the past.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: كان المعلم أكثر شخص محترم في الماضي.\n💡 الشرح: النص يقول: 'the teacher was the most respected person'."
+},
+{
+"id": "t2_q2",
+"question": "Students relied on their parents for information in the past.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: اعتمد الطلاب على آبائهم للحصول على المعلومات في الماضي.\n💡 الشرح: النص يقول: 'Students relied heavily on their teachers' (وليس parents)."
+},
+{
+"id": "t2_q3",
+"question": "Learning today is easier than in the past.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: التعلم اليوم أسهل مما كان عليه في الماضي.\n💡 الشرح: النص يقول: 'learning is easier today'."
+},
+{
+"id": "t2_q4",
+"question": "What were people called if they couldn't read?",
+"type": "answer",
+"keywords": ["illiterate"],
+"explanation": "✅ الإجابة الصحيحة: illiterate\n📝 الترجمة: ماذا كان يُطلق على الناس إذا لم يستطيعوا القراءة؟\n💡 الشرح: النص يقول: 'called illiterate'."
+},
+{
+"id": "t2_q5",
+"question": "How do students get information nowadays?",
+"type": "answer",
+"keywords": ["mobile phones", "phones"],
+"explanation": "✅ الإجابة الصحيحة: mobile phones\n📝 الترجمة: كيف يحصل الطلاب على المعلومات في الوقت الحاضر؟\n💡 الشرح: النص يقول: 'mobile phones through which they can get information'."
+}
+]
+}
+]
+}

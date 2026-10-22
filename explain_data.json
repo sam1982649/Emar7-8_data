@@ -1,0 +1,159 @@
+{
+"vocabulary": [
+{ "word": "elementary", "translation": "ابتدائي (أساسي)" },
+{ "word": "consist of", "translation": "يتكون من" },
+{ "word": "standard", "translation": "معيار (مستوى)" },
+{ "word": "adopt", "translation": "يتبنى (يستخدم طريقة)" },
+{ "word": "semester", "translation": "فصل دراسي" },
+{ "word": "compulsory", "translation": "إلزامي (إجباري)" },
+{ "word": "junior high", "translation": "إعدادي (متوسط)" },
+{ "word": "greet", "translation": "يحيي (يرحب)" },
+{ "word": "bow", "translation": "ينحني" },
+{ "word": "unison", "translation": "بتناغم (بصوت واحد)" },
+{ "word": "respect", "translation": "احترام (تقدير)" },
+{ "word": "seifuku", "translation": "الزي المدرسي الياباني" },
+{ "word": "differ", "translation": "يختلف (ليس متشابهاً)" },
+{ "word": "allow", "translation": "يسمح" },
+{ "word": "wear make-up", "translation": "يضع مكياجاً" },
+{ "word": "dye", "translation": "يصبع (يغير اللون)" },
+{ "word": "tattoo", "translation": "وشم" },
+{ "word": "participate", "translation": "يشارك" },
+{ "word": "shift", "translation": "وردية (نوبة عمل)" },
+{ "word": "litter", "translation": "نفايات (مخلفات)" },
+{ "word": "wipe", "translation": "يمسح (ينظف)" },
+{ "word": "effective", "translation": "فعال (مؤثر)" },
+{ "word": "aware", "translation": "مدرك (واعٍ)" },
+{ "word": "surroundings", "translation": "محيط (بيئة)" },
+{ "word": "suitable", "translation": "مناسب (ملائم)" },
+{ "word": "preposition", "translation": "حرف جر" },
+{ "word": "atmosphere", "translation": "جو (أجواء)" },
+{ "word": "wonderful", "translation": "رائع (مذهل)" },
+{ "word": "unfortunately", "translation": "للأسف" },
+{ "word": "look forward to", "translation": "يتطلع إلى" },
+{ "word": "individual", "translation": "فرد (شخص)" },
+{ "word": "ignorant", "translation": "جاهل (غير مثقف)" },
+{ "word": "undeveloped", "translation": "متخلف (غير متطور)" },
+{ "word": "technology", "translation": "تكنولوجيا (تقنية)" },
+{ "word": "develop", "translation": "يطور (ينمي)" },
+{ "word": "opportunity", "translation": "فرصة (إمكانية)" },
+{ "word": "transportation", "translation": "وسيلة نقل (مواصلات)" },
+{ "word": "illiterate", "translation": "أمي (لا يقرأ ولا يكتب)" },
+{ "word": "provide", "translation": "يقدم (يوفر)" },
+{ "word": "rely on", "translation": "يعتمد على" },
+{ "word": "heavily", "translation": "بشكل كبير (كثيراً)" },
+{ "word": "however", "translation": "ومع ذلك (لكن)" },
+{ "word": "structure", "translation": "هيكل (تنظيم)" },
+{ "word": "previous", "translation": "سابق (السابق)" },
+{ "word": "decade", "translation": "عقد (فترة عشر سنوات)" },
+{ "word": "schedule", "translation": "جدول (برنامج زمني)" },
+{ "word": "imagine", "translation": "يتخيل (يتصور)" },
+{ "word": "compare", "translation": "يقارن" },
+{ "word": "nowadays", "translation": "في الوقت الحاضر (حالياً)" },
+{ "word": "describe", "translation": "يصف" },
+{ "word": "genius", "translation": "عبقري (نابغة)" },
+{ "word": "solve", "translation": "يحل (يجد حلاً)" },
+{ "word": "algebra", "translation": "جبر (علم الجبر)" },
+{ "word": "university", "translation": "جامعة" },
+{ "word": "simply", "translation": "ببساطة" },
+{ "word": "define", "translation": "يحدد (يعرف)" },
+{ "word": "solution", "translation": "حل" },
+{ "word": "suggest", "translation": "يقترح" },
+{ "word": "frequency", "translation": "تكرار" },
+{ "word": "adverb", "translation": "ظرف" },
+{ "word": "junior school", "translation": "مدرسة ابتدائية (صفوف أولية)" }
+],
+"tables": [
+{
+"title": "Simple Present Tense (المضارع البسيط)",
+"headers": ["Usage", "Example"],
+"rows": [
+["حقائق عامة", "The sun rises in the east."],
+["عادات وروتين", "I go to school every day."],
+["مع الفاعل المفرد (He/She/It)", "She reads a book every day."],
+["مع الفاعل الجمع (I/You/We/They)", "They play football on Friday."]
+],
+"explanation": "المضارع البسيط يستخدم للحقائق العامة والعادات. مع he, she, it نضيف s للفعل. للنفي نستخدم doesn't مع المفرد و don't مع الجمع. للسؤال نستخدم does مع المفرد و do مع الجمع.",
+"examples": "The level of Japanese education is high.\nPublic schools in Japan have classes five days a week.\nStudents wash their hands before entering the classroom."
+},
+{
+"title": "Verb to be in Simple Present (فعل الكينونة في المضارع البسيط)",
+"headers": ["Pronoun", "Verb", "Example"],
+"rows": [
+["I", "am", "I am a student."],
+["He / She / It", "is", "She is happy."],
+["You / We / They", "are", "They are teachers."]
+],
+"explanation": "يستخدم فعل الكينونة (am, is, are) للتعبير عن الحالة أو الهوية. مع I نستخدم am، مع المفرد نستخدم is، مع الجمع نستخدم are.",
+"examples": "The level of Japanese education is high.\nStudents are excited about their new school.\nI am a teacher."
+},
+{
+"title": "Have / Has (الملكية في المضارع البسيط)",
+"headers": ["Pronoun", "Verb", "Example"],
+"rows": [
+["I / You / We / They", "have", "They have a car."],
+["He / She / It", "has", "She has a book."]
+],
+"explanation": "نستخدم have مع الجمع (I, you, we, they) و has مع المفرد (he, she, it) للتعبير عن الملكية.",
+"examples": "A dog has four legs.\nStudents have classes five days a week."
+},
+{
+"title": "Adverbs of Frequency (ظروف التكرار)",
+"headers": ["Adverb", "Translation", "Example"],
+"rows": [
+["always", "دائماً", "I always go to school."],
+["usually", "عادةً", "I usually eat breakfast."],
+["often", "غالباً", "I often play football."],
+["sometimes", "أحياناً", "I sometimes watch TV."],
+["never", "أبداً", "I never smoke."]
+],
+"explanation": "توضع ظروف التكرار قبل الفعل الرئيسي، وبعد فعل to be (am, is, are). تستخدم للتعبير عن عدد مرات حدوث الفعل.",
+"examples": "I often arrive on time.\nMy friends and I usually go to the cinema at the weekends."
+},
+{
+"title": "Subject & Object Questions (السؤال عن الفاعل والمفعول به)",
+"headers": ["Type", "Form", "Example"],
+"rows": [
+["Subject Question", "Who + verb (no auxiliary)", "Who teaches you English?"],
+["Object Question", "Wh- + auxiliary + subject + verb", "What do you like?"]
+],
+"explanation": "للسؤال عن الفاعل نستخدم Who بدون فعل مساعد، والفعل يبقى مفرداً. للسؤال عن المفعول به نستخدم Who/What مع الفعل المساعد والفاعل.",
+"examples": "Who provided information and knowledge?\nWho did students rely heavily on?\nWhat do students in Japan wash before entering the classroom?"
+},
+{
+"title": "Prepositions (حروف الجر المهمة)",
+"headers": ["Preposition", "Usage", "Example"],
+"rows": [
+["of", "التعبير عن التكوين", "consists of (يتكون من)"],
+["from", "التعبير عن الاختلاف", "differs from (يختلف عن)"],
+["in", "التعبير عن المشاركة", "participate in (يشارك في)"],
+["on", "التعبير عن الاعتماد", "rely on (يعتمد على)"],
+["at", "التعبير عن الوقت", "at six o'clock"],
+["in", "التعبير عن الأشهر", "in April"]
+],
+"explanation": "حروف الجر تربط الكلمات في الجملة. بعض الأفعال تأتي مع حروف جر محددة ويجب حفظها كما هي.",
+"examples": "The Japanese school system consists of six-year elementary schools.\nFrench differs from English.\nStudents participate in cleaning their classrooms.\nJapanese teach people to be aware of their surroundings."
+},
+{
+"title": "Comparatives & Superlatives (المقارنة والتفضيل)",
+"headers": ["Type", "Form", "Example"],
+"rows": [
+["Comparative", "more + adjective / adjective + -er", "Learning today is easier than in the past."],
+["Superlative", "most + adjective / adjective + -est", "Learning is one of the most important needs."]
+],
+"explanation": "نستخدم المقارنة للمقارنة بين شيئين، والتفضيل للمقارنة بين ثلاثة أو أكثر. للمقارنة نضيف -er أو نستخدم more، وللتفضيل نضيف -est أو نستخدم most.",
+"examples": "Learning is one of the most important needs.\nLearning in the past was not as easy as it is today."
+},
+{
+"title": "Relative Pronouns (ضمائر الوصل)",
+"headers": ["Pronoun", "Usage", "Example"],
+"rows": [
+["who", "للعاقل (فاعل)", "The teacher who provided information."],
+["which", "لغير العاقل", "The book which I like."],
+["whom", "للعاقل (مفعول به)", "The man whom I saw."],
+["whose", "للملكية", "The student whose book is lost."]
+],
+"explanation": "تستخدم ضمائر الوصل لربط جملتين. who للعاقل كفاعل، whom للعاقل كمفعول به، which لغير العاقل، whose للملكية.",
+"examples": "The teacher was the only one who provided information."
+}
+]
+}

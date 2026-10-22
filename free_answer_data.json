@@ -1,0 +1,159 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة الإجابة الحرة (Free Answer)",
+"description": "يتم استخراج أسئلة الإجابة الحرة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل العامة والمعلوماتية الموجودة في كل مصدر.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Speaking",
+"Student Book - Grammar Exercises",
+"Activity Book - Vocabulary",
+"Activity Book - Grammar Exercises"
+],
+"selection_criteria": [
+"السؤال من التمارين نفسها وليس من النص",
+"السؤال عام ولا يحتاج إلى قراءة النص للإجابة عليه",
+"الجواب واضح ومحدد وقصير (كلمة أو بضع كلمات)",
+"لا نستخدم أسئلة إجابتها Yes/No"
+],
+"wh_words": ["What", "How", "When", "Where", "How many", "How often", "What time"],
+"auxiliary_verbs": ["do", "does", "is", "are", "was", "were", "did"],
+"answer_type": "كلمة مفتاحية أو عبارة قصيرة",
+"verification_method": "البحث عن الكلمات المفتاحية في إجابة الطالب (case-insensitive)",
+"important_note": "⚠️ الأسئلة مأخوذة من التمارين وليس من النص. تم تغيير الأسماء إلى صيغة المخاطب (your friend, your mother, your brother, your friends)."
+},
+"questions": [
+{
+"id": "SB_G7_U1_F1",
+"question": "How do you go to school?",
+"translation": "كيف تذهب إلى المدرسة؟",
+"keywords": ["by bus", "by car", "on foot", "by bike", "walk"],
+"suggested_answers": [
+"I go to school by bus",
+"I go to school by car",
+"I go to school on foot",
+"I go to school by bike",
+"I walk to school"
+],
+"wh_word": "How",
+"auxiliary": "do",
+"category": "Manner",
+"source": "Student Book",
+"exact_reference": "Speaking - Q1 (modified: come → go)"
+},
+{
+"id": "SB_G7_U1_F2",
+"question": "How many subjects do you study at school?",
+"translation": "كم مادة تدرس في المدرسة؟",
+"keywords": ["7", "eight", "9", "ten", "subjects"],
+"suggested_answers": [
+"I study 7 subjects at school",
+"I study eight subjects at school",
+"I study 9 subjects at school",
+"I study ten subjects at school"
+],
+"wh_word": "How many",
+"auxiliary": "do",
+"category": "Quantity",
+"source": "Student Book",
+"exact_reference": "Speaking - Q1"
+},
+{
+"id": "SB_G7_U1_F3",
+"question": "When does the school year start in your country?",
+"translation": "متى تبدأ السنة الدراسية في بلدك؟",
+"keywords": ["September", "October", "August"],
+"suggested_answers": [
+"The school year starts in September",
+"The school year starts in October",
+"The school year starts in August"
+],
+"wh_word": "When",
+"auxiliary": "does",
+"category": "Time",
+"source": "Student Book",
+"exact_reference": "Speaking - Q1 (modified: in Syria → in your country)"
+},
+{
+"id": "AB_G7_U1_F4",
+"question": "What time does your friend get up?",
+"translation": "في أي وقت يستيقظ صديقك؟",
+"keywords": ["six", "seven", "o'clock", "6", "7"],
+"suggested_answers": [
+"My friend gets up at six o'clock",
+"My friend gets up at seven o'clock",
+"My friend gets up at 6 o'clock",
+"My friend gets up at 7 o'clock"
+],
+"wh_word": "What time",
+"auxiliary": "does",
+"category": "Time",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Time (modified: Norman → your friend)"
+},
+{
+"id": "SB_G7_U1_F5",
+"question": "How often does your mother brush her teeth?",
+"translation": "كم مرة تنظف والدتك أسنانها؟",
+"keywords": ["twice", "two times", "a day", "daily"],
+"suggested_answers": [
+"My mother brushes her teeth twice a day",
+"My mother brushes her teeth two times a day",
+"My mother brushes her teeth daily"
+],
+"wh_word": "How often",
+"auxiliary": "does",
+"category": "Frequency",
+"source": "Student Book",
+"exact_reference": "Grammar C - Q1 (modified: Carol → your mother)"
+},
+{
+"id": "SB_G7_U1_F6",
+"question": "How many legs does a dog have?",
+"translation": "كم رجلاً للكلب؟",
+"keywords": ["four", "4"],
+"suggested_answers": [
+"A dog has four legs",
+"A dog has 4 legs"
+],
+"wh_word": "How many",
+"auxiliary": "does",
+"category": "Quantity",
+"source": "Student Book",
+"exact_reference": "Grammar C - Q2"
+},
+{
+"id": "AB_G7_U1_F7",
+"question": "Where do your friends usually travel?",
+"translation": "أين يسافر أصدقاؤك عادة؟",
+"keywords": ["San Diego", "Damascus", "London", "Paris"],
+"suggested_answers": [
+"My friends usually travel to San Diego",
+"My friends usually travel to Damascus",
+"My friends usually travel to London",
+"My friends usually travel to Paris"
+],
+"wh_word": "Where",
+"auxiliary": "do",
+"category": "Place",
+"source": "Activity Book",
+"exact_reference": "Grammar A - Q1 (modified: we → your friends)"
+},
+{
+"id": "AB_G7_U1_F8",
+"question": "What does your brother do at the weekends?",
+"translation": "ماذا يفعل أخوك في عطلات نهاية الأسبوع؟",
+"keywords": ["watches a movie", "plays football", "reads a book", "plays tennis"],
+"suggested_answers": [
+"My brother watches a movie at the weekends",
+"My brother plays football at the weekends",
+"My brother reads a book at the weekends",
+"My brother plays tennis at the weekends"
+],
+"wh_word": "What",
+"auxiliary": "does",
+"category": "Activity",
+"source": "Activity Book",
+"exact_reference": "Grammar A - Q6 (modified: Jerry → your brother)"
+}
+]
+}
