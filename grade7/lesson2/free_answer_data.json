@@ -1,0 +1,145 @@
+{
+"questions": [
+{
+"id": "SB_G7_U2_F1",
+"question": "Who is your best friend?",
+"translation": "من هو صديقك المفضل؟",
+"keywords": ["name", "friend", "best"],
+"suggested_answers": [
+"My best friend is Ahmed.",
+"My best friend is Khaled.",
+"My best friend is Sami."
+],
+"wh_word": "Who",
+"auxiliary": "is",
+"category": "Person",
+"source": "Student Book",
+"exact_reference": "Speaking (inspired)"
+},
+{
+"id": "SB_G7_U2_F2",
+"question": "Why do you like your best friend?",
+"translation": "لماذا تحب صديقك المفضل؟",
+"keywords": ["kind", "honest", "helpful", "loyal", "supportive"],
+"suggested_answers": [
+"I like him because he is kind.",
+"I like him because he is honest.",
+"I like him because he is helpful.",
+"I like him because he is loyal.",
+"I like him because he is supportive."
+],
+"wh_word": "Why",
+"auxiliary": "do",
+"category": "Reason",
+"source": "Student Book",
+"exact_reference": "Speaking (inspired)"
+},
+{
+"id": "SB_G7_U2_F3",
+"question": "What do you do with your friends?",
+"translation": "ماذا تفعل مع أصدقائك؟",
+"keywords": ["play", "study", "walk", "talk", "eat"],
+"suggested_answers": [
+"I play football with my friends.",
+"I study with my friends.",
+"I walk to school with my friends.",
+"I talk with my friends.",
+"I eat lunch with my friends."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Activity",
+"source": "Student Book",
+"exact_reference": "Speaking (inspired)"
+},
+{
+"id": "SB_G7_U2_F4",
+"question": "How do you help your friends?",
+"translation": "كيف تساعد أصدقاءك؟",
+"keywords": ["help", "homework", "advice", "listen", "support"],
+"suggested_answers": [
+"I help my friends with their homework.",
+"I give them advice.",
+"I listen to their problems.",
+"I support them when they are sad.",
+"I help them in difficult times."
+],
+"wh_word": "How",
+"auxiliary": "do",
+"category": "Manner",
+"source": "Student Book",
+"exact_reference": "Reading Text (inspired)"
+},
+{
+"id": "SB_G7_U2_F5",
+"question": "What makes a good friend?",
+"translation": "ما الذي يجعل الصديق جيداً؟",
+"keywords": ["kind", "honest", "helpful", "loyal", "supportive"],
+"suggested_answers": [
+"A good friend is kind and honest.",
+"A good friend is helpful and loyal.",
+"A good friend is supportive and truthful.",
+"A good friend is a good listener."
+],
+"wh_word": "What",
+"auxiliary": "makes",
+"category": "Quality",
+"source": "Student Book",
+"exact_reference": "Reading Text (inspired)"
+},
+{
+"id": "AB_G7_U2_F6",
+"question": "How often do you see your friends?",
+"translation": "كم مرة ترى أصدقاءك؟",
+"keywords": ["every day", "daily", "once a week", "twice a week", "every weekend"],
+"suggested_answers": [
+"I see my friends every day.",
+"I see my friends daily.",
+"I see my friends once a week.",
+"I see my friends twice a week.",
+"I see my friends every weekend."
+],
+"wh_word": "How often",
+"auxiliary": "do",
+"category": "Frequency",
+"source": "Student Book",
+"exact_reference": "Grammar (inspired)"
+},
+{
+"id": "AB_G7_U2_F7",
+"question": "What did you do with your friends last weekend?",
+"translation": "ماذا فعلت مع أصدقائك في نهاية الأسبوع الماضي؟",
+"keywords": ["played", "studied", "walked", "talked", "ate"],
+"suggested_answers": [
+"I played football with my friends.",
+"I studied with my friends.",
+"I walked with my friends.",
+"I talked with my friends.",
+"I ate lunch with my friends."
+],
+"wh_word": "What",
+"auxiliary": "did",
+"category": "Activity",
+"source": "Student Book",
+"exact_reference": "Grammar (inspired)"
+},
+{
+"id": "AB_G7_U2_F8",
+"question": "Where do you usually meet your friends?",
+"translation": "أين تلتقي أصدقاءك عادة؟",
+"keywords": ["school", "park", "club", "home", "café"],
+"suggested_answers": [
+"I meet my friends at school.",
+"I meet my friends in the park.",
+"I meet my friends at the club.",
+"I meet my friends at home.",
+"I meet my friends at the café."
+],
+"wh_word": "Where",
+"auxiliary": "do",
+"category": "Place",
+"source": "Student Book",
+"exact_reference": "Speaking (inspired)"
+}
+]
+}

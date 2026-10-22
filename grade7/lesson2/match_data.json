@@ -1,0 +1,114 @@
+{
+"groups": [
+{
+"id": "SB_G7_U2_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G7_U2_Even_a_Giant",
+"options": [
+{ "letter": "a", "text": "an enormous giant." },
+{ "letter": "b", "text": "as guides to sailors." },
+{ "letter": "c", "text": "disappeared at day time." },
+{ "letter": "d", "text": "a shortage of water, Soppo cried." },
+{ "letter": "e", "text": "because she had a toothache." }
+],
+"sentences": [
+{
+"start": "Soppo was",
+"correct": "a",
+"full_sentence": "Soppo was an enormous giant.",
+"translation": "كان سوبو عملاقاً ضخماً.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "The stars serve",
+"correct": "b",
+"full_sentence": "The stars serve as guides to sailors.",
+"translation": "تخدم النجوم كمرشدين للبحارة.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "The little child asked why the stars appeared at night and",
+"correct": "c",
+"full_sentence": "The little child asked why the stars appeared at night and disappeared at day time.",
+"translation": "سأل الطفل الصغير لماذا تظهر النجوم في الليل وتختفي في النهار.",
+"source": "Student Book",
+"exact_reference": "Section C - Q1"
+},
+{
+"start": "When there was",
+"correct": "d",
+"full_sentence": "When there was a shortage of water, Soppo cried.",
+"translation": "عندما كان هناك نقص في الماء، بكى سوبو.",
+"source": "Student Book",
+"exact_reference": "Grammar A"
+},
+{
+"start": "She refused to eat sweets",
+"correct": "e",
+"full_sentence": "She refused to eat sweets because she had a toothache.",
+"translation": "رفضت أكل الحلويات لأن أسنانها تؤلمها.",
+"source": "Student Book",
+"exact_reference": "Section C - Q5"
+}
+]
+},
+{
+"id": "AB_G7_U2_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G7_U2_True_Friends",
+"options": [
+{ "letter": "a", "text": "a very popular girl." },
+{ "letter": "b", "text": "three presents for their best friends." },
+{ "letter": "c", "text": "no longer available." },
+{ "letter": "d", "text": "without effort." },
+{ "letter": "e", "text": "busy cleaning the whole house last Saturday." }
+],
+"sentences": [
+{
+"start": "Judi is",
+"correct": "a",
+"full_sentence": "Judi is a very popular girl.",
+"translation": "جودي فتاة مشهورة جداً.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Students had to make",
+"correct": "b",
+"full_sentence": "Students had to make three presents for their best friends.",
+"translation": "كان على الطلاب صنع ثلاث هدايا لأفضل أصدقائهم.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "We're sorry but this video is",
+"correct": "c",
+"full_sentence": "We're sorry but this video is no longer available.",
+"translation": "نحن آسفون ولكن هذا الفيديو لم يعد متاحاً.",
+"source": "Activity Book",
+"exact_reference": "Vocabulary"
+},
+{
+"start": "Nothing is achieved",
+"correct": "d",
+"full_sentence": "Nothing is achieved without effort.",
+"translation": "لا شيء يتحقق بدون جهد.",
+"source": "Activity Book",
+"exact_reference": "Vocabulary"
+},
+{
+"start": "Susan was",
+"correct": "e",
+"full_sentence": "Susan was busy cleaning the whole house last Saturday.",
+"translation": "كانت سوزان مشغولة بتنظيف المنزل كله يوم السبت الماضي.",
+"source": "Activity Book",
+"exact_reference": "Grammar A"
+}
+]
+}
+]
+}

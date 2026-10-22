@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G7_U2_T1",
+"text_group": "G7_U2_Even_a_Giant",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Even a Giant Needs Friends (Part 1)",
+"content_exam": "Soppo was an enormous giant. His favourite food was the clouds in the sky. Every time Soppo visited a country, there was nothing but problems with him. He ate so many clouds, so the rain for the crops disappeared. Moreover, eating clouds always caused Soppo stomachache which made him cry and with his tears floods happened. Wherever he went, people became angry and refused to talk to him. Soppo felt lonely and sad. But one night, the stars asked him why he was so sad.",
+"questions": [
+{
+"id": "t1_q1",
+"question": "Soppo was an ........ giant.",
+"options": ["small", "enormous", "tiny", "little"],
+"correct": 1,
+"type": "choice",
+"explanation": "كان سوبو عملاقاً ضخماً."
+},
+{
+"id": "t1_q2",
+"question": "Soppo's favourite food was the ........ in the sky.",
+"options": ["birds", "clouds", "stars", "sun"],
+"correct": 1,
+"type": "choice",
+"explanation": "كان طعام سوبو المفضل هو الغيوم في السماء."
+},
+{
+"id": "t1_q3",
+"question": "Eating clouds caused Soppo ........ .",
+"options": ["happiness", "joy", "stomachache", "excitement"],
+"correct": 2,
+"type": "choice",
+"explanation": "أكل الغيوم تسبب لسوبو ألماً في المعدة."
+},
+{
+"id": "t1_q4",
+"question": "When Soppo cried, ........ happened.",
+"options": ["earthquakes", "floods", "fires", "storms"],
+"correct": 1,
+"type": "choice",
+"explanation": "عندما بكى سوبو، حدثت فيضانات."
+},
+{
+"id": "t1_q5",
+"question": "People became angry and ........ to talk to Soppo.",
+"options": ["agreed", "wanted", "refused", "decided"],
+"correct": 2,
+"type": "choice",
+"explanation": "أصبح الناس غاضبين ورفضوا التحدث مع سوبو."
+}
+]
+},
+{
+"id": "G7_U2_T2",
+"text_group": "G7_U2_Even_a_Giant",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Even a Giant Needs Friends (Part 2)",
+"content_exam": "On hearing his story they commented: 'Poor giant. He didn't know how to make friends.' 'But, where can I find friends? How do I do that?' replied the giant. 'By giving people a hand or doing something for them. That is what makes friendship.' 'That never occurred to me. What did you do to make friends?' The giant asked. 'Well we show people the way at night, and serve as guides to many sailors.' said the stars. And so it was. From that day on, Soppo decided to help people. Wherever there were storms and floods, he started eating the clouds and if there was a shortage of water, he began crying. Before long, farmers and many other people wanted to be Soppo's friends.",
+"questions": [
+{
+"id": "t2_q1",
+"question": "The stars told Soppo that making friends is by giving people a hand.",
+"correct": true,
+"type": "truefalse",
+"explanation": "قالت النجوم: 'بمساعدة الناس أو فعل شيء لهم. هذا ما يصنع الصداقة.'"
+},
+{
+"id": "t2_q2",
+"question": "Soppo decided to ignore people after talking to the stars.",
+"correct": false,
+"type": "truefalse",
+"explanation": "قرر سوبو مساعدة الناس، وليس تجاهلهم."
+},
+{
+"id": "t2_q3",
+"question": "Before long, farmers and many other people wanted to be Soppo's friends.",
+"correct": true,
+"type": "truefalse",
+"explanation": "بعد فترة قصيرة، أراد المزارعون والعديد من الآخرين أن يكونوا أصدقاء سوبو."
+},
+{
+"id": "t2_q4",
+"question": "What did the stars do for sailors?",
+"type": "answer",
+"keywords": ["show people the way", "serve as guides", "guides"],
+"explanation": "تظهر النجوم الطريق للناس وتخدم كمرشدين للبحارة."
+},
+{
+"id": "t2_q5",
+"question": "What did Soppo do when there was a shortage of water?",
+"type": "answer",
+"keywords": ["crying", "began crying", "cry"],
+"explanation": "عندما كان هناك نقص في الماء، بدأ سوبو بالبكاء."
+}
+]
+},
+{
+"id": "G7_U2_T3",
+"text_group": "G7_U2_True_Friends",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "True Friends (Part 1)",
+"content_exam": "Judi is a very popular girl at school. She is clever, fun and gets on well with everyone. From an early age she had made an effort to be kind and friendly to others. She was such a busy girl, with so many friends, that she hardly got a chance to spend time with individual friends. However, she felt very lucky; no other girl had so many friends at school and in the neighborhood. But everything changed on National Friendship Day. On that day, at school, everyone was having a great time and had to make three presents to give to their three best friends.",
+"questions": [
+{
+"id": "t3_q1",
+"question": "Judi is a very ........ girl at school.",
+"options": ["popular", "shy", "lazy", "rude"],
+"correct": 0,
+"type": "choice",
+"explanation": "جودي فتاة مشهورة جداً في المدرسة."
+},
+{
+"id": "t3_q2",
+"question": "Judi had made an effort to be ........ to others.",
+"options": ["rude", "kind", "lazy", "angry"],
+"correct": 1,
+"type": "choice",
+"explanation": "بذلت جودي جهداً لتكون لطيفة وودودة مع الآخرين."
+},
+{
+"id": "t3_q3",
+"question": "Judi felt ........ because she had many friends.",
+"options": ["sad", "angry", "lucky", "tired"],
+"correct": 2,
+"type": "choice",
+"explanation": "شعرت جودي بالحظ لأن لديها أصدقاء كثيرين."
+},
+{
+"id": "t3_q4",
+"question": "On National Friendship Day, students had to make ........ presents.",
+"options": ["two", "three", "four", "five"],
+"correct": 1,
+"type": "choice",
+"explanation": "كان على الطلاب صنع ثلاث هدايا في يوم الصداقة الوطني."
+},
+{
+"id": "t3_q5",
+"question": "Judi hardly got a chance to spend time with ........ friends.",
+"options": ["individual", "popular", "busy", "lucky"],
+"correct": 0,
+"type": "choice",
+"explanation": "بالكاد حصلت جودي على فرصة لقضاء وقت مع أفراد الأصدقاء."
+}
+]
+},
+{
+"id": "G7_U2_T4",
+"text_group": "G7_U2_True_Friends",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "True Friends (Part 2)",
+"content_exam": "However, Judi was the only one who did not receive a present! She felt terrible, and spent hours crying. So much effort was made to get many friends, and in the end no one saw her as their best friend! Everyone came and tried to console her for a while. But each one only stayed for a short time before leaving. When she got home that night, she asked her mother how she could find true friends. 'Judi, my dear,' answered her mother, 'you cannot buy friends with a smile or a few good words. If you really want true friends, you will have to give them real time and affection. For a true friend you must always be available, in good and bad times.'",
+"questions": [
+{
+"id": "t4_q1",
+"question": "Judi was the only one who did not receive a present.",
+"correct": true,
+"type": "truefalse",
+"explanation": "كانت جودي الوحيدة التي لم تتلق هدية."
+},
+{
+"id": "t4_q2",
+"question": "Judi spent hours laughing after not receiving any presents.",
+"correct": false,
+"type": "truefalse",
+"explanation": "أمضت جودي ساعات تبكي، وليس تضحك."
+},
+{
+"id": "t4_q3",
+"question": "Judi's mother advised her to give her friends real time and affection.",
+"correct": true,
+"type": "truefalse",
+"explanation": "نصحت أم جودي بإعطاء أصدقائها وقتاً وعاطفة حقيقية."
+},
+{
+"id": "t4_q4",
+"question": "What did Judi ask her mother when she got home?",
+"type": "answer",
+"keywords": ["how she could find true friends", "find true friends"],
+"explanation": "سألت جودي أمها كيف يمكنها أن تجد أصدقاء حقيقيين."
+},
+{
+"id": "t4_q5",
+"question": "What did Judi's mother say cannot buy friends?",
+"type": "answer",
+"keywords": ["a smile", "a few good words", "smile", "words"],
+"explanation": "لا يمكن شراء الأصدقاء بابتسامة أو بضع كلمات طيبة."
+}
+]
+}
+]
+}
