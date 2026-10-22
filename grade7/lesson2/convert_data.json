@@ -57,15 +57,15 @@
 },
 {
 "id": "SB_G7_U2_C4",
-"original": "Tom felt sad.",
+"original": "Ali felt sad.",
 "targetWord": "sad",
-"correctQuestion": "How did Tom feel?",
+"correctQuestion": "How did Ali feel?",
 "correctQuestions": [
-"How did Tom feel?"
+"How did Ali feel?"
 ],
 "wh_word": "how",
 "auxiliary": "did",
-"subject": "tom",
+"subject": "Ali",
 "subject_type": "name_male",
 "category": "Feeling",
 "acceptedAnswers": [
