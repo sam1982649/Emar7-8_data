@@ -1,0 +1,152 @@
+{
+"texts": [
+{
+"id": "SB_G9_U9_T1",
+"text_group": "G9_U9_Syrian_Heroines",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Nora Badour - A Syrian Heroine",
+"content_exam": "Nora Badour is a Syrian disabled weight-lifting heroine. She was born in 1984. She left school at a very early age. She followed a training course in hand-made wool knitting. She participated in several handicraft exhibitions. Because of her friends encouragement, Nora joined the weight-lifting sport. 'My friends said that I could do it' Nora said. She received a special training in the field of weight-lifting. Nora won the Bronze medal in Egypt in 2007 and it was the start of her exceptional career. She broke many world records for many years. But the most remarkable prize was the golden medal in Jordan in 2011. She was honored by the government for her achievements.",
+"questions": [
+{
+"id": "t1_q1",
+"question": "Nora Badour is a Syrian disabled ........ heroine.",
+"options": ["weight-lifting", "swimming", "running", "jumping"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: weight-lifting\n📝 الترجمة: نورا بدور بطلة سورية معاقة في رفع الأثقال.\n💡 الشرح: النص يقول: 'Nora Badour is a Syrian disabled weight-lifting heroine.'"
+},
+{
+"id": "t1_q2",
+"question": "Nora left school at a very ........ age.",
+"options": ["late", "early", "young", "old"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: early\n📝 الترجمة: تركت نورا المدرسة في سن مبكرة جداً.\n💡 الشرح: النص يقول: 'She left school at a very early age.'"
+},
+{
+"id": "t1_q3",
+"question": "Nora followed a training course in hand-made ........ knitting.",
+"options": ["silk", "cotton", "wool", "nylon"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: wool\n📝 الترجمة: تابعت نورا دورة تدريبية في حياكة الصوف اليدوية.\n💡 الشرح: النص يقول: 'She followed a training course in hand-made wool knitting.'"
+},
+{
+"id": "t1_q4",
+"question": "Nora won the Bronze medal in Egypt in ........",
+"options": ["2005", "2006", "2007", "2008"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: 2007\n📝 الترجمة: فازت نورا بالميدالية البرونزية في مصر عام 2007.\n💡 الشرح: النص يقول: 'Nora won the Bronze medal in Egypt in 2007.'"
+},
+{
+"id": "t1_q5",
+"question": "The most remarkable prize was the golden medal in ........",
+"options": ["Egypt", "Syria", "Jordan", "Lebanon"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Jordan\n📝 الترجمة: كانت الجائزة الأكثر تميزاً هي الميدالية الذهبية في الأردن.\n💡 الشرح: النص يقول: 'the golden medal in Jordan in 2011.'"
+}
+]
+},
+{
+"id": "SB_G9_U9_T2",
+"text_group": "G9_U9_Syrian_Heroines",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Fatimah Al Hasan - Another Syrian Heroine",
+"content_exam": "Fatimah Al hasan is another Syrian disabled heroine. She was born in 1977. She left school in order to help her mother in raising her siblings. With her great determination she could continue her study and had her place at Damascus university. Fatimah had a dream to become a famous person and to overcome her disability. Her dream became true when she won many medals including the golden one in Jordan in 2009 for weight-lifting sport. Fatimah says that sport has changed her social life and strengthened her to prove herself in society. It set her free from her disability and made her believe that nothing is impossible. She can do what even other people cannot do. She will participate in Japan Olympics in 2021. Fatimah believes everybody must follow their dreams and Syria is proud of her.",
+"questions": [
+{
+"id": "t2_q1",
+"question": "Fatimah left school in order to help her mother in raising her siblings.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: تركت فاطمة المدرسة لمساعدة والدتها في تربية أشقائها.\n💡 الشرح: النص يقول: 'She left school in order to help her mother in raising her siblings.'"
+},
+{
+"id": "t2_q2",
+"question": "Fatimah won the golden medal in Jordan in 2011.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: فازت فاطمة بالميدالية الذهبية في الأردن عام 2011.\n💡 الشرح: النص يقول: 'golden one in Jordan in 2009' وليس 2011."
+},
+{
+"id": "t2_q3",
+"question": "Fatimah will participate in Japan Olympics in 2021.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: ستشارك فاطمة في أولمبياد اليابان عام 2021.\n💡 الشرح: النص يقول: 'She will participate in Japan Olympics in 2021.'"
+},
+{
+"id": "t2_q4",
+"question": "What has changed Fatimah's social life?",
+"type": "answer",
+"keywords": ["sport", "weight-lifting"],
+"explanation": "✅ الإجابة الصحيحة: Sport / Weight-lifting\n📝 الترجمة: ماذا غير حياة فاطمة الاجتماعية؟\n💡 الشرح: النص يقول: 'sport has changed her social life'."
+},
+{
+"id": "t2_q5",
+"question": "What does Fatimah believe about impossible?",
+"type": "answer",
+"keywords": ["nothing is impossible", "impossible"],
+"explanation": "✅ الإجابة الصحيحة: Nothing is impossible.\n📝 الترجمة: ماذا تؤمن به فاطمة بشأن المستحيل؟\n💡 الشرح: النص يقول: 'made her believe that nothing is impossible'."
+}
+]
+},
+{
+"id": "AB_G9_U9_T1",
+"text_group": "G9_U9_Ruben_Interview",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Chance - Interview with Ruben",
+"content_exam": "Ruben started skiing at 21, later than most Olympic athletes. He competed in three Winter Olympics: Calgary 1988, Albertville 1992, and Salt Lake City 2002 at age 39. Skiing down a mountain at 90 miles an hour is very dangerous. At that speed, you don't have time to think. The skating board is sensitive and if you fall, you may crash. It takes a couple of hundred meters to stop because you finish at about 80 miles an hour. Ruben still practises skiing but he is frightened of every run. These days, he works as a motivational speaker. He talks about his experiences and how to be successful. He is also making a film about success and interviewing many business people.",
+"questions": [
+{
+"id": "t3_q1",
+"question": "Ruben started skiing at the age of ........",
+"options": ["12", "21", "39", "30"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: 21\n📝 الترجمة: بدأ روبن التزلج في سن 21.\n💡 الشرح: النص يقول: 'Ruben started skiing at 21.'"
+},
+{
+"id": "t3_q2",
+"question": "How many Winter Olympics did Ruben compete in?",
+"options": ["Two", "Three", "Four", "Five"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Three\n📝 الترجمة: كم عدد الألعاب الأولمبية الشتوية التي شارك فيها روبن؟\n💡 الشرح: النص يذكر: 'Calgary 1988, Albertville 1992, and Salt Lake City 2002'."
+},
+{
+"id": "t3_q3",
+"question": "Skiing down a mountain at 90 miles an hour is very ........",
+"options": ["safe", "easy", "dangerous", "exciting"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: dangerous\n📝 الترجمة: التزلج على جبل بسرعة 90 ميلاً في الساعة خطير جداً.\n💡 الشرح: النص يقول: 'is very dangerous.'"
+},
+{
+"id": "t3_q4",
+"question": "Ruben is still ........ of every run.",
+"options": ["happy", "proud", "frightened", "tired"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: frightened\n📝 الترجمة: روبن لا يزال خائفاً من كل جولة.\n💡 الشرح: النص يقول: 'he is frightened of every run.'"
+},
+{
+"id": "t3_q5",
+"question": "These days, Ruben works as a ........ speaker.",
+"options": ["motivational", "political", "religious", "scientific"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: motivational\n📝 الترجمة: يعمل روبن حالياً كمتحدث تحفيزي.\n💡 الشرح: النص يقول: 'he works as a motivational speaker.'"
+}
+]
+}
+]
+}

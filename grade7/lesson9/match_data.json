@@ -1,0 +1,163 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة المطابقة (Match) - الوحدة 9",
+"description": "تم استخراج أسئلة المطابقة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل التي يمكن تقسيمها إلى بداية ونهاية.",
+"applicable_to": "الوحدة 9 - Great People",
+"search_sources": [
+"Student Book - Reading Text (Nora & Fatimah)",
+"Student Book - Grammar Exercises",
+"Student Book - Speaking",
+"Activity Book - Reading Text (Ruben)",
+"Activity Book - Grammar Exercises",
+"Activity Book - Listening"
+],
+"structure": {
+"per_group": "5 بدايات + 6 نهايات (مع خيار زائد)"
+},
+"selection_criteria": [
+"تنويع المصادر داخل كل مجموعة",
+"تجنب الجمل المتشابهة",
+"توزيع بين النص والتمارين",
+"كل جملة موثقة بالمصدر الدقيق"
+],
+"applied_to_unit_9": {
+"grade": 7,
+"unit": 9,
+"title": "Great People",
+"total_groups": 2,
+"groups": {
+"group_1": {
+"source": "Student Book",
+"sources_used": [
+"Reading Text (Nora)",
+"Reading Text (Fatimah)",
+"Grammar",
+"Speaking"
+]
+},
+"group_2": {
+"source": "Activity Book",
+"sources_used": [
+"Reading Text (Ruben)",
+"Grammar",
+"Listening"
+]
+}
+}
+}
+},
+"groups": [
+{
+"id": "SB_G9_U9_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G9_U9_Syrian_Heroines",
+"options": [
+{ "letter": "a", "text": "Nora joined the weight-lifting sport." },
+{ "letter": "b", "text": "her social life." },
+{ "letter": "c", "text": "It is against the rules." },
+{ "letter": "d", "text": "but my sight has grown weaker." },
+{ "letter": "e", "text": "world records for many years." },
+{ "letter": "f", "text": "overcome her disability." }
+],
+"sentences": [
+{
+"start": "Because of her friends encouragement,",
+"correct": "a",
+"full_sentence": "Because of her friends encouragement, Nora joined the weight-lifting sport.",
+"translation": "بتشجيع من أصدقائها، انضمت نورا لرياضة رفع الأثقال.",
+"source": "Student Book",
+"exact_reference": "Reading Text (Nora)"
+},
+{
+"start": "Sport has changed",
+"correct": "b",
+"full_sentence": "Sport has changed her social life.",
+"translation": "لقد غيرت الرياضة حياتها الاجتماعية.",
+"source": "Student Book",
+"exact_reference": "Reading Text (Fatimah)"
+},
+{
+"start": "You can't speak in libraries.",
+"correct": "c",
+"full_sentence": "You can't speak in libraries. It is against the rules.",
+"translation": "لا يمكنك التحدث في المكتبات. هذا مخالف للقواعد.",
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "I could see well when I was young",
+"correct": "d",
+"full_sentence": "I could see well when I was young but my sight has grown weaker.",
+"translation": "كنت أرى جيداً عندما كنت صغيراً ولكن بصري ضعف.",
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "She broke many",
+"correct": "e",
+"full_sentence": "She broke many world records for many years.",
+"translation": "حطمت العديد من الأرقام القياسية العالمية لسنوات عديدة.",
+"source": "Student Book",
+"exact_reference": "Reading Text (Nora)"
+}
+]
+},
+{
+"id": "AB_G9_U9_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G9_U9_Ruben_Interview",
+"options": [
+{ "letter": "a", "text": "document by Tuesday?" },
+{ "letter": "b", "text": "save the men from the sinking ship last week." },
+{ "letter": "c", "text": "a dangerous sport." },
+{ "letter": "d", "text": "formal letters?" },
+{ "letter": "e", "text": "the meeting." },
+{ "letter": "f", "text": "sit up and stop the skating board." }
+],
+"sentences": [
+{
+"start": "Could you fax me that",
+"correct": "a",
+"full_sentence": "Could you fax me that document by Tuesday?",
+"translation": "هل يمكنك أن ترسل لي بالفاكس تلك الوثيقة بحلول الثلاثاء؟",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "They were able to",
+"correct": "b",
+"full_sentence": "They were able to save the men from the sinking ship last week.",
+"translation": "تمكنوا من إنقاذ الرجال من السفينة الغارقة الأسبوع الماضي.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "Skiing is",
+"correct": "c",
+"full_sentence": "Skiing is a dangerous sport.",
+"translation": "التزلج رياضة خطيرة.",
+"source": "Activity Book",
+"exact_reference": "Reading Text (Ruben)"
+},
+{
+"start": "Are you able to write",
+"correct": "d",
+"full_sentence": "Are you able to write formal letters?",
+"translation": "هل أنت قادر على كتابة رسائل رسمية؟",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "I'm afraid I won't be able to attend",
+"correct": "e",
+"full_sentence": "I'm afraid I won't be able to attend the meeting.",
+"translation": "أخشى أنني لن أستطيع حضور الاجتماع.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+}
+]
+}
+]
+}

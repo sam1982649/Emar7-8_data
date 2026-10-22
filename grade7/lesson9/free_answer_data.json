@@ -1,0 +1,148 @@
+{
+"metadata": {
+"grade": 7,
+"unit": 9,
+"title": "Great People",
+"total_questions": 7,
+"sources": {
+"student_book": 5,
+"activity_book": 2
+},
+"question_types": {
+"free_answer": 7
+},
+"methodology": {
+"description": "تم استخراج أسئلة الإجابة الحرة من مصادر الدرس (النص، التمارين) بناءً على الجمل العامة والمعلوماتية.",
+"search_sources": [
+"Student Book - Speaking",
+"Student Book - Reading Text",
+"Student Book - Grammar",
+"Activity Book - Reading Text",
+"Activity Book - Listening"
+],
+"selection_criteria": [
+"السؤال عام ولا يحتاج إلى قراءة النص للإجابة عليه",
+"الجواب واضح ومحدد وقصير (كلمة أو بضع كلمات)",
+"لا نستخدم أسئلة إجابتها Yes/No"
+],
+"wh_words": ["What", "Why", "How many", "How often", "How"],
+"answer_type": "كلمة مفتاحية أو عبارة قصيرة",
+"verification_method": "البحث عن الكلمات المفتاحية في إجابة الطالب (case-insensitive)",
+"important_note": "الأسئلة عامة ولا تعتمد على معرفة النص، ويمكن للطالب الإجابة من خبرته الشخصية."
+}
+},
+"questions": [
+{
+"id": "SB_G9_U9_F1",
+"question": "What is your favourite sport?",
+"translation": "ما هي رياضتك المفضلة؟",
+"keywords": ["football", "basketball", "tennis", "swimming", "running", "sport"],
+"suggested_answers": [
+"My favourite sport is football.",
+"I like basketball.",
+"My favourite sport is swimming."
+],
+"wh_word": "What",
+"auxiliary": "is",
+"category": "Sport",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G9_U9_F2",
+"question": "How often do you exercise?",
+"translation": "كم مرة تمارس الرياضة؟",
+"keywords": ["once", "twice", "three times", "week", "daily", "every day"],
+"suggested_answers": [
+"I exercise three times a week.",
+"I exercise every day.",
+"I exercise once a week."
+],
+"wh_word": "How often",
+"auxiliary": "do",
+"category": "Frequency",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G9_U9_F3",
+"question": "How many players should be involved in a game of basketball?",
+"translation": "كم عدد اللاعبين الذين يجب أن يشاركوا في مباراة كرة السلة؟",
+"keywords": ["5", "five", "players", "team", "10", "ten"],
+"suggested_answers": [
+"There should be 5 players in each team.",
+"10 players in total.",
+"Five players per team."
+],
+"wh_word": "How many",
+"auxiliary": "should",
+"category": "Quantity",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G9_U9_F4",
+"question": "Why do you like sports?",
+"translation": "لماذا تحب الرياضة؟",
+"keywords": ["healthy", "fit", "fun", "enjoy", "strong", "active"],
+"suggested_answers": [
+"I like sports because they keep me healthy and fit.",
+"Because it's fun.",
+"Sports make me strong."
+],
+"wh_word": "Why",
+"auxiliary": "do",
+"category": "Reason",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G9_U9_F5",
+"question": "What are you doing these days?",
+"translation": "ماذا تفعل هذه الأيام؟",
+"keywords": ["studying", "working", "reading", "learning", "preparing", "training"],
+"suggested_answers": [
+"I am studying hard for my exams.",
+"I am preparing for a competition.",
+"I am learning English."
+],
+"wh_word": "What",
+"auxiliary": "are",
+"category": "Activity",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G9_U9_F1",
+"question": "How many languages can you speak?",
+"translation": "كم لغة تستطيع التحدث بها؟",
+"keywords": ["two", "three", "Arabic", "English", "languages"],
+"suggested_answers": [
+"I can speak two languages: Arabic and English.",
+"I speak three languages.",
+"I can speak Arabic and English."
+],
+"wh_word": "How many",
+"auxiliary": "can",
+"category": "Ability",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G9_U9_F2",
+"question": "How do you go to school?",
+"translation": "كيف تذهب إلى المدرسة؟",
+"keywords": ["bus", "walk", "car", "bike", "by", "school"],
+"suggested_answers": [
+"I go to school by bus.",
+"I walk to school.",
+"I go by car."
+],
+"wh_word": "How",
+"auxiliary": "do",
+"category": "Manner",
+"source": "Activity Book",
+"exact_reference": "Listening"
+}
+]
+}

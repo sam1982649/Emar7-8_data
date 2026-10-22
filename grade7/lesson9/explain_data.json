@@ -1,0 +1,293 @@
+{
+"vocabulary": [
+{ "word": "heroine", "translation": "بطلة (مؤنث)" },
+{ "word": "determination", "translation": "إصرار / عزيمة" },
+{ "word": "exhibitions", "translation": "معارض" },
+{ "word": "overcome", "translation": "يتغلب على" },
+{ "word": "siblings", "translation": "أشقاء / إخوة وأخوات" },
+{ "word": "handicraft", "translation": "حرفة يدوية" },
+{ "word": "wool", "translation": "صوف" },
+{ "word": "knitting", "translation": "حياكة" },
+{ "word": "weight-lifting", "translation": "رفع أثقال" },
+{ "word": "disabled", "translation": "معاق / ذو إعاقة" },
+{ "word": "achievements", "translation": "إنجازات" },
+{ "word": "medal", "translation": "ميدالية" },
+{ "word": "bronze", "translation": "برونزية" },
+{ "word": "golden", "translation": "ذهبية" },
+{ "word": "record", "translation": "رقم قياسي" },
+{ "word": "remarkable", "translation": "متميز / رائع" },
+{ "word": "honored", "translation": "مكرم" },
+{ "word": "government", "translation": "حكومة" },
+{ "word": "raise", "translation": "يربي / يرفع" },
+{ "word": "dream", "translation": "حلم" },
+{ "word": "famous", "translation": "مشهور" },
+{ "word": "disability", "translation": "إعاقة" },
+{ "word": "prove", "translation": "يثبت" },
+{ "word": "society", "translation": "مجتمع" },
+{ "word": "impossible", "translation": "مستحيل" },
+{ "word": "course", "translation": "دورة تدريبية" },
+{ "word": "participated", "translation": "شارك" },
+{ "word": "exceptional", "translation": "استثنائي" },
+{ "word": "university", "translation": "جامعة" },
+{ "word": "strengthen", "translation": "يقوي" },
+{ "word": "free", "translation": "يحرر / حر" },
+{ "word": "proud", "translation": "فخور" },
+{ "word": "athlete", "translation": "رياضي" },
+{ "word": "compete", "translation": "يتنافس / يشارك" },
+{ "word": "started", "translation": "بدأ" },
+{ "word": "speed", "translation": "سرعة" },
+{ "word": "sensitive", "translation": "حساس" },
+{ "word": "practise", "translation": "يمارس" },
+{ "word": "frightened", "translation": "خائف" },
+{ "word": "motivational", "translation": "تحفيزي" },
+{ "word": "speaker", "translation": "متحدث" },
+{ "word": "success", "translation": "نجاح" },
+{ "word": "experience", "translation": "تجربة" },
+{ "word": "skiing", "translation": "تزلج" },
+{ "word": "Olympics", "translation": "أولمبياد" },
+{ "word": "career", "translation": "مسيرة مهنية" },
+{ "word": "encouragement", "translation": "تشجيع" },
+{ "word": "training", "translation": "تدريب" },
+{ "word": "ski", "translation": "يتزلج" },
+{ "word": "mountain", "translation": "جبل" },
+{ "word": "board", "translation": "لوح" },
+{ "word": "crash", "translation": "يتحطم" },
+{ "word": "ice", "translation": "جليد" },
+{ "word": "winter", "translation": "شتاء" },
+{ "word": "Olympic", "translation": "أولمبي (صفة)" },
+{ "word": "mile", "translation": "ميل" },
+{ "word": "hour", "translation": "ساعة" },
+{ "word": "couple", "translation": "زوج / بضع" },
+{ "word": "hundred", "translation": "مئة" },
+{ "word": "metre", "translation": "متر" },
+{ "word": "successful", "translation": "ناجح" },
+{ "word": "moment", "translation": "لحظة" },
+{ "word": "sportswoman", "translation": "رياضية" },
+{ "word": "professional", "translation": "محترف" },
+{ "word": "race", "translation": "سباق" },
+{ "word": "pool", "translation": "مسبح" },
+{ "word": "rules", "translation": "قواعد" },
+{ "word": "library", "translation": "مكتبة" },
+{ "word": "sight", "translation": "بصر" },
+{ "word": "weak", "translation": "ضعيف" },
+{ "word": "loud", "translation": "صاخب / عال" },
+{ "word": "noisy", "translation": "مزعج / صاخب" },
+{ "word": "meeting", "translation": "اجتماع" },
+{ "word": "report", "translation": "تقرير" },
+{ "word": "business", "translation": "أعمال" },
+{ "word": "film", "translation": "فيلم" },
+{ "word": "interview", "translation": "مقابلة" },
+{ "word": "indoor", "translation": "داخلي" },
+{ "word": "outdoor", "translation": "خارجي" },
+{ "word": "healthy", "translation": "صحي" },
+{ "word": "fit", "translation": "لائق بدنياً" },
+{ "word": "active", "translation": "نشط" },
+{ "word": "inactive", "translation": "غير نشط" },
+{ "word": "exercise", "translation": "تمارين رياضية" },
+{ "word": "hardly", "translation": "بالكاد" },
+{ "word": "weights", "translation": "أوزان" },
+{ "word": "windsurfing", "translation": "ركوب الأمواج شراعياً" },
+{ "word": "hiking", "translation": "مشي في الجبال" },
+{ "word": "shopping", "translation": "تسوق" },
+{ "word": "TV", "translation": "تلفاز" },
+{ "word": "plan", "translation": "يخطط / خطة" },
+{ "word": "together", "translation": "معاً" },
+{ "word": "champion", "translation": "بطل" },
+{ "word": "match", "translation": "مباراة" },
+{ "word": "nervous", "translation": "متوتر" },
+{ "word": "calmly", "translation": "بهدوء" },
+{ "word": "joyfully", "translation": "بفرح" },
+{ "word": "parents", "translation": "والدان" },
+{ "word": "attend", "translation": "يحضر" },
+{ "word": "discourage", "translation": "يثبط" },
+{ "word": "neglect", "translation": "يهم" },
+{ "word": "feel", "translation": "يشعر" },
+{ "word": "fill", "translation": "يملأ" },
+{ "word": "ship", "translation": "سفينة" },
+{ "word": "still", "translation": "لا يزال" },
+{ "word": "peel", "translation": "يقشر" },
+{ "word": "sheep", "translation": "خروف" },
+{ "word": "steal", "translation": "يسرق" },
+{ "word": "pill", "translation": "حبة دواء" },
+{ "word": "beat", "translation": "يضرب / يتفوق" },
+{ "word": "seat", "translation": "مقعد" },
+{ "word": "sit", "translation": "يجلس" },
+{ "word": "bit", "translation": "قطعة صغيرة" },
+{ "word": "nearby", "translation": "قريب" },
+{ "word": "colder", "translation": "أكثر برودة" },
+{ "word": "against", "translation": "ضد" },
+{ "word": "stretching", "translation": "تمدد" },
+{ "word": "jogging", "translation": "هرولة" },
+{ "word": "walking", "translation": "مشي" },
+{ "word": "cycling", "translation": "ركوب دراجة" },
+{ "word": "swimming", "translation": "سباحة" },
+{ "word": "football", "translation": "كرة قدم" },
+{ "word": "basketball", "translation": "كرة سلة" },
+{ "word": "tennis", "translation": "تنس" },
+{ "word": "baseball", "translation": "بيسبول" },
+{ "word": "yoga", "translation": "يوغا" },
+{ "word": "aerobics", "translation": "تمارين هوائية" },
+{ "word": "hockey", "translation": "هوكي" },
+{ "word": "team", "translation": "فريق" },
+{ "word": "individual", "translation": "فردي" },
+{ "word": "players", "translation": "لاعبون" }
+],
+"tables": [
+{
+"title": "Modal Verbs: can, could, be able to (الأفعال الناقصة)",
+"headers": ["Modal", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["can", "القدرة في الحاضر", "We can do what even other people can't.", "يمكننا أن نفعل ما لا يستطيع الآخرون فعله."],
+["could", "القدرة في الماضي", "My friends said that I could do it.", "قال أصدقائي أنني أستطيع فعل ذلك."],
+["could", "القدرة في الماضي", "With her determination she could continue her study.", "بإصرارها استطاعت متابعة دراستها."],
+["could", "الطلبات الرسمية", "Could you fax me that document by Tuesday?", "هل يمكنك إرسال تلك الوثيقة بالفاكس بحلول الثلاثاء؟"],
+["be able to", "مع جميع الأزمنة", "Are you able to write formal letters?", "هل أنت قادر على كتابة رسائل رسمية؟"],
+["be able to", "المستقبل", "I will be able to see you next week.", "سأستطيع رؤيتك الأسبوع القادم."]
+],
+"explanation": "تستخدم (can) للقدرة في الحاضر. تستخدم (could) للقدرة في الماضي والطلبات الرسمية. تستخدم (be able to) كبديل عن can/could وتستخدم مع جميع الأزمنة.",
+"examples": "We can do what even other people can't.\nCould you fax me that document?"
+},
+{
+"title": "Simple Past (الماضي البسيط)",
+"headers": ["Form", "Example from Lesson", "Translation"],
+"rows": [
+["regular + ed", "She started her career.", "بدأت مسيرتها المهنية."],
+["regular + ed", "She participated in several exhibitions.", "شاركت في عدة معارض."],
+["regular + ed", "I started at 21.", "بدأت في سن 21."],
+["irregular", "She won the Bronze medal in Egypt in 2007.", "فازت بالميدالية البرونزية في مصر عام 2007."],
+["irregular", "He went to the Winter Olympics in Calgary in 1988.", "ذهب إلى الأولمبياد الشتوية في كالغاري عام 1988."],
+["irregular", "He broke many world records.", "حطم العديد من الأرقام القياسية العالمية."],
+["irregular", "She left school at a very early age.", "تركت المدرسة في سن مبكرة جداً."],
+["was / were", "She was born in 1984.", "وُلدت في عام 1984."]
+],
+"explanation": "يستخدم الماضي البسيط للتعبير عن أحداث وقعت وانتهت في الماضي. الكلمات الدالة: in 2007, in 1988, last week, when I was young.",
+"examples": "Nora won the Bronze medal in 2007.\nShe was born in 1984."
+},
+{
+"title": "Present Perfect (المضارع التام)",
+"headers": ["Form", "Example from Lesson", "Translation"],
+"rows": [
+["have / has + past participle", "Sport has changed our social life.", "لقد غيرت الرياضة حياتنا الاجتماعية."],
+["have / has + past participle", "My sight has grown weaker.", "لقد ضعف بصري."],
+["have / has + past participle", "I've been on every run.", "لقد خضت كل جولة."]
+],
+"explanation": "يستخدم المضارع التام للتعبير عن أحداث حدثت في الماضي ولها تأثير على الحاضر.",
+"examples": "Sport has changed our social life.\nMy sight has grown weaker."
+},
+{
+"title": "Present Continuous (المضارع المستمر)",
+"headers": ["Form", "Example from Lesson", "Translation"],
+"rows": [
+["am / is / are + verb-ing", "I am making a film about success at the moment.", "أنا أصنع فيلماً عن النجاح حالياً."],
+["am / is / are + verb-ing", "We are interviewing business people.", "نحن نجري مقابلات مع رجال أعمال."],
+["am / is / are + verb-ing", "Sami is watching his friends playing.", "سامي يشاهد أصدقاءه وهم يلعبون."]
+],
+"explanation": "يستخدم المضارع المستمر للتعبير عن أحداث تحدث الآن أو في الوقت الحالي. الكلمات الدالة: at the moment, these days.",
+"examples": "I am making a film about success at the moment."
+},
+{
+"title": "Passive Voice (المبني للمجهول)",
+"headers": ["Tense", "Form", "Example from Lesson", "Translation"],
+"rows": [
+["Past Passive", "was / were + past participle", "She was born in 1984.", "وُلدت في عام 1984."],
+["Past Passive", "was / were + past participle", "She was honored by the government.", "كرمتها الحكومة."],
+["Future Passive", "will be + past participle", "Japan Olympics will be held in 2021.", "ستعقد أولمبياد اليابان في 2021."]
+],
+"explanation": "يستخدم المبني للمجهول عندما يكون المفعول به هو الأهم وليس الفاعل.",
+"examples": "She was born in 1984.\nShe was honored by the government."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["Preposition", "Example from Lesson", "Translation"],
+"rows": [
+["at", "at a very early age", "في سن مبكرة جداً"],
+["in", "participated in several exhibitions", "شاركت في عدة معارض"],
+["by", "honored by the government", "مكرمة من الحكومة"],
+["in", "born in 1984", "ولدت في 1984"],
+["of", "frightened of every run", "خائف من كل جولة"],
+["for", "for three years", "لمدة ثلاث سنوات"],
+["at", "at 90 miles an hour", "بسرعة 90 ميلاً في الساعة"],
+["to", "in order to help her mother", "من أجل مساعدة والدتها"],
+["with", "with her great determination", "بإصرارها العظيم"]
+],
+"explanation": "حروف الجر تربط الكلمات في الجملة. لكل حرف جر استخدام محدد حسب السياق.",
+"examples": "She was born in 1984.\nShe is frightened of every run."
+},
+{
+"title": "Infinitives (المصدر مع to)",
+"headers": ["Form", "Example from Lesson", "Translation"],
+"rows": [
+["to + verb", "She left school to help her mother.", "تركت المدرسة لمساعدة والدتها."],
+["to + verb", "In order to prove herself.", "لكي تثبت نفسها."],
+["to + verb", "He decided to climb to the top.", "قرر أن يتسلق القمة."]
+],
+"explanation": "المصدر مع 'to' يستخدم بعد بعض الأفعال أو للتعبير عن الغرض من الفعل.",
+"examples": "She left school to help her mother.\nIn order to prove herself."
+},
+{
+"title": "Gerunds (الفعل + ing)",
+"headers": ["Form", "Example from Lesson", "Translation"],
+"rows": [
+["verb + ing", "I enjoy playing football.", "أنا أستمتع بلعب كرة القدم."],
+["verb + ing", "Skiing is a dangerous sport.", "التزلج رياضة خطيرة."],
+["verb + ing", "Walking is good for health.", "المشي مفيد للصحة."]
+],
+"explanation": "الاسم المشتق (gerund) هو الفعل المضاف إليه ing ويستخدم كاسم.",
+"examples": "I enjoy playing football.\nSkiing is a dangerous sport."
+},
+{
+"title": "Wh-Questions (التحويل إلى سؤال)",
+"headers": ["Wh-word", "Example from Lesson", "Translation"],
+"rows": [
+["When", "When were you born?", "متى ولدت؟"],
+["How many", "How many medals did she win?", "كم ميدالية فازت بها؟"],
+["What", "What does Aloe Vera treat?", "ماذا تعالج الألوفيرا؟"],
+["Who", "Who enjoys English lessons?", "من يستمتع بدروس اللغة الإنجليزية؟"],
+["How", "How does Sami feel?", "كيف يشعر سامي؟"],
+["How long", "How long can a snail sleep?", "كم من الوقت يستطيع الحلزون النوم؟"]
+],
+"explanation": "لتحويل الجملة إلى سؤال نضع كلمة الاستفهام في البداية، ثم الفعل المساعد، ثم الفاعل، ثم الفعل في المصدر.",
+"examples": "I was born in 2005. → When were you born?"
+},
+{
+"title": "play / go / do (مع الرياضات والأنشطة)",
+"headers": ["Verb", "Examples from Lesson", "Translation"],
+"rows": [
+["play", "play football, play tennis, play basketball", "يلعب كرة قدم / تنس / كرة سلة"],
+["go", "go swimming, go walking, go jogging", "يذهب للسباحة / المشي / الهرولة"],
+["do", "do exercise, do yoga, do aerobics", "يمارس تمارين رياضية / يوغا / تمارين هوائية"]
+],
+"explanation": "نستخدم (play) مع الرياضات التي تستخدم كرة، و (go) مع الأنشطة التي تنتهي بـ -ing، و (do) مع الأنشطة الرياضية العامة.",
+"examples": "I play football every Friday.\nI go swimming once a week."
+},
+{
+"title": "Possessive Adjectives (صفات الملكية)",
+"headers": ["Subject Pronoun", "Possessive Adjective", "Example from Lesson", "Translation"],
+"rows": [
+["I", "my", "My friends said that I could do it.", "قال أصدقائي أنني أستطيع فعل ذلك."],
+["She", "her", "She left school to help her mother.", "تركت المدرسة لمساعدة والدتها."],
+["He", "his", "He wrapped his coat firmly.", "لف معطفه بإحكام."]
+],
+"explanation": "صفات الملكية تأتي قبل الأسماء لتدل على الملكية.",
+"examples": "She left school to help her mother.\nHe wrapped his coat firmly."
+},
+{
+"title": "Superlative (صفة التفضيل)",
+"headers": ["Form", "Example from Lesson", "Translation"],
+"rows": [
+["the most + صفة طويلة", "The most remarkable prize was the golden medal.", "كانت الجائزة الأكثر تميزاً هي الميدالية الذهبية."]
+],
+"explanation": "تستخدم صيغة التفضيل للمقارنة بين ثلاثة أشياء أو أكثر. مع الصفات الطويلة نستخدم (the most).",
+"examples": "The most remarkable prize was the golden medal."
+},
+{
+"title": "Conditional (الجملة الشرطية) - If + Present Simple",
+"headers": ["Form", "Example from Lesson", "Translation"],
+"rows": [
+["If + present simple, + may + infinitive", "If you fall you may crash.", "إذا سقطت قد تتحطم."]
+],
+"explanation": "في الجمل الشرطية من النوع الأول (If + present simple) نستخدم المضارع البسيط بعد (if) للتعبير عن شرط ممكن الحدوث.",
+"examples": "If you fall you may crash."
+}
+]
+}

@@ -1,0 +1,56 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics) - الوحدة 9",
+"description": "يتم استخراج مواضيع الكتابة من نهاية الدرس في كتاب الطالب.",
+"applicable_to": "الوحدة 9 - Great People",
+"search_sources": [
+"Student Book - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من كتاب الطالب"
+],
+"applied_to_unit_9": {
+"grade": 7,
+"unit": 9,
+"title": "Great People",
+"total_topics": 1,
+"sources": {
+"topic_1": "Student Book - Writing (My Favourite Sport / Fitness Activity)"
+}
+}
+},
+"topics": [
+{
+"id": "SB_G9_U9_W1",
+"title": "Write about your favourite sport or fitness activity.",
+"source": "Student Book",
+"exact_reference": "Writing Exercise",
+"guiding_questions": [
+"What is your favourite sport?",
+"Why do you like it?",
+"Where do you practise it?",
+"How often do you train?",
+"What would you like to become one day?"
+],
+"useful_phrases": [
+"My favourite sport is...",
+"I like playing...",
+"I'm good at...",
+"I train twice a week"
+],
+"vocabulary": [
+"swimming",
+"pool",
+"races",
+"sportswoman",
+"professional athlete",
+"against",
+"twice a week",
+"nearby",
+"colder",
+"because it's fun"
+],
+"sample_essay": "My favourite sport is swimming. I like it because it is fun. It keeps me healthy. In summer, I go to a nearby pool. In winter, I swim indoors. I am in the school team. We race against other schools. I train twice a week. I want to be a professional athlete one day."
+}
+]
+}
