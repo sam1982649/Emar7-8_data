@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G9_U11_T1_P1",
+"text_group": "G9_U11_Touch_Peoples_Hearts",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Touch People's Hearts - Part 1",
+"content_exam": "Have you ever been inspired by someone to change your life in a significant way that made you healthier, happier, or more fulfilled? If so, then you understand how inspiration can create a positive difference in a person's life. Inspiration is powerful. If you want to be positive and capable of inspiring others, here are some tips to follow.\n\nShow people you care. Remember how many times your day was changed by questions like 'How are you today?' or 'Is everything going well with you?' said by a friend. Your actions are very important too. Many people's lives are inspired by small acts of kindness.\n\nEarn trust. If you are told a secret by a friend, it stays between you and him/her. Trust takes a long time to be built, but in many cases it can be destroyed in no time.\n\nKeep your promises. If someone is being helped by a volunteer, he/she needs to do it with a smile. Life has many examples of promises that are kept to save many people's lives. Therefore, you should be wise enough to keep your word no matter what it takes.\n\nIt is easy to criticise people, but that doesn't mean it's the right thing to do. Think about it: 'How did you react when your intelligence was being once insulted by someone? Or, if your clothing, or your performance had been criticised in a negative way?' Whether the criticism was justified or not, sure you would get upset. No one likes to be criticized, so if you don't have anything positive to say, don't say it at all.\n\nBe an active listener. Words other people say can be heard, but not many people can actively listen to and comprehend those words to fully understand the meaning behind them. Make an eye contact if someone talks to you about their problems, and ask follow-up questions to show them you care.",
+"questions": [
+{
+"id": "L11_TXT_C01",
+"type": "choice",
+"question": "What can create a positive difference in a person's life?",
+"options": ["Money", "Inspiration", "Fame", "Power"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: Inspiration\n📝 الترجمة: ما الذي يمكن أن يُحدث فرقاً إيجابياً في حياة الشخص؟\n💡 الشرح: النص يقول: 'Inspiration can create a positive difference in a person's life'."
+},
+{
+"id": "L11_TXT_C02",
+"type": "choice",
+"question": "What can inspire many people's lives according to the text?",
+"options": ["Big gifts", "Small acts of kindness", "Expensive presents", "Large parties"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: Small acts of kindness\n📝 الترجمة: ما الذي يمكن أن يُلهم حياة الكثيرين وفقاً للنص؟\n💡 الشرح: النص يقول: 'Many people's lives are inspired by small acts of kindness'."
+},
+{
+"id": "L11_TXT_C03",
+"type": "choice",
+"question": "How long does it take to build trust?",
+"options": ["No time", "A short time", "A long time", "It is instant"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: A long time\n📝 الترجمة: كم يستغرق بناء الثقة؟\n💡 الشرح: النص يقول: 'Trust takes a long time to be built, but can be destroyed in no time'."
+},
+{
+"id": "L11_TXT_C04",
+"type": "choice",
+"question": "What should you do if you don't have something positive to say?",
+"options": ["Say anything", "Criticise anyway", "Say nothing", "Laugh"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: Say nothing\n📝 الترجمة: ماذا يجب أن تفعل إذا لم يكن لديك شيء إيجابي لتقوله؟\n💡 الشرح: النص يقول: 'if you don't have anything positive to say, don't say it at all'."
+},
+{
+"id": "L11_TXT_C05",
+"type": "choice",
+"question": "What should you do when someone talks to you about their problems?",
+"options": ["Ignore them", "Change the subject", "Make eye contact", "Walk away"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: Make eye contact\n📝 الترجمة: ماذا يجب أن تفعل عندما يتحدث شخص ما عن مشاكله؟\n💡 الشرح: النص يقول: 'Make an eye contact... and ask follow-up questions to show them you care'."
+}
+]
+},
+{
+"id": "G9_U11_T1_P2",
+"text_group": "G9_U11_Touch_Peoples_Hearts",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Touch People's Hearts - Part 2",
+"content_exam": "Being an active listener is very important. Many people hear words, but few actively listen to understand the meaning behind them. When someone talks about their problems, make eye contact. Ask follow-up questions to show you care. Remember that no one likes to be criticised negatively. Even if criticism is justified, people get upset. Think before you speak. If you cannot say something positive, remain silent. Small acts of kindness, keeping promises, and showing respect build strong relationships. These qualities help you inspire others. They make you a person who touches hearts. Start practising these tips today. You will see a positive change in how people respond to you.",
+"questions": [
+{
+"id": "L11_TXT_TF01",
+"type": "truefalse",
+"question": "Few people actively listen to understand the meaning behind words.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: قليل من الناس يستمعون بنشاط لفهم المعنى وراء الكلمات.\n💡 الشرح: النص يقول: 'not many people can actively listen to comprehend those words'."
+},
+{
+"id": "L11_TXT_TF02",
+"type": "truefalse",
+"question": "You should avoid eye contact when someone talks about their problems.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: يجب أن تتجنب الاتصال البصري عندما يتحدث شخص ما عن مشاكله.\n💡 الشرح: النص يقول: 'Make eye contact when someone talks to you about their problems'."
+},
+{
+"id": "L11_TXT_TF03",
+"type": "truefalse",
+"question": "People never get upset when they are criticised.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: لا ينزعج الناس أبداً عندما يتم انتقادهم.\n💡 الشرح: النص يقول: 'No one likes to be criticized. People get upset even if criticism is justified'."
+},
+{
+"id": "L11_TXT_A01",
+"type": "answer",
+"question": "What should you do when someone talks about their problems?",
+"keywords": ["eye contact", "ask questions", "follow-up questions", "show you care"],
+"explanation": "✅ الإجابة الصحيحة: Make eye contact and ask follow-up questions.\n📝 الترجمة: ماذا يجب أن تفعل عندما يتحدث شخص ما عن مشاكله؟\n💡 الشرح: النص يقول: 'Make eye contact and ask follow-up questions to show you care'."
+},
+{
+"id": "L11_TXT_A02",
+"type": "answer",
+"question": "What qualities help you inspire others and touch hearts?",
+"keywords": ["kindness", "promises", "respect", "active listening", "small acts"],
+"explanation": "✅ الإجابة الصحيحة: Small acts of kindness, keeping promises, showing respect, and active listening.\n📝 الترجمة: ما الصفات التي تساعدك على إلهام الآخرين ولمس القلوب؟\n💡 الشرح: النص يذكر اللطف، الوفاء بالوعود، الاحترام، والاستماع النشط."
+}
+]
+},
+{
+"id": "G9_U11_T2_P1",
+"text_group": "G9_U11_Messages_Outer_Space",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Messages to and from Outer Space - Part 1",
+"content_exam": "If you look up at the stars, you might wonder if anyone is really out there. You might also wonder if they have found as many strange ways to communicate with each other as we have. The wish to communicate with the outer space has always been there in our minds. As the 20th century began, interest in the possible life on Mars and the possible civilizations there led to a search for signals. Could we communicate with another planet? How might we look for signals and messages from other worlds? An example of how we might receive communications from the planet was mentioned in 1896 when a newspaper article entitled 'A Signal from Mars' had offered one. In the late 19th and early 20th centuries the idea of wirelessly sending and receiving waves through the air, was developed. New methods of searching for communications from space were offered too. In 1901, engineer Nicola Tesla made the astonishing claim that he was receiving radio communications from Mars. His story was picked up and reported in the press.\n\nThe Media was captured by the idea of communicating with Mars but it did not find much serious interest from scientists. In the 1960s a number of other scientists began searching for signals showing the existence of another life elsewhere in the universe. As it became increasingly clear that there was no intelligent life on other planets in the solar system, it became possible to detect signals from much farther away. Radio signals were detected to look for life or civilizations out in the galaxy but none was proved, yet most of us still look at the sky and wonder if there is someone trying to contact us.",
+"questions": [
+{
+"id": "L11_TXT_C06",
+"type": "choice",
+"question": "What did Nicola Tesla claim in 1901?",
+"options": ["He saw a UFO", "He travelled to Mars", "He was receiving radio communications from Mars", "He invented a new planet"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: He was receiving radio communications from Mars\n📝 الترجمة: ماذا ادعى نيكولا تسلا في عام 1901؟\n💡 الشرح: النص يقول: 'Nicola Tesla made the astonishing claim that he was receiving radio communications from Mars'."
+},
+{
+"id": "L11_TXT_C07",
+"type": "choice",
+"question": "How did the media react to Tesla's claim?",
+"options": ["They ignored it", "They were captured by the idea", "They rejected it", "They laughed at it"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: They were captured by the idea\n📝 الترجمة: كيف تفاعلت وسائل الإعلام مع ادعاء تسلا؟\n💡 الشرح: النص يقول: 'The Media was captured by the idea of communicating with Mars'."
+},
+{
+"id": "L11_TXT_C08",
+"type": "choice",
+"question": "When did scientists begin searching for signals from other life?",
+"options": ["In the 1890s", "In the 1900s", "In the 1960s", "In the 1980s"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: In the 1960s\n📝 الترجمة: متى بدأ العلماء البحث عن إشارات من حياة أخرى؟\n💡 الشرح: النص يقول: 'In the 1960s a number of other scientists began searching for signals'."
+},
+{
+"id": "L11_TXT_C09",
+"type": "choice",
+"question": "Where did scientists look for life or civilizations?",
+"options": ["On Mars", "On the moon", "In the galaxy", "On Earth"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: In the galaxy\n📝 الترجمة: أين بحث العلماء عن حياة أو حضارات؟\n💡 الشرح: النص يقول: 'look for life or civilizations out in the galaxy'."
+},
+{
+"id": "L11_TXT_C10",
+"type": "choice",
+"question": "Was any life from other planets proved to exist?",
+"options": ["Yes", "No", "Maybe", "Probably"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: No\n📝 الترجمة: هل تم إثبات وجود حياة من كواكب أخرى؟\n💡 الشرح: النص يقول: 'none was proved'."
+}
+]
+},
+{
+"id": "G9_U11_T2_P2",
+"text_group": "G9_U11_Messages_Outer_Space",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Messages to and from Outer Space - Part 2",
+"content_exam": "Scientists learned that there is no intelligent life on other planets in our solar system. However, they realised it might be possible to detect signals from much farther away. They used radio signals to search for life or civilizations in the galaxy. Nothing has been proved yet, but the search continues. Most of us still look at the sky and wonder if someone is trying to contact us. The universe is vast and full of mysteries. Perhaps one day we will receive a clear signal from another civilization. Until then, we keep searching, listening, and wondering. The human desire to connect with others extends even to the stars.",
+"questions": [
+{
+"id": "L11_TXT_TF04",
+"type": "truefalse",
+"question": "Scientists discovered intelligent life on other planets in our solar system.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: اكتشف العلماء حياة ذكية على كواكب أخرى في نظامنا الشمسي.\n💡 الشرح: النص يقول: 'there was no intelligent life on other planets in the solar system'."
+},
+{
+"id": "L11_TXT_TF05",
+"type": "truefalse",
+"question": "Scientists used radio signals to search for life in the galaxy.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: استخدم العلماء إشارات الراديو للبحث عن حياة في المجرة.\n💡 الشرح: النص يقول: 'Radio signals were detected to look for life or civilizations out in the galaxy'."
+},
+{
+"id": "L11_TXT_TF06",
+"type": "truefalse",
+"question": "A clear signal from another civilization has been received.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: تم استقبال إشارة واضحة من حضارة أخرى.\n💡 الشرح: النص يقول: 'Nothing has been proved yet. No clear signal has been received'."
+},
+{
+"id": "L11_TXT_A03",
+"type": "answer",
+"question": "What do scientists use to search for life in the galaxy?",
+"keywords": ["radio signals", "signals", "radio waves", "detect signals"],
+"explanation": "✅ الإجابة الصحيحة: radio signals\n📝 الترجمة: ماذا يستخدم العلماء للبحث عن حياة في المجرة؟\n💡 الشرح: النص يقول: 'They used radio signals to search for life or civilizations in the galaxy'."
+},
+{
+"id": "L11_TXT_A04",
+"type": "answer",
+"question": "Why do most people still look at the sky and wonder?",
+"keywords": ["someone trying to contact us", "mysteries", "wonder", "contact", "outer space"],
+"explanation": "✅ الإجابة الصحيحة: They wonder if someone is trying to contact us from outer space.\n📝 الترجمة: لماذا لا يزال معظم الناس ينظرون إلى السماء ويتساءلون؟\n💡 الشرح: النص يقول: 'most of us still look at the sky and wonder if there is someone trying to contact us'."
+}
+]
+}
+]
+}

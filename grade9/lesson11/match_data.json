@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"title": "Match the Sentence Parts - Touch People's Hearts",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "a positive difference in a person's life" },
+{ "letter": "b", "text": "in no time" },
+{ "letter": "c", "text": "don't say it at all" },
+{ "letter": "d", "text": "of inspiring others" },
+{ "letter": "e", "text": "live close to us" },
+{ "letter": "f", "text": "to change your life in a significant way" }
+],
+"sentences": [
+{
+"start": "Inspiration can create",
+"correct": "a",
+"full_sentence": "Inspiration can create a positive difference in a person's life",
+"translation": "يمكن للإلهام أن يخلق فرقاً إيجابياً في حياة الشخص",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 84"
+},
+{
+"start": "Trust takes a long time to be built, but it can be destroyed",
+"correct": "b",
+"full_sentence": "Trust takes a long time to be built, but it can be destroyed in no time",
+"translation": "بناء الثقة يستغرق وقتاً طويلاً، لكن يمكن تدميرها في لحظة",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 84"
+},
+{
+"start": "If you don't have anything positive to say",
+"correct": "c",
+"full_sentence": "If you don't have anything positive to say don't say it at all",
+"translation": "إذا لم يكن لديك أي شيء إيجابي لتقوله، فلا تقل شيئاً على الإطلاق",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 84"
+},
+{
+"start": "You should be positive and capable",
+"correct": "d",
+"full_sentence": "You should be positive and capable of inspiring others",
+"translation": "يجب أن تكون إيجابياً وقادراً على إلهام الآخرين",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 84"
+},
+{
+"start": "My sister and her little daughter used to",
+"correct": "e",
+"full_sentence": "My sister and her little daughter used to live close to us",
+"translation": "كانت أختي وابنتها الصغيرة يعيشان بالقرب منا",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 85"
+}
+]
+},
+{
+"title": "Match the Sentence Parts - Messages to and from Outer Space",
+"source": "activity_book",
+"options": [
+{ "letter": "a", "text": "has always been there in our minds." },
+{ "letter": "b", "text": "they might receive from another planet." },
+{ "letter": "c", "text": "you might wonder if anyone is really out there." },
+{ "letter": "d", "text": "shows the existence of intelligent life in the universe." },
+{ "letter": "e", "text": "we found that all the flights had been cancelled due to the storm." },
+{ "letter": "f", "text": "pulling the farmer's wagon." }
+],
+"sentences": [
+{
+"start": "If you look up at the stars,",
+"correct": "c",
+"full_sentence": "If you look up at the stars, you might wonder if anyone is really out there",
+"translation": "إذا نظرت إلى النجوم، فقد تتساءل إن كان هناك أحد في الخارج",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 72"
+},
+{
+"start": "The desire to communicate with the outer space",
+"correct": "a",
+"full_sentence": "The desire to communicate with the outer space has always been there in our minds",
+"translation": "الرغبة في التواصل مع الفضاء الخارجي كانت دائماً في أذهاننا",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 72"
+},
+{
+"start": "A newspaper article entitled \"A Signal from Mars\"",
+"correct": "d",
+"full_sentence": "A newspaper article entitled \"A Signal from Mars\" shows the existence of intelligent life in the universe",
+"translation": "مقال في جريدة بعنوان \"إشارة من المريخ\" يظهر وجود حياة ذكية في الكون",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 72"
+},
+{
+"start": "Scientists began searching for signals",
+"correct": "b",
+"full_sentence": "Scientists began searching for signals they might receive from another planet",
+"translation": "بدأ العلماء بالبحث عن إشارات قد يتلقونها من كوكب آخر",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 72"
+},
+{
+"start": "When we reached the airport,",
+"correct": "e",
+"full_sentence": "When we reached the airport, we found that all the flights had been cancelled due to the storm",
+"translation": "عندما وصلنا إلى المطار، وجدنا أن جميع الرحلات قد ألغيت بسبب العاصفة",
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 73"
+}
+]
+}
+]
+}

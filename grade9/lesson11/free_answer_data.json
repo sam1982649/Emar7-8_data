@@ -1,0 +1,64 @@
+{
+"questions": [
+{
+"question": "Why is it important to keep promises?",
+"translation": "لماذا من المهم الوفاء بالوعود؟",
+"keywords": ["promises", "trust", "respect", "honest", "keep", "word", "relationship", "important"],
+"suggested_answers": [
+"It is important to keep promises because it builds trust between people.",
+"Keeping promises shows respect and keeps good relationships.",
+"If you keep your promises, people will trust you and respect you."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 86"
+},
+{
+"question": "How do you feel when someone criticises you?",
+"translation": "كيف تشعر عندما ينتقدك شخص ما؟",
+"keywords": ["criticise", "feel", "upset", "angry", "sad", "feedback", "negative", "react"],
+"suggested_answers": [
+"I feel upset at first, but I try to learn from the criticism.",
+"Sometimes I feel sad or angry, but I take it as useful feedback.",
+"I try to stay calm and think about how I can improve."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 86"
+},
+{
+"question": "How do you prefer to communicate with people who live far away?",
+"translation": "كيف تفضل التواصل مع الأشخاص الذين يعيشون بعيداً؟",
+"keywords": ["communicate", "far away", "phone", "Skype", "WhatsApp", "email", "social media", "technology"],
+"suggested_answers": [
+"I prefer to use WhatsApp to call and message them.",
+"I like to use Skype or video calls to see them.",
+"I usually use email or social media to stay in touch."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 86"
+},
+{
+"question": "What technology do you use most to contact your family and friends?",
+"translation": "ما التكنولوجيا التي تستخدمها أكثر للتواصل مع عائلتك وأصدقائك؟",
+"keywords": ["technology", "contact", "family", "friends", "phone", "internet", "social media", "app"],
+"suggested_answers": [
+"I use my phone and WhatsApp most to contact my family and friends.",
+"I use social media and video calls to talk with my friends.",
+"I use the internet and messaging apps to stay in touch."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 86"
+},
+{
+"question": "Do you prefer face-to-face communication or using technology? Why?",
+"translation": "هل تفضل التواصل المباشر أم استخدام التكنولوجيا؟ لماذا؟",
+"keywords": ["face-to-face", "communication", "technology", "prefer", "direct", "personal", "easy", "fast"],
+"suggested_answers": [
+"I prefer face-to-face communication because it is more personal and direct.",
+"I prefer using technology because it is fast and easy, especially with people far away.",
+"I like both, but face-to-face is better for building strong relationships."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 86"
+}
+]
+}
