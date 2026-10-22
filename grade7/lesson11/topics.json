@@ -1,0 +1,54 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics)",
+"description": "يتم استخراج مواضيع الكتابة من نهاية كل درس في كتاب الطالب وكتاب النشاط.",
+"applicable_to": "جميع الدروس (Unit 11)",
+"search_sources": [
+"Student Book - Writing",
+"Activity Book - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من كتاب الطالب",
+"موضوع واحد من كتاب النشاط",
+"تنويع الأسئلة المساعدة لكل موضوع"
+],
+"applied_to_unit_11": {
+"grade": 7,
+"unit": 11,
+"title": "Diversity",
+"total_topics": 2,
+"sources": {
+"topic_1": "Student Book - Writing (Good Manners in Syria)",
+"topic_2": "Activity Book - Writing (Strange Food Habits)"
+}
+}
+},
+"topics": [
+{
+"id": "SB_G7_U11_W1",
+"title": "Write a paragraph about good manners in Syria.",
+"source": "Student Book",
+"exact_reference": "Writing (Page 76)",
+"guiding_questions": [
+"What are the common greetings in Syria?",
+"How do you show respect to old people?",
+"What should you do on the road?",
+"What are the good manners you should follow in public?"
+],
+"sample_essay": "There are many good manners in Syria. We say hello to people. We respect old people and help them. On the bus, we give our seat to old people and women. We don't use mobiles while driving. We cross the road when the light is green. We don't throw rubbish on the street. These manners make our society nice."
+},
+{
+"id": "AB_G7_U11_W1",
+"title": "Write a short paragraph about strange food habits.",
+"source": "Activity Book",
+"exact_reference": "Writing (Page 49)",
+"guiding_questions": [
+"What strange food habits do people have in your country?",
+"What do people eat in different cultures?",
+"What food habits are unusual to you?",
+"Why do people have different food habits?"
+],
+"sample_essay": "People have different food habits. In some countries, people eat with their hands. In other countries, they use chopsticks. In Syria, we eat kibbeh and shawarma. Some people eat spicy food. I think food habits are part of culture. We should respect different food habits."
+}
+]
+}

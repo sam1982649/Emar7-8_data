@@ -1,0 +1,196 @@
+{
+"vocabulary": [
+{ "word": "acceptable", "translation": "مقبول" },
+{ "word": "according to", "translation": "وفقاً لـ" },
+{ "word": "actual", "translation": "فعلي" },
+{ "word": "avoid", "translation": "يتجنب" },
+{ "word": "behaviour", "translation": "سلوك" },
+{ "word": "belief", "translation": "اعتقاد" },
+{ "word": "birthday", "translation": "عيد ميلاد" },
+{ "word": "bring", "translation": "يجلب" },
+{ "word": "celebrate", "translation": "يحتفل" },
+{ "word": "change", "translation": "يغير" },
+{ "word": "chopsticks", "translation": "عيدان طعام" },
+{ "word": "construct", "translation": "بناء / تكوين" },
+{ "word": "conversation", "translation": "محادثة" },
+{ "word": "cultural", "translation": "ثقافي" },
+{ "word": "culture", "translation": "ثقافة" },
+{ "word": "custom", "translation": "عادة" },
+{ "word": "Czech Republic", "translation": "جمهورية التشيك" },
+{ "word": "delayed", "translation": "مؤجل / متأخر" },
+{ "word": "diversity", "translation": "تنوع" },
+{ "word": "elder", "translation": "كبير السن" },
+{ "word": "familiar", "translation": "مألوف" },
+{ "word": "filled with", "translation": "مملوء بـ" },
+{ "word": "flight", "translation": "رحلة جوية" },
+{ "word": "forecast", "translation": "توقعات" },
+{ "word": "generous", "translation": "سخي" },
+{ "word": "gesture", "translation": "إيماءة / حركة" },
+{ "word": "gift", "translation": "هدية" },
+{ "word": "goal", "translation": "هدف" },
+{ "word": "good luck", "translation": "حظ سعيد" },
+{ "word": "greeting", "translation": "تحية" },
+{ "word": "habit", "translation": "عادة" },
+{ "word": "indicate", "translation": "يشير / يوضح" },
+{ "word": "insulting", "translation": "مهين" },
+{ "word": "intend", "translation": "ينوي / يهدف" },
+{ "word": "lack", "translation": "نقص" },
+{ "word": "made of", "translation": "مصنوع من" },
+{ "word": "manner", "translation": "سلوك / أسلوب" },
+{ "word": "penny", "translation": "بنس (عملة)" },
+{ "word": "picnic", "translation": "نزهة" },
+{ "word": "pin", "translation": "دبوس" },
+{ "word": "piñata", "translation": "بينياتا (لعبة مكسيكية)" },
+{ "word": "polite", "translation": "مهذب" },
+{ "word": "popular", "translation": "مشهور" },
+{ "word": "presents", "translation": "هدايا" },
+{ "word": "private", "translation": "خاص / سري" },
+{ "word": "proverb", "translation": "مثل / حكمة" },
+{ "word": "public", "translation": "عام / علني" },
+{ "word": "receive", "translation": "يتلقى" },
+{ "word": "regularly", "translation": "بانتظام" },
+{ "word": "respect", "translation": "احترام" },
+{ "word": "roads", "translation": "طرق" },
+{ "word": "rubbish", "translation": "قمامة" },
+{ "word": "scales", "translation": "قشور" },
+{ "word": "scissors", "translation": "مقص" },
+{ "word": "score", "translation": "يسجل" },
+{ "word": "self-control", "translation": "ضبط النفس" },
+{ "word": "separation", "translation": "انفصال" },
+{ "word": "smoke", "translation": "يدخن" },
+{ "word": "spill", "translation": "يرش / يسكب" },
+{ "word": "strange", "translation": "غريب" },
+{ "word": "sweets", "translation": "حلويات" },
+{ "word": "symbolize", "translation": "يرمز إلى" },
+{ "word": "tip", "translation": "إكرامية / بقشيش" },
+{ "word": "tradition", "translation": "تقاليد" },
+{ "word": "traffic lights", "translation": "إشارات المرور" },
+{ "word": "transportation", "translation": "وسائل النقل" },
+{ "word": "travel guide", "translation": "دليل سياحي" },
+{ "word": "unacceptable", "translation": "غير مقبول" },
+{ "word": "unfamiliar", "translation": "غير مألوف" },
+{ "word": "unlucky", "translation": "غير محظوظ" },
+{ "word": "unusual", "translation": "غير عادي" },
+{ "word": "various", "translation": "متنوع" },
+{ "word": "vary", "translation": "يختلف" },
+{ "word": "waiter", "translation": "نادل" },
+{ "word": "wealth", "translation": "ثروة" },
+{ "word": "weather", "translation": "طقس" },
+{ "word": "well-known", "translation": "معروف" },
+{ "word": "window shopper", "translation": "متسوق وهمي" }
+],
+"tables": [
+{
+"title": "The Simple Future Tense: will",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["will + verb (base form)", "توقع في المستقبل", "She will have an accident because she drives so fast.", "سيكون لديها حادث لأنها تقود بسرعة كبيرة."],
+["will + verb (base form)", "قرار فوري", "Would you like some tea? I will make a cup for me.", "هل تريد بعض الشاي؟ سأصنع كوباً لنفسي."],
+["will + verb (base form)", "وعد", "I will do my homework on time.", "سأقوم بواجبي المنزلي في الوقت المحدد."],
+["will + verb (base form)", "تنبؤ (مع think)", "I think I will make pizza for lunch today.", "أعتقد أنني سأصنع بيتزا للغداء اليوم."],
+["will + verb (base form)", "إجراء مستقبلي", "I will travel to Egypt with my parents next summer.", "سأسافر إلى مصر مع والديّ الصيف القادم."],
+["won't + verb (base form)", "نفي في المستقبل", "He won't forget to bring the food basket for the picnic tomorrow.", "لن ينسى إحضار سلة الطعام للنزهة غداً."]
+],
+"explanation": "يستخدم زمن المستقبل البسيط (will) للتعبير عن: توقع في المستقبل، قرار فوري، وعد، تنبؤ مع think، وإجراء مستقبلي. في النفي نستخدم won't + الفعل في المصدر.",
+"examples": "She will have an accident.\nI will do my homework on time.\nHe won't forget to bring the food basket."
+},
+{
+"title": "First Conditional (if + present simple → will)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["if + present simple, will + verb", "شرط + نتيجة في المستقبل", "If you spill water behind someone, it will bring them good luck.", "إذا رششت الماء خلف شخص ما، سيجلب له الحظ الجيد."]
+],
+"explanation": "تستخدم جملة الشرط من النوع الأول للتعبير عن احتمال حدوث شيء في المستقبل إذا تحقق شرط معين.",
+"examples": "If you spill water behind someone, it will bring them good luck."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["Preposition", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["from ... to", "للاختلاف أو التغير", "Habits vary from one country to another.", "العادات تختلف من بلد إلى آخر."],
+["in", "مع تعبيرات ثابتة", "in private", "في الخفاء / بشكل خاص"],
+["in", "للمناسبات والأماكن", "popular in birthdays", "مشهور في أعياد الميلاد"],
+["of", "مع تعبيرات ثابتة", "lack of self-control", "نقص في ضبط النفس"],
+["of", "للمادة المصنوعة", "made of paper", "مصنوع من الورق"],
+["with", "للأداة المستخدمة", "point with lips", "يشير بالشفاه"],
+["with", "لما يملأ الشيء", "filled with sweets", "مملوء بالحلويات"],
+["to", "بعد صفات معينة", "unlucky to celebrate", "غير محظوظ للاحتفال"]
+],
+"explanation": "حروف الجر تربط الكلمات في الجملة. لكل حرف جر استخدام محدد حسب السياق.",
+"examples": "Habits vary from one country to another.\nlack of self-control\npoint with lips"
+},
+{
+"title": "Gerunds (اسم الفعل - verb + ing)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["verb + ing", "كفاعل في الجملة", "Opening gifts in public is seen as a lack of self-control.", "فتح الهدايا في العلن يُنظر إليه على أنه نقص في ضبط النفس."],
+["verb + ing", "بعد أفعال معينة (avoid)", "Russians avoid giving yellow flowers to other people.", "يتجنب الروس إعطاء الزهور الصفراء للآخرين."]
+],
+"explanation": "الاسم المشتق (gerund) هو الفعل المضاف إليه ing ويستخدم كاسم. يأتي كفاعل في الجملة أو بعد أفعال معينة مثل (avoid, enjoy).",
+"examples": "Opening gifts in public is seen as a lack of self-control.\nRussians avoid giving yellow flowers to other people."
+},
+{
+"title": "Possessive Adjectives (صفات الملكية)",
+"headers": ["Subject Pronoun", "Possessive Adjective", "Example from Lesson", "Translation"],
+"rows": [
+["they", "their", "They can direct their lips forward.", "يمكنهم توجيه شفاههم إلى الأمام."]
+],
+"explanation": "صفات الملكية تأتي قبل الأسماء لتدل على الملكية.",
+"examples": "They can direct their lips forward."
+},
+{
+"title": "Adverbs (الظروف)",
+"headers": ["Adverb", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["regularly", "يصف الفعل (كيفية)", "Many cultures regularly use gestures of the hand.", "تستخدم العديد من الثقافات إيماءات اليد بانتظام."]
+],
+"explanation": "الظرف يصف الفعل ويعطينا معلومات إضافية عن كيفية حدوث الفعل.",
+"examples": "Many cultures regularly use gestures of the hand."
+},
+{
+"title": "Articles (أدوات التعريف)",
+"headers": ["Article", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["the", "مع أسماء الدول المركبة", "in the USA", "في الولايات المتحدة"]
+],
+"explanation": "نستخدم 'the' مع أسماء الدول التي تحتوي على كلمات مثل States, Kingdom, Republic.",
+"examples": "in the USA"
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["Conjunction", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["because", "للتعبير عن السبب", "In Japan it's considered unusual to tip because it is considered insulting.", "في اليابان، يُعتبر إعطاء الإكرامية غير مألوف لأنه يعتبر مهيناً."]
+],
+"explanation": "'because' تستخدم للتعبير عن السبب.",
+"examples": "In Japan it's considered unusual to tip because it is considered insulting."
+},
+{
+"title": "Relative Pronouns (ضمائر الوصل)",
+"headers": ["Pronoun", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["who", "للعاقل (الأشخاص)", "We'll visit our aunt who lives in Alexandria.", "سنزور عمتنا التي تعيش في الإسكندرية."]
+],
+"explanation": "'who' تستخدم للعاقل (الأشخاص) في صلة الموصول.",
+"examples": "We'll visit our aunt who lives in Alexandria."
+},
+{
+"title": "Past Simple (الماضي البسيط)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["verb + ed (regular) / irregular", "حدث انتهى في الماضي", "I received an e-mail from my friend yesterday.", "تلقيت بريداً إلكترونياً من صديقي أمس."]
+],
+"explanation": "يستخدم الماضي البسيط للتعبير عن أحداث وقعت وانتهت في الماضي. 'yesterday' تشير إلى الماضي.",
+"examples": "I received an e-mail from my friend yesterday."
+},
+{
+"title": "Passive Voice (المبني للمجهول)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["is / are + past participle", "عندما الفاعل غير معروف أو غير مهم", "Leaving scissors open is said to bring bad luck.", "يُقال إن ترك المقص مفتوحاً يجلب الحظ السيئ."]
+],
+"explanation": "يستخدم المبني للمجهول عندما نركز على الفعل وليس على من قام به.",
+"examples": "Leaving scissors open is said to bring bad luck."
+}
+]
+}

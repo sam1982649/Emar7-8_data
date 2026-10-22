@@ -1,0 +1,113 @@
+{
+"metadata": {
+"grade": 7,
+"unit": 11,
+"title": "Diversity",
+"total_questions": 6,
+"sources": {
+"student_book": 2,
+"activity_book": 4
+},
+"question_types": {
+"free_answer": 6
+}
+},
+"questions": [
+{
+"id": "SB_G7_U11_F1",
+"question": "What are some strange habits in Syria?",
+"translation": "ما هي بعض العادات الغريبة في سوريا؟",
+"keywords": ["strange", "habits", "Syria", "unusual", "traditions"],
+"suggested_answers": [
+"Some strange habits in Syria include eating with hands.",
+"People in Syria greet each other with kisses on the cheeks.",
+"It is a habit to offer tea to guests in Syria."
+],
+"wh_word": "What",
+"auxiliary": "are",
+"category": "Habits",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U11_F2",
+"question": "How do you show respect to others in your culture?",
+"translation": "كيف تظهر الاحترام للآخرين في ثقافتك؟",
+"keywords": ["respect", "show", "culture", "polite", "greet"],
+"suggested_answers": [
+"We show respect by greeting elders first.",
+"In my culture, we stand up when someone older enters the room.",
+"We show respect by saying polite words like 'thank you' and 'please'."
+],
+"wh_word": "How",
+"auxiliary": "do",
+"category": "Respect",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "AB_G7_U11_F1",
+"question": "How do people in your country celebrate birthdays?",
+"translation": "كيف يحتفل الناس في بلدك بأعياد الميلاد؟",
+"keywords": ["celebrate", "birthdays", "cake", "gifts", "family", "party"],
+"suggested_answers": [
+"People in my country celebrate birthdays with a cake and candles.",
+"We give gifts and have a party with family and friends.",
+"We usually eat special food and sing songs on birthdays."
+],
+"wh_word": "How",
+"auxiliary": "do",
+"category": "Celebration",
+"source": "Activity Book",
+"exact_reference": "Vocabulary"
+},
+{
+"id": "AB_G7_U11_F2",
+"question": "What do you usually do on your birthday?",
+"translation": "ماذا تفعل عادةً في عيد ميلادك؟",
+"keywords": ["birthday", "usually", "celebrate", "cake", "gifts"],
+"suggested_answers": [
+"I usually have a party with my family and friends.",
+"I eat cake and open gifts on my birthday.",
+"I like to go out with my family."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Personal",
+"source": "Activity Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "AB_G7_U11_F3",
+"question": "What is your favourite food?",
+"translation": "ما هو طعامك المفضل؟",
+"keywords": ["favourite", "food", "like", "delicious"],
+"suggested_answers": [
+"My favourite food is pizza.",
+"I like pasta and chicken.",
+"My favourite food is rice with vegetables."
+],
+"wh_word": "What",
+"auxiliary": "is",
+"category": "Personal",
+"source": "Activity Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "AB_G7_U11_F4",
+"question": "What would you like to learn about other countries?",
+"translation": "ماذا تريد أن تتعلم عن البلدان الأخرى؟",
+"keywords": ["learn", "other countries", "culture", "traditions", "food"],
+"suggested_answers": [
+"I would like to learn about their food and traditions.",
+"I want to learn about their history and culture.",
+"I would like to learn how people live in other countries."
+],
+"wh_word": "What",
+"auxiliary": "would",
+"category": "Learning",
+"source": "Activity Book",
+"exact_reference": "Speaking"
+}
+]
+}

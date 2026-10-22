@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "SB_G7_U11_T1",
+"text_group": "G7_U11_Here_and_There",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Here and There (Part 1)",
+"content_exam": "Habits are cultural constructs and vary from one country to another. Some of these habits seem unusual in some countries while they seem strange and surprising in other ones. In other words, what is acceptable and what is unacceptable vary from one culture to another. For example, if you receive a gift in the USA, it is a good manner to open it in front of the person who gave it to you in order to express joy and thanks. While in China, India and other countries, people open presents in private. Opening gifts in public is seen as a lack of self-control.",
+"questions": [
+{
+"id": "t1_q1",
+"question": "Habits are cultural constructs and ........ from one country to another.",
+"options": ["differ", "vary", "change", "alter"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: vary\n📝 الترجمة: العادات هي بنيات ثقافية وتختلف من بلد إلى آخر.\n💡 الشرح: 'vary' تعني تختلف، وهي الكلمة المناسبة للسياق."
+},
+{
+"id": "t1_q2",
+"question": "What is acceptable and what is unacceptable ........ from one culture to another.",
+"options": ["vary", "varies", "varied", "varying"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: vary\n📝 الترجمة: ما هو مقبول وما هو غير مقبول يختلف من ثقافة إلى أخرى.\n💡 الشرح: الفاعل 'what is acceptable and what is unacceptable' يعامل معاملة الجمع، لذلك نستخدم 'vary'."
+},
+{
+"id": "t1_q3",
+"question": "In the USA, it is a good ........ to open a gift in front of the person who gave it.",
+"options": ["habit", "custom", "manner", "tradition"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: manner\n📝 الترجمة: في الولايات المتحدة، من الأخلاق الحميدة فتح الهدية أمام الشخص الذي أعطاها.\n💡 الشرح: 'good manner' تعني سلوك حسن أو أخلاق حميدة."
+},
+{
+"id": "t1_q4",
+"question": "People in China and India open presents in ........",
+"options": ["public", "private", "front", "groups"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: private\n📝 الترجمة: الناس في الصين والهند يفتحون الهدايا في الخفاء.\n💡 الشرح: النص يقول: 'people open presents in private'."
+},
+{
+"id": "t1_q5",
+"question": "Opening gifts in public is seen as a lack of ........",
+"options": ["respect", "manners", "self-control", "trust"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: self-control\n📝 الترجمة: فتح الهدايا في العلن يُنظر إليه على أنه نقص في ضبط النفس.\n💡 الشرح: النص يقول: 'Opening gifts in public is seen as a lack of self-control'."
+}
+]
+},
+{
+"id": "SB_G7_U11_T2",
+"text_group": "G7_U11_Here_and_There",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Here and There (Part 2)",
+"content_exam": "Many cultures regularly use gestures of the hand, they point using the thumb or index. While we find that people in Nicaragua point with lips. They can direct their lips forward or they make a side-to-side conversation to indicate something that is happening. It is a strange habit and unfamiliar to many countries. Giving tips also varies from one country to another. It is familiar in the USA to tip all those from waiters at restaurants to the clergy at the church. While in Japan it's considered unusual and unfamiliar to tip because it is considered insulting.",
+"questions": [
+{
+"id": "t2_q1",
+"question": "Many cultures regularly use gestures of the hand.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: تستخدم العديد من الثقافات إيماءات اليد بانتظام.\n💡 الشرح: النص يقول: 'Many cultures regularly use gestures of the hand'."
+},
+{
+"id": "t2_q2",
+"question": "People in Nicaragua point with their fingers.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: الناس في نيكاراغوا يشيرون بأصابعهم.\n💡 الشرح: النص يقول: 'people in Nicaragua point with lips' وليس بالأصابع."
+},
+{
+"id": "t2_q3",
+"question": "Giving tips is considered insulting in Japan.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يُعتبر إعطاء الإكرامية مهيناً في اليابان.\n💡 الشرح: النص يقول: 'in Japan it's considered unusual and unfamiliar to tip because it is considered insulting'."
+},
+{
+"id": "t2_q4",
+"question": "How do people in Nicaragua indicate something that is happening?",
+"type": "answer",
+"keywords": ["direct their lips forward", "side-to-side conversation", "lips"],
+"explanation": "✅ الإجابة الصحيحة: They direct their lips forward or make a side-to-side conversation.\n📝 الترجمة: كيف يشير الناس في نيكاراغوا إلى شيء يحدث؟\n💡 الشرح: النص يقول: 'They can direct their lips forward or they make a side-to-side conversation to indicate something that is happening'."
+},
+{
+"id": "t2_q5",
+"question": "Why do people in Japan consider giving tips unusual?",
+"type": "answer",
+"keywords": ["considered insulting", "insulting"],
+"explanation": "✅ الإجابة الصحيحة: Because it is considered insulting.\n📝 الترجمة: لماذا يعتبر الناس في اليابان إعطاء الإكرامية غير مألوف؟\n💡 الشرح: النص يقول: 'because it is considered insulting'."
+}
+]
+},
+{
+"id": "AB_G7_U11_T1",
+"text_group": "G7_U11_Beliefs",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Beliefs (Part 1)",
+"content_exam": "In the Czech Republic, some people believe if they place fish scales under the dinner dishes on the table cloth at the Christmas dinner table, it will bring wealth to the family. Some Indian shop owners will not allow the first window shopper of the day to leave without selling him/her something even if it is a pin or a needle because they believe it is unlucky for the rest of the day. Finding a penny on the ground, is considered a sign of good luck in the USA. People often use the saying \"find a penny, pick it up, and all day long you'll have good luck\".",
+"questions": [
+{
+"id": "t3_q1",
+"question": "In the Czech Republic, people place fish scales under the dinner dishes to bring ........ to the family.",
+"options": ["health", "wealth", "luck", "happiness"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: wealth\n📝 الترجمة: في جمهورية التشيك، يضع الناس قشور السمك تحت أطباق العشاء لجلب الثروة للعائلة.\n💡 الشرح: النص يقول: 'it will bring wealth to the family'."
+},
+{
+"id": "t3_q2",
+"question": "Indian shop owners will not allow the first ........ of the day to leave without buying something.",
+"options": ["customer", "window shopper", "tourist", "visitor"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: window shopper\n📝 الترجمة: لا يسمح أصحاب المتاجر الهنود لأول متسوق وهمي في اليوم بالمغادرة دون شراء شيء.\n💡 الشرح: النص يقول: 'the first window shopper of the day'."
+},
+{
+"id": "t3_q3",
+"question": "In the USA, finding a penny is considered a sign of ........",
+"options": ["bad luck", "wealth", "good luck", "success"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: good luck\n📝 الترجمة: في الولايات المتحدة، يعتبر العثور على بنس علامة على الحظ الجيد.\n💡 الشرح: النص يقول: 'Finding a penny on the ground, is considered a sign of good luck'."
+},
+{
+"id": "t3_q4",
+"question": "People often use the saying \"find a penny, pick it ........\"",
+"options": ["up", "down", "over", "in"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: up\n📝 الترجمة: غالباً ما يستخدم الناس المثل \"اعثر على بنس، التقطه\".\n💡 الشرح: 'pick up' تعني يلتقط، وهي الكلمة المناسبة للسياق."
+},
+{
+"id": "t3_q5",
+"question": "Indian shop owners believe it is unlucky for the ........ of the day.",
+"options": ["beginning", "middle", "end", "rest"],
+"correct": 3,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: rest\n📝 الترجمة: يعتقد أصحاب المتاجر الهنود أنه غير محظوظ لبقية اليوم.\n💡 الشرح: النص يقول: 'unlucky for the rest of the day'."
+}
+]
+},
+{
+"id": "AB_G7_U11_T2",
+"text_group": "G7_U11_Beliefs",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Beliefs (Part 2)",
+"content_exam": "In Egypt, it is considered unlucky to open and close scissors if you're not actually cutting anything. Similarly, leaving scissors open is also said to bring bad luck. Giving flowers as a gift is a popular tradition all over the world. However, many people in Russia believe that yellow flowers symbolize separation, or death, so Russians avoid giving them to other people. Serbians believe that if you spill water behind someone, it will bring them good luck. People will often spill some water behind a loved one who is about to go on a trip in order to wish them luck.",
+"questions": [
+{
+"id": "t4_q1",
+"question": "In Egypt, it is considered lucky to open and close scissors if you're not cutting anything.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: في مصر، يعتبر فتح وإغلاق المقص أمراً محظوظاً إذا كنت لا تقص أي شيء.\n💡 الشرح: النص يقول: 'it is considered unlucky' وليس 'lucky'."
+},
+{
+"id": "t4_q2",
+"question": "Russians believe that yellow flowers symbolize separation or death.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يعتقد الروس أن الزهور الصفراء ترمز إلى الانفصال أو الموت.\n💡 الشرح: النص يقول: 'many people in Russia believe that yellow flowers symbolize separation, or death'."
+},
+{
+"id": "t4_q3",
+"question": "Serbians spill water behind someone to wish them good luck.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يرش الصرب الماء خلف شخص ما لتمنيه بالحظ الجيد.\n💡 الشرح: النص يقول: 'Serbians believe that if you spill water behind someone, it will bring them good luck'."
+},
+{
+"id": "t4_q4",
+"question": "What do Russians avoid giving to other people?",
+"type": "answer",
+"keywords": ["yellow flowers", "flowers", "yellow"],
+"explanation": "✅ الإجابة الصحيحة: Yellow flowers.\n📝 الترجمة: ماذا يتجنب الروس إعطائه للآخرين؟\n💡 الشرح: النص يقول: 'Russians avoid giving them to other people' (them = yellow flowers)."
+},
+{
+"id": "t4_q5",
+"question": "What do Serbians do to wish someone good luck before a trip?",
+"type": "answer",
+"keywords": ["spill water", "spill water behind", "water behind"],
+"explanation": "✅ الإجابة الصحيحة: They spill water behind them.\n📝 الترجمة: ماذا يفعل الصرب لتمنية شخص ما بالحظ الجيد قبل الرحلة؟\n💡 الشرح: النص يقول: 'spill some water behind a loved one who is about to go on a trip in order to wish them luck'."
+}
+]
+}
+]
+}

@@ -1,0 +1,162 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة المطابقة (Match) - الوحدة 11",
+"description": "تم استخراج أسئلة المطابقة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل التي يمكن تقسيمها إلى بداية ونهاية.",
+"applicable_to": "الوحدة 11 - Diversity",
+"search_sources": [
+"Student Book - Reading Text (Here and There)",
+"Student Book - Vocabulary Exercise",
+"Student Book - Grammar (Future Tense)",
+"Activity Book - Reading Text (Beliefs)",
+"Activity Book - Grammar (Future Tense)",
+"Activity Book - Vocabulary"
+],
+"structure": {
+"per_group": "5 بدايات + 6 نهايات (مع خيار زائد)"
+},
+"selection_criteria": [
+"تنويع المصادر داخل كل مجموعة",
+"تجنب الجمل المتشابهة",
+"توزيع بين النص والتمارين",
+"كل جملة موثقة بالمصدر الدقيق"
+],
+"applied_to_unit_11": {
+"grade": 7,
+"unit": 11,
+"title": "Diversity",
+"total_groups": 2,
+"groups": {
+"group_1": {
+"source": "Student Book",
+"sources_used": [
+"Reading Text (Here and There)",
+"Vocabulary Exercise",
+"Grammar (Future Tense)"
+]
+},
+"group_2": {
+"source": "Activity Book",
+"sources_used": [
+"Reading Text (Beliefs)",
+"Grammar (Future Tense)",
+"Vocabulary"
+]
+}
+}
+}
+},
+"groups": [
+{
+"id": "SB_G7_U11_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G7_U11_Habits",
+"options": [
+{ "letter": "a", "text": "a lack of self-control." },
+{ "letter": "b", "text": "a generous tip" },
+{ "letter": "c", "text": "buy some presents." },
+{ "letter": "d", "text": "the flight will be delayed tomorrow" },
+{ "letter": "e", "text": "your eating habits" },
+{ "letter": "f", "text": "direct their lips forward" }
+],
+"sentences": [
+{
+"start": "Opening gifts in public is seen as",
+"correct": "a",
+"full_sentence": "Opening gifts in public is seen as a lack of self-control.",
+"translation": "فتح الهدايا في الأماكن العامة يُعتبر نقصاً في ضبط النفس.",
+"source": "Student Book",
+"exact_reference": "Reading Text (Here and There)"
+},
+{
+"start": "He gave the waiter",
+"correct": "b",
+"full_sentence": "He gave the waiter a generous tip.",
+"translation": "أعطى النادل إكرامية سخية.",
+"source": "Student Book",
+"exact_reference": "Vocabulary Exercise"
+},
+{
+"start": "we'll go shopping to",
+"correct": "c",
+"full_sentence": "we'll go shopping to buy some presents.",
+"translation": "سنتسوق لشراء بعض الهدايا.",
+"source": "Student Book",
+"exact_reference": "Grammar (Future Tense)"
+},
+{
+"start": "According to the weather forecast,",
+"correct": "d",
+"full_sentence": "According to the weather forecast, the flight will be delayed tomorrow.",
+"translation": "وفقاً لتوقعات الطقس، ستتأخر الرحلة غداً.",
+"source": "Student Book",
+"exact_reference": "Grammar (Future Tense)"
+},
+{
+"start": "You need to change",
+"correct": "e",
+"full_sentence": "You need to change your eating habits.",
+"translation": "أنت بحاجة لتغيير عاداتك الغذائية.",
+"source": "Student Book",
+"exact_reference": "Vocabulary Exercise"
+}
+]
+},
+{
+"id": "AB_G7_U11_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G7_U11_Beliefs",
+"options": [
+{ "letter": "a", "text": "is considered a sign of good luck in" },
+{ "letter": "b", "text": "it will bring wealth to the family." },
+{ "letter": "c", "text": "it is considered unlucky to open and close scissors." },
+{ "letter": "d", "text": "if he/she doesn't buy something." },
+{ "letter": "e", "text": "because she drives so fast." },
+{ "letter": "f", "text": "celebrate birthdays in various ways." }
+],
+"sentences": [
+{
+"start": "Finding a penny on the ground,",
+"correct": "a",
+"full_sentence": "Finding a penny on the ground, is considered a sign of good luck in.",
+"translation": "العثور على بنس على الأرض يعتبر علامة حظ سعيد في.",
+"source": "Activity Book",
+"exact_reference": "Reading Text (Beliefs)"
+},
+{
+"start": "If you place fish scales on the table cloth in Czech,",
+"correct": "b",
+"full_sentence": "If you place fish scales on the table cloth in Czech, it will bring wealth to the family.",
+"translation": "إذا وضعت قشور السمك على مفرش المائدة في التشيك، فسيجلب الثروة للعائلة.",
+"source": "Activity Book",
+"exact_reference": "Reading Text (Beliefs)"
+},
+{
+"start": "If you're not actually cutting anything,",
+"correct": "c",
+"full_sentence": "If you're not actually cutting anything, it is considered unlucky to open and close scissors.",
+"translation": "إذا كنت لا تقص أي شيء فعلاً، فمن غير المحظوظ فتح وإغلاق المقص.",
+"source": "Activity Book",
+"exact_reference": "Reading Text (Beliefs)"
+},
+{
+"start": "Indian people will not allow the first customer to leave,",
+"correct": "d",
+"full_sentence": "Indian people will not allow the first customer to leave, if he/she doesn't buy something.",
+"translation": "لن يسمح الهنود لأول زبون بالمغادرة إذا لم يشترِ شيئاً.",
+"source": "Activity Book",
+"exact_reference": "Reading Text (Beliefs)"
+},
+{
+"start": "She will have an accident",
+"correct": "e",
+"full_sentence": "She will have an accident because she drives so fast.",
+"translation": "سوف تتعرض لحادث لأنها تقود بسرعة كبيرة.",
+"source": "Activity Book",
+"exact_reference": "Grammar (Future Tense)"
+}
+]
+}
+]
+}
