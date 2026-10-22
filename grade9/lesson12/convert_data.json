@@ -1,0 +1,92 @@
+{
+"questions": [
+{
+"id": "SB_G7_U12_C1",
+"original": "The party will be at Adam's house.",
+"targetWord": "at Adam's house",
+"correctQuestion": "Where will the party be?",
+"wh_word": "where",
+"auxiliary": "will",
+"subject": "the party",
+"subject_type": "noun_thing",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Listening - Page 93"
+},
+{
+"id": "SB_G7_U12_C2",
+"original": "Adam received the birthday card in the evening.",
+"targetWord": "in the evening",
+"correctQuestion": "When did Adam receive the birthday card?",
+"wh_word": "when",
+"auxiliary": "did",
+"subject": "adam",
+"subject_type": "name_male",
+"category": "Time",
+"acceptedAnswers": [
+"When did he receive the birthday card?"
+],
+"source": "Student Book",
+"exact_reference": "Listening - Page 93"
+},
+{
+"id": "SB_G7_U12_C3",
+"original": "Sam invited all his friends to his birthday party.",
+"targetWord": "all his friends",
+"correctQuestion": "Who did Sam invite to his birthday party?",
+"wh_word": "who",
+"auxiliary": "did",
+"subject": "sam",
+"subject_type": "name_male",
+"category": "Object",
+"acceptedAnswers": [
+"Who did he invite to his birthday party?"
+],
+"source": "Student Book",
+"exact_reference": "Listening - Page 93"
+},
+{
+"id": "AB_G7_U12_C4",
+"original": "Robert made this T-shirt.",
+"targetWord": "Robert",
+"correctQuestion": "Who made this T-shirt?",
+"wh_word": "who",
+"auxiliary": "",
+"subject": "robert",
+"subject_type": "name_male",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 79"
+},
+{
+"id": "AB_G7_U12_C5",
+"original": "Guests can go by buses.",
+"targetWord": "by buses",
+"correctQuestion": "How can guests go?",
+"wh_word": "how",
+"auxiliary": "can",
+"subject": "guests",
+"subject_type": "noun_plural",
+"category": "Manner",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Listening - Page 80"
+},
+{
+"id": "AB_G7_U12_C6",
+"original": "They are serving cakes.",
+"targetWord": "cakes",
+"correctQuestion": "What are they serving?",
+"wh_word": "what",
+"auxiliary": "are",
+"subject": "they",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Listening - Page 80"
+}
+]
+}
