@@ -102,7 +102,7 @@
 { "letter": "a", "text": "people's minds" },
 { "letter": "b", "text": "of what was happening" },
 { "letter": "c", "text": "his new toy" },
-{ "letter": "d", "text": "the lack of transportation" },
+{ "letter": "d", "text": " lack of transportation" },
 { "letter": "e", "text": "means of transportation" }
 ],
 "sentences": [
@@ -131,7 +131,7 @@
 "exact_reference": "Grammar A - Q3"
 },
 {
-"start": "They had to go on foot because of",
+"start": "They had to go on foot because of the",
 "correct": "d",
 "full_sentence": "They had to go on foot because of the lack of transportation",
 "translation": "كان عليهم الذهاب سيراً على الأقدام بسبب نقص وسائل النقل",
