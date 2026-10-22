@@ -1,0 +1,132 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة الإجابة الحرة (Free Answer)",
+"description": "يتم استخراج أسئلة الإجابة الحرة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل العامة والمعلوماتية الموجودة في كل مصدر.",
+"applicable_to": "جميع الدروس (Unit 5)",
+"search_sources": [
+"Student Book - Speaking",
+"Student Book - Vocabulary",
+"Student Book - Grammar",
+"Activity Book - Vocabulary"
+],
+"selection_criteria": [
+"السؤال من التمارين نفسها وليس من النص",
+"السؤال عام ولا يحتاج إلى قراءة النص للإجابة عليه",
+"الجواب واضح ومحدد وقصير (كلمة أو بضع كلمات)"
+],
+"wh_words": ["What", "How", "How often", "Which"],
+"auxiliary_verbs": ["do", "does", "have", "are"],
+"answer_type": "كلمة مفتاحية أو عبارة قصيرة",
+"verification_method": "البحث عن الكلمات المفتاحية في إجابة الطالب (case-insensitive)",
+"important_note": "⚠️ الأسئلة مأخوذة من التمارين وليس من النص."
+},
+"questions": [
+{
+"id": "SB_G7_U5_F1",
+"question": "Which websites do you visit most?",
+"translation": "أي المواقع الإلكترونية تزورها أكثر؟",
+"keywords": ["YouTube", "Facebook", "Instagram", "Google", "Twitter"],
+"suggested_answers": [
+"I visit YouTube most",
+"I visit Facebook most",
+"I visit Instagram most",
+"I visit Google most",
+"I visit Twitter most"
+],
+"wh_word": "Which",
+"auxiliary": "do",
+"category": "Preference",
+"source": "Student Book",
+"exact_reference": "Speaking - Q1"
+},
+{
+"id": "SB_G7_U5_F2",
+"question": "Do you think websites are useful? Why?",
+"translation": "هل تعتقد أن المواقع الإلكترونية مفيدة؟ لماذا؟",
+"keywords": ["yes", "useful for learning", "helpful", "find information", "communicate with others"],
+"suggested_answers": [
+"Yes, they are useful for learning",
+"Yes, they are helpful",
+"Yes, I can find information easily",
+"Yes, I can communicate with others"
+],
+"wh_word": "Why",
+"auxiliary": "do",
+"category": "Opinion",
+"source": "Student Book",
+"exact_reference": "Speaking - Q1"
+},
+{
+"id": "SB_G7_U5_F3",
+"question": "How do you feel when you watch an exciting match?",
+"translation": "كيف تشعر عندما تشاهد مباراة مثيرة؟",
+"keywords": ["excited", "happy", "nervous", "thrilled", "energetic"],
+"suggested_answers": [
+"I feel excited",
+"I feel happy",
+"I feel nervous",
+"I feel thrilled",
+"I feel energetic"
+],
+"wh_word": "How",
+"auxiliary": "do",
+"category": "Feeling",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Adjectives"
+},
+{
+"id": "SB_G7_U5_F4",
+"question": "What kind of music makes you feel relaxed?",
+"translation": "أي نوع من الموسيقى يجعلك تشعر بالاسترخاء؟",
+"keywords": ["calm music", "slow music", "classical", "jazz", "soft music"],
+"suggested_answers": [
+"Calm music makes me feel relaxed",
+"Slow music makes me feel relaxed",
+"Classical music makes me feel relaxed",
+"Jazz makes me feel relaxed",
+"Soft music makes me feel relaxed"
+],
+"wh_word": "What",
+"auxiliary": "does",
+"category": "Preference",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Adjectives"
+},
+{
+"id": "SB_G7_U5_F5",
+"question": "What have you already done today?",
+"translation": "ماذا فعلت بالفعل اليوم؟",
+"keywords": ["studied", "eaten", "read", "finished", "cleaned"],
+"suggested_answers": [
+"I have already studied",
+"I have already eaten",
+"I have already read a book",
+"I have already finished my homework",
+"I have already cleaned my room"
+],
+"wh_word": "What",
+"auxiliary": "have",
+"category": "Action",
+"source": "Student Book",
+"exact_reference": "Grammar - Present Perfect"
+},
+{
+"id": "AB_G7_U5_F1",
+"question": "How often do you use social media?",
+"translation": "كم مرة تستخدم وسائل التواصل الاجتماعي؟",
+"keywords": ["every day", "twice a day", "once a week", "rarely", "never"],
+"suggested_answers": [
+"I use it every day",
+"I use it twice a day",
+"I use it once a week",
+"I rarely use it",
+"I never use it"
+],
+"wh_word": "How often",
+"auxiliary": "do",
+"category": "Frequency",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Social Media"
+}
+]
+}

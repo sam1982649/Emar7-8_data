@@ -1,0 +1,114 @@
+{
+"groups": [
+{
+"id": "SB_G7_U5_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G7_U5_A_Button_Press_Away",
+"options": [
+{ "letter": "a", "text": "are Twitter, Facebook, Snap Chat and Instagram" },
+{ "letter": "b", "text": "our lives easier and much faster" },
+{ "letter": "c", "text": "you will get an accident" },
+{ "letter": "d", "text": "can affect your brain" },
+{ "letter": "e", "text": "but we won at the end" }
+],
+"sentences": [
+{
+"start": "The well-known social media applications",
+"correct": "a",
+"full_sentence": "The well-known social media applications are Twitter, Facebook, Snap Chat and Instagram",
+"translation": "تطبيقات وسائل التواصل الاجتماعي المعروفة هي تويتر وفيسبوك وسناب شات وإنستغرام",
+"source": "Student Book",
+"exact_reference": "Reading Text - Line 4"
+},
+{
+"start": "social media has made",
+"correct": "b",
+"full_sentence": "social media has made our lives easier and much faster",
+"translation": "جعلت وسائل التواصل الاجتماعي حياتنا أسهل وأسرع بكثير",
+"source": "Student Book",
+"exact_reference": "Reading Text - Part 2 - Line 4"
+},
+{
+"start": "when you use your mobile phone while you are driving,",
+"correct": "c",
+"full_sentence": "when you use your mobile phone while you are driving, you will get an accident",
+"translation": "عندما تستخدم هاتفك المحمول أثناء القيادة، ستتعرض لحادث",
+"source": "Student Book",
+"exact_reference": "Writing - Mobile Phone"
+},
+{
+"start": "Using the mobile phone a lot",
+"correct": "d",
+"full_sentence": "Using the mobile phone a lot can affect your brain",
+"translation": "استخدام الهاتف المحمول كثيراً يمكن أن يؤثر على دماغك",
+"source": "Student Book",
+"exact_reference": "Writing - Mobile Phone"
+},
+{
+"start": "The match was tiring",
+"correct": "e",
+"full_sentence": "The match was tiring but we won at the end",
+"translation": "كانت المباراة متعبة لكننا فزنا في النهاية",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Adjectives"
+}
+]
+},
+{
+"id": "AB_G7_U5_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G7_U5_Stop_Wilfing",
+"options": [
+{ "letter": "a", "text": "and get on with your life" },
+{ "letter": "b", "text": "the bad effects of the internet" },
+{ "letter": "c", "text": "finishing their studies" },
+{ "letter": "d", "text": "is becoming a real problem" },
+{ "letter": "e", "text": "to increase our comforts" }
+],
+"sentences": [
+{
+"start": "Some teenagers use the internet and",
+"correct": "c",
+"full_sentence": "Some teenagers use the internet and finishing their studies",
+"translation": "بعض المراهقين يستخدمون الإنترنت بعد الانتهاء من دراستهم",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Match - Q1"
+},
+{
+"start": "It's better to set a time limit",
+"correct": "d",
+"full_sentence": "It's better to set a time limit is becoming a real problem",
+"translation": "من الأفضل وضع حد زمني هو becoming a real problem",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Match - Q2"
+},
+{
+"start": "Get off the computer",
+"correct": "a",
+"full_sentence": "Get off the computer and get on with your life",
+"translation": "ابتعد عن الكمبيوتر واستمر في حياتك",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Match - Q3"
+},
+{
+"start": "You have to be aware of",
+"correct": "b",
+"full_sentence": "You have to be aware of the bad effects of the internet",
+"translation": "يجب أن تكون على دراية بالآثار السيئة للإنترنت",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Match - Q4"
+},
+{
+"start": "Inventions have helped",
+"correct": "e",
+"full_sentence": "Inventions have helped to increase our comforts",
+"translation": "ساعدت الاختراعات في زيادة راحتنا",
+"source": "Activity Book",
+"exact_reference": "Grammar - Q3"
+}
+]
+}
+]
+}

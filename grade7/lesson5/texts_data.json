@@ -1,0 +1,152 @@
+{
+"texts": [
+{
+"id": "SB_G7_U5_T1_P1",
+"text_group": "G7_U5_A_Button_Press_Away",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "A Button Press Away",
+"content_exam": "We live in a time and age where information is just a button press away. Social media is one of the biggest elements that we live with and cannot ignore. Social media means any human communication or sharing information on the Internet or mobile. It enables us to stay in contact with our friends and families. There are numerous websites that make it possible. The well-known social media applications are Twitter, Facebook, Snap Chat, Instagram, etc. Social media is now becoming one of the largest means of communication.",
+"questions": [
+{
+"id": "t1_p1_q1",
+"question": "Information is just a ........ press away.",
+"options": ["key", "button", "mouse", "screen"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: button\n📝 الترجمة: المعلومات هي مجرد ضغطة زر.\n💡 الشرح: النص يقول: 'information is just a button press away'."
+},
+{
+"id": "t1_p1_q2",
+"question": "Social media means any human communication on the Internet or ........ .",
+"options": ["mobile phone", "tablet", "laptop", "television"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: mobile phone\n📝 الترجمة: وسائل التواصل الاجتماعي تعني أي تواصل بشري على الإنترنت أو الهاتف المحمول.\n💡 الشرح: النص يقول: 'on the Internet or mobile'."
+},
+{
+"id": "t1_p1_q3",
+"question": "Social media enables us to stay in contact with our friends and ........ .",
+"options": ["colleagues at work", "families", "neighbors", "teachers at school"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: families\n📝 الترجمة: وسائل التواصل الاجتماعي تمكننا من البقاء على اتصال مع أصدقائنا وعائلاتنا.\n💡 الشرح: النص يقول: 'stay in contact with our friends and families'."
+},
+{
+"id": "t1_p1_q4",
+"question": "The well-known social media applications are Twitter, Facebook, Snap Chat and ........ .",
+"options": ["WhatsApp", "Instagram", "TikTok", "Telegram"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: Instagram\n📝 الترجمة: تطبيقات وسائل التواصل الاجتماعي المعروفة هي تويتر وفيسبوك وسناب شات وإنستغرام.\n💡 الشرح: النص يقول: 'Twitter, Facebook, Snap Chat, Instagram, etc.'."
+},
+{
+"id": "t1_p1_q5",
+"question": "Social media is becoming one of the largest means of ........ .",
+"options": ["education", "communication", "entertainment", "shopping"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: communication\n📝 الترجمة: وسائل التواصل الاجتماعي أصبحت واحدة من أكبر وسائل الاتصال.\n💡 الشرح: النص يقول: 'one of the largest means of communication'."
+}
+]
+},
+{
+"id": "SB_G7_U5_T1_P2",
+"text_group": "G7_U5_A_Button_Press_Away",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "A Button Press Away",
+"content_exam": "It's a fact that social media has affected human relationships. For example, when some people use its applications to trick others through fake accounts, it becomes tiring and dangerous. Others feel that it is exciting and consider it as a blessing which has connected us to every part of the world so that we can meet people who are far away. The presence of social media has made our lives easier and much faster. Although social media has many disadvantages, no one denies its importance as it has increased people's education and developed students' learning skills.",
+"questions": [
+{
+"id": "t1_p2_q1",
+"question": "Social media has affected human relationships in a positive way only.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: أثرت وسائل التواصل الاجتماعي على العلاقات الإنسانية بطريقة إيجابية فقط.\n💡 الشرح: النص يقول: 'affected human relationships' وأعطى أمثلة سلبية وإيجابية."
+},
+{
+"id": "t1_p2_q2",
+"question": "Some people use fake accounts to trick others on social media.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: بعض الناس يستخدمون حسابات وهمية لخداع الآخرين على وسائل التواصل الاجتماعي.\n💡 الشرح: النص يقول: 'use its applications to trick others through fake accounts'."
+},
+{
+"id": "t1_p2_q3",
+"question": "Social media has connected us to every part of the world.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: ربطتنا وسائل التواصل الاجتماعي بكل جزء من العالم.\n💡 الشرح: النص يقول: 'connected us to every part of the world'."
+},
+{
+"id": "t1_p2_q4",
+"question": "How has social media affected students' learning skills?",
+"type": "answer",
+"keywords": ["developed", "developed students' learning skills", "improved", "increased"],
+"explanation": "✅ الإجابة الصحيحة: developed students' learning skills\n📝 الترجمة: كيف أثرت وسائل التواصل الاجتماعي على مهارات التعلم لدى الطلاب؟\n💡 الشرح: النص يقول: 'developed students' learning skills'."
+},
+{
+"id": "t1_p2_q5",
+"question": "Does anyone deny the importance of social media?",
+"type": "answer",
+"keywords": ["no", "no one", "nobody", "no one denies"],
+"explanation": "✅ الإجابة الصحيحة: No one denies its importance\n📝 الترجمة: هل ينكر أحد أهمية وسائل التواصل الاجتماعي؟\n💡 الشرح: النص يقول: 'no one denies its importance'."
+}
+]
+},
+{
+"id": "AB_G7_U5_T1",
+"text_group": "G7_U5_Stop_Wilfing",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Stop Wilfing",
+"content_exam": "Wilfing on the internet is becoming a real problem. It describes what happens when you spend a lot of time on the internet without doing anything in particular. A new report has shown how computer users waste up to two days a month on the internet. Most of the people who are interviewed said they were distracted all or most of the time when they worked or studied online. The study shows that the Internet can be bad for relationships because most teenagers who spend too much time in front of their computers keep away from communicating with the family members. This situation causes arguments with their parents.",
+"questions": [
+{
+"id": "t2_q1",
+"question": "Wilfing is spending a lot of time on the internet without doing anything in ........ .",
+"options": ["general", "particular", "common", "special"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: particular\n📝 الترجمة: الـ Wilfing هو قضاء وقت طويل على الإنترنت دون فعل أي شيء معين.\n💡 الشرح: النص يقول: 'without doing anything in particular'."
+},
+{
+"id": "t2_q2",
+"question": "Computer users waste up to ........ days a month on the internet.",
+"options": ["one", "two", "three", "four"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: two\n📝 الترجمة: يضيع مستخدمو الكمبيوتر ما يصل إلى يومين في الشهر على الإنترنت.\n💡 الشرح: النص يقول: 'waste up to two days a month'."
+},
+{
+"id": "t2_q3",
+"question": "Most people said they were ........ when they worked or studied online.",
+"options": ["focused", "distracted", "happy", "tired"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: distracted\n📝 الترجمة: قال معظم الناس إنهم كانوا مشتتين عندما يعملون أو يدرسون عبر الإنترنت.\n💡 الشرح: النص يقول: 'they were distracted all or most of the time'."
+},
+{
+"id": "t2_q4",
+"question": "Teenagers who spend too much time online keep away from communicating with ........ .",
+"options": ["their friends", "their teachers", "their family members", "their neighbors"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: their family members\n📝 الترجمة: المراهقون الذين يقضون وقتاً طويلاً على الإنترنت يبتعدون عن التواصل مع أفراد عائلاتهم.\n💡 الشرح: النص يقول: 'keep away from communicating with the family members'."
+},
+{
+"id": "t2_q5",
+"question": "Spending too much time on the Internet causes ........ with parents.",
+"options": ["arguments", "agreements", "discussions", "meetings"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: arguments\n📝 الترجمة: قضاء وقت طويل على الإنترنت يسبب جدالات مع الوالدين.\n💡 الشرح: النص يقول: 'causes arguments, most of the time, with their parents'."
+}
+]
+}
+]
+}

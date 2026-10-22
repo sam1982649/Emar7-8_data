@@ -1,0 +1,299 @@
+{
+"vocabulary": [
+{ "word": "social media", "translation": "وسائل التواصل الاجتماعي" },
+{ "word": "button", "translation": "زر" },
+{ "word": "press", "translation": "ضغطة" },
+{ "word": "age", "translation": "عصر / زمن" },
+{ "word": "element", "translation": "عنصر" },
+{ "word": "communication", "translation": "تواصل" },
+{ "word": "sharing", "translation": "مشاركة" },
+{ "word": "information", "translation": "معلومات" },
+{ "word": "Internet", "translation": "الإنترنت" },
+{ "word": "mobile", "translation": "محمول" },
+{ "word": "human", "translation": "بشري" },
+{ "word": "enable", "translation": "يمكن / يجعل قادراً" },
+{ "word": "contact", "translation": "اتصال" },
+{ "word": "numerous", "translation": "عديد" },
+{ "word": "website", "translation": "موقع إلكتروني" },
+{ "word": "application", "translation": "تطبيق" },
+{ "word": "famous", "translation": "مشهور" },
+{ "word": "means", "translation": "وسيلة" },
+{ "word": "fact", "translation": "حقيقة" },
+{ "word": "affect", "translation": "يؤثر" },
+{ "word": "relationship", "translation": "علاقة" },
+{ "word": "trick", "translation": "يخدع" },
+{ "word": "account", "translation": "حساب" },
+{ "word": "tiring", "translation": "مرهق" },
+{ "word": "dangerous", "translation": "خطر" },
+{ "word": "exciting", "translation": "مثير" },
+{ "word": "blessing", "translation": "نعمة" },
+{ "word": "connected", "translation": "مرتبط" },
+{ "word": "far away", "translation": "بعيد" },
+{ "word": "presence", "translation": "وجود" },
+{ "word": "easier", "translation": "أسهل" },
+{ "word": "faster", "translation": "أسرع" },
+{ "word": "disadvantage", "translation": "عيب" },
+{ "word": "deny", "translation": "ينكر" },
+{ "word": "importance", "translation": "أهمية" },
+{ "word": "education", "translation": "تعليم" },
+{ "word": "developed", "translation": "طور" },
+{ "word": "learning", "translation": "تعلم" },
+{ "word": "skills", "translation": "مهارات" },
+{ "word": "learning skills", "translation": "مهارات التعلم" },
+{ "word": "excited", "translation": "متحمس" },
+{ "word": "relaxed", "translation": "مسترخي" },
+{ "word": "relaxing", "translation": "مريح" },
+{ "word": "interested", "translation": "مهتم" },
+{ "word": "interesting", "translation": "ممتع" },
+{ "word": "bored", "translation": "يشعر بالملل" },
+{ "word": "boring", "translation": "ممل" },
+{ "word": "match", "translation": "مباراة" },
+{ "word": "won", "translation": "فاز" },
+{ "word": "end", "translation": "نهاية" },
+{ "word": "listening", "translation": "استماع" },
+{ "word": "music", "translation": "موسيقى" },
+{ "word": "feel", "translation": "يشعر" },
+{ "word": "chess", "translation": "شطرنج" },
+{ "word": "film", "translation": "فيلم" },
+{ "word": "party", "translation": "حفلة" },
+{ "word": "laptop", "translation": "حاسوب محمول" },
+{ "word": "video games", "translation": "ألعاب فيديو" },
+{ "word": "sushi", "translation": "سوشي" },
+{ "word": "Eiffel Tower", "translation": "برج إيفل" },
+{ "word": "mobile phone", "translation": "هاتف محمول" },
+{ "word": "brain", "translation": "دماغ" },
+{ "word": "accident", "translation": "حادث" },
+{ "word": "technology", "translation": "تقنية" },
+{ "word": "popular", "translation": "شعبي" },
+{ "word": "advantage", "translation": "ميزة" },
+{ "word": "wisely", "translation": "بحكمة" },
+{ "word": "safely", "translation": "بأمان" },
+{ "word": "fake", "translation": "مزيف" },
+{ "word": "well-known", "translation": "مشهور" },
+{ "word": "ignore", "translation": "يتجاهل" },
+{ "word": "distracted", "translation": "مشتت الذهن" },
+{ "word": "argue", "translation": "يتجادل" },
+{ "word": "aware", "translation": "مدرك" },
+{ "word": "arrange", "translation": "ينظم" },
+{ "word": "pay attention", "translation": "يهتم / يركز" },
+{ "word": "somebody", "translation": "شخص ما" },
+{ "word": "something", "translation": "شيء ما" },
+{ "word": "true", "translation": "صحيح" },
+{ "word": "real", "translation": "حقيقي" },
+{ "word": "unable", "translation": "غير قادر" },
+{ "word": "thinking", "translation": "تفكير" },
+{ "word": "speak", "translation": "يتحدث" },
+{ "word": "angrily", "translation": "بغضب" },
+{ "word": "informed", "translation": "على علم / مطلع" },
+{ "word": "organize", "translation": "ينظم / يرتب" },
+{ "word": "already", "translation": "بالفعل" },
+{ "word": "yet", "translation": "بعد (في النفي)" },
+{ "word": "just", "translation": "للتّو" },
+{ "word": "ever", "translation": "في أي وقت مضى" },
+{ "word": "never", "translation": "أبداً" },
+{ "word": "since", "translation": "منذ" },
+{ "word": "recently", "translation": "مؤخراً" },
+{ "word": "wilfing", "translation": "التصفح بدون هدف" },
+{ "word": "spend", "translation": "يقضي (وقتاً)" },
+{ "word": "particular", "translation": "معين" },
+{ "word": "report", "translation": "تقرير" },
+{ "word": "waste", "translation": "يضيع" },
+{ "word": "interviewed", "translation": "تمت مقابلته" },
+{ "word": "essential", "translation": "أساسي" },
+{ "word": "arguments", "translation": "جدالات" },
+{ "word": "effects", "translation": "آثار" },
+{ "word": "set a time limit", "translation": "يضع حداً زمنياً" },
+{ "word": "successful", "translation": "ناجح" },
+{ "word": "individuals", "translation": "أفراد" },
+{ "word": "blog", "translation": "مدونة" },
+{ "word": "email", "translation": "بريد إلكتروني" },
+{ "word": "send", "translation": "يرسل" },
+{ "word": "text message", "translation": "رسالة نصية" },
+{ "word": "chat", "translation": "دردشة" },
+{ "word": "addiction", "translation": "إدمان" },
+{ "word": "active", "translation": "نشط" },
+{ "word": "health", "translation": "صحة" },
+{ "word": "social", "translation": "اجتماعي" },
+{ "word": "mute", "translation": "يكتم الصوت" },
+{ "word": "turn off", "translation": "يطفئ" },
+{ "word": "possible", "translation": "ممكن" },
+{ "word": "describe", "translation": "يصف" },
+{ "word": "happens", "translation": "يحدث" },
+{ "word": "computer", "translation": "حاسوب" },
+{ "word": "users", "translation": "مستخدمون" },
+{ "word": "month", "translation": "شهر" },
+{ "word": "online", "translation": "عبر الإنترنت" },
+{ "word": "teenagers", "translation": "مراهقون" },
+{ "word": "front", "translation": "أمام" },
+{ "word": "communicating", "translation": "التواصل" },
+{ "word": "members", "translation": "أعضاء" },
+{ "word": "situation", "translation": "وضع" },
+{ "word": "causes", "translation": "يسبب" },
+{ "word": "parents", "translation": "آباء" },
+{ "word": "although", "translation": "على الرغم من" },
+{ "word": "better", "translation": "أفضل" },
+{ "word": "therefore", "translation": "لذلك" },
+{ "word": "set", "translation": "يضع" },
+{ "word": "limit", "translation": "حد" },
+{ "word": "playing", "translation": "يلعب" },
+{ "word": "surfing", "translation": "يتصفح" },
+{ "word": "simple", "translation": "بسيط" },
+{ "word": "answer", "translation": "إجابة" },
+{ "word": "problem", "translation": "مشكلة" },
+{ "word": "life", "translation": "حياة" }
+],
+"tables": [
+{
+"title": "Present Perfect Tense (المضارع التام)",
+"headers": ["Usage", "Example"],
+"rows": [
+["حدث بدأ في الماضي وما زال مستمراً", "I have lived here since 2010."],
+["حدث وقع في الماضي وله تأثير على الحاضر", "She has lost her keys."],
+["حدث وقع في وقت غير محدد في الماضي", "I have already eaten."],
+["خبرة أو تجربة", "Have you ever visited London?"]
+],
+"explanation": "يتكون المضارع التام من (have/has + التصريف الثالث للفعل). يستخدم للتعبير عن حدث وقع في الماضي وله علاقة بالحاضر.",
+"examples": "I have just bought a new laptop.\nSami hasn't phoned me yet.\nHave you ever climbed the Eiffel Tower?"
+},
+{
+"title": "Present Perfect - Signal Words (الكلمات الدالة)",
+"headers": ["Signal Word", "Translation", "Example"],
+"rows": [
+["already", "بالفعل", "I have already eaten."],
+["yet", "بعد (في النفي)", "I haven't eaten yet."],
+["just", "للتّو", "I have just arrived."],
+["ever", "في أي وقت مضى", "Have you ever been there?"],
+["never", "أبداً", "I have never been there."],
+["since", "منذ", "I have lived here since 2010."],
+["recently", "مؤخراً", "I have recently started."]
+],
+"explanation": "الكلمات الدالة تساعد في تحديد زمن المضارع التام. 'already' و 'just' في المثبت، 'yet' في النفي، 'ever' في السؤال، 'never' في النفي، 'since' و 'recently' مع المدة الزمنية.",
+"examples": "I have just bought a new laptop.\nSami hasn't phoned me yet.\nHave you ever climbed the Eiffel Tower?"
+},
+{
+"title": "Object Pronouns (ضمائر المفعول به)",
+"headers": ["Subject Pronoun", "Object Pronoun", "Example"],
+"rows": [
+["I", "me", "She helps me."],
+["you", "you", "I see you."],
+["he", "him", "He likes him."],
+["she", "her", "She calls her."],
+["it", "it", "I see it."],
+["we", "us", "Social media enables us to stay in contact."],
+["they", "them", "He calls them."]
+],
+"explanation": "ضمائر المفعول به تأتي بعد الفعل أو حرف الجر. 'us' تعني 'نحن' كمفعول به.",
+"examples": "Social media enables us to stay in contact with our friends."
+},
+{
+"title": "Quantifiers (much / many)",
+"headers": ["Quantifier", "Usage", "Example"],
+"rows": [
+["much", "مع الأسماء غير المعدودة (سؤال/نفي)", "How much time do you spend?"],
+["many", "مع الأسماء المعدودة الجمع", "How many hours?"],
+["some", "مع المعدود وغير المعدود (مثبت)", "I have some time."],
+["any", "مع المعدود وغير المعدود (نفي/سؤال)", "Do you have any time?"]
+],
+"explanation": "'much' تستخدم مع الأسماء غير المعدودة في السؤال والنفي. 'many' تستخدم مع الأسماء المعدودة الجمع. 'some' في المثبت، 'any' في النفي والسؤال.",
+"examples": "teenagers spend much time in front of their computers."
+},
+{
+"title": "Superlative (صفة التفضيل)",
+"headers": ["Usage", "Example"],
+"rows": [
+["one of the + صفة التفضيل", "Social media is one of the biggest elements."]
+],
+"explanation": "'one of the' تتبعها صفة التفضيل (the + صفة + est) وتستخدم للمقارنة بين ثلاثة أو أكثر.",
+"examples": "Social media is one of the biggest elements that we live with."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["Preposition", "Usage", "Example"],
+"rows": [
+["of", "التعبير عن الانتماء", "means of communication"],
+["of", "التعبير عن الجزء", "part of the world"],
+["for", "السبب أو الغرض", "bad for relationships"],
+["on", "المكان", "on the Internet"]
+],
+"explanation": "حروف الجر تربط الكلمات في الجملة. بعض الأفعال تأتي مع حروف جر محددة ويجب حفظها كما هي.",
+"examples": "Social media is one of the largest means of communication.\nSocial media has connected us to every part of the world."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["Conjunction", "Usage", "Example"],
+"rows": [
+["or", "للخيارات", "communication or sharing information"],
+["although", "للتناقض", "Although social media has many disadvantages, no one denies its importance."]
+],
+"explanation": "أدوات الربط تستخدم لربط الجمل. 'or' للخيارات، 'although' للتناقض.",
+"examples": "Social media means any human communication or sharing information.\nAlthough social media has many disadvantages, no one denies its importance."
+},
+{
+"title": "Subject-Verb Agreement (مطابقة الفاعل والفعل)",
+"headers": ["Subject", "Verb", "Example"],
+"rows": [
+["Social media (مفرد)", "enables", "Social media enables us to stay in contact."],
+["numerous websites (جمع)", "are", "There are numerous websites."]
+],
+"explanation": "يجب أن يتطابق الفعل مع الفاعل في العدد (مفرد أو جمع).",
+"examples": "Social media enables us to stay in contact.\nThere are numerous websites."
+},
+{
+"title": "Relative Pronouns (ضمائر الوصل)",
+"headers": ["Pronoun", "Usage", "Example"],
+"rows": [
+["which", "لغير العاقل", "The mobile phone is a good technology which has become popular."]
+],
+"explanation": "'which' تستخدم لغير العاقل (أشياء).",
+"examples": "The mobile phone is a good technology which has become popular."
+},
+{
+"title": "Gerund / Infinitive (المصدر)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["Gerund (V-ing)", "كفاعل", "Using the mobile phone a lot can affect your brain."]
+],
+"explanation": "المصدر (Gerund) يأتي كفاعل في الجملة ويعامل كاسم.",
+"examples": "Using the mobile phone a lot can affect your brain."
+},
+{
+"title": "Adjectives (-ed / -ing)",
+"headers": ["Adjective", "Usage", "Example"],
+"rows": [
+["-ed (للشخص)", "يصف شعور الشخص", "I feel relaxed."],
+["-ing (للشيء)", "يصف الشيء", "The music is relaxing."]
+],
+"explanation": "الصفات التي تنتهي بـ -ed تصف شعور الشخص، والصفات التي تنتهي بـ -ing تصف الشيء.",
+"examples": "The match was exciting.\nListening to music makes you feel relaxed."
+},
+{
+"title": "-ed Pronunciation (نطق ed)",
+"headers": ["Sound", "Rule", "Example"],
+"rows": [
+["/d/", "بعد الأصوات المجهورة", "used, played, cared, waved, cried"],
+["/t/", "بعد الأصوات الصامتة", "touched, worked, puffed, hopped, wished"],
+["/ɪd/", "بعد t و d", "tested, needed, ended, acted"]
+],
+"explanation": "نطق ed في نهاية الأفعال المنتظمة يعتمد على آخر صوت في الفعل.",
+"examples": "used (/d/), wished (/t/), tested (/ɪd/)"
+},
+{
+"title": "Possessive Adjectives (صفات الملكية)",
+"headers": ["Pronoun", "Possessive Adjective", "Example"],
+"rows": [
+["they", "their", "Some teenagers use the Internet after finishing their studies."]
+],
+"explanation": "صفات الملكية تأتي قبل الأسماء. 'their' تستخدم للجمع.",
+"examples": "Some teenagers use the Internet after finishing their studies."
+},
+{
+"title": "Word Form (تكوين الكلمات)",
+"headers": ["Base Word", "Adjective", "Example"],
+"rows": [
+["success", "successful", "Arranging our time makes us successful individuals."]
+],
+"explanation": "تستخدم الصفات قبل الأسماء لوصفها.",
+"examples": "Arranging our time makes us successful individuals."
+}
+]
+}
