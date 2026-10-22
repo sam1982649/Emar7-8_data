@@ -1,0 +1,52 @@
+{
+"questions": [
+{
+"question": "How do you feel when you fail at something?",
+"translation": "كيف تشعر عندما تفشل في شيء ما؟",
+"keywords": ["sad", "frustrated", "upset", "disappointed", "try again", "learn", "stronger"],
+"suggested_answers": [
+"I feel sad and frustrated, but I try again and learn from my mistake.",
+"I feel disappointed at first, but then I become stronger and try harder.",
+"I feel upset when I fail, but I don't give up and I try again."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 42"
+},
+{
+"question": "What would you do if someone made fun of your friend?",
+"translation": "ماذا ستفعل لو سخر أحدهم من صديقك؟",
+"keywords": ["defend", "help", "support", "stand up", "bully", "protect", "speak"],
+"suggested_answers": [
+"I would defend my friend and tell the person to stop.",
+"I would support my friend and stand up against the bully.",
+"I would help my friend and speak to a teacher if the problem continues."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 42"
+},
+{
+"question": "Who is your favourite famous person? Why?",
+"translation": "من هو الشخص المشهور المفضل لديك؟ لماذا؟",
+"keywords": ["admire", "successful", "achievements", "inspire", "talented", "brave", "kind"],
+"suggested_answers": [
+"My favourite famous person is a football player because he is talented and successful.",
+"I admire a famous scientist because his achievements help people.",
+"My favourite famous person is someone brave and kind who inspires me."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 42"
+},
+{
+"question": "What qualities make a person successful?",
+"translation": "ما الصفات التي تجعل الشخص ناجحاً؟",
+"keywords": ["persistence", "hard work", "believe", "challenge", "patient", "determined", "never give up"],
+"suggested_answers": [
+"Hard work and persistence make a person successful.",
+"A successful person is patient, determined, and never gives up.",
+"Believing in yourself and facing challenges help you become successful."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 42"
+}
+]
+}

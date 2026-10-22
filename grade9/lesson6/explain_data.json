@@ -1,0 +1,285 @@
+{
+"vocabulary": [
+{ "word": "accomplishment", "translation": "إنجاز" },
+{ "word": "achieve", "translation": "يحقق" },
+{ "word": "actor", "translation": "ممثل" },
+{ "word": "aims", "translation": "أهداف" },
+{ "word": "allowed", "translation": "مسموح" },
+{ "word": "aloud", "translation": "بصوت عالٍ" },
+{ "word": "attention", "translation": "انتباه" },
+{ "word": "award", "translation": "جائزة" },
+{ "word": "believe", "translation": "يؤمن" },
+{ "word": "brought", "translation": "أحضر" },
+{ "word": "bully", "translation": "يتنمر" },
+{ "word": "care", "translation": "يعتني" },
+{ "word": "careful", "translation": "حذر" },
+{ "word": "challenge", "translation": "يتحدى / تحدي" },
+{ "word": "circumstances", "translation": "ظروف" },
+{ "word": "colleague", "translation": "زميل" },
+{ "word": "collection", "translation": "مجموعة" },
+{ "word": "course", "translation": "دورة" },
+{ "word": "death", "translation": "موت" },
+{ "word": "decision", "translation": "قرار" },
+{ "word": "defend", "translation": "يدافع" },
+{ "word": "designer", "translation": "مصمم" },
+{ "word": "diary", "translation": "مذكرة" },
+{ "word": "disabilities", "translation": "إعاقات" },
+{ "word": "dishes", "translation": "أطباق" },
+{ "word": "dress", "translation": "يلبس" },
+{ "word": "drive", "translation": "يقود" },
+{ "word": "educate", "translation": "يعلم" },
+{ "word": "educator", "translation": "مربي" },
+{ "word": "employment", "translation": "توظيف" },
+{ "word": "enrol", "translation": "يسجل" },
+{ "word": "eventually", "translation": "في النهاية" },
+{ "word": "excited", "translation": "متحمس" },
+{ "word": "exhibit", "translation": "معرض" },
+{ "word": "exercise", "translation": "يمارس الرياضة" },
+{ "word": "experiments", "translation": "تجارب" },
+{ "word": "failure", "translation": "فشل" },
+{ "word": "fashion", "translation": "أزياء" },
+{ "word": "fasten", "translation": "يربط" },
+{ "word": "fields", "translation": "مجالات" },
+{ "word": "floor", "translation": "أرضية" },
+{ "word": "forest", "translation": "غابة" },
+{ "word": "footsteps", "translation": "خطوات" },
+{ "word": "frustrate", "translation": "يحبط" },
+{ "word": "garner", "translation": "يجمع" },
+{ "word": "genius", "translation": "عبقري" },
+{ "word": "get in", "translation": "يدخل" },
+{ "word": "graduate", "translation": "يتخرج" },
+{ "word": "hands-on", "translation": "عملي" },
+{ "word": "helmet", "translation": "خوذة" },
+{ "word": "hero", "translation": "بطل" },
+{ "word": "hidden", "translation": "مخفي" },
+{ "word": "homeschooled", "translation": "متعلم في المنزل" },
+{ "word": "implement", "translation": "ينفذ" },
+{ "word": "individuals", "translation": "أفراد" },
+{ "word": "instrument", "translation": "آلة موسيقية" },
+{ "word": "intend", "translation": "ينوي" },
+{ "word": "international", "translation": "دولي" },
+{ "word": "interrupt", "translation": "يقاطع" },
+{ "word": "invent", "translation": "يخترع" },
+{ "word": "inventor", "translation": "مخترع" },
+{ "word": "involve", "translation": "يشرك" },
+{ "word": "kind", "translation": "لطيف" },
+{ "word": "laboratory", "translation": "مختبر" },
+{ "word": "memorize", "translation": "يحفظ" },
+{ "word": "mentally", "translation": "عقلياً" },
+{ "word": "mentally ill", "translation": "مريض عقلياً" },
+{ "word": "musician", "translation": "موسيقي" },
+{ "word": "nations", "translation": "أمم" },
+{ "word": "numerous", "translation": "عديد" },
+{ "word": "open", "translation": "يفتح" },
+{ "word": "opportunity", "translation": "فرصة" },
+{ "word": "overweight", "translation": "زيادة وزن" },
+{ "word": "performance", "translation": "أداء" },
+{ "word": "persist", "translation": "يثابر" },
+{ "word": "phonograph", "translation": "فونوغراف" },
+{ "word": "pretend", "translation": "يتظاهر" },
+{ "word": "prove", "translation": "يثبت" },
+{ "word": "qualities", "translation": "صفات" },
+{ "word": "quiet", "translation": "هادئ" },
+{ "word": "quit", "translation": "يتوقف" },
+{ "word": "rush hour", "translation": "ساعة الذروة" },
+{ "word": "same", "translation": "نفس" },
+{ "word": "save", "translation": "يحفظ" },
+{ "word": "schedule", "translation": "جدول" },
+{ "word": "scientist", "translation": "عالم" },
+{ "word": "seatbelt", "translation": "حزام الأمان" },
+{ "word": "showcase", "translation": "عرض" },
+{ "word": "sick", "translation": "مريض" },
+{ "word": "sit", "translation": "يجلس" },
+{ "word": "smoke", "translation": "يدخن" },
+{ "word": "softer", "translation": "أكثر ليونة" },
+{ "word": "specifically", "translation": "تحديداً" },
+{ "word": "standing ovation", "translation": "تصفيق حار" },
+{ "word": "stop", "translation": "يتوقف" },
+{ "word": "strategy", "translation": "استراتيجية" },
+{ "word": "successful", "translation": "ناجح" },
+{ "word": "support", "translation": "يدعم" },
+{ "word": "syndrome", "translation": "متلازمة" },
+{ "word": "tearful", "translation": "دامع" },
+{ "word": "technologies", "translation": "تقنيات" },
+{ "word": "telegraph", "translation": "تلغراف" },
+{ "word": "tough", "translation": "صعب" },
+{ "word": "traffic", "translation": "حركة المرور" },
+{ "word": "turn", "translation": "ينعطف" },
+{ "word": "unite", "translation": "يوحد" },
+{ "word": "university degree", "translation": "شهادة جامعية" },
+{ "word": "vacuum", "translation": "ينظف بالمكنسة" },
+{ "word": "wake", "translation": "يوقظ" },
+{ "word": "water", "translation": "يسقي" },
+{ "word": "weightlifting", "translation": "رفع أثقال" },
+{ "word": "wildfire", "translation": "حريق بري" }
+],
+"tables": [
+{
+"title": "Imperative (صيغة الأمر)",
+"headers": ["النوع", "الصيغة", "الاستخدام", "مثال من الدرس"],
+"rows": [
+["الأمر المثبت (Positive)", "base form of verb (الفعل المجرد)", "لإعطاء أمر أو توجيه", "Get in and fasten your seatbelt!"],
+["الأمر المثبت (Positive)", "base form of verb (الفعل المجرد)", "لتقديم طلب مهذب", "Please, have a seat."],
+["الأمر المنفي (Negative)", "Don't + base form of verb", "لمنع شيء أو تحذير", "Don't drive too fast!"],
+["الأمر المنفي (Negative)", "Don't + base form of verb", "لطلب التوقف عن شيء", "Please don't be sick in my taxi!"]
+],
+"explanation": "صيغة الأمر (Imperative) تستخدم لإعطاء الأوامر، التوجيهات، التحذيرات أو الطلبات. تتكون من الفعل المجرد (base form) في الإثبات، ومن Don't + الفعل المجرد في النفي.",
+"examples": "Get in and fasten your seatbelt! / Don't drive too fast! / Please don't be sick in my taxi! / Be quiet! / Don't interrupt me when I am speaking."
+},
+{
+"title": "المزيد من الأمثلة على Imperative",
+"headers": ["النوع", "مثال من الدرس"],
+"rows": [
+["Positive (أمر مثبت)", "Get in and fasten your seatbelt!"],
+["Positive (أمر مثبت)", "Please, have a seat."],
+["Positive (أمر مثبت)", "Be quiet!"],
+["Positive (أمر مثبت)", "Open your books!"],
+["Positive (أمر مثبت)", "Save your documents!"],
+["Positive (أمر مثبت)", "Dress warmly!"],
+["Positive (أمر مثبت)", "Sit down!"],
+["Positive (أمر مثبت)", "Wear a helmet!"],
+["Negative (أمر منفي)", "Don't drive too fast!"],
+["Negative (أمر منفي)", "Please don't be sick in my taxi!"],
+["Negative (أمر منفي)", "Don't interrupt me!"],
+["Negative (أمر منفي)", "Don't be late!"],
+["Negative (أمر منفي)", "Don't smoke!"],
+["Negative (أمر منفي)", "Don't exercise after a big meal!"],
+["Negative (أمر منفي)", "Don't make the same mistake twice!"]
+],
+"explanation": "صيغة الأمر تستخدم بكثرة في التعليمات اليومية والإرشادات. نستخدم الفعل المجرد للإثبات و Don't + الفعل المجرد للنفي.",
+"examples": "Be quiet! This is a library. / When you get to the corner, turn right. / Please wear a helmet when you ride your bike. / Don't wake her up. She's taking a nap."
+},
+{
+"title": "Past Simple (الماضي البسيط)",
+"headers": ["النوع", "الصيغة", "مثال من الدرس"],
+"rows": [
+["الإثبات (Affirmative)", "Subject + V2", "Edison came home and gave his mother a letter."],
+["الإثبات (Affirmative)", "Subject + V2", "Edison's mother hid the letter."],
+["الإثبات (Affirmative)", "Subject + V2", "She enrolled in a fashion course."],
+["الإثبات (Affirmative)", "Subject + V2", "Springmuhl had her first big showcase in 2015."],
+["الإثبات (Affirmative)", "Subject + V2", "In 2009, he won the Silver Shell Award."]
+],
+"explanation": "يستخدم Past Simple للأحداث التي بدأت وانتهت في وقت محدد في الماضي. الكلمات المفتاحية: in 2015, in 2009, last year, ago.",
+"examples": "Edison came home and gave his mother a letter. / Edison's mother hid the letter. / In 2009, he won the Silver Shell Award."
+},
+{
+"title": "Present Simple (المضارع البسيط)",
+"headers": ["النوع", "الاستخدام", "مثال من الدرس"],
+"rows": [
+["الإثبات (Affirmative)", "للحقائق والعادات", "The bus leaves on time every day."]
+],
+"explanation": "يستخدم Present Simple للحقائق الثابتة والعادات اليومية. الكلمات المفتاحية: every day, always, usually, often, sometimes, never.",
+"examples": "The bus leaves on time every day."
+},
+{
+"title": "Present Continuous (المضارع المستمر)",
+"headers": ["النوع", "الاستخدام", "مثال من الدرس"],
+"rows": [
+["الإثبات (Affirmative)", "لحدث يحدث الآن", "People are studying."]
+],
+"explanation": "يستخدم Present Continuous للأحداث التي تحدث الآن أو في الوقت الحالي. يتكون من am/is/are + V-ing.",
+"examples": "People are studying. She's taking a nap."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["الأداة", "الاستخدام", "مثال من الدرس"],
+"rows": [
+["because", "للتعبير عن السبب", "He couldn't go to school because he was a genius."],
+["so", "للتعبير عن النتيجة", "Dress warmly so you don't get cold outside."],
+["as soon as", "للتعبير عن الوقت (بمجرد أن)", "Save your documents as soon as you finish writing them."]
+],
+"explanation": "أدوات الربط تربط الجمل وتظهر العلاقة بينها. 'because' للسبب، 'so' للنتيجة، و 'as soon as' للوقت.",
+"examples": "He couldn't go to school because he was a genius. / Dress warmly so you don't get cold outside. / Save your documents as soon as you finish writing them."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["حرف الجر", "الاستخدام", "مثال من الدرس"],
+"rows": [
+["at", "للتعبير عن العمر", "At the age of 30, Edison invented the phonograph."],
+["by", "للتعبير عن الوسيلة", "He sent out messages by using a train whistle."],
+["in spite of", "للتعبير عن التحدي", "She persisted with her studies in spite of financial problems."]
+],
+"explanation": "حروف الجر تستخدم لربط الكلمات وإظهار العلاقة بينها.",
+"examples": "At the age of 30, Edison invented the phonograph. / He sent out messages by using a train whistle. / She persisted with her studies in spite of financial problems."
+},
+{
+"title": "Object Pronouns (ضمائر المفعول به)",
+"headers": ["الضمير", "المعنى", "مثال من الدرس"],
+"rows": [
+["me", "لي", "My mother made me one of the greatest inventors."],
+["you", "لك", "I specifically told you not to go near the water."],
+["him", "له", "She gave him the letter."],
+["her", "لها", "Edison's mother believed in her son."],
+["us", "لنا", "The teacher helped us."],
+["them", "لهم", "The students brought them to the village."]
+],
+"explanation": "ضمائر المفعول به (Object Pronouns) تأتي بعد الفعل أو حرف الجر.",
+"examples": "My mother made me one of the greatest inventors. / I specifically told you not to go near the water."
+},
+{
+"title": "Possessive Adjectives (صفات الملكية)",
+"headers": ["الضمير", "المعنى", "مثال من الدرس"],
+"rows": [
+["my", "لي", "My mother was a great woman."],
+["your", "لك", "your decision"],
+["his", "له", "his mother"],
+["her", "لها", "her designs"],
+["our", "لنا", "We went to the forest with our teachers."],
+["their", "لهم", "their jobs"]
+],
+"explanation": "صفات الملكية تأتي قبل الاسم للدلالة على الملكية.",
+"examples": "We went to the forest with our teachers. / My mother was a great woman."
+},
+{
+"title": "Articles a / an (أدوات التنكير)",
+"headers": ["الأداة", "الاستخدام", "مثال من الدرس"],
+"rows": [
+["a", "قبل الكلمات التي تبدأ بصوت ساكن", "a genius, a teacher, a scientist, a designer"],
+["an", "قبل الكلمات التي تبدأ بصوت علة", "an actor, an inventor, an experiment, an award"]
+],
+"explanation": "نستخدم 'a' قبل الكلمات التي تبدأ بصوت ساكن، و 'an' قبل الكلمات التي تبدأ بصوت علة (a, e, i, o, u).",
+"examples": "Pablo Pineda is an actor. / Thomas Edison was a genius. / She is a designer."
+},
+{
+"title": "Relative Pronouns - who (ضمائر الموصول)",
+"headers": ["الضمير", "الاستخدام", "مثال من الدرس"],
+"rows": [
+["who", "للعاقل (فاعل)", "She decided to follow the footsteps of her grandmother who was a designer."]
+],
+"explanation": "ضمائر الموصول تستخدم لربط جملتين وذكر معلومات إضافية عن الاسم. 'who' تستخدم للعاقل كفاعل.",
+"examples": "She decided to follow the footsteps of her grandmother who was a designer."
+},
+{
+"title": "Modal Verbs - can (الأفعال المساعدة)",
+"headers": ["الفعل", "الاستخدام", "مثال من الدرس"],
+"rows": [
+["can", "للتعبير عن الإمكانية أو القدرة", "They can make the right decision if they are well-trained."],
+["can", "للتعبير عن الإمكانية أو القدرة", "I can prove it."]
+],
+"explanation": "'can' هو فعل مساعد يستخدم للتعبير عن الإمكانية أو القدرة على فعل شيء. يأتي بعده الفعل في المصدر.",
+"examples": "They can make the right decision if they are well-trained. / I can prove it."
+},
+{
+"title": "Passive Voice (المبني للمجهول)",
+"headers": ["النوع", "الصيغة", "مثال من الدرس"],
+"rows": [
+["Past Simple Passive", "was/were + V3", "Her designs were shown at London Fashion Week."]
+],
+"explanation": "المبني للمجهول يستخدم عندما يكون الفاعل غير معروف أو غير مهم. يتكون من (was/were) + التصريف الثالث.",
+"examples": "In 2016, her designs were shown at London Fashion Week."
+},
+{
+"title": "Question Formation (تكوين السؤال)",
+"headers": ["الخطوة", "الشرح"],
+"rows": [
+["١. كلمة السؤال (Question Word)", "What, Who, Where, When, Why, How, ..."],
+["٢. الفعل المساعد (Auxiliary Verb)", "did, was/were, do/does, will, ..."],
+["٣. الفاعل (Subject)", "I, you, he, she, it, we, they, ..."],
+["٤. الفعل الرئيسي (Main Verb)", "المصدر (مع did) أو V-ing (مع was/were)"],
+["٥. باقي الجملة (Rest of sentence)", "...?"]
+],
+"explanation": "لتحويل أي جملة إلى سؤال، نتبع الخطوات: ١- كلمة السؤال ٢- الفعل المساعد ٣- الفاعل ٤- الفعل الرئيسي ٥- باقي الجملة ثم علامة الاستفهام.",
+"examples": "How old was Edison when he invented the phonograph?\nEdison was 30 years old when he invented the phonograph.\n\nWhat did Edison's mother feel as soon as she read the letter?\nEdison's mother felt sad as soon as she read the letter.\n\nHow many trees did you bring?\nWe brought one hundred trees.\n\nWho did you go to the forest with?\nWe went to the forest with our teacher.\n\nWhen did Springmuhl have her first big showcase?\nSpringmuhl had her first big showcase in 2015.\n\nWhat is Pablo Pineda's job?\nPablo Pineda is an actor."
+}
+]
+}

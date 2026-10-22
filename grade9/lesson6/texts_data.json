@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G9_U6_T1_P1",
+"text_group": "G9_U6_Mothers_Decisions",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Mothers' Decisions can Change the World - Part 1",
+"content_exam": "One day Thomas Edison came home and gave his mother a letter from his teacher. As she read the letter, his mother's eyes were tearful. Thomas Edison's teacher wrote that Edison was mentally ill and wouldn't be allowed in school anymore. When Edison asked his mother what this letter was about, she pretended to read it aloud, saying your son couldn't go to school because he was a genius and the school was too small for him. 'Please teach him yourself.' Edison's mother hid the letter and decided to educate young Thomas at home.\n\nEdison was homeschooled by his mother's decision; he wasn't able to memorize lessons and needed hands-on experience to understand and learn things. Edison's mother wasn't frustrated; she wanted Edison to be a scientist. He grew up and set up a laboratory at home and began his own experiments. He also set up his own telegraph station and sent out messages by using a train whistle.\n\nAt the age of 30, Edison invented the phonograph. His work in a number of fields created the basis for many technologies that we enjoy today. However, like anyone else, he suffered through failure numerous times, but where others quit, he persisted. After his mother's death, one day Edison found the hidden school letter, cried for hours and then he wrote in his diary, Thomas Alva Edison was a mentally ill child that, by a hero mother, became a genius. Edison said: 'My mother was a great woman, she believed in me and made me one of the greatest inventors'.",
+"questions": [
+{
+"id": "L6_TXT_C01",
+"type": "choice",
+"question": "What did Thomas Edison give his mother?",
+"options": ["A gift", "A letter from his teacher", "A book", "A drawing"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: A letter from his teacher\n📝 الترجمة: ماذا أعطى توماس إديسون والدته؟\n💡 الشرح: النص يقول: 'gave his mother a letter from his teacher'."
+},
+{
+"id": "L6_TXT_C02",
+"type": "choice",
+"question": "What did the teacher write about Edison?",
+"options": ["He was a genius", "He was mentally ill", "He was lazy", "He was rude"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: He was mentally ill\n📝 الترجمة: ماذا كتب المعلم عن إديسون؟\n💡 الشرح: النص يقول: 'Edison was mentally ill and wouldn't be allowed in school anymore'."
+},
+{
+"id": "L6_TXT_C03",
+"type": "choice",
+"question": "What did Edison's mother tell him about the letter?",
+"options": ["He was mentally ill", "He was lazy", "He was a genius", "He was naughty"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: He was a genius\n📝 الترجمة: ماذا أخبرت والدة إديسون ابنها عن الرسالة؟\n💡 الشرح: النص يقول: 'saying your son couldn't go to school because he was a genius'."
+},
+{
+"id": "L6_TXT_C04",
+"type": "choice",
+"question": "Where did Edison set up his laboratory?",
+"options": ["At school", "At work", "At home", "In the garden"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: At home\n📝 الترجمة: أين أنشأ إديسون مختبره؟\n💡 الشرح: النص يقول: 'set up a laboratory at home'."
+},
+{
+"id": "L6_TXT_C05",
+"type": "choice",
+"question": "What did Edison invent at the age of 30?",
+"options": ["The light bulb", "The telegraph", "The phonograph", "The telephone"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: The phonograph\n📝 الترجمة: ماذا اخترع إديسون في سن الثلاثين؟\n💡 الشرح: النص يقول: 'At the age of 30, Edison invented the phonograph'."
+}
+]
+},
+{
+"id": "G9_U6_T1_P2",
+"text_group": "G9_U6_Mothers_Decisions",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Mothers' Decisions can Change the World - Part 2",
+"content_exam": "Edison grew up and set up a laboratory at home and began his own experiments. At the age of 30, Edison invented the phonograph. His work created the basis for many technologies that we enjoy today. He suffered through failure numerous times, but where others quit, he persisted. After his mother's death, one day Edison found the hidden school letter, cried for hours and then wrote in his diary that he was a mentally ill child who, by a hero mother, became a genius. Edison said: 'My mother was a great woman, she believed in me and made me one of the greatest inventors.' Her decision to homeschool him changed his life forever. Without her belief in him, the world might never have known his inventions.",
+"questions": [
+{
+"id": "L6_TXT_TF01",
+"type": "truefalse",
+"question": "Edison invented the phonograph at the age of 30.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: اخترع إديسون الفونوغراف في سن الثلاثين.\n💡 الشرح: النص يقول: 'At the age of 30, Edison invented the phonograph'."
+},
+{
+"id": "L6_TXT_TF02",
+"type": "truefalse",
+"question": "Edison never faced failure in his life.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: لم يواجه إديسون الفشل أبداً في حياته.\n💡 الشرح: النص يقول: 'He suffered through failure numerous times'."
+},
+{
+"id": "L6_TXT_TF03",
+"type": "truefalse",
+"question": "Edison's mother believed in him and made him a great inventor.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: آمنت به والدته وجعلته مخترعاً عظيماً.\n💡 الشرح: النص يقول: 'she believed in me and made me one of the greatest inventors'."
+},
+{
+"id": "L6_TXT_A01",
+"type": "answer",
+"question": "How did Edison's mother help him become successful?",
+"keywords": ["believed in him", "homeschooled him", "decision", "trusted him"],
+"explanation": "✅ الإجابة الصحيحة: She believed in him and homeschooled him.\n📝 الترجمة: كيف ساعدت والدة إديسون في نجاحه؟\n💡 الشرح: آمنت به وقررت تعليمه في المنزل."
+},
+{
+"id": "L6_TXT_A02",
+"type": "answer",
+"question": "What did Edison write in his diary after finding the letter?",
+"keywords": ["mentally ill child", "hero mother", "genius", "mentally ill"],
+"explanation": "✅ الإجابة الصحيحة: He wrote that he was a mentally ill child who, by a hero mother, became a genius.\n📝 الترجمة: ماذا كتب إديسون في مذكرته بعد إيجاد الرسالة؟\n💡 الشرح: كتب أنه كان طفلاً مريضاً عقلياً أصبح عبقرياً بفضل أم بطلة."
+}
+]
+},
+{
+"id": "G9_U6_T2_P1",
+"text_group": "G9_U6_All_Involved",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "All are Involved Without Exception - Part 1",
+"content_exam": "Do you think that all individuals can make decisions? Here are some examples of successful people with Down's Syndrome who have proved that they have been really good at making decisions and they achieved their aims.\n\nFrom an early age, Isabella Springmuhl Tejada decided to follow the footsteps of her grandmother who was a designer. As a child, Isabella would create clothes for her dolls, but playing eventually turned into work when she enrolled in a fashion course. Her designs aimed specifically at people with Down Syndrome. Springmuhl had her first big showcase in 2015, where she sold her complete collection. The success of her show garnered international attention, and in 2016 her designs were shown at London Fashion Week, which was followed by another exhibit in Rome.\n\nSujeet Desai is from Buffalo, New York. He graduated from high school. Two years later, he decided to study music and graduated from Berkshire Hills Music Academy. Now he is a famous musician. All in all, Desai can play seven instruments. His greatest accomplishment so far was his 2015 performance at Carnegie Hall, for which he received a standing ovation.\n\nPablo Pineda is an actor and educator most well-known for being the first European with Down Syndrome who made his decision to obtain a university degree. In 2009, he won the Silver Shell Award at the International Film Festival for his role in Yo Tambien, a film about a university graduate with Down Syndrome. Although he still acts, Pineda is currently working on implementing an international strategy to increase employment opportunities for people with disabilities.",
+"questions": [
+{
+"id": "L6_TXT_C06",
+"type": "choice",
+"question": "Isabella Springmuhl Tejada decided to follow the footsteps of her ______.",
+"options": ["mother", "father", "grandmother", "sister"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: grandmother\n📝 الترجمة: قررت إيزابيلا سبرينغمول تيجادا أن تسير على خطى جدتها.\n💡 الشرح: النص يقول: 'follow the footsteps of her grandmother who was a designer'."
+},
+{
+"id": "L6_TXT_C07",
+"type": "choice",
+"question": "Isabella's designs aimed specifically at people with ______.",
+"options": ["Down Syndrome", "disabilities", "blindness", "deafness"],
+"correct": 0,
+"explanation": "✅ الإجابة الصحيحة: Down Syndrome\n📝 الترجمة: كانت تصاميم إيزابيلا تستهدف تحديداً الأشخاص المصابين بمتلازمة داون.\n💡 الشرح: النص يقول: 'Her designs aimed specifically at people with Down Syndrome'."
+},
+{
+"id": "L6_TXT_C08",
+"type": "choice",
+"question": "Sujeet Desai can play ______ instruments.",
+"options": ["five", "six", "seven", "eight"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: seven\n📝 الترجمة: يستطيع سوجيت ديساي العزف على سبع آلات موسيقية.\n💡 الشرح: النص يقول: 'Desai can play seven instruments'."
+},
+{
+"id": "L6_TXT_C09",
+"type": "choice",
+"question": "What was Sujeet Desai's greatest accomplishment?",
+"options": ["Graduating from high school", "His performance at Carnegie Hall", "Learning music", "Playing piano"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: His performance at Carnegie Hall\n📝 الترجمة: ما كان أعظم إنجاز لسوجيت ديساي؟\n💡 الشرح: النص يقول: 'His greatest accomplishment so far was his 2015 performance at Carnegie Hall'."
+},
+{
+"id": "L6_TXT_C10",
+"type": "choice",
+"question": "Pablo Pineda is most well-known for being the first European with Down Syndrome to ______.",
+"options": ["win an award", "become an actor", "obtain a university degree", "make a film"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: obtain a university degree\n📝 الترجمة: اشتهر بابلو بينيدا بكونه أول أوروبي مصاب بمتلازمة داون يحصل على شهادة جامعية.\n💡 الشرح: النص يقول: 'the first European with Down Syndrome who made his decision to obtain a university degree'."
+}
+]
+},
+{
+"id": "G9_U6_T2_P2",
+"text_group": "G9_U6_All_Involved",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "All are Involved Without Exception - Part 2",
+"content_exam": "Pablo Pineda is an actor and educator most well-known for being the first European with Down Syndrome to obtain a university degree. In 2009, he won the Silver Shell Award at the International Film Festival for his role in Yo Tambien, a film about a university graduate with Down Syndrome. Pineda is currently working on implementing an international strategy to increase employment opportunities for people with disabilities. People are able to challenge difficult circumstances and be successful. They can make the right decision if they are well-trained and if they intend to do so. These examples prove that having a disability does not prevent anyone from achieving great things and making a difference in the world.",
+"questions": [
+{
+"id": "L6_TXT_TF04",
+"type": "truefalse",
+"question": "Pablo Pineda won the Silver Shell Award in 2009.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: فاز بابلو بينيدا بجائزة الصدفة الفضية في عام 2009.\n💡 الشرح: النص يقول: 'In 2009, he won the Silver Shell Award'."
+},
+{
+"id": "L6_TXT_TF05",
+"type": "truefalse",
+"question": "Pineda is currently working on implementing a national strategy.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: يعمل بينيدا حالياً على تنفيذ استراتيجية وطنية.\n💡 الشرح: النص يقول 'international strategy' — استراتيجية دولية وليس وطنية."
+},
+{
+"id": "L6_TXT_TF06",
+"type": "truefalse",
+"question": "People cannot make the right decision if they are not well-trained.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: لا يستطيع الناس اتخاذ القرار الصحيح إذا لم يكونوا مدربين جيداً.\n💡 الشرح: النص يقول: 'They can make the right decision if they are well-trained'."
+},
+{
+"id": "L6_TXT_A03",
+"type": "answer",
+"question": "What is Pablo Pineda working on currently?",
+"keywords": ["international strategy", "employment opportunities", "people with disabilities", "strategy"],
+"explanation": "✅ الإجابة الصحيحة: implementing an international strategy to increase employment opportunities for people with disabilities\n📝 الترجمة: على ماذا يعمل بابلو بينيدا حالياً؟\n💡 الشرح: يعمل على تنفيذ استراتيجية دولية لزيادة فرص العمل للأشخاص ذوي الإعاقة."
+},
+{
+"id": "L6_TXT_A04",
+"type": "answer",
+"question": "What do the examples of successful people with Down Syndrome prove?",
+"keywords": ["disability", "achieving great things", "make a difference", "successful"],
+"explanation": "✅ الإجابة الصحيحة: Having a disability does not prevent anyone from achieving great things and making a difference.\n📝 الترجمة: ماذا تثبت أمثلة الناجحين المصابين بمتلازمة داون؟\n💡 الشرح: تثبت أن الإعاقة لا تمنع أحداً من تحقيق إنجازات عظيمة وإحداث فرق."
+}
+]
+}
+]
+}

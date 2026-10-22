@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"title": "Match the Sentence Parts - Unit 6",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "rush hour traffic!" },
+{ "letter": "b", "text": "when you ride your bike." },
+{ "letter": "c", "text": "in spite of financial problems" },
+{ "letter": "d", "text": "by his mother's decision;" },
+{ "letter": "e", "text": "Edison was mentally ill." },
+{ "letter": "f", "text": "the greatest inventors" }
+],
+"sentences": [
+{
+"start": "I cannot drive fast in the",
+"correct": "a",
+"full_sentence": "I cannot drive fast in the rush hour traffic!",
+"translation": "لا أستطيع القيادة بسرعة في زحمة المرور",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 41"
+},
+{
+"start": "Please wear a helmet",
+"correct": "b",
+"full_sentence": "Please wear a helmet when you ride your bike",
+"translation": "يرجى ارتداء خوذة عندما تركب دراجتك",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 41"
+},
+{
+"start": "She persisted with her studies",
+"correct": "c",
+"full_sentence": "She persisted with her studies in spite of financial problems",
+"translation": "واصلت دراستها رغم الصعوبات المالية",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 42"
+},
+{
+"start": "Edison was homeschooled",
+"correct": "d",
+"full_sentence": "Edison was homeschooled by his mother's decision;",
+"translation": "تعلّم إديسون في المنزل بقرار من والدته",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 40"
+},
+{
+"start": "Thomas Edison's teacher wrote that",
+"correct": "e",
+"full_sentence": "Thomas Edison's teacher wrote that Edison was mentally ill",
+"translation": "كتب معلم توماس إديسون أن إديسون كان مريضاً عقلياً",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 40"
+}
+]
+},
+{
+"title": "Match the Sentence Parts - Unit 6 (Activity Book)",
+"source": "activity_book",
+"options": [
+{ "letter": "a", "text": "go near the water." },
+{ "letter": "b", "text": "the dishes now!" },
+{ "letter": "c", "text": "challenge difficult circumstances" },
+{ "letter": "d", "text": "garnered international attention" },
+{ "letter": "e", "text": "prove it." },
+{ "letter": "f", "text": "lost the Silver Shell Award" }
+],
+"sentences": [
+{
+"start": "I specifically told you not to",
+"correct": "a",
+"full_sentence": "I specifically told you not to go near the water",
+"translation": "أخبرتك تحديداً ألا تقترب من الماء",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 39"
+},
+{
+"start": "The kitchen is really dirty! So do",
+"correct": "b",
+"full_sentence": "The kitchen is really dirty! So do the dishes now!",
+"translation": "المطبخ متسخ حقاً! إذن اغسل الأطباق الآن",
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 39"
+},
+{
+"start": "People are able to",
+"correct": "c",
+"full_sentence": "People are able to challenge difficult circumstances",
+"translation": "الناس قادرون على تحدي الظروف الصعبة",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 36"
+},
+{
+"start": "The success of her show",
+"correct": "d",
+"full_sentence": "The success of her show garnered international attention",
+"translation": "نجاح عرضها جذب انتباه العالم",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 36"
+},
+{
+"start": "You are wrong, and I can",
+"correct": "e",
+"full_sentence": "You are wrong, and I can prove it",
+"translation": "أنت مخطئ، وأستطيع إثبات ذلك",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 39"
+}
+]
+}
+]
+}
