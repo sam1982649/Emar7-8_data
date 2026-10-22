@@ -1,0 +1,110 @@
+{
+"questions": [
+{
+"id": "SB_G7_U11_C1",
+"original": "This poem was written by Nizar Qabani.",
+"targetWord": "Nizar Qabani",
+"correctQuestion": "Who was this poem written by?",
+"wh_word": "who",
+"auxiliary": "was",
+"subject": "this poem",
+"subject_type": "noun_thing",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar - Page 87"
+},
+{
+"id": "SB_G7_U11_C2",
+"original": "Fred comes from London.",
+"targetWord": "London",
+"correctQuestion": "Where does Fred come from?",
+"wh_word": "where",
+"auxiliary": "does",
+"subject": "fred",
+"subject_type": "name_male",
+"category": "Place",
+"acceptedAnswers": [
+"Where does he come from?"
+],
+"source": "Student Book",
+"exact_reference": "Listening - Page 87"
+},
+{
+"id": "SB_G7_U11_C3",
+"original": "Jamal went to school in France.",
+"targetWord": "France",
+"correctQuestion": "Where did Jamal go to school?",
+"wh_word": "where",
+"auxiliary": "did",
+"subject": "jamal",
+"subject_type": "name_male",
+"category": "Place",
+"acceptedAnswers": [
+"Where did he go to school?"
+],
+"source": "Student Book",
+"exact_reference": "Listening - Page 87"
+},
+{
+"id": "SB_G7_U11_C4",
+"original": "Jamal's father has got a new job in France.",
+"targetWord": "Jamal's father",
+"correctQuestion": "Who has got a new job in France?",
+"wh_word": "who",
+"auxiliary": "has",
+"subject": "jamal's father",
+"subject_type": "noun_person",
+"category": "Subject",
+"acceptedAnswers": [
+"Who has got a new job in France?"
+],
+"source": "Student Book",
+"exact_reference": "Listening - Page 87"
+},
+{
+"id": "SB_G7_U11_C5",
+"original": "The workers are building a new school.",
+"targetWord": "a new school",
+"correctQuestion": "What are the workers building?",
+"wh_word": "what",
+"auxiliary": "are",
+"subject": "the workers",
+"subject_type": "noun_plural",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar - Page 87"
+},
+{
+"id": "SB_G7_U11_C6",
+"original": "Peter works with his brother.",
+"targetWord": "his brother",
+"correctQuestion": "Who does Peter work with?",
+"wh_word": "who",
+"auxiliary": "does",
+"subject": "peter",
+"subject_type": "name_male",
+"category": "Object",
+"acceptedAnswers": [
+"Who does he work with?"
+],
+"source": "Student Book",
+"exact_reference": "Listening - Page 87"
+},
+{
+"id": "AB_G7_U11_C7",
+"original": "The most important way of communication is the mobile phone.",
+"targetWord": "the mobile phone",
+"correctQuestion": "What is the most important way of communication?",
+"wh_word": "what",
+"auxiliary": "is",
+"subject": "the most important way of communication",
+"subject_type": "noun_thing",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Speaking - Page 74"
+}
+]
+}
