@@ -1,0 +1,71 @@
+{
+"questions": [
+{
+"id": "SB_G7_U3_F1",
+"question": "What are your hobbies?",
+"translation": "ما هي هواياتك؟",
+"keywords": ["reading", "swimming", "football", "photography", "music"],
+"suggested_answers": [
+"My hobbies are reading and swimming.",
+"I like playing football.",
+"My hobbies include photography and music."
+],
+"wh_word": "What",
+"auxiliary": "are",
+"category": "Hobbies",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G7_U3_F2",
+"question": "Who do you practice your hobby with?",
+"translation": "مع من تمارس هوايتك؟",
+"keywords": ["friends", "family", "alone", "team", "brother"],
+"suggested_answers": [
+"I practice with my friends.",
+"I practice with my family.",
+"I practice alone.",
+"I practice with my team."
+],
+"wh_word": "Who",
+"auxiliary": "do",
+"category": "People",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "AB_G7_U3_F3",
+"question": "Why do you like it?",
+"translation": "لماذا تحبها؟",
+"keywords": ["fun", "interesting", "relaxing", "exciting", "enjoyable"],
+"suggested_answers": [
+"I like it because it is fun.",
+"I like it because it is interesting.",
+"I like it because it is relaxing.",
+"I like it because it is exciting."
+],
+"wh_word": "Why",
+"auxiliary": "do",
+"category": "Reason",
+"source": "Activity Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "AB_G7_U3_F4",
+"question": "How often do you practise it?",
+"translation": "كم مرة تمارسها؟",
+"keywords": ["every day", "twice a week", "once a week", "every weekend"],
+"suggested_answers": [
+"I practise it every day.",
+"I practise it twice a week.",
+"I practise it once a week.",
+"I practise it every weekend."
+],
+"wh_word": "How often",
+"auxiliary": "do",
+"category": "Frequency",
+"source": "Activity Book",
+"exact_reference": "Speaking"
+}
+]
+}

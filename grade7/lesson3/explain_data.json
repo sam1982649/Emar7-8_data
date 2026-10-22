@@ -1,0 +1,253 @@
+{
+"vocabulary": [
+{"word": "origami", "translation": "أوريغامي (فن طي الورق)"},
+{"word": "fold", "translation": "يطوي/يثني"},
+{"word": "ancient", "translation": "قديم جداً"},
+{"word": "impact", "translation": "تأثير"},
+{"word": "concept", "translation": "فكرة/مفهوم"},
+{"word": "fractions", "translation": "كسور (أعداد غير صحيحة)"},
+{"word": "tissue paper", "translation": "ورق مناديل"},
+{"word": "silk", "translation": "حرير"},
+{"word": "foil", "translation": "رقائق (معدنية)"},
+{"word": "pizza box", "translation": "علبة بيتزا"},
+{"word": "paper bag", "translation": "كيس ورقي"},
+{"word": "advantage", "translation": "ميزة/فائدة"},
+{"word": "education", "translation": "تعليم"},
+{"word": "physics", "translation": "فيزياء"},
+{"word": "mathematics", "translation": "رياضيات"},
+{"word": "problem solving", "translation": "حل المشكلات"},
+{"word": "square", "translation": "مربع"},
+{"word": "thin", "translation": "رفيع/رقيق"},
+{"word": "coloured", "translation": "ملون"},
+{"word": "hobby", "translation": "هواية"},
+{"word": "model", "translation": "نموذج"},
+{"word": "create", "translation": "يبتكر/يصنع"},
+{"word": "reuse", "translation": "يعيد الاستخدام"},
+{"word": "culture", "translation": "ثقافة"},
+{"word": "Europe", "translation": "أوروبا"},
+{"word": "Japanese", "translation": "ياباني"},
+{"word": "equipment", "translation": "معدات"},
+{"word": "remote control", "translation": "جهاز تحكم عن بعد"},
+{"word": "parachute", "translation": "مظلة"},
+{"word": "sky diving", "translation": "القفز بالمظلة"},
+{"word": "bungee jumping", "translation": "القفز بالحبال"},
+{"word": "hobbies", "translation": "هوايات"},
+{"word": "interests", "translation": "اهتمامات"},
+{"word": "photography", "translation": "تصوير فوتوغرافي"},
+{"word": "volleyball", "translation": "كرة طائرة"},
+{"word": "basketball", "translation": "كرة سلة"},
+{"word": "football", "translation": "كرة قدم"},
+{"word": "tennis", "translation": "تنس"},
+{"word": "guitar", "translation": "غيتار"},
+{"word": "piano", "translation": "بيانو"},
+{"word": "traditional", "translation": "تقليدي"},
+{"word": "dancing", "translation": "رقص"},
+{"word": "painting", "translation": "رسم"},
+{"word": "stamps", "translation": "طوابع بريدية"},
+{"word": "collect", "translation": "يجمع"},
+{"word": "swimming", "translation": "سباحة"},
+{"word": "reading", "translation": "قراءة"},
+{"word": "listening", "translation": "استماع"},
+{"word": "watching", "translation": "مشاهدة"},
+{"word": "playing", "translation": "لعب"},
+{"word": "running", "translation": "جري"},
+{"word": "practise", "translation": "يمارس"},
+{"word": "prepare", "translation": "يستعد/يحضر"},
+{"word": "competition", "translation": "مسابقة"},
+{"word": "annual", "translation": "سنوي"},
+{"word": "maintenance", "translation": "صيانة"},
+{"word": "drawer", "translation": "درج"},
+{"word": "ring", "translation": "خاتم"},
+{"word": "grandparents", "translation": "أجداد"},
+{"word": "forest", "translation": "غابة"},
+{"word": "country", "translation": "ريف (أيضاً بلد)"},
+{"word": "album", "translation": "ألبوم"},
+{"word": "magazine", "translation": "مجلة"},
+{"word": "hero", "translation": "بطل"},
+{"word": "active", "translation": "نشيط"},
+{"word": "leader", "translation": "قائد"},
+{"word": "training", "translation": "تدريب"},
+{"word": "session", "translation": "جلسة"},
+{"word": "match", "translation": "مباراة"},
+{"word": "team", "translation": "فريق"},
+{"word": "photograph", "translation": "صورة فوتوغرافية"},
+{"word": "camera", "translation": "كاميرا"},
+{"word": "ideal", "translation": "مثالي"},
+{"word": "wonders", "translation": "عجائب"},
+{"word": "amazement", "translation": "دهشة/انبهار"},
+{"word": "fun", "translation": "مرح"},
+{"word": "relaxing", "translation": "مريح"},
+{"word": "exciting", "translation": "مثير"},
+{"word": "enjoyable", "translation": "ممتع"}
+],
+"tables": [
+{
+"title": "Present Progressive - Affirmative (المضارع المستمر - الإثبات)",
+"headers": ["Pronoun", "Auxiliary", "Verb + ing", "Example"],
+"rows": [
+["I", "am", "learning", "I am learning English."],
+["He/She/It", "is", "playing", "She is playing tennis."],
+["You/We/They", "are", "swimming", "They are swimming now."]
+],
+"explanation": "يستخدم المضارع المستمر للتعبير عن أحداث تحدث الآن أو خطط مستقبلية. يتكون من: فاعل + فعل مساعد (am/is/are) + الفعل + ing.",
+"examples": "Tom is learning English this summer.\nMaria is swimming in the pool.\nThey are sitting at their desks right now."
+},
+{
+"title": "Present Progressive - Negative (المضارع المستمر - النفي)",
+"headers": ["Pronoun", "Auxiliary + not", "Verb + ing", "Example"],
+"rows": [
+["I", "am not", "practising", "I am not practising now."],
+["He/She/It", "is not (isn't)", "playing", "He isn't playing tennis."],
+["You/We/They", "are not (aren't)", "watching", "They aren't watching TV."]
+],
+"explanation": "لنفي المضارع المستمر نضيف (not) بعد الفعل المساعد. يمكن استخدام الاختصارات: isn't / aren't.",
+"examples": "Sarah and Luke aren't playing tennis now.\nJoey isn't practising these days.\nMandy isn't having lunch now."
+},
+{
+"title": "Present Progressive - Questions (المضارع المستمر - السؤال)",
+"headers": ["Type", "Form", "Example"],
+"rows": [
+["سؤال نعم/لا", "Am/Is/Are + فاعل + verb + ing?", "Is she reading now?"],
+["سؤال بــ Wh-", "Wh- + am/is/are + فاعل + verb + ing?", "What are you doing?"]
+],
+"explanation": "لتكوين السؤال في المضارع المستمر نضع الفعل المساعد قبل الفاعل. مع كلمات الاستفهام نضعها في البداية.",
+"examples": "Is Lucas having a shower now?\nWhat are Sarah and Luke playing?\nWhere is Maria swimming?"
+},
+{
+"title": "Spelling Rules for Present Progressive (قواعد إملائية)",
+"headers": ["Rule", "Base Form", "Verb + ing"],
+"rows": [
+["نضاعف الحرف الأخير بعد حرف علة", "sit", "sitting"],
+["نضاعف الحرف الأخير بعد حرف علة", "swim", "swimming"],
+["نحذف الـ e في نهاية الفعل", "make", "making"],
+["نحذف الـ e في نهاية الفعل", "write", "writing"],
+["نضيف ing مباشرة", "play", "playing"],
+["نضيف ing مباشرة", "read", "reading"]
+],
+"explanation": "هناك قواعد إملائية خاصة عند إضافة ing: 1) نضاعف الحرف الأخير إذا كان الفعل من مقطع واحد وينتهي بحرف ساكن مسبوق بحرف علة. 2) نحذف الـ e في نهاية الفعل. 3) نضيف ing مباشرة لبقية الأفعال.",
+"examples": "She is sitting at her desk.\nI am making a kite.\nThey are playing football."
+},
+{
+"title": "Simple Present vs Present Progressive (المضارع البسيط مقابل المضارع المستمر)",
+"headers": ["Tense", "Usage", "Example"],
+"rows": [
+["Simple Present", "حقائق عامة وعادات", "I read books every day."],
+["Simple Present", "أفعال منتظمة", "We have lessons on Monday."],
+["Present Progressive", "يحدث الآن", "I am reading a book now."],
+["Present Progressive", "خطط مستقبلية", "We are having lessons tomorrow."]
+],
+"explanation": "المضارع البسيط يستخدم للحقائق والعادات. المضارع المستمر يستخدم للأحداث التي تحدث الآن أو للخطط المستقبلية.",
+"examples": "I borrow books from the library twice a month. (عادة)\nI am borrowing a book now. (يحدث الآن)"
+},
+{
+"title": "Connectors (أدوات الربط)",
+"headers": ["Connector", "Usage", "Example"],
+"rows": [
+["and", "إضافة", "I feel fit and happy."],
+["but", "تعارض", "I like sports, but basketball is my favorite."],
+["because", "سبب", "We are playing in the park because the centre is closed."],
+["however", "تعارض قوي", "I like sports. However, I don't like football."],
+["on the other hand", "مقارنة", "Reading is relaxing. On the other hand, football is exciting."]
+],
+"explanation": "أدوات الربط تستخدم لربط الجمل. 'and' للإضافة، 'but' للتعارض، 'because' للسبب، 'however' و 'on the other hand' للتعارض القوي.",
+"examples": "I like playing sports in general, but basketball is my favorite.\nwe are playing in the park these days because the centre is closed.\nI feel fit and happy after playing with my friends."
+},
+{
+"title": "Relative Pronouns (ضمائر الوصل)",
+"headers": ["Pronoun", "Usage", "Example"],
+"rows": [
+["who", "للعاقل (فاعل)", "The teacher who helps me is kind."],
+["which", "لغير العاقل", "The book which I read is interesting."],
+["where", "للمكان", "This is the park where we play."]
+],
+"explanation": "ضمائر الوصل تربط جملتين. 'who' للعاقل، 'which' لغير العاقل، 'where' للمكان.",
+"examples": "The competition which takes place very soon.\nThis is the country where my grandparents live."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["Preposition", "Usage", "Example"],
+"rows": [
+["on", "أيام الأسبوع", "on Monday"],
+["in", "شهور / سنوات / أماكن", "in the drawer, in the pool"],
+["at", "أوقات محددة", "at the moment"],
+["for", "البحث عن", "look for"],
+["from", "المصدر", "from the UK"],
+["with", "المصاحبة", "with my friends"],
+["of", "الملكية / الكمية", "lots of"]
+],
+"explanation": "حروف الجر تربط الكلمات في الجملة. لكل حرف جر استخدام محدد يجب حفظه.",
+"examples": "Linda is looking for her ring in the drawer.\nKelly is from the UK.\nI practice with my friends."
+},
+{
+"title": "Articles (أدوات التعريف والتنكير)",
+"headers": ["Article", "Usage", "Example"],
+"rows": [
+["a", "اسم مفرد غير محدد يبدأ بحرف ساكن", "I live in a small town."],
+["an", "اسم مفرد غير محدد يبدأ بحرف علة (a, e, i, o, u)", "She is an artist."],
+["the", "اسم محدد أو معروف (سبق ذكره أو فريد)", "I'm from the UK.\nI like playing the guitar."]
+],
+"explanation": "نستخدم 'a' مع الأسماء المفردة غير المحددة التي تبدأ بحرف ساكن. نستخدم 'an' مع الأسماء التي تبدأ بحرف علة. نستخدم 'the' مع الأسماء المحددة أو المعروفة.",
+"examples": "I live in a small town.\nI'm from the UK.\nI like playing the guitar."
+},
+{
+"title": "Passive Voice (المبني للمجهول)",
+"headers": ["Tense", "Form", "Example"],
+"rows": [
+["Past Passive", "was/were + past participle", "Origami was created by the Japanese."],
+["Modal Passive", "modal + be + past participle", "Origami can be made of tissue paper."]
+],
+"explanation": "يستخدم المبني للمجهول عندما يكون المفعول به هو الأهم وليس الفاعل. في الماضي نستخدم was/were + past participle. مع الأفعال الناقصة نستخدم modal + be + past participle.",
+"examples": "Origami was created by the Japanese. (Past Passive)\nOrigami can be made of tissue paper. (Modal Passive)"
+},
+{
+"title": "Present Perfect (المضارع التام)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["have/has + past participle", "حدث في الماضي له علاقة بالحاضر", "This art has come alive recently."],
+["have/has + past participle", "خبرة أو تجربة", "I have visited Japan."]
+],
+"explanation": "يستخدم Present Perfect للتعبير عن أحداث وقعت في الماضي ولها علاقة بالحاضر. يتكون من have/has + past participle. من الكلمات الدالة: recently, ever, never, already, yet.",
+"examples": "This art has come alive recently.\nI have visited Japan."
+},
+{
+"title": "Object & Possessive Pronouns (الضمائر)",
+"headers": ["Subject Pronoun", "Object Pronoun", "Possessive Adjective"],
+"rows": [
+["I", "me", "my"],
+["you", "you", "your"],
+["he", "him", "his"],
+["she", "her", "her"],
+["it", "it", "its"],
+["we", "us", "our"],
+["they", "them", "their"]
+],
+"explanation": "ضمائر المفعول به (Object Pronouns) تأتي بعد الفعل أو حرف الجر. صفات الملكية (Possessive Adjectives) تأتي قبل الاسم لتدل على الملكية.",
+"examples": "I try to take pictures of them. (Object Pronoun)\nI like shopping with my mum. (Possessive Adjective)"
+},
+{
+"title": "Gerunds (الفعل + ing كاسم)",
+"headers": ["Usage", "Example"],
+"rows": [
+["بعد like, love, hate, enjoy", "They like playing computer games."],
+["بعد حروف الجر", "I like listening to music."],
+["كفاعل للجملة", "Playing football is fun."]
+],
+"explanation": "الجيروند هو الفعل + ing الذي يستخدم كاسم. يأتي بعد أفعال مثل like, love, hate, enjoy أو بعد حروف الجر.",
+"examples": "They like playing computer games.\nI like listening to music.\nPlaying football is fun."
+},
+{
+"title": "Collocations (التعبيرات الثابتة مع الأفعال)",
+"headers": ["Verb", "Noun/Activity", "Example"],
+"rows": [
+["go", "swimming, fishing, shopping", "I go swimming every day."],
+["play", "the piano, football, tennis", "I play the piano."],
+["play", "the guitar, volleyball, chess", "She plays the guitar."],
+["make", "a kite, a cake, a model", "I make a kite."],
+["watch", "TV, a movie", "I watch TV."],
+["collect", "stamps, coins", "I collect stamps."]
+],
+"explanation": "هناك تعبيرات ثابتة مع الأفعال في اللغة الإنجليزية. 'go' مع الأنشطة التي تنتهي بـ -ing، 'play' مع الرياضات والآلات الموسيقية، 'make' مع الأشياء التي تُصنع، 'watch' مع التلفاز والأفلام، 'collect' مع الطوابع والعملات.",
+"examples": "I go swimming every day.\nI play the piano.\nI make a kite.\nI watch TV.\nI collect stamps."
+}
+]
+}

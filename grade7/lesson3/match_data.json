@@ -1,0 +1,114 @@
+{
+"groups": [
+{
+"id": "SB_G7_U3_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G7_U3_Let_s_Practise_Origami",
+"options": [
+{ "letter": "a", "text": "reuse paper in the form of art." },
+{ "letter": "b", "text": "in the shape of a square." },
+{ "letter": "c", "text": "the cat." },
+{ "letter": "d", "text": "to do sky diving." },
+{ "letter": "e", "text": "essential in origami." }
+],
+"sentences": [
+{
+"start": "the Japanese were the first to",
+"correct": "a",
+"full_sentence": "the Japanese were the first to reuse paper in the form of art.",
+"translation": "كان اليابانيون أول من أعاد استخدام الورق في شكل فني.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Origami paper must be",
+"correct": "b",
+"full_sentence": "Origami paper must be in the shape of a square.",
+"translation": "يجب أن يكون ورق الأوريغامي على شكل مربع.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Mona is feeding",
+"correct": "c",
+"full_sentence": "Mona is feeding the cat.",
+"translation": "منى تطعم القطة.",
+"source": "Student Book",
+"exact_reference": "Grammar B"
+},
+{
+"start": "You need a parachute",
+"correct": "d",
+"full_sentence": "You need a parachute to do sky diving.",
+"translation": "أنت بحاجة إلى مظلة للقيام بالقفز بالمظلة.",
+"source": "Student Book",
+"exact_reference": "Match Hobbies"
+},
+{
+"start": "Folding paper is",
+"correct": "e",
+"full_sentence": "Folding paper is essential in origami.",
+"translation": "طي الورق ضروري في الأوريغامي.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+}
+]
+},
+{
+"id": "AB_G7_U3_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G7_U3_Hobbies_Around_the_World",
+"options": [
+{ "letter": "a", "text": "near the forest." },
+{ "letter": "b", "text": "chemistry this semester." },
+{ "letter": "c", "text": "in the drawer." },
+{ "letter": "d", "text": "sessions on Monday." },
+{ "letter": "e", "text": "to choose the best photos." }
+],
+"sentences": [
+{
+"start": "My grandparents live in the country,",
+"correct": "a",
+"full_sentence": "My grandparents live in the country, near the forest.",
+"translation": "يعيش أجدادي في الريف، بالقرب من الغابة.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Mr. Miller isn't teaching",
+"correct": "b",
+"full_sentence": "Mr. Miller isn't teaching chemistry this semester.",
+"translation": "السيد ميلر لا يدرس الكيمياء هذا الفصل الدراسي.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "Linda is looking for her ring",
+"correct": "c",
+"full_sentence": "Linda is looking for her ring in the drawer.",
+"translation": "ليندا تبحث عن خاتمها في الدرج.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "We have football training",
+"correct": "d",
+"full_sentence": "We have football training sessions on Monday.",
+"translation": "لدينا جلسات تدريب كرة القدم يوم الاثنين.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "my dad helps me",
+"correct": "e",
+"full_sentence": "my dad helps me to choose the best photos.",
+"translation": "والدي يساعدني لاختيار أفضل الصور.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+}
+]
+}
+]
+}

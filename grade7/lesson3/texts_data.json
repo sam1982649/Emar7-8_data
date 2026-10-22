@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G7_U3_T1",
+"text_group": "G7_U3_Let_s_Practise_Origami",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Let's Practise Origami (Part 1)",
+"content_exam": "We all used to fold a paper and turn it into a fan, but nobody ever told us that this was an art with a name (origami)! Look at this girl! She is folding a paper and forming it into three dimensional shapes without cutting or gluing it. Origami is an ancient art which was created by the Japanese. The word (ori) means (to fold) and the word (kami) means (paper). This art has recently come alive and become popular in Europe with different names. Of course, many cultures reuse paper. However, the Japanese were the first to reuse paper in the form of art.",
+"questions": [
+{
+"id": "t1_q1",
+"question": "Origami is the art of ........ paper.",
+"options": ["cutting", "folding", "gluing", "painting"],
+"correct": 1,
+"type": "choice",
+"explanation": "الأوريغامي هو فن طي الورق."
+},
+{
+"id": "t1_q2",
+"question": "The word 'ori' means ........ .",
+"options": ["paper", "art", "to fold", "to cut"],
+"correct": 2,
+"type": "choice",
+"explanation": "كلمة 'ori' تعني 'يطوي'."
+},
+{
+"id": "t1_q3",
+"question": "The word 'kami' means ........ .",
+"options": ["paper", "art", "to fold", "to cut"],
+"correct": 0,
+"type": "choice",
+"explanation": "كلمة 'kami' تعني 'ورق'."
+},
+{
+"id": "t1_q4",
+"question": "Origami was created by the ........ .",
+"options": ["Chinese", "Japanese", "Europeans", "Egyptians"],
+"correct": 1,
+"type": "choice",
+"explanation": "الأوريغامي تم إنشاؤه من قبل اليابانيين."
+},
+{
+"id": "t1_q5",
+"question": "Origami is made without ........ .",
+"options": ["paper", "folding", "cutting or gluing", "shapes"],
+"correct": 2,
+"type": "choice",
+"explanation": "الأوريغامي يُصنع بدون قص أو لصق."
+}
+]
+},
+{
+"id": "G7_U3_T2",
+"text_group": "G7_U3_Let_s_Practise_Origami",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Let's Practise Origami (Part 2)",
+"content_exam": "Origami can also be made of tissue paper, silk and foil. You may think of a pizza box or a paper bag too. Origami was fun then it proved to have other advantages as it has an impact in education. Nowadays, teachers are using origami to explain many concepts related to physics, problem solving and mathematics. For example, it is very useful in making fractions clear when a mathematics teacher folds a paper for three or four times asking students about the number of the parts. Normally, origami paper is square, thin, of 6 inches size, white on one side and coloured on the other side. Origami is considered a hobby for some people and an art for others who may spend months creating new origami models.",
+"questions": [
+{
+"id": "t2_q1",
+"question": "Origami can be made of tissue paper, silk and foil.",
+"correct": true,
+"type": "truefalse",
+"explanation": "يمكن صنع الأوريغامي من ورق المناديل والحرير والرقائق."
+},
+{
+"id": "t2_q2",
+"question": "Origami has no impact in education.",
+"correct": false,
+"type": "truefalse",
+"explanation": "الأوريغامي له تأثير في التعليم. (خطأ)"
+},
+{
+"id": "t2_q3",
+"question": "Origami paper is normally 6 inches in size.",
+"correct": true,
+"type": "truefalse",
+"explanation": "ورق الأوريغامي عادةً بحجم 6 بوصات."
+},
+{
+"id": "t2_q4",
+"question": "What do teachers use origami to explain?",
+"type": "answer",
+"keywords": ["concepts", "physics", "mathematics", "problem solving"],
+"explanation": "يستخدم المعلمون الأوريغامي لشرح المفاهيم المتعلقة بالفيزياء والرياضيات وحل المشكلات."
+},
+{
+"id": "t2_q5",
+"question": "How long may some people spend creating origami models?",
+"type": "answer",
+"keywords": ["months", "months creating", "creating models"],
+"explanation": "قد يقضي بعض الناس شهوراً في إنشاء نماذج الأوريغامي."
+}
+]
+},
+{
+"id": "G7_U3_T3",
+"text_group": "G7_U3_Hobbies_Around_the_World",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Hobbies Around the World (Part 1)",
+"content_exam": "Hi! My name's Kelly and I'm from the UK. My friends have got lots of hobbies. They like playing computer games and watching DVDs. My best friend Janet and I like doing sports, too. Janet loves playing volleyball, but she doesn't like playing basketball. I love reading stories, too. Hi. I'm Karmen and I'm from Spain. My friends like playing computer games and doing sports, too. I don't like sports, but I love music. I like playing the guitar and the piano. My friend Sandra and I like traditional dancing, too! We have dancing lessons every Monday!",
+"questions": [
+{
+"id": "t3_q1",
+"question": "Kelly is from ........ .",
+"options": ["Spain", "the UK", "Egypt", "Portugal"],
+"correct": 1,
+"type": "choice",
+"explanation": "كيلي من المملكة المتحدة."
+},
+{
+"id": "t3_q2",
+"question": "Janet loves playing ........ .",
+"options": ["basketball", "volleyball", "tennis", "football"],
+"correct": 1,
+"type": "choice",
+"explanation": "جانيت تحب لعب الكرة الطائرة."
+},
+{
+"id": "t3_q3",
+"question": "Karmen is from ........ .",
+"options": ["the UK", "Egypt", "Spain", "Portugal"],
+"correct": 2,
+"type": "choice",
+"explanation": "كارمن من إسبانيا."
+},
+{
+"id": "t3_q4",
+"question": "Karmen likes playing the ........ .",
+"options": ["oud", "guitar", "violin", "drums"],
+"correct": 1,
+"type": "choice",
+"explanation": "كارمن تحب العزف على الغيتار."
+},
+{
+"id": "t3_q5",
+"question": "Karmen and Sandra have dancing lessons every ........ .",
+"options": ["day", "Friday", "Monday", "weekend"],
+"correct": 2,
+"type": "choice",
+"explanation": "كارمن وساندرا لديهما دروس رقص كل يوم اثنين."
+}
+]
+},
+{
+"id": "G7_U3_T4",
+"text_group": "G7_U3_Hobbies_Around_the_World",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Hobbies Around the World (Part 2)",
+"content_exam": "I'm Ali and I'm from Egypt. My friends like watching TV and listening to music. I like watching football on TV, and listening to pop music. My sisters love painting pictures and they like shopping with my mum. Hello! I'm Robert. I'm a thirteen-year-old Portuguese boy. I live in a small town with my parents and my sister. I'm very active. I'm the school football team leader. My favourite hobby is playing football. I like watching TV too and I love playing video games. My best friend is Miguel. We have football training sessions on Monday, Wednesday and Friday. At the weekend we usually have football matches with other teams. My hero is Christiano Ronaldo. He's a great footballer. My name is Karam. I'm from Syria. My favourite hobby is photography.",
+"questions": [
+{
+"id": "t4_q1",
+"question": "Ali likes listening to pop music.",
+"correct": true,
+"type": "truefalse",
+"explanation": "علي يحب الاستماع إلى موسيقى البوب."
+},
+{
+"id": "t4_q2",
+"question": "Robert is fifteen years old.",
+"correct": false,
+"type": "truefalse",
+"explanation": "روبرت عمره 13 سنة، وليس 15. (خطأ)"
+},
+{
+"id": "t4_q3",
+"question": "Robert's favourite hobby is playing football.",
+"correct": true,
+"type": "truefalse",
+"explanation": "هواية روبرت المفضلة هي لعب كرة القدم."
+},
+{
+"id": "t4_q4",
+"question": "What is Karam's favourite hobby?",
+"type": "answer",
+"keywords": ["photography", "photographs", "pictures"],
+"explanation": "هواية كرم المفضلة هي التصوير الفوتوغرافي."
+},
+{
+"id": "t4_q5",
+"question": "Who is Robert's hero?",
+"type": "answer",
+"keywords": ["Christiano Ronaldo", "Ronaldo", "Cristiano"],
+"explanation": "بطل روبرت هو كريستيانو رونالدو."
+}
+]
+}
+]
+}
