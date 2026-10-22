@@ -1,0 +1,158 @@
+{
+"metadata": {
+"grade": 7,
+"unit": 7,
+"title": "Be Green",
+"total_questions": 8,
+"grammar_focus": "Simple Present + Modal Verbs (should)",
+"wh_words_used": ["When", "Why", "What", "Who", "Where", "How"],
+"auxiliary_verbs_used": ["should", "do", "is", "does"],
+"sources_distribution": {
+"Student Book - Reading Text": 3,
+"Student Book - Vocabulary": 1,
+"Student Book - Writing": 2,
+"Student Book - Speaking": 1,
+"Activity Book - Grammar": 1
+}
+},
+"questions": [
+{
+"id": "SB_G7_U7_C1",
+"original": "We should wash vegetables before cooking.",
+"targetWord": "before cooking",
+"correctQuestion": "When should we wash vegetables?",
+"correctQuestions": [
+"When should we wash vegetables?"
+],
+"wh_word": "when",
+"auxiliary": "should",
+"subject": "we",
+"subject_type": "pronoun",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U7_C2",
+"original": "Birds build nests to lay their eggs in.",
+"targetWord": "to lay their eggs in",
+"correctQuestion": "Why do birds build nests?",
+"correctQuestions": [
+"Why do birds build nests?"
+],
+"wh_word": "why",
+"auxiliary": "do",
+"subject": "birds",
+"subject_type": "noun_plural",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Vocabulary Exercise"
+},
+{
+"id": "SB_G7_U7_C3",
+"original": "I usually drink fruit juice and water.",
+"targetWord": "fruit juice and water",
+"correctQuestion": "What do you usually drink?",
+"correctQuestions": [
+"What do you usually drink?"
+],
+"wh_word": "what",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Writing"
+},
+{
+"id": "SB_G7_U7_C4",
+"original": "Students should go to bed early.",
+"targetWord": "Students",
+"correctQuestion": "Who should go to bed early?",
+"correctQuestions": [
+"Who should go to bed early?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "students",
+"subject_type": "noun_plural",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Writing"
+},
+{
+"id": "SB_G7_U7_C5",
+"original": "We should throw rubbish in bins.",
+"targetWord": "in bins",
+"correctQuestion": "Where should we throw rubbish?",
+"correctQuestions": [
+"Where should we throw rubbish?"
+],
+"wh_word": "where",
+"auxiliary": "should",
+"subject": "we",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U7_C6",
+"original": "I feel sick.",
+"targetWord": "sick",
+"correctQuestion": "What's the matter?",
+"correctQuestions": [
+"What's the matter?"
+],
+"wh_word": "what",
+"auxiliary": "is",
+"subject": "the matter",
+"subject_type": "noun_thing",
+"category": "Feeling",
+"acceptedAnswers": [
+"What is the matter?"
+],
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G7_U7_C7",
+"original": "Our city is clean.",
+"targetWord": "clean",
+"correctQuestion": "What is your city like?",
+"correctQuestions": [
+"What is your city like?"
+],
+"wh_word": "what ... like",
+"auxiliary": "is",
+"subject": "your city",
+"subject_type": "noun_thing",
+"category": "Description",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G7_U7_C8",
+"original": "He is fat.",
+"targetWord": "fat",
+"correctQuestion": "What does he look like?",
+"correctQuestions": [
+"What does he look like?"
+],
+"wh_word": "what ... look like",
+"auxiliary": "does",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Physical Description",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar"
+}
+]
+}
