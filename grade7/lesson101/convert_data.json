@@ -1,0 +1,111 @@
+{
+"questions": [
+{
+"id": "SB_G7_R1_C1",
+"original": "I was nervous.",
+"targetWord": "nervous",
+"correctQuestion": "How did you feel?",
+"correctQuestions": [
+"How did you feel?",
+"What did you feel?",
+"What was your feeling?"
+],
+"wh_word": "how",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Feeling",
+"acceptedAnswers": [
+"What did you feel?",
+"What was your feeling?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_R1_C2",
+"original": "I was born in Syria.",
+"targetWord": "in Syria",
+"correctQuestion": "Where were you born?",
+"correctQuestions": [
+"Where were you born?"
+],
+"wh_word": "where",
+"auxiliary": "were",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Match"
+},
+{
+"id": "SB_G7_R1_C3",
+"original": "I can speak three languages.",
+"targetWord": "three",
+"correctQuestion": "How many languages can you speak?",
+"correctQuestions": [
+"How many languages can you speak?"
+],
+"wh_word": "how many",
+"auxiliary": "can",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "SB_G7_R1_C4",
+"original": "My brother started working last year.",
+"targetWord": "last year",
+"correctQuestion": "When did your brother start working?",
+"correctQuestions": [
+"When did your brother start working?"
+],
+"wh_word": "when",
+"auxiliary": "did",
+"subject": "your brother",
+"subject_type": "noun_person",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"id": "AB_G7_R1_C5",
+"original": "Patients come to hospitals to be treated.",
+"targetWord": "Patients",
+"correctQuestion": "Who comes to hospitals to be treated?",
+"correctQuestions": [
+"Who comes to hospitals to be treated?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "patients",
+"subject_type": "noun_plural",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G7_R1_C6",
+"original": "I will eat a sandwich.",
+"targetWord": "a sandwich",
+"correctQuestion": "What will you eat?",
+"correctQuestions": [
+"What will you eat?"
+],
+"wh_word": "what",
+"auxiliary": "will",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar 1"
+}
+]
+}
