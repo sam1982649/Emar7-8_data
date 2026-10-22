@@ -1,0 +1,88 @@
+{
+"questions": [
+{
+"id": "AB_G7_R1_C1",
+"original": "He lives in London.",
+"targetWord": "in London",
+"correctQuestion": "Where does he live?",
+"wh_word": "where",
+"auxiliary": "does",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Trekking - Page 43"
+},
+{
+"id": "AB_G7_R1_C2",
+"original": "They bought a house last year.",
+"targetWord": "last year",
+"correctQuestion": "When did they buy a house?",
+"wh_word": "when",
+"auxiliary": "did",
+"subject": "they",
+"subject_type": "pronoun",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Trekking - Page 43"
+},
+{
+"id": "AB_G7_R1_C3",
+"original": "I ride my bike every day.",
+"targetWord": "my bike",
+"correctQuestion": "What do you ride every day?",
+"wh_word": "what",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Trekking - Page 43"
+},
+{
+"id": "AB_G7_R1_C4",
+"original": "I ride my bike every day.",
+"targetWord": "every day",
+"correctQuestion": "How often do you ride your bike?",
+"wh_word": "how often",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Frequency",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Trekking - Page 43"
+},
+{
+"id": "AB_G7_R1_C5",
+"original": "She is a graphic designer.",
+"targetWord": "a graphic designer",
+"correctQuestion": "What is her job?",
+"wh_word": "what",
+"auxiliary": "is",
+"subject": "her job",
+"subject_type": "noun_thing",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Trekking - Page 43"
+},
+{
+"id": "AB_G7_R1_C6",
+"original": "She has been working there for three years.",
+"targetWord": "for three years",
+"correctQuestion": "How long has she been working there?",
+"wh_word": "how long",
+"auxiliary": "has",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Duration",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Trekking - Page 43"
+}
+]
+}
