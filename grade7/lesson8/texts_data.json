@@ -1,0 +1,152 @@
+{
+"texts": [
+{
+"id": "SB_G7_U8_T1",
+"text_group": "G7_U8_Nature_Pharmacy",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Welcome to the Nature Pharmacy",
+"content_exam": "Thousands of years ago, people used plants and herbs to cure their pain. Many effective natural remedies can be found in our homes, gardens and backyards. Here is a tour with some evergreen magical plants that help to cure health problems. Cinnamon helps to lose weight. It reduces cholesterol, relieves pain, treats cold and flu, helps digestion and reduces the risk of heart attacks. Cloves help to protect against cancer. They contain anti-bacterial substances and help to regulate blood sugar. Aloe Vera keeps the skin soft and young-looking. It also treats various eye infections. Pomegranate is rich in vitamins, especially vitamin C. It reduces muscle pain and increases the ability of muscles to restore their activity. Garlic cleans the blood. It's good for coughs and it's a natural antiseptic. Try a mixture of garlic, lemon and honey for stomach problems or a cold.",
+"questions": [
+{
+"id": "t1_q1",
+"question": "Thousands of years ago, people used plants and herbs to ........ their pain.",
+"options": ["cause", "cure", "increase", "reduce"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: cure\n📝 الترجمة: منذ آلاف السنين، استخدم الناس النباتات والأعشاب لعلاج آلامهم.\n💡 الشرح: النص يقول: 'used plants and herbs to cure their pain'."
+},
+{
+"id": "t1_q2",
+"question": "Cinnamon helps to ........ weight and reduces cholesterol.",
+"options": ["gain", "lose", "increase", "maintain"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: lose\n📝 الترجمة: القرفة تساعد في إنقاص الوزن وتخفض الكوليسترول.\n💡 الشرح: النص يقول: 'Cinnamon helps to lose weight'."
+},
+{
+"id": "t1_q3",
+"question": "Cloves contain anti-bacterial substances and help to regulate blood ........",
+"options": ["pressure", "sugar", "cells", "flow"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: sugar\n📝 الترجمة: القرنفل يحتوي على مواد مضادة للبكتيريا ويساعد في تنظيم سكر الدم.\n💡 الشرح: النص يقول: 'help to regulate blood sugar'."
+},
+{
+"id": "t1_q4",
+"question": "Aloe Vera keeps the skin ........ and young-looking.",
+"options": ["rough", "dry", "soft", "hard"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: soft\n📝 الترجمة: الألوفيرا تحافظ على البشرة ناعمة وشابة.\n💡 الشرح: النص يقول: 'keeps the skin soft and young-looking'."
+},
+{
+"id": "t1_q5",
+"question": "Pomegranate is rich in ........ , especially vitamin C.",
+"options": ["minerals", "vitamins", "proteins", "fats"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: vitamins\n📝 الترجمة: الرمان غني بالفيتامينات، وخاصة فيتامين C.\n💡 الشرح: النص يقول: 'rich in vitamins, especially vitamin C'."
+}
+]
+},
+{
+"id": "AB_G7_U8_T1",
+"text_group": "G7_U8_Brave_Little_Tortoise",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "The Brave Little Tortoise (Part 1)",
+"content_exam": "Once upon a time, a tortoise was on a ship but the ship sank. The tortoise reached a desert land surrounded by water on all sides except for one that led up to a high, steep mountain. The tortoise was endangered of starving to death and decided to climb to the top of the mountain. When he got to the snow-covered summit he was freezing cold yet he managed to make out a small pathway leading down the other side of the mountain. But the path was guarded by a big monster that wouldn't stop shouting 'Uuhuuhuuh!'",
+"questions": [
+{
+"id": "t2_q1",
+"question": "The tortoise reached a desert land surrounded by water on all sides except for one that led up to a high, ........ mountain.",
+"options": ["steep", "wide", "long", "flat"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: steep\n📝 الترجمة: وصلت السلحفاة إلى أرض صحراوية محاطة بالماء من جميع الجوانب باستثناء جانب واحد يؤدي إلى جبل عالٍ شديد الانحدار.\n💡 الشرح: النص يقول: 'a high, steep mountain'."
+},
+{
+"id": "t2_q2",
+"question": "The tortoise was endangered of ........ to death.",
+"options": ["eating", "sleeping", "starving", "freezing"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: starving\n📝 الترجمة: كانت السلحفاة مهددة بالموت جوعاً.\n💡 الشرح: النص يقول: 'endangered of starving to death'."
+},
+{
+"id": "t2_q3",
+"question": "When he got to the snow-covered ........ he was freezing cold.",
+"options": ["valley", "summit", "cave", "pathway"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: summit\n📝 الترجمة: عندما وصل إلى القمة المغطاة بالثلوج كان يشعر بالبرد الشديد.\n💡 الشرح: النص يقول: 'snow-covered summit'."
+},
+{
+"id": "t2_q4",
+"question": "He managed to make out a small ........ leading down the other side.",
+"options": ["pathway", "river", "road", "bridge"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: pathway\n📝 الترجمة: تمكن من تمييز ممر صغير يؤدي إلى الجانب الآخر.\n💡 الشرح: النص يقول: 'a small pathway leading down the other side'."
+},
+{
+"id": "t2_q5",
+"question": "The path was guarded by a big ........ that wouldn't stop shouting.",
+"options": ["wolf", "monster", "giant", "dragon"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: monster\n📝 الترجمة: كان الممر يحرسه وحش كبير لا يتوقف عن الصراخ.\n💡 الشرح: النص يقول: 'guarded by a big monster'."
+}
+]
+},
+{
+"id": "AB_G7_U8_T2",
+"text_group": "G7_U8_Brave_Little_Tortoise",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "The Brave Little Tortoise (Part 2)",
+"content_exam": "The tortoise was terrified and tried to hide his head inside his shell. But, looking around him, he saw many other animals lying frozen to death with looks of horror on their faces. The tortoise called upon his courage and moved down towards the monster. The closer he got, the more the monster changed its shape. When he was almost upon it, the tortoise realised that it was only a great pile of rocks. While the 'Uuhuuhuuh' was just the sound of the wind blowing through a small cave. The tortoise carried on and descended into a beautiful valley, filled with plenty of food. He lived happily and became known as the Brave Little Tortoise.",
+"questions": [
+{
+"id": "t3_q1",
+"question": "The tortoise saw many other animals living happily in the snow.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: رأت السلحفاة العديد من الحيوانات الأخرى تعيش بسعادة في الثلج.\n💡 الشرح: النص يقول: 'lying frozen to death with looks of horror' وليس 'living happily'."
+},
+{
+"id": "t3_q2",
+"question": "The monster changed its shape as the tortoise got closer.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: تغير شكل الوحش كلما اقتربت السلحفاة.\n💡 الشرح: النص يقول: 'The closer he got, the more the monster changed its shape'."
+},
+{
+"id": "t3_q3",
+"question": "The tortoise finally lived in a beautiful valley with plenty of food.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: عاشت السلحفاة أخيراً في وادٍ جميل مليء بالطعام.\n💡 الشرح: النص يقول: 'descended into a beautiful valley, filled with plenty of food'."
+},
+{
+"id": "t3_q4",
+"question": "What did the tortoise realise the monster was?",
+"type": "answer",
+"keywords": ["pile of rocks", "rocks"],
+"explanation": "✅ الإجابة الصحيحة: pile of rocks\n📝 الترجمة: ماذا أدركت السلحفاة أن الوحش كان؟\n💡 الشرح: النص يقول: 'it was only a great pile of rocks'."
+},
+{
+"id": "t3_q5",
+"question": "What was the sound 'Uuhuuhuuh' made by?",
+"type": "answer",
+"keywords": ["wind", "wind blowing", "cave"],
+"explanation": "✅ الإجابة الصحيحة: the wind blowing through a small cave\n📝 الترجمة: ما الذي كان يصدر صوت 'Uuhuuhuuh'؟\n💡 الشرح: النص يقول: 'just the sound of the wind blowing through a small cave'."
+}
+]
+}
+]
+}

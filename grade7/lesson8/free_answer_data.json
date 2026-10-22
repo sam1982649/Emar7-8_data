@@ -1,0 +1,180 @@
+{
+"metadata": {
+"grade": 7,
+"unit": 8,
+"title": "The Valuable Nature",
+"total_questions": 9,
+"sources": {
+"student_book": 5,
+"activity_book": 4
+},
+"question_types": {
+"free_answer": 9
+},
+"methodology": {
+"description": "تم استخراج أسئلة الإجابة الحرة من مصادر الدرس (النص، التمارين، المحادثة) بناءً على الجمل العامة والمعلوماتية.",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Vocabulary Exercises",
+"Student Book - Grammar Exercises",
+"Activity Book - Reading Text",
+"Activity Book - Grammar Exercises"
+],
+"selection_criteria": [
+"السؤال عام ولا يحتاج إلى قراءة النص للإجابة عليه",
+"الجواب واضح ومحدد وقصير (كلمة أو بضع كلمات)",
+"لا نستخدم أسئلة إجابتها Yes/No"
+],
+"wh_words": ["What", "Why", "Where", "How much", "How many", "How often"],
+"answer_type": "كلمة مفتاحية أو عبارة قصيرة",
+"verification_method": "البحث عن الكلمات المفتاحية في إجابة الطالب (case-insensitive)",
+"important_note": "⚠️ الأسئلة عامة ولا تعتمد على معرفة النص، ويمكن للطالب الإجابة من خبرته الشخصية."
+}
+},
+"questions": [
+{
+"id": "SB_G7_U8_F1",
+"question": "What do you use to cure pain?",
+"translation": "ماذا تستخدم لعلاج الألم؟",
+"keywords": ["herbs", "plants", "medicine", "natural remedies"],
+"suggested_answers": [
+"I use herbs.",
+"I use natural remedies.",
+"I use plants."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Object",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G7_U8_F2",
+"question": "Why should cyclists wear a helmet?",
+"translation": "لماذا يجب على راكبي الدراجات ارتداء خوذة؟",
+"keywords": ["protect", "head", "safety", "injury", "accident"],
+"suggested_answers": [
+"To protect their heads.",
+"For safety.",
+"To avoid injury."
+],
+"wh_word": "Why",
+"auxiliary": "should",
+"category": "Reason",
+"source": "Student Book",
+"exact_reference": "Vocabulary Exercise"
+},
+{
+"id": "SB_G7_U8_F3",
+"question": "What do you do when you feel tired?",
+"translation": "ماذا تفعل عندما تشعر بالتعب؟",
+"keywords": ["sleep", "rest", "relax", "take a break", "nap"],
+"suggested_answers": [
+"I sleep.",
+"I rest.",
+"I take a break."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Activity",
+"source": "Student Book",
+"exact_reference": "Grammar B - Q3"
+},
+{
+"id": "SB_G7_U8_F4",
+"question": "How much does the present cost?",
+"translation": "كم تكلفة الهدية؟",
+"keywords": ["money", "price", "pounds", "dollars", "cost"],
+"suggested_answers": [
+"It costs 20 pounds.",
+"It's 50 dollars.",
+"It's expensive."
+],
+"wh_word": "How much",
+"auxiliary": "does",
+"category": "Price",
+"source": "Student Book",
+"exact_reference": "Grammar B - Q5"
+},
+{
+"id": "SB_G7_U8_F5",
+"question": "How much time do you spend on Facebook?",
+"translation": "كم من الوقت تقضيه على فيسبوك؟",
+"keywords": ["hours", "minutes", "time", "daily", "day"],
+"suggested_answers": [
+"I spend two hours a day.",
+"I spend 30 minutes daily.",
+"I spend one hour."
+],
+"wh_word": "How much",
+"auxiliary": "do",
+"category": "Time",
+"source": "Student Book",
+"exact_reference": "Grammar B - Q3"
+},
+{
+"id": "AB_G7_U8_F1",
+"question": "Where do tortoises live?",
+"translation": "أين تعيش السلاحف؟",
+"keywords": ["land", "forests", "deserts", "grasslands", "water"],
+"suggested_answers": [
+"They live on land.",
+"They live in forests.",
+"They live in deserts."
+],
+"wh_word": "Where",
+"auxiliary": "do",
+"category": "Place",
+"source": "Activity Book",
+"exact_reference": "Reading Text (Brave Little Tortoise)"
+},
+{
+"id": "AB_G7_U8_F2",
+"question": "What do tortoises eat?",
+"translation": "ماذا تأكل السلاحف؟",
+"keywords": ["plants", "grass", "leaves", "vegetables", "fruit"],
+"suggested_answers": [
+"They eat plants.",
+"They eat grass and leaves.",
+"They eat vegetables."
+],
+"wh_word": "What",
+"auxiliary": "do",
+"category": "Food",
+"source": "Activity Book",
+"exact_reference": "Reading Text (Brave Little Tortoise)"
+},
+{
+"id": "AB_G7_U8_F3",
+"question": "How many books do you read a year?",
+"translation": "كم كتاباً تقرأ في السنة؟",
+"keywords": ["books", "year", "monthly", "weekly", "number"],
+"suggested_answers": [
+"I read 10 books a year.",
+"I read five books.",
+"I read one book every month."
+],
+"wh_word": "How many",
+"auxiliary": "do",
+"category": "Quantity",
+"source": "Student Book",
+"exact_reference": "Grammar B - Q5"
+},
+{
+"id": "AB_G7_U8_F4",
+"question": "Where will you travel if you have enough money?",
+"translation": "أين ستسافر إذا كان لديك ما يكفي من المال؟",
+"keywords": ["travel", "country", "city", "place", "holiday"],
+"suggested_answers": [
+"I will travel to London.",
+"I will go to Paris.",
+"I will visit Egypt."
+],
+"wh_word": "Where",
+"auxiliary": "will",
+"category": "Place",
+"source": "Activity Book",
+"exact_reference": "Grammar - Q6"
+}
+]
+}

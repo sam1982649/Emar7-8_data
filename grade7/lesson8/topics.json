@@ -1,0 +1,56 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics)",
+"description": "يتم استخراج مواضيع الكتابة من نهاية كل درس في كتاب الطالب وكتاب النشاط.",
+"applicable_to": "جميع الدروس (Unit 8)",
+"search_sources": [
+"Student Book - Writing",
+"Activity Book - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من كتاب الطالب",
+"موضوع واحد من كتاب النشاط",
+"تنويع الأسئلة المساعدة لكل موضوع"
+],
+"applied_to_unit_8": {
+"grade": 7,
+"unit": 8,
+"title": "The Valuable Nature",
+"total_topics": 2,
+"sources": {
+"topic_1": "Student Book - Writing (Animals' Rights)",
+"topic_2": "Activity Book - Writing (Environmental Problem)"
+}
+}
+},
+"topics": [
+{
+"id": "SB_G7_U8_W1",
+"title": "Write a paragraph about animals' rights.",
+"source": "Student Book",
+"exact_reference": "Writing Exercise",
+"guiding_questions": [
+"Do we have to respect animals?",
+"Should we protect animals from injury and disease?",
+"Should animals be used for medical testing?",
+"Is hunting for getting fur and ivory acceptable?",
+"Should animals be kept in cages for entertainment?"
+],
+"sample_essay": "Animals are living creatures. We should respect and protect them. They have the right to live safely. Some people use animals for medical testing, which is harmful. Hunting animals for their fur and ivory is cruel. Also, keeping animals in cages for entertainment is not fair. We must treat animals with kindness and protect them from harm."
+},
+{
+"id": "AB_G7_U8_W1",
+"title": "Write a paragraph about an environmental problem.",
+"source": "Activity Book",
+"exact_reference": "Writing Exercise",
+"guiding_questions": [
+"What is the environmental problem you chose?",
+"Why is it a problem?",
+"What are the causes of this problem?",
+"What are the effects of this problem?",
+"What solutions can you suggest to solve this problem?"
+],
+"sample_essay": "Air pollution is a serious environmental problem. It is bad for our health and the environment. Cars and factories cause air pollution. Also, burning forests makes the air dirty. Air pollution causes breathing problems. To solve this problem, we should plant trees, use public transport, and stop burning forests. We must all help to keep the air clean."
+}
+]
+}

@@ -1,0 +1,257 @@
+{
+"vocabulary": [
+{ "word": "remedy", "translation": "علاج / دواء" },
+{ "word": "rural", "translation": "ريفي (متعلق بالريف)" },
+{ "word": "regulate", "translation": "ينظم / يتحكم" },
+{ "word": "infection", "translation": "عدوى / التهاب" },
+{ "word": "antiseptic", "translation": "مطهر" },
+{ "word": "cure", "translation": "يعالج / يشفي" },
+{ "word": "relieve", "translation": "يخفف (ألماً)" },
+{ "word": "protect", "translation": "يحمي" },
+{ "word": "digest", "translation": "يهضم" },
+{ "word": "restore", "translation": "يستعيد / يعيد" },
+{ "word": "herbs", "translation": "أعشاب" },
+{ "word": "cholesterol", "translation": "كوليسترول" },
+{ "word": "flu", "translation": "إنفلونزا" },
+{ "word": "cancer", "translation": "سرطان" },
+{ "word": "vitamins", "translation": "فيتامينات" },
+{ "word": "muscle", "translation": "عضلة" },
+{ "word": "garlic", "translation": "ثوم" },
+{ "word": "honey", "translation": "عسل" },
+{ "word": "cinnamon", "translation": "قرفة" },
+{ "word": "cloves", "translation": "قرنفل" },
+{ "word": "pomegranate", "translation": "رمان" },
+{ "word": "aloe vera", "translation": "ألوفيرا" },
+{ "word": "helmet", "translation": "خوذة" },
+{ "word": "strength", "translation": "قوة" },
+{ "word": "accident", "translation": "حادث" },
+{ "word": "poison", "translation": "سم" },
+{ "word": "nectar", "translation": "رحيق (الزهور)" },
+{ "word": "snail", "translation": "حلزون" },
+{ "word": "camel", "translation": "جمل" },
+{ "word": "puffer fish", "translation": "سمكة البافير" },
+{ "word": "biscuits", "translation": "بسكويت" },
+{ "word": "drawers", "translation": "أدراج" },
+{ "word": "gardens", "translation": "حدائق" },
+{ "word": "backyards", "translation": "ساحات خلفية" },
+{ "word": "digestion", "translation": "هضم" },
+{ "word": "heart attacks", "translation": "نوبات قلبية" },
+{ "word": "blood sugar", "translation": "سكر الدم" },
+{ "word": "eye infections", "translation": "التهابات العين" },
+{ "word": "muscle pain", "translation": "آلام العضلات" },
+{ "word": "healing power", "translation": "قوة علاجية" },
+{ "word": "stomach problems", "translation": "مشاكل المعدة" },
+{ "word": "cold", "translation": "زكام" },
+{ "word": "coughs", "translation": "سعال" },
+{ "word": "surroundings", "translation": "محيط" },
+{ "word": "hygiene", "translation": "نظافة صحية" },
+{ "word": "germs", "translation": "جراثيم" },
+{ "word": "environment", "translation": "بيئة" },
+{ "word": "pollution", "translation": "تلوث" },
+{ "word": "recycle", "translation": "يعيد تدوير" },
+{ "word": "rubbish", "translation": "نفايات" },
+{ "word": "litter bins", "translation": "حاويات نفايات" },
+{ "word": "plastic bags", "translation": "أكياس بلاستيكية" },
+{ "word": "forests", "translation": "غابات" },
+{ "word": "nests", "translation": "أعشاش" },
+{ "word": "animals", "translation": "حيوانات" },
+{ "word": "rights", "translation": "حقوق" },
+{ "word": "respect", "translation": "احترام" },
+{ "word": "kindness", "translation": "لطف" },
+{ "word": "cruel", "translation": "قاسي" },
+{ "word": "hunting", "translation": "صيد" },
+{ "word": "fur", "translation": "فرو" },
+{ "word": "ivory", "translation": "عاج" },
+{ "word": "cages", "translation": "أقفاص" },
+{ "word": "entertainment", "translation": "ترفيه" },
+{ "word": "extinction", "translation": "انقراض" },
+{ "word": "medical testing", "translation": "اختبارات طبية" },
+{ "word": "breathing", "translation": "تنفس" },
+{ "word": "global warming", "translation": "الاحتباس الحراري" },
+{ "word": "public transport", "translation": "وسائل نقل عامة" },
+{ "word": "factories", "translation": "مصانع" },
+{ "word": "argument", "translation": "جدال" },
+{ "word": "boast", "translation": "يتباهى" },
+{ "word": "mildly", "translation": "بلطف" },
+{ "word": "traveller", "translation": "مسافر" },
+{ "word": "heavy", "translation": "ثقيل" },
+{ "word": "wrap", "translation": "يلف" },
+{ "word": "firmly", "translation": "بإحكام / بقوة" },
+{ "word": "gently", "translation": "بلطف" },
+{ "word": "prove", "translation": "يثبت" },
+{ "word": "force", "translation": "قوة" },
+{ "word": "photosynthesis", "translation": "البناء الضوئي" },
+{ "word": "carbon dioxide", "translation": "ثاني أكسيد الكربون" },
+{ "word": "energy", "translation": "طاقة" },
+{ "word": "sunlight", "translation": "ضوء الشمس" },
+{ "word": "process", "translation": "عملية" },
+{ "word": "life cycle", "translation": "دورة حياة" },
+{ "word": "seed", "translation": "بذرة" },
+{ "word": "flower", "translation": "زهرة" },
+{ "word": "fruit", "translation": "فاكهة" },
+{ "word": "lifestyle", "translation": "نمط حياة" },
+{ "word": "tight", "translation": "ضيق" },
+{ "word": "mental", "translation": "ذهني" },
+{ "word": "physical", "translation": "بدني" },
+{ "word": "brain", "translation": "دماغ" },
+{ "word": "clear", "translation": "يصفو / يزيل" },
+{ "word": "sink", "translation": "يغرق" },
+{ "word": "desert", "translation": "صحراء" },
+{ "word": "surrounded", "translation": "محاط" },
+{ "word": "starving", "translation": "جوع" },
+{ "word": "snow-covered", "translation": "مغطى بالثلوج" },
+{ "word": "freezing", "translation": "متجمد" },
+{ "word": "guard", "translation": "يحرس" },
+{ "word": "shout", "translation": "يصرخ" },
+{ "word": "hide", "translation": "يخفي" },
+{ "word": "shell", "translation": "صدفة" },
+{ "word": "horror", "translation": "رعب" },
+{ "word": "courage", "translation": "شجاعة" },
+{ "word": "shape", "translation": "شكل" },
+{ "word": "realise", "translation": "يدرك" },
+{ "word": "pile", "translation": "كومة" },
+{ "word": "valley", "translation": "وادي" },
+{ "word": "plenty", "translation": "وفرة" },
+{ "word": "brave", "translation": "شجاع" }
+],
+"tables": [
+{
+"title": "Quantifiers (some, any, much, many) - المحددات الكمية",
+"headers": ["Quantifier", "Usage", "Example"],
+"rows": [
+["some", "جمل مثبتة (معدود وغير معدود)", "I bought some butter."],
+["any", "جمل منفية واستفهامية", "I didn't buy any bread."],
+["much", "مع الأسماء غير المعدودة (نفي / سؤال)", "How much sugar do you need?"],
+["many", "مع الأسماء المعدودة الجمع", "How many lessons do you have?"]
+],
+"explanation": "تستخدم (some) في الجمل المثبتة، و (any) في النفي والاستفهام. (much) مع الأسماء غير المعدودة، و (many) مع الأسماء المعدودة الجمع.",
+"examples": "How many lessons do you have?\nI didn't buy any bread.\nI bought some butter."
+},
+{
+"title": "Simple Past (الماضي البسيط)",
+"headers": ["Form", "Example"],
+"rows": [
+["regular + ed", "People used herbs."],
+["irregular", "The tortoise tried to hide."],
+["irregular", "The ship sank."]
+],
+"explanation": "يستخدم الماضي البسيط للتعبير عن أحداث وقعت وانتهت في الماضي. الكلمات الدالة: yesterday, last year, ago, in 2010, thousands of years ago.",
+"examples": "Thousands of years ago, people used herbs.\nThe ship sank."
+},
+{
+"title": "Passive Voice (المبني للمجهول)",
+"headers": ["Tense", "Form", "Example"],
+"rows": [
+["Present Passive", "am/is/are + past participle", "The remedies are found in nature."],
+["Past Passive", "was/were + past participle", "The path was guarded by a monster."],
+["Modal Passive", "modal + be + past participle", "Garlic can't be denied."]
+],
+"explanation": "يستخدم المبني للمجهول عندما يكون المفعول به هو الأهم وليس الفاعل. يتكون من (was/were + التصريف الثالث) في الماضي، و (can be + التصريف الثالث) مع الأفعال الناقصة.",
+"examples": "The path was guarded by a big monster.\nGarlic can't be denied."
+},
+{
+"title": "Relative Pronouns (ضمائر الوصل)",
+"headers": ["Pronoun", "Usage", "Example"],
+"rows": [
+["who", "للعاقل (فاعل)", "The man who helped me is kind."],
+["which", "لغير العاقل", "The plant which I saw is aloe vera."],
+["that", "للعاقل وغير العاقل", "Aloe Vera is a plant that keeps the skin soft."],
+["whom", "للعاقل (مفعول به)", "The man whom I met is kind."],
+["whose", "للملكية", "The student whose book is lost."]
+],
+"explanation": "ضمائر الوصل تربط جملتين. 'that' تستخدم للعاقل وغير العاقل. 'which' لغير العاقل. 'who' للعاقل كفاعل.",
+"examples": "Aloe Vera is a plant that keeps the skin soft."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["Preposition", "Usage", "Example"],
+"rows": [
+["of", "التعبير عن الانتماء", "the risk of heart attacks"],
+["in", "المكان / السوائل", "in the blood"],
+["for", "السبب أو الفائدة", "good for health"],
+["on", "السطح", "on the ground"],
+["to", "الاتجاه", "up to twelve days"],
+["with", "المصاحبة / الأداة", "taste with their feet"],
+["about", "التقريب", "about 200,000 glasses"],
+["between", "المقارنة بين شيئين", "difference between green and red"]
+],
+"explanation": "حروف الجر تربط الكلمات في الجملة. لكل حرف جر استخدام محدد حسب السياق.",
+"examples": "Cinnamon reduces the risk of heart attacks.\nMinerals are good for health."
+},
+{
+"title": "Derivatives (المشتقات)",
+"headers": ["Noun", "Verb", "Adjective", "Adverb"],
+"rows": [
+["nature", "—", "natural", "naturally"],
+["digestion", "digest", "digestive", "—"],
+["protection", "protect", "protective", "—"],
+["restoration", "restore", "restorative", "—"]
+],
+"explanation": "المشتقات هي كلمات مشتقة من جذر واحد ولكنها تختلف في الوظيفة النحوية. (nature) اسم، (natural) صفة.",
+"examples": "Garlic is a natural antiseptic."
+},
+{
+"title": "Subject-Verb Agreement (مطابقة الفاعل والفعل)",
+"headers": ["Subject", "Verb", "Example"],
+"rows": [
+["Cloves (جمع)", "help", "Cloves help to protect against cancer."],
+["Cinnamon (مفرد)", "helps", "Cinnamon helps to lose weight."],
+["Pomegranate (مفرد)", "is", "Pomegranate is rich in vitamins."]
+],
+"explanation": "يجب أن يتطابق الفعل مع الفاعل في العدد (مفرد أو جمع). الفاعل المفرد يأخذ فعلاً مفرداً (يضاف s)، والفاعل الجمع يأخذ فعلاً جمعاً (بدون s).",
+"examples": "Cloves help to protect against cancer.\nCinnamon helps to lose weight."
+},
+{
+"title": "Infinitives (المصدر مع to)",
+"headers": ["Form", "Usage", "Example"],
+"rows": [
+["to + verb", "بعد بعض الأفعال (decide, want, need)", "He decided to climb to the top."],
+["to + verb", "للتعبير عن الغرض", "He needs water to drink."]
+],
+"explanation": "المصدر مع 'to' يستخدم بعد بعض الأفعال مثل (decide, want, need) أو للتعبير عن الغرض من الفعل.",
+"examples": "He decided to climb to the top of the mountain."
+},
+{
+"title": "Adverbs (الظروف)",
+"headers": ["Adverb", "Usage", "Example"],
+"rows": [
+["happily", "ظرف حال يصف الفعل", "He lived very happily."],
+["firmly", "ظرف حال يصف الفعل", "The traveller held his coat firmly."],
+["well", "ظرف حال يصف الفعل", "He knows the place well."],
+["quickly", "ظرف حال يصف الفعل", "He ran quickly."]
+],
+"explanation": "الظروف تصف الأفعال وتأتي عادة بعد الفعل. تستخدم للإجابة عن سؤال 'كيف؟' (How).",
+"examples": "He lived very happily.\nThe traveller held his coat firmly."
+},
+{
+"title": "Possessive Adjectives (صفات الملكية)",
+"headers": ["Subject Pronoun", "Possessive Adjective", "Example"],
+"rows": [
+["I", "my", "This is my book."],
+["You", "your", "Is this your pen?"],
+["He", "his", "He wrapped his coat."],
+["She", "her", "She lost her bag."],
+["It", "its", "The cat ate its food."],
+["We", "our", "We love our school."],
+["They", "their", "They take care of their children."]
+],
+"explanation": "صفات الملكية تأتي قبل الأسماء لتدل على الملكية. 'his' تعود على (He) وتأتي قبل الاسم 'coat'.",
+"examples": "The traveller wrapped his coat around him."
+},
+{
+"title": "Wh-Questions (التحويل إلى سؤال)",
+"headers": ["Wh-word", "Usage", "Example"],
+"rows": [
+["Why", "للسؤال عن السبب", "Why did people use herbs?"],
+["What", "للسؤال عن الشيء", "What does Aloe Vera treat?"],
+["Who", "للسؤال عن الفاعل", "Who enjoys English lessons?"],
+["How", "للسؤال عن الحالة", "How did he live?"],
+["How many", "للسؤال عن العدد", "How many lessons do you have?"],
+["How long", "للسؤال عن المدة", "How long can a snail sleep?"],
+["When", "للسؤال عن الزمن", "When did you collect stamps?"]
+],
+"explanation": "لتحويل الجملة إلى سؤال نضع كلمة الاستفهام في البداية، ثم الفعل المساعد (did, does, will, can...)، ثم الفاعل، ثم الفعل في المصدر.",
+"examples": "People used herbs to cure their pain. → Why did people use herbs?"
+}
+]
+}

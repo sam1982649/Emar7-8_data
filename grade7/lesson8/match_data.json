@@ -1,0 +1,162 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة المطابقة (Match)",
+"description": "تم استخراج أسئلة المطابقة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل التي يمكن تقسيمها إلى بداية ونهاية.",
+"applicable_to": "جميع الدروس (Unit 8)",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Vocabulary Exercise",
+"Student Book - Writing",
+"Student Book - Grammar",
+"Activity Book - Reading Text",
+"Activity Book - Grammar"
+],
+"structure": {
+"per_group": "5 بدايات + 5 نهايات (بدون خيار زائد)"
+},
+"selection_criteria": [
+"تنويع المصادر داخل كل مجموعة",
+"تجنب الجمل المتشابهة",
+"توزيع بين النص والتمارين",
+"كل جملة موثقة بالمصدر الدقيق"
+],
+"applied_to_unit_8": {
+"grade": 7,
+"unit": 8,
+"title": "The Valuable Nature",
+"total_groups": 2,
+"groups": {
+"group_1": {
+"source": "Student Book",
+"sources_used": [
+"Reading Text (2)",
+"Vocabulary Exercise (1)",
+"Grammar (2)"
+]
+},
+"group_2": {
+"source": "Activity Book",
+"sources_used": [
+"Reading Text (3)",
+"Prepositions (1)",
+"Grammar (1)"
+]
+}
+}
+}
+},
+"groups": [
+{
+"id": "SB_G7_U8_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G7_U8_Nature_Pharmacy",
+"options": [
+{ "letter": "a", "text": "anti-bacterial substances." },
+{ "letter": "b", "text": "the ability of muscles to restore their activity." },
+{ "letter": "c", "text": "get some sleep to restore your strength." },
+{ "letter": "d", "text": "he never does any work." },
+{ "letter": "e", "text": "his coat firmly." },
+{ "letter": "f", "text": "the skin soft and young-looking." }
+],
+"sentences": [
+{
+"start": "Cloves contain",
+"correct": "a",
+"full_sentence": "Cloves contain anti-bacterial substances.",
+"translation": "القرنفل يحتوي على مواد مضادة للبكتيريا.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Pomegranate increases",
+"correct": "b",
+"full_sentence": "Pomegranate increases the ability of muscles to restore their activity.",
+"translation": "الرمان يزيد من قدرة العضلات على استعادة نشاطها.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "After a daytime of hard work,",
+"correct": "c",
+"full_sentence": "After a daytime of hard work, get some sleep to restore your strength.",
+"translation": "بعد يوم من العمل الشاق، خذ قسطاً من النوم لاستعادة قوتك.",
+"source": "Student Book",
+"exact_reference": "Vocabulary Exercise"
+},
+{
+"start": "Nick is a very lazy boy;",
+"correct": "d",
+"full_sentence": "Nick is a very lazy boy; he never does any work.",
+"translation": "نيك ولد كسول جداً؛ لا يقوم بأي عمل أبداً.",
+"source": "Student Book",
+"exact_reference": "Grammar A - Q2"
+},
+{
+"start": "The traveller held",
+"correct": "e",
+"full_sentence": "The traveller held his coat firmly.",
+"translation": "أمسك المسافر معطفه بقوة.",
+"source": "Student Book",
+"exact_reference": "Stories from Around the World"
+}
+]
+},
+{
+"id": "AB_G7_U8_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G7_U8_Brave_Little_Tortoise",
+"options": [
+{ "letter": "a", "text": "his head inside his shell." },
+{ "letter": "b", "text": "can kill a human in just twenty minutes." },
+{ "letter": "c", "text": "drinking nectar." },
+{ "letter": "d", "text": "photos in the park." },
+{ "letter": "e", "text": "by a big monster." },
+{ "letter": "f", "text": "pathway leading down." }
+],
+"sentences": [
+{
+"start": "The tortoise tried to hide",
+"correct": "a",
+"full_sentence": "The tortoise tried to hide his head inside his shell.",
+"translation": "حاولت السلحفاة إخفاء رأسها داخل صدفتها.",
+"source": "Activity Book",
+"exact_reference": "Reading Text (Brave Little Tortoise)"
+},
+{
+"start": "The puffer fish contains a poison which",
+"correct": "b",
+"full_sentence": "The puffer fish contains a poison which can kill a human in just twenty minutes.",
+"translation": "سمكة البافير تحتوي على سم يمكن أن يقتل إنساناً في عشرين دقيقة فقط.",
+"source": "Activity Book",
+"exact_reference": "Prepositions - Q2"
+},
+{
+"start": "Bees get sleepy after",
+"correct": "c",
+"full_sentence": "Bees get sleepy after drinking nectar.",
+"translation": "النحل يشعر بالنعاس بعد شرب الرحيق.",
+"source": "Activity Book",
+"exact_reference": "Prepositions - Q7"
+},
+{
+"start": "They took many wonderful",
+"correct": "d",
+"full_sentence": "They took many wonderful photos in the park.",
+"translation": "التقطوا العديد من الصور الرائعة في الحديقة.",
+"source": "Activity Book",
+"exact_reference": "Grammar - Q4"
+},
+{
+"start": "the path was guarded",
+"correct": "e",
+"full_sentence": "the path was guarded by a big monster.",
+"translation": "كان الممر يحرسه وحش كبير.",
+"source": "Activity Book",
+"exact_reference": "Reading Text (Brave Little Tortoise)"
+}
+]
+}
+]
+}
