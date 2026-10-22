@@ -1,0 +1,163 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة التحويل (Convert) - الوحدة 10",
+"description": "تم استخراج أسئلة التحويل من مصادر الدرس (كتاب الطالب وكتاب النشاط) بناءً على القواعد النحوية الموجودة.",
+"applicable_to": "الوحدة 10 - A Healthy Lifestyle",
+"search_sources": [
+"Student Book - Reading Text (Oscar Penguin)",
+"Student Book - Vocabulary Exercise",
+"Activity Book - Reading Text (The Burger)",
+"Activity Book - Grammar Exercise"
+],
+"grammar_focus": ["Simple Past", "Simple Present", "Modal Verbs"],
+"wh_words": ["How many", "Why", "What"],
+"auxiliary_verbs": ["did", "were", "do", "must"],
+"special_cases": ["Quantity", "Reason", "Object", "Activity"],
+"selection_criteria": [
+"الجملة تحتوي على كلمة أو عبارة يمكن السؤال عنها",
+"الجملة مناسبة للتحويل إلى سؤال",
+"تنويع المصادر (Student Book + Activity Book)",
+"تنويع كلمات الاستفهام",
+"تنويع الأفعال المساعدة"
+],
+"applied_to_unit_10": {
+"grade": 7,
+"unit": 10,
+"title": "A Healthy Lifestyle",
+"total_questions": 7,
+"grammar_focus": ["Simple Past", "Simple Present", "Modal Verbs"],
+"wh_words_used": ["How many", "Why", "What"],
+"auxiliary_verbs_used": ["did", "were", "do", "must"],
+"special_cases_covered": ["Quantity", "Reason", "Object", "Activity"],
+"sources_distribution": {
+"Student Book - Reading Text": 2,
+"Student Book - Vocabulary": 1,
+"Activity Book - Reading Text": 1,
+"Activity Book - Grammar": 3
+}
+}
+},
+"questions": [
+{
+"id": "SB_G7_U10_C1",
+"original": "He ate two beans.",
+"targetWord": "two",
+"correctQuestion": "How many beans did he eat?",
+"correctQuestions": [
+"How many beans did he eat?"
+],
+"wh_word": "how many",
+"auxiliary": "did",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text (Oscar Penguin)"
+},
+{
+"id": "SB_G7_U10_C2",
+"original": "Oscar went with his mom to get a new penguin suit.",
+"targetWord": "to get a new penguin suit",
+"correctQuestion": "Why did Oscar go with his mom?",
+"correctQuestions": [
+"Why did Oscar go with his mom?"
+],
+"wh_word": "why",
+"auxiliary": "did",
+"subject": "oscar",
+"subject_type": "name_male",
+"category": "Reason",
+"acceptedAnswers": [
+"Why did he go with his mom?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text (Oscar Penguin)"
+},
+{
+"id": "SB_G7_U10_C3",
+"original": "The children were trying to solve the puzzle.",
+"targetWord": "solve the puzzle",
+"correctQuestion": "What were the children trying to do?",
+"correctQuestions": [
+"What were the children trying to do?"
+],
+"wh_word": "what",
+"auxiliary": "were",
+"subject": "the children",
+"subject_type": "noun_plural",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Vocabulary Exercise"
+},
+{
+"id": "AB_G7_U10_C4",
+"original": "We wear a uniform at school.",
+"targetWord": "a uniform",
+"correctQuestion": "What do you wear at school?",
+"correctQuestions": [
+"What do you wear at school?"
+],
+"wh_word": "what",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar Exercise"
+},
+{
+"id": "AB_G7_U10_C5",
+"original": "People eat unhealthy food in the restaurant.",
+"targetWord": "unhealthy food",
+"correctQuestion": "What do people eat in the restaurant?",
+"correctQuestions": [
+"What do people eat in the restaurant?"
+],
+"wh_word": "what",
+"auxiliary": "do",
+"subject": "people",
+"subject_type": "noun_plural",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text (The Burger)"
+},
+{
+"id": "AB_G7_U10_C6",
+"original": "A person must eat in order to live.",
+"targetWord": "in order to live",
+"correctQuestion": "Why must a person eat?",
+"correctQuestions": [
+"Why must a person eat?"
+],
+"wh_word": "why",
+"auxiliary": "must",
+"subject": "a person",
+"subject_type": "noun_person",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar Exercise"
+},
+{
+"id": "AB_G7_U10_C7",
+"original": "We went to bed early because we were tired.",
+"targetWord": "because we were tired",
+"correctQuestion": "Why did you go to bed early?",
+"correctQuestions": [
+"Why did you go to bed early?"
+],
+"wh_word": "why",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar Exercise"
+}
+]
+}
