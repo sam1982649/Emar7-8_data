@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G8_U5_T1_P1",
+"text_group": "G8_U5_Cyber_Bullying",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Beware! - Cyber Bullying (Part 1)",
+"content_exam": "What is bullying?\nBullying is a repeated, harsh, aggressive behaviour that can be physical, verbal, social or online. You may live in a constant fear of where and when the bullies will strike next, what they will do, and how far they will go.\nCyber bullying can occur anywhere. It happens even at home, via smart phones, emails, texts, and social media, 24 hours a day. Cyber bullies use digital technology to annoy, threaten, or humiliate others, unlike traditional bullying which used to occur in streets, school yards or restaurants. Cyber bullying doesn't require face-to-face contact.\nBullying can follow you anywhere so that no place, not even home, makes you feel safe.",
+"questions": [
+{
+"id": "g8_u5_t1_p1_q1",
+"question": "Bullying is a repeated, ........, aggressive behaviour.",
+"options": ["harsh", "soft", "gentle", "kind"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: harsh\n📝 الترجمة: التنمر هو سلوك عدواني متكرر وقاس.\n💡 الشرح: النص يقول: 'repeated, harsh, aggressive behaviour'."
+},
+{
+"id": "g8_u5_t1_p1_q2",
+"question": "You may live in a constant ........ of where bullies will strike next.",
+"options": ["fear", "hope", "joy", "anger"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: fear\n📝 الترجمة: قد تعيش في خوف دائم من أين ومتى سيضرب المتنمرون.\n💡 الشرح: النص يقول: 'live in a constant fear'."
+},
+{
+"id": "g8_u5_t1_p1_q3",
+"question": "Cyber bullying can occur .........",
+"options": ["anywhere", "at school only", "at home only", "in restaurants"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: anywhere\n📝 الترجمة: يمكن أن يحدث التنمر الإلكتروني في أي مكان.\n💡 الشرح: النص يقول: 'Cyber bullying can occur anywhere'."
+},
+{
+"id": "g8_u5_t1_p1_q4",
+"question": "Cyber bullies use digital technology to annoy, threaten, or ........ others.",
+"options": ["humiliate", "help", "support", "encourage"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: humiliate\n📝 الترجمة: يستخدم المتنمرون الإلكترونيون التكنولوجيا الرقمية لإزعاج أو تهديد أو إذلال الآخرين.\n💡 الشرح: النص يقول: 'to annoy, threaten, or humiliate others'."
+},
+{
+"id": "g8_u5_t1_p1_q5",
+"question": "Traditional bullying used to occur in streets, school yards or .........",
+"options": ["restaurants", "homes", "parks", "shops"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: restaurants\n📝 الترجمة: كان التنمر التقليدي يحدث في الشوارع أو ساحات المدارس أو المطاعم.\n💡 الشرح: النص يقول: 'in streets, school yards or restaurants'."
+}
+]
+},
+{
+"id": "G8_U5_T1_P2",
+"text_group": "G8_U5_Cyber_Bullying",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Beware! - Cyber Bullying (Part 2)",
+"content_exam": "It's important to remember that you're not alone. There are plenty of people who can help you overcome the problem and retain your dignity.\nHow to deal with a bully?\nThere are many ways to deal with a bully. Firstly, you have to keep in mind that there is no simple solution to bullying or cyber bullying. You don't have to blame yourself. It is not your fault, no matter what a bully says or does. The bully is the person with the problem, not you. Secondly, try to find support and encouragement. Talking to a parent, teacher, counselor, or other trusted adults doesn't mean that you're weak. Thirdly, take a break from your smart phone, computer, tablet, and video games. Meet new people and connect with real friends who don't participate in any kind of bullying and who share the same values and interests with you.",
+"questions": [
+{
+"id": "g8_u5_t1_p2_q1",
+"question": "Bullying can follow you anywhere, even at home.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يمكن أن يتبعك التنمر في أي مكان، حتى في المنزل.\n💡 الشرح: النص يقول: 'Bullying can follow you anywhere so that no place, not even home, makes you feel safe'."
+},
+{
+"id": "g8_u5_t1_p2_q2",
+"question": "You should blame yourself for being bullied.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: يجب أن تلوم نفسك على تعرضك للتنمر.\n💡 الشرح: النص يقول: 'You don't have to blame yourself. It is not your fault'."
+},
+{
+"id": "g8_u5_t1_p2_q3",
+"question": "Talking to a trusted adult means you are weak.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: التحدث إلى شخص بالغ موثوق به يعني أنك ضعيف.\n💡 الشرح: النص يقول: 'doesn't mean that you're weak'."
+},
+{
+"id": "g8_u5_t1_p2_q4",
+"question": "What does bullying mean?",
+"type": "answer",
+"keywords": ["repeated", "harsh", "aggressive", "behaviour"],
+"explanation": "✅ الإجابة الصحيحة: Bullying is a repeated, harsh, aggressive behaviour.\n📝 الترجمة: ماذا يعني التنمر؟\n💡 الشرح: النص يقول: 'Bullying is a repeated, harsh, aggressive behaviour'."
+},
+{
+"id": "g8_u5_t1_p2_q5",
+"question": "Give two pieces of advice from the text to deal with cyber bullying.",
+"type": "answer",
+"keywords": ["don't blame yourself", "find support", "take a break", "connect with real friends"],
+"explanation": "✅ الإجابة الصحيحة: 1. Don't blame yourself. 2. Find support and encouragement. / Take a break from your phone. / Connect with real friends.\n📝 الترجمة: قدم نصيحتين من النص للتعامل مع التنمر الإلكتروني.\n💡 الشرح: النص يقدم عدة نصائح مثل: لا تلوم نفسك، ابحث عن الدعم، خذ استراحة، تواصل مع أصدقاء حقيقيين."
+}
+]
+},
+{
+"id": "G8_U5_T2_P1",
+"text_group": "G8_U5_Happy_on_Social_Media",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "How to Feel as Happy as You Look on Social Media (Part 1)",
+"content_exam": "It's no secret that the way we present ourselves on social media don't always reflect how we're truly feeling. You can easily post a photo of yourself looking very excited on Instagram while sitting at home feeling bored. Social media can give us a false sense of other people's reality, since we often see only the best image people choose to share online. It's natural to compare yourself to how others appear on social media, but sometimes you feel upset. It's important to build a real life that you can feel good about. Here are some tips which may help you to feel as happy as you look on social media.",
+"questions": [
+{
+"id": "g8_u5_t2_p1_q1",
+"question": "The way we present ourselves on social media don't always ........ how we're truly feeling.",
+"options": ["reflect", "hide", "change", "improve"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: reflect\n📝 الترجمة: الطريقة التي نقدم بها أنفسنا على وسائل التواصل لا تعكس دائماً ما نشعر به حقاً.\n💡 الشرح: النص يقول: 'don't always reflect how we're truly feeling'."
+},
+{
+"id": "g8_u5_t2_p1_q2",
+"question": "You can post a photo looking excited while feeling .........",
+"options": ["bored", "happy", "excited", "angry"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: bored\n📝 الترجمة: يمكنك نشر صورة وأنت تبدو متحمساً بينما تشعر بالملل.\n💡 الشرح: النص يقول: 'looking very excited ... while sitting at home feeling bored'."
+},
+{
+"id": "g8_u5_t2_p1_q3",
+"question": "Social media can give us a ........ sense of other people's reality.",
+"options": ["false", "true", "real", "clear"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: false\n📝 الترجمة: يمكن لوسائل التواصل أن تعطينا إحساساً زائفاً بواقع الآخرين.\n💡 الشرح: النص يقول: 'give us a false sense of other people's reality'."
+},
+{
+"id": "g8_u5_t2_p1_q4",
+"question": "We often see only the ........ image people choose to share online.",
+"options": ["best", "worst", "saddest", "oldest"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: best\n📝 الترجمة: غالباً ما نرى فقط الصورة الأفضل التي يختار الناس مشاركتها عبر الإنترنت.\n💡 الشرح: النص يقول: 'the best image people choose to share online'."
+},
+{
+"id": "g8_u5_t2_p1_q5",
+"question": "It's natural to compare yourself to how others ........ on social media.",
+"options": ["appear", "disappear", "hide", "change"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: appear\n📝 الترجمة: من الطبيعي أن تقارن نفسك بكيفية ظهور الآخرين على وسائل التواصل.\n💡 الشرح: النص يقول: 'compare yourself to how others appear on social media'."
+}
+]
+},
+{
+"id": "G8_U5_T2_P2",
+"text_group": "G8_U5_Happy_on_Social_Media",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "How to Feel as Happy as You Look on Social Media (Part 2)",
+"content_exam": "1- Identify the real reason of your unhappiness\nIf you realize your negative feelings, you will feel healthier and happier.\n2- Evaluate your situation\nIf you feel frustrated, take some steps to make a change. You need to take a moment to evaluate where you are and what you want.\n3- Stop the endless surfing\nBy spending hours searching social media, you end up measuring your happiness against others, which only creates feelings of loneliness and grief. Remember they don't know every detail about your life and you don't know every detail about theirs. If you have negative emotions while searching through Instagram or Facebook, you will need to take a break from your phone and do something that makes you feel better.",
+"questions": [
+{
+"id": "g8_u5_t2_p2_q1",
+"question": "You should identify the real reason of your unhappiness.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يجب أن تحدد السبب الحقيقي لتعاستك.\n💡 الشرح: النص يقول: 'Identify the real reason of your unhappiness'."
+},
+{
+"id": "g8_u5_t2_p2_q2",
+"question": "Spending hours on social media creates feelings of happiness.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: قضاء ساعات على وسائل التواصل يخلق مشاعر السعادة.\n💡 الشرح: النص يقول: 'creates feelings of loneliness and grief'."
+},
+{
+"id": "g8_u5_t2_p2_q3",
+"question": "You should take a break from your phone if you have negative emotions.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يجب أن تأخذ استراحة من هاتفك إذا كانت لديك مشاعر سلبية.\n💡 الشرح: النص يقول: 'you will need to take a break from your phone'."
+},
+{
+"id": "g8_u5_t2_p2_q4",
+"question": "What kind of photos do people share online?",
+"type": "answer",
+"keywords": ["best", "image", "excited", "happy"],
+"explanation": "✅ الإجابة الصحيحة: People share photos of themselves looking excited or happy, showing only the best image.\n📝 الترجمة: أي نوع من الصور يشاركه الناس عبر الإنترنت؟\n💡 الشرح: النص يقول: 'looking very excited' و 'the best image people choose to share'."
+},
+{
+"id": "g8_u5_t2_p2_q5",
+"question": "What causes the feeling of loneliness?",
+"type": "answer",
+"keywords": ["spending hours", "searching", "social media", "measuring", "happiness", "against others"],
+"explanation": "✅ الإجابة الصحيحة: Spending hours searching social media and measuring your happiness against others causes loneliness.\n📝 الترجمة: ما الذي يسبب الشعور بالوحدة؟\n💡 الشرح: النص يقول: 'spending hours searching social media, you end up measuring your happiness against others, which only creates feelings of loneliness'."
+}
+]
+}
+]
+}

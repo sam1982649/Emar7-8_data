@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"title": "تمرين المطابقة ١ - Student Book",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "if we didn't have friends." },
+{ "letter": "b", "text": "if we knew how to use social media correctly." },
+{ "letter": "c", "text": "face-to-face contact." },
+{ "letter": "d", "text": "you would feel more relaxed." },
+{ "letter": "e", "text": "school yards or restaurants." },
+{ "letter": "f", "text": "makes you feel safe." }
+],
+"sentences": [
+{
+"start": "Life would be very boring",
+"correct": "a",
+"full_sentence": "Life would be very boring if we didn't have friends.",
+"translation": "كانت الحياة مملة جداً لو لم يكن لدينا أصدقاء.",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 10"
+},
+{
+"start": "It would be safer",
+"correct": "b",
+"full_sentence": "It would be safer if we knew how to use social media correctly.",
+"translation": "سيكون أكثر أماناً إذا عرفنا كيفية استخدام وسائل التواصل الاجتماعي بشكل صحيح.",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 10"
+},
+{
+"start": "Cyber bullying doesn't require",
+"correct": "c",
+"full_sentence": "Cyber bullying doesn't require face-to-face contact.",
+"translation": "لا يتطلب التنمر الإلكتروني تواصلاً وجهاً لوجه.",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 7"
+},
+{
+"start": "If you took a break from your mobile",
+"correct": "d",
+"full_sentence": "If you took a break from your mobile, you would feel more relaxed.",
+"translation": "إذا أخذت استراحة من هاتفك، كنت ستشعر بمزيد من الاسترخاء.",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 10"
+},
+{
+"start": "Traditional bullying used to occur in streets,",
+"correct": "e",
+"full_sentence": "Traditional bullying used to occur in streets, school yards or restaurants.",
+"translation": "كان التنمر التقليدي يحدث في الشوارع، ساحات المدارس أو المطاعم.",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 7"
+}
+]
+},
+{
+"title": "تمرين المطابقة ٢ - Activity Book",
+"source": "activity_book",
+"options": [
+{ "letter": "a", "text": "than they would be in real life." },
+{ "letter": "b", "text": "the reason of your real feelings." },
+{ "letter": "c", "text": "if you feel unhappy or upset." },
+{ "letter": "d", "text": "if I didn't spend all my money." },
+{ "letter": "e", "text": "with staying indoors." },
+{ "letter": "f", "text": "based on emotions." }
+],
+"sentences": [
+{
+"start": "People look happier on social media",
+"correct": "a",
+"full_sentence": "People look happier on social media than they would be in real life.",
+"translation": "يبدو الناس أكثر سعادة على وسائل التواصل الاجتماعي مما هم عليه في الواقع.",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 18"
+},
+{
+"start": "It is healthy to understand",
+"correct": "b",
+"full_sentence": "It is healthy to understand the reason of your real feelings.",
+"translation": "من الصحي أن تفهم سبب مشاعرك الحقيقية.",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 18"
+},
+{
+"start": "Stop using social media for a while",
+"correct": "c",
+"full_sentence": "Stop using social media for a while if you feel unhappy or upset.",
+"translation": "توقف عن استخدام وسائل التواصل الاجتماعي لفترة إذا شعرت بالتعاسة أو الانزعاج.",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 18"
+},
+{
+"start": "I would buy a new bike",
+"correct": "d",
+"full_sentence": "I would buy a new bike if I didn't spend all my money.",
+"translation": "كنت سأشتري دراجة جديدة إذا لم أنفق كل أموالي.",
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 20"
+},
+{
+"start": "The children quickly got bored",
+"correct": "e",
+"full_sentence": "The children quickly got bored with staying indoors.",
+"translation": "سرعان ما شعر الأطفال بالملل من البقاء في الداخل.",
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 19"
+}
+]
+}
+]
+}

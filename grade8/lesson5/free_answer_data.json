@@ -1,0 +1,66 @@
+{
+"questions": [
+{
+"question": "What do you usually like to share on social media?",
+"translation": "ماذا تحب عادةً أن تشارك على وسائل التواصل الاجتماعي؟",
+"keywords": ["share", "photos", "posts", "updates"],
+"suggested_answers": [
+"I usually like to share photos and updates about my daily life.",
+"I like to share interesting posts and articles with my friends.",
+"I usually share my opinions and thoughts on social media."
+]
+},
+{
+"question": "How often do you post photos on social media?",
+"translation": "كم مرة تنشر صوراً على وسائل التواصل الاجتماعي؟",
+"keywords": ["often", "post", "photos", "everyday", "week"],
+"suggested_answers": [
+"I post photos everyday.",
+"I post photos once a week.",
+"I post photos twice a week."
+]
+},
+{
+"question": "How many followers do you have on social media?",
+"translation": "كم عدد المتابعين لديك على وسائل التواصل الاجتماعي؟",
+"keywords": ["followers", "social media", "have", "number"],
+"suggested_answers": [
+"I have about 100 followers.",
+"I have 50 followers.",
+"I have more than 200 followers."
+]
+},
+{
+"question": "How do you deal with bullies?",
+"translation": "كيف تتعامل مع المتنمرين؟",
+"keywords": ["deal with", "bullies", "ignore", "talk", "tell"],
+"suggested_answers": [
+"I ignore them and don't respond.",
+"I tell a teacher or my parents about them.",
+"I talk to a trusted adult for help."
+]
+},
+{
+"question": "What advice would you give to someone who is being bullied online?",
+"translation": "ما النصيحة التي تقدمها لشخص يتعرض للتنمر عبر الإنترنت؟",
+"keywords": ["advice", "bullied online", "tell someone", "ignore", "block", "report"],
+"suggested_answers": [
+"I would advise them to tell a trusted adult and not to respond to the bully.",
+"They should block the bully and report them to the website.",
+"I would tell them to save the messages as evidence and ask for help."
+]
+},
+{
+"question": "What are the dangers of sharing personal information online?",
+"translation": "ما هي مخاطر مشاركة المعلومات الشخصية عبر الإنترنت؟",
+"keywords": ["dangers", "sharing", "personal information", "online", "privacy", "strangers"],
+"suggested_answers": [
+"People may steal your information.",
+"You may lose your privacy.",
+"Strangers may harm you.",
+"You may be bullied.",
+"Someone may track you."
+]
+}
+]
+}

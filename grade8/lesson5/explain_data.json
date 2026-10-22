@@ -1,0 +1,180 @@
+{
+"vocabulary": [
+{ "word": "bullying", "translation": "التنمر" },
+{ "word": "cyber bullying", "translation": "التنمر الإلكتروني" },
+{ "word": "aggressive", "translation": "عدواني" },
+{ "word": "constant", "translation": "ثابت / مستمر" },
+{ "word": "humiliate", "translation": "يُذل / يُحرج" },
+{ "word": "retain", "translation": "يحتفظ" },
+{ "word": "dignity", "translation": "كرامة" },
+{ "word": "annoy", "translation": "يزعج" },
+{ "word": "threaten", "translation": "يهدد" },
+{ "word": "traditional", "translation": "تقليدي" },
+{ "word": "digital", "translation": "رقمي" },
+{ "word": "face-to-face", "translation": "وجهاً لوجه" },
+{ "word": "harsh", "translation": "قاسٍ" },
+{ "word": "behaviour", "translation": "سلوك" },
+{ "word": "physical", "translation": "جسدي" },
+{ "word": "verbal", "translation": "لفظي" },
+{ "word": "social", "translation": "اجتماعي" },
+{ "word": "fear", "translation": "خوف" },
+{ "word": "technology", "translation": "تكنولوجيا" },
+{ "word": "contact", "translation": "تواصل" },
+{ "word": "solution", "translation": "حل" },
+{ "word": "blame", "translation": "يلوم" },
+{ "word": "support", "translation": "دعم" },
+{ "word": "encouragement", "translation": "تشجيع" },
+{ "word": "counselor", "translation": "مستشار" },
+{ "word": "trusted", "translation": "موثوق به" },
+{ "word": "participate", "translation": "يشارك" },
+{ "word": "values", "translation": "قيم" },
+{ "word": "interests", "translation": "اهتمامات" },
+{ "word": "overcome", "translation": "يتغلب" },
+{ "word": "strike", "translation": "يضرب" },
+{ "word": "adult", "translation": "شخص بالغ" },
+{ "word": "video games", "translation": "ألعاب الفيديو" },
+{ "word": "tablet", "translation": "جهاز لوحي" },
+{ "word": "reflect", "translation": "يعكس" },
+{ "word": "grief", "translation": "حزن" },
+{ "word": "frustrated", "translation": "محبط" },
+{ "word": "evaluate", "translation": "يُقيّم" },
+{ "word": "emotions", "translation": "مشاعر" },
+{ "word": "lonely", "translation": "وحيد" },
+{ "word": "loneliness", "translation": "وحدة" },
+{ "word": "bored", "translation": "يشعر بالملل" },
+{ "word": "boredom", "translation": "ملل" },
+{ "word": "frustrations", "translation": "إحباطات" },
+{ "word": "happiness", "translation": "سعادة" },
+{ "word": "emotional", "translation": "عاطفي" },
+{ "word": "social media", "translation": "وسائل التواصل الاجتماعي" },
+{ "word": "online", "translation": "عبر الإنترنت" },
+{ "word": "privacy", "translation": "خصوصية" },
+{ "word": "strangers", "translation": "غرباء" },
+{ "word": "screen time", "translation": "وقت الشاشة" },
+{ "word": "followers", "translation": "متابعون" },
+{ "word": "application", "translation": "تطبيق" },
+{ "word": "downloaded", "translation": "تم تحميله" },
+{ "word": "worried", "translation": "قلق" },
+{ "word": "excited", "translation": "متحمس" },
+{ "word": "attractive", "translation": "جذاب" },
+{ "word": "popular", "translation": "شعبي" },
+{ "word": "communicate", "translation": "يتواصل" },
+{ "word": "international", "translation": "دولي" },
+{ "word": "socialize", "translation": "يتواصل اجتماعياً" },
+{ "word": "miss", "translation": "يشتاق" },
+{ "word": "limit", "translation": "يحدّد" },
+{ "word": "schedule", "translation": "جدول" },
+{ "word": "advice", "translation": "نصيحة" },
+{ "word": "suggestion", "translation": "اقتراح" },
+{ "word": "examine", "translation": "يفحص / يمتحن" },
+{ "word": "improve", "translation": "يحسّن" },
+{ "word": "focus", "translation": "يركز" },
+{ "word": "media", "translation": "وسائل الإعلام" },
+{ "word": "comment", "translation": "تعليق" },
+{ "word": "post", "translation": "منشور" },
+{ "word": "bully (v)", "translation": "يتنمر" },
+{ "word": "messenger", "translation": "مراسلة" },
+{ "word": "announce", "translation": "يعلن" },
+{ "word": "humiliating", "translation": "مهين" },
+{ "word": "fault", "translation": "خطأ" }
+],
+"tables": [
+{
+"title": "Second Conditional (الجملة الشرطية من النوع الثاني)",
+"headers": ["Usage", "Form", "Example"],
+"rows": [
+["مواقف غير حقيقية أو خيالية", "If + past simple, would + infinitive", "If I had a problem, I would ask for help."],
+["تستخدم للحاضر والمستقبل", "Use 'were' for all subjects (formal)", "If he were here, he would help."],
+["النفي في جملة if", "If + didn't + infinitive", "If I didn't have money, I wouldn't travel."],
+["النفي في جملة النتيجة", "wouldn't + infinitive", "If I asked, they wouldn't help me."]
+],
+"explanation": "تستخدم الجملة الشرطية من النوع الثاني (Second Conditional) للتعبير عن مواقف غير حقيقية أو خيالية في الحاضر أو المستقبل. تتكون من جملة شرطية (If) بزمن الماضي البسيط وجملة نتيجة بزمن would + المصدر. في اللغة الرسمية، نستخدم 'were' مع جميع الضمائر في جملة if.",
+"examples": "If you took a break from your mobile, you would feel more relaxed.\nLife would be boring if we didn't have friends.\nIt would be safer if we knew how to use social media correctly.\nIf I had enough apples, I would bake an apple pie."
+},
+{
+"title": "Simple Present (المضارع البسيط)",
+"headers": ["Usage", "Form", "Example"],
+"rows": [
+["حقائق عامة", "Subject + verb (s with he/she/it)", "Cyber bullying happens even at home."],
+["النفي", "Subject + don't/doesn't + infinitive", "Cyber bullying doesn't require face-to-face contact."]
+],
+"explanation": "يستخدم المضارع البسيط للحقائق العامة والعادات والروتين. مع he, she, it نضيف s للفعل. للنفي نستخدم doesn't مع المفرد و don't مع الجمع.",
+"examples": "Cyber bullying happens even at home.\nCyber bullying doesn't require face-to-face contact."
+},
+{
+"title": "Relative Clauses (ضمائر الوصل)",
+"headers": ["Pronoun", "Usage", "Example"],
+"rows": [
+["who", "للأشخاص (فاعل)", "There are people who can help you."],
+["which", "للأشياء", "Social media is something which can be useful."],
+["whom", "للأشخاص (مفعول به)", "The man whom I saw."],
+["whose", "للملكية", "The student whose book is lost."]
+],
+"explanation": "تستخدم ضمائر الوصل لربط جملتين. who للعاقل كفاعل، which للشيء، whom للعاقل كمفعول به، whose للملكية.",
+"examples": "There are people who can help you.\nSocial media is something which can be useful."
+},
+{
+"title": "Conditional Sentences Type 1 (الجملة الشرطية من النوع الأول)",
+"headers": ["Usage", "Form", "Example"],
+"rows": [
+["مواقف حقيقية وممكنة", "If + present simple, will + infinitive", "If you realize your feelings, you will feel better."]
+],
+"explanation": "تستخدم الجملة الشرطية من النوع الأول (Type 1) للتعبير عن مواقف حقيقية وممكنة الحدوث في المستقبل. تتكون من جملة شرطية (If) بزمن المضارع البسيط وجملة نتيجة بزمن will + المصدر.",
+"examples": "If you realize your negative feelings, you will feel healthier and happier."
+},
+{
+"title": "Object Pronouns (ضمائر المفعول به)",
+"headers": ["Subject Pronoun", "Object Pronoun", "Example"],
+"rows": [
+["I", "me", "She called me."],
+["you", "you", "I see you."],
+["he", "him", "She helped him."],
+["she", "her", "He told her."],
+["it", "it", "I like it."],
+["we", "us", "They gave us."],
+["they", "them", "She saw them."]
+],
+"explanation": "ضمائر المفعول به تأتي بعد الفعل أو حرف الجر. تستخدم بدلاً من الاسم الذي وقع عليه الفعل.",
+"examples": "Social media can give us a false sense of reality."
+},
+{
+"title": "Prepositions (حروف الجر المهمة)",
+"headers": ["Preposition", "Usage", "Example"],
+"rows": [
+["of", "التعبير عن الكمية", "plenty of people"],
+["with", "التعبير عن التعامل", "deal with a bully"],
+["to", "الاتجاه / الغرض", "talk to someone"],
+["about", "التعبير عن الموضوع", "feel good about"],
+["at", "التعبير عن المكان / الزمن", "at home / at 6 o'clock"],
+["for", "التعبير عن السبب", "ask for help"]
+],
+"explanation": "حروف الجر تربط الكلمات في الجملة. بعض الأفعال تأتي مع حروف جر محددة ويجب حفظها كما هي.",
+"examples": "There are plenty of people who can help you.\nThere are many ways to deal with a bully.\nYou may live in a constant fear of bullies."
+},
+{
+"title": "Word Forms (أشكال الكلمات)",
+"headers": ["Noun", "Adjective", "Adverb"],
+"rows": [
+["reality", "real", "really"],
+["nature", "natural", "naturally"],
+["emotion", "emotional", "emotionally"],
+["frustration", "frustrated", "frustratingly"],
+["happiness", "happy", "happily"],
+["loneliness", "lonely", "lonesomely"],
+["boredom", "bored", "boringly"]
+],
+"explanation": "الكلمات في اللغة الإنجليزية تأتي بأشكال مختلفة (اسم، صفة، ظرف). يجب اختيار الشكل المناسب حسب موقعها في الجملة.",
+"examples": "It's natural to compare yourself to others.\nShe feels lonely because of loneliness.\nHe was frustrated by the frustrations of his job."
+},
+{
+"title": "Pronunciation - /u/ vs /u:/ (النطق - الفرق بين الصوت القصير والطويل)",
+"headers": ["Sound", "Words"],
+"rows": [
+["/u/ (قصير)", "bull, took, should, wool, good, foot, cook, could, put, push"],
+["/u:/ (طويل)", "flew, prove, loose, room, shoot, shoe, spoon, tooth, boot, tool, fruit, true"]
+],
+"explanation": "يوجد في اللغة الإنجليزية صوتان للـ u: الصوت القصير /u/ كما في 'pull' والصوت الطويل /u:/ كما في 'pool'. يجب الانتباه إلى الفرق بينهما لأن المعنى يتغير.",
+"examples": "pull /pʊl/ (يسحب) - pool /puːl/ (بركة سباحة)\nfool /fuːl/ (أحمق) - full /fʊl/ (ممتلئ)"
+}
+]
+}
