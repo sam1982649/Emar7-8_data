@@ -1,0 +1,64 @@
+{
+"questions": [
+{
+"question": "What is your favourite subject? Why?",
+"translation": "ما هي مادتك المفضلة؟ لماذا؟",
+"keywords": ["English", "Arabic", "Math", "Science", "interesting", "important", "useful", "fun"],
+"suggested_answers": [
+"My favourite subject is English because it is interesting and useful.",
+"I like Math because it helps me solve problems.",
+"My favourite subject is Science because it is fun and important."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 7"
+},
+{
+"question": "How do you help your family at home?",
+"translation": "كيف تساعد عائلتك في المنزل؟",
+"keywords": ["help", "mother", "father", "clean", "cook", "wash", "tidy", "shopping"],
+"suggested_answers": [
+"I help my mother clean the house and wash the dishes.",
+"I help my father with shopping and I tidy my room.",
+"I help my family by cooking and cleaning."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 7"
+},
+{
+"question": "What do you do in your free time?",
+"translation": "ماذا تفعل في وقت فراغك؟",
+"keywords": ["play", "read", "watch", "football", "games", "books", "TV", "music"],
+"suggested_answers": [
+"In my free time, I play football and read books.",
+"I like to watch TV and listen to music.",
+"I usually play games and read stories."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 7"
+},
+{
+"question": "Why is it important to work together?",
+"translation": "لماذا من المهم العمل معاً؟",
+"keywords": ["together", "team", "help", "solve", "problems", "achieve", "goals", "faster"],
+"suggested_answers": [
+"It is important to work together because we can solve problems faster.",
+"Working together helps us achieve our goals and helps each other.",
+"Teamwork is important because we help each other and finish faster."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 7"
+},
+{
+"question": "What makes a good teacher?",
+"translation": "ما الذي يجعل المعلم جيداً؟",
+"keywords": ["patient", "kind", "helpful", "fun", "explain", "understand", "students"],
+"suggested_answers": [
+"A good teacher is patient and kind with students.",
+"A good teacher explains lessons well and helps students understand.",
+"A good teacher is helpful, fun, and patient."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 7"
+}
+]
+}
