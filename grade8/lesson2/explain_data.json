@@ -1,0 +1,267 @@
+{
+"vocabulary": [
+{ "word": "expose", "translation": "يُعرّض (يُظهر شيئاً كان مخفياً)" },
+{ "word": "exposed", "translation": "معرّض / مكشوف" },
+{ "word": "depressed", "translation": "مكتئب (حزين جداً وبلا أمل)" },
+{ "word": "depression", "translation": "اكتئاب" },
+{ "word": "self-esteem", "translation": "تقدير الذات (الشعور بالرضا عن الشخصية والقدرات)" },
+{ "word": "hesitate", "translation": "يتردد (يتلكأ في التصرف بسبب عدم اليقين)" },
+{ "word": "hesitation", "translation": "تردد" },
+{ "word": "bully", "translation": "يتنمر (يخيف أو يؤذي شخصاً أضعف)" },
+{ "word": "bullying", "translation": "تنمر" },
+{ "word": "complicated", "translation": "معقّد (صعب الفهم)" },
+{ "word": "socializing", "translation": "تواصل اجتماعي" },
+{ "word": "motivated", "translation": "لديه حافز" },
+{ "word": "careless", "translation": "مهمل" },
+{ "word": "on purpose", "translation": "عن قصد (ليس بالصدفة)" },
+{ "word": "damaging", "translation": "مضر / مؤذٍ (له تأثير سيء)" },
+{ "word": "belongings", "translation": "ممتلكات (الأشياء التي تملكها)" },
+{ "word": "oblige", "translation": "يُجبر (يرغم شخصاً على فعل شيء)" },
+{ "word": "popular", "translation": "محبوب / شعبي (مرغوب من قبل عدد كبير)" },
+{ "word": "entertainment", "translation": "تسلية (أشياء تثير الاهتمام)" },
+{ "word": "jealous", "translation": "غيور (يشعر بعدم السعادة لأن شخصاً لديه ما تتمناه)" },
+{ "word": "self-confident", "translation": "واثق من نفسه" },
+{ "word": "recognize", "translation": "يتعرّف على / يدرك" },
+{ "word": "social worker", "translation": "أخصائي اجتماعي" },
+{ "word": "force", "translation": "قوة" },
+{ "word": "mass", "translation": "كتلة" },
+{ "word": "acceleration", "translation": "تسارع" },
+{ "word": "motion", "translation": "حركة" },
+{ "word": "action", "translation": "فعل" },
+{ "word": "reaction", "translation": "رد فعل" },
+{ "word": "name-calling", "translation": "إطلاق الألقاب" },
+{ "word": "unpleasant", "translation": "غير لطيف / مزعج" },
+{ "word": "scared", "translation": "خائف" },
+{ "word": "uncomfortable", "translation": "غير مرتاح" },
+{ "word": "damage", "translation": "يتلف / يضر" },
+{ "word": "knock", "translation": "يقرع / يطرق" },
+{ "word": "push", "translation": "يدفع" },
+{ "word": "kick", "translation": "يركل" },
+{ "word": "hit", "translation": "يضرب" },
+{ "word": "belong", "translation": "ينتمي" },
+{ "word": "socialize", "translation": "يتواصل اجتماعياً" },
+{ "word": "out of control", "translation": "خارج السيطرة" },
+{ "word": "get on with", "translation": "ينسجم مع" },
+{ "word": "as soon as possible", "translation": "في أسرع وقت ممكن" },
+{ "word": "without hesitation", "translation": "بدون تردد" },
+{ "word": "the slightest", "translation": "أدنى (شيء صغير جداً)" },
+{ "word": "law", "translation": "قانون" },
+{ "word": "equal", "translation": "مساوٍ / متساوٍ" },
+{ "word": "opposite", "translation": "معاكس / عكسي" },
+{ "word": "stress", "translation": "ضغط نفسي" },
+{ "word": "event", "translation": "حدث" },
+{ "word": "refuse", "translation": "يرفض" },
+{ "word": "solve", "translation": "يحلّ" },
+{ "word": "solution", "translation": "حل" },
+{ "word": "worry", "translation": "يقلق / يتوتر" },
+{ "word": "worried", "translation": "قلق" },
+{ "word": "experience", "translation": "يواجه / يختبر" },
+{ "word": "unhappy", "translation": "غير سعيد" },
+{ "word": "low", "translation": "منخفض" },
+{ "word": "get up", "translation": "يستيقظ" },
+{ "word": "get ready", "translation": "يستعد" },
+{ "word": "noisy", "translation": "مزعج / صاخب" },
+{ "word": "ask for help", "translation": "يطلب المساعدة" },
+{ "word": "harm", "translation": "يؤذي / يضر" },
+{ "word": "hurt", "translation": "يؤذي (مشاعر أو جسدياً)" },
+{ "word": "comfortable", "translation": "مرتاح" },
+{ "word": "keep silent", "translation": "يصمت / يلتزم الصمت" },
+{ "word": "golden rule", "translation": "قاعدة ذهبية" },
+{ "word": "treat", "translation": "يعامل" },
+{ "word": "strength", "translation": "قوة (جسدية)" },
+{ "word": "weaker", "translation": "أضعف" },
+{ "word": "apart", "translation": "بعيداً / منفرداً" },
+{ "word": "accident", "translation": "حادث (صدفة)" },
+{ "word": "relate to", "translation": "يتعلق بـ / يربط بـ" },
+{ "word": "act on", "translation": "يؤثر على" },
+{ "word": "traditional", "translation": "تقليدي" },
+{ "word": "modern", "translation": "حديث" },
+{ "word": "pass through", "translation": "يمر بـ / يجتاز" },
+{ "word": "without the slightest hesitation", "translation": "بدون أدنى تردد" },
+{ "word": "slightest", "translation": "أدنى (شيء صغير جداً)" },
+{ "word": "knock out", "translation": "يطرق (يسقط من اليد)" },
+{ "word": "adopt", "translation": "يتبنى" },
+{ "word": "shift", "translation": "وردية / نوبة" },
+{ "word": "litter", "translation": "نفايات" },
+{ "word": "wipe", "translation": "يمسح" },
+{ "word": "effective", "translation": "فعال" },
+{ "word": "aware", "translation": "مدرك" },
+{ "word": "surroundings", "translation": "محيط / بيئة" },
+{ "word": "goal", "translation": "هدف" },
+{ "word": "career", "translation": "مهنة" },
+{ "word": "feature", "translation": "ميزة" },
+{ "word": "vehicle", "translation": "مركبة" },
+{ "word": "educator", "translation": "معلم / مربي" },
+{ "word": "academic", "translation": "أكاديمي / دراسي" },
+{ "word": "sightseeing", "translation": "جولة سياحية" },
+{ "word": "relatives", "translation": "أقارب" },
+{ "word": "vacation", "translation": "عطلة" },
+{ "word": "accompany", "translation": "يرافق" },
+{ "word": "nervous", "translation": "متوتر" },
+{ "word": "excited", "translation": "متحمّس" },
+{ "word": "boil", "translation": "يغلي" },
+{ "word": "pasta", "translation": "معكرونة" },
+{ "word": "desert", "translation": "صحراء" },
+{ "word": "global warming", "translation": "الاحتباس الحراري" },
+{ "word": "graduate", "translation": "يتخرّج" },
+{ "word": "decision", "translation": "قرار" },
+{ "word": "prediction", "translation": "توقع" },
+{ "word": "evidence", "translation": "دليل / برهان" },
+{ "word": "significant", "translation": "مهم / ذو دلالة" },
+{ "word": "enhance", "translation": "يعزّز / يحسّن" },
+{ "word": "evolve", "translation": "يتطوّر" },
+{ "word": "adapt", "translation": "يتكيّف" },
+{ "word": "transform", "translation": "يحوّل / يغيّر" },
+{ "word": "integrate", "translation": "يدمج" },
+{ "word": "interactive", "translation": "تفاعلي" },
+{ "word": "engage", "translation": "يشارك / ينخرط" },
+{ "word": "virtual", "translation": "افتراضي" },
+{ "word": "electronic", "translation": "إلكتروني" },
+{ "word": "designer", "translation": "مصمم" },
+{ "word": "concern", "translation": "قلق / اهتمام" },
+{ "word": "well-being", "translation": "رفاهية" },
+{ "word": "planner", "translation": "مخطط" },
+{ "word": "laboratory", "translation": "مختبر" },
+{ "word": "surf", "translation": "يتصفح (الإنترنت)" },
+{ "word": "screen", "translation": "شاشة" },
+{ "word": "discuss", "translation": "يناقش" },
+{ "word": "memorable", "translation": "لا يُنسى" },
+{ "word": "playground", "translation": "ساحة لعب" }
+],
+"tables": [
+{
+"title": "Past Simple (الماضي البسيط)",
+"headers": ["Usage", "Example"],
+"rows": [
+["أحداث مكتملة في الماضي", "I went to the library yesterday."],
+["سلسلة من الأحداث في الماضي", "I stood still and wondered what to do."],
+["النفي (didn't + مصدر)", "I didn't go to the library yesterday."],
+["السؤال (Did + فاعل + مصدر)", "Did you go to the library yesterday?"]
+],
+"explanation": "يستخدم Past Simple للتعبير عن أحداث بدأت وانتهت في الماضي. مع الفاعل المفرد والجمع، الفعل يكون في الماضي (الفعل الثاني). للنفي نستخدم didn't + المصدر. للسؤال نستخدم Did + الفاعل + المصدر.",
+"examples": "I stopped working last night.\nThe weather was dreadful at the weekend.\nMy stereo stopped working last night.\nI didn't go to the library yesterday."
+},
+{
+"title": "Past Progressive (الماضي المستمر)",
+"headers": ["Usage", "Example"],
+"rows": [
+["حدث مستمر في الماضي قطعه حدث آخر", "I was walking when a man came up to me."],
+["حدث مستمر في وقت معين في الماضي", "Samer was taking a shower when the telephone rang."],
+["النفي (wasn't / weren't + verb + ing)", "I wasn't watching TV when he came."],
+["السؤال (Was/Were + فاعل + verb + ing)", "Were you studying when I called?"]
+],
+"explanation": "يستخدم Past Progressive للأحداث المستمرة في الماضي. يتكون من was/were + الفعل + ing. عادةً ما يقطعه حدث آخر في Past Simple.",
+"examples": "I was walking down the street when suddenly a man came up to me.\nJohn was playing tennis when he hurt his leg.\nI was going home when I met my friend.\nSamer was taking a shower when the telephone rang."
+},
+{
+"title": "Subject & Object Questions (السؤال عن الفاعل والمفعول به) - مراجعة",
+"headers": ["Type", "Form", "Example"],
+"rows": [
+["Subject Question", "Who + verb (no auxiliary)", "Who felt lonely?"],
+["Object Question", "Wh- + auxiliary + subject + verb", "What did he find?"]
+],
+"explanation": "للسؤال عن الفاعل نستخدم Who بدون فعل مساعد، والفعل يبقى مفرداً (يضاف s). للسؤال عن المفعول به نستخدم Wh- مع الفعل المساعد والفاعل.",
+"examples": "Who was angry?\nWhat was John playing?\nWhere did you go yesterday?"
+},
+{
+"title": "Prepositions (حروف الجر) - مراجعة",
+"headers": ["Preposition", "Usage", "Example"],
+"rows": [
+["for", "الغرض / المنفعة", "Schools are good places for socializing."],
+["with", "الرضا / الاتفاق", "We need to be satisfied with ourselves."],
+["on", "الاعتماد", "The acceleration depends on force and mass."],
+["of", "الملكية / التكوين", "The stresses of school life."]
+],
+"explanation": "حروف الجر تربط الكلمات في الجملة. بعض الأفعال تأتي مع حروف جر محددة ويجب حفظها كما هي.",
+"examples": "Schools are good places for socializing.\nWe need to be more satisfied with ourselves.\nThe acceleration depends on two things."
+},
+{
+"title": "Relative Clauses (ضمائر الوصل) - مراجعة",
+"headers": ["Pronoun", "Usage", "Example"],
+"rows": [
+["which", "للأشياء (غير العاقل)", "The problems which we face."],
+["who", "للأشخاص (العاقل)", "The teacher who helped me."]
+],
+"explanation": "تستخدم ضمائر الوصل لربط جملتين. which للشيء، who للعاقل كفاعل.",
+"examples": "They can help in solving the problems which we face.\nThe teacher was the only one who provided information."
+},
+{
+"title": "Object Pronouns (ضمائر المفعول به) - مراجعة",
+"headers": ["Subject Pronoun", "Object Pronoun", "Example"],
+"rows": [
+["I", "me", "He asked me to lend him money."],
+["he", "him", "I gave him some money."],
+["she", "her", "I saw her yesterday."],
+["they", "them", "We should treat them well."]
+],
+"explanation": "ضمائر المفعول به تأتي بعد الفعل أو حرف الجر. تستخدم بدلاً من الاسم الذي وقع عليه الفعل.",
+"examples": "A man came to me and asked me to lend him some money.\nWe should treat people the same way as we like them to treat us."
+},
+{
+"title": "Gerund after Prepositions (المصدر بعد حروف الجر)",
+"headers": ["Preposition + Gerund", "Example"],
+"rows": [
+["in + solving", "They can help in solving the problems."],
+["for + socializing", "Schools are good places for socializing."]
+],
+"explanation": "بعد حروف الجر (in, for, about, etc.) نستخدم الفعل بصيغة الـ Gerund (verb + ing).",
+"examples": "They can help in solving the problems that we face.\nSchools are good places for socializing."
+},
+{
+"title": "Adverbs (ظروف) - مراجعة",
+"headers": ["Adverb", "Translation", "Example"],
+"rows": [
+["heavily", "بشدة", "It was raining heavily."],
+["carelessly", "بإهمال", "He did his homework carelessly."]
+],
+"explanation": "الظروف تصف الأفعال وتأتي عادةً بعد الفعل. كثير منها ينتهي بـ -ly.",
+"examples": "It was raining heavily when they had an accident."
+},
+{
+"title": "Articles (أدوات التعريف والتنكير) - مراجعة",
+"headers": ["Article", "Usage", "Example"],
+"rows": [
+["a", "قبل الكلمات التي تبدأ بحرف ساكن", "a book, a man"],
+["an", "قبل الكلمات التي تبدأ بحرف علة", "an apple, an accident"],
+["the", "للشيء المحدد والمعروف", "the library, the teacher"]
+],
+"explanation": "نستخدم a قبل الأسماء التي تبدأ بحرف ساكن، و an قبل الأسماء التي تبدأ بحرف علة (a, e, i, o, u). نستخدم the للشيء المحدد والمعروف.",
+"examples": "They had an accident.\nI went to the library yesterday."
+},
+{
+"title": "Conjunctions (أدوات الربط) - إضافة جديدة",
+"headers": ["Conjunction", "Usage", "Example"],
+"rows": [
+["because", "للتعبير عن السبب", "People bully because they want attention."],
+["although", "للتعبير عن التضاد", "Although he was tired, he helped me."],
+["but", "للتعبير عن الاستدراك", "I like school, but I find it difficult."],
+["so", "للتعبير عن النتيجة", "I was tired, so I went to bed."]
+],
+"explanation": "تستخدم أدوات الربط لربط الجمل والعبارات. because تعبر عن السبب، although عن التضاد، but عن الاستدراك، so عن النتيجة.",
+"examples": "People bully because they may feel it makes them popular.\nI was tired, so I went to bed."
+},
+{
+"title": "Simple Present (المضارع البسيط) - إضافة جديدة",
+"headers": ["Usage", "Example"],
+"rows": [
+["حقائق عامة", "Self-confidence helps people."],
+["عادات وروتين", "He goes to school every day."],
+["مع الفاعل المفرد (He/She/It)", "She reads a book every day."],
+["مع الفاعل الجمع (I/You/We/They)", "They play football on Friday."]
+],
+"explanation": "يستخدم المضارع البسيط للحقائق العامة والعادات والروتين. مع he, she, it نضيف s للفعل. للنفي نستخدم doesn't مع المفرد و don't مع الجمع.",
+"examples": "Self-confidence helps people to overcome bullying.\nI go to school every day."
+},
+{
+"title": "Word Forms (المشتقات اللفظية) - إضافة جديدة",
+"headers": ["Base Form", "Noun Form", "Example"],
+"rows": [
+["move", "motion", "An object will not change its motion."],
+["act", "action", "For every action, there is a reaction."],
+["react", "reaction", "There is an equal and opposite reaction."]
+],
+"explanation": "بعض الأفعال تأخذ أشكالاً اسمية مختلفة. يجب التمييز بين الفعل والاسم في الجملة.",
+"examples": "An object will not change its motion unless a force acts on it.\nFor every action, there is an equal and opposite reaction."
+}
+]
+}

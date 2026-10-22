@@ -1,0 +1,203 @@
+{
+"texts": [
+{
+"id": "G8_U2_T1_P1",
+"text_group": "G8_U2_A_Worrying_Time",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "A Worrying Time",
+"content_exam": "What about being back to school? Does thinking of being back to school worry you? Schools are good places for socializing, but everyone worries about things that happen at school from time to time. No single person passed through school without experiencing some problems or events. The stresses of school life that we are exposed to make us sometimes feel unhappy, depressed, out of control and have low self-esteem. We may feel less motivated in our classrooms or careless about doing homework so that our marks may become low and we don't get good results. Sometimes we find it hard to get up and get ready for school.",
+"questions": [
+{
+"id": "g8_u2_t1_p1_q1",
+"question": "Schools are good places for ........",
+"options": ["wasting time", "socializing", "facing problems", "sleeping"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: socializing\n📝 الترجمة: المدارس أماكن جيدة للتواصل الاجتماعي.\n💡 الشرح: النص يقول: 'Schools are good places for socializing'."
+},
+{
+"id": "g8_u2_t1_p1_q2",
+"question": "The stresses of school life make us sometimes feel ........",
+"options": ["happy and motivated", "depressed and out of control", "excited and energetic", "calm and relaxed"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: depressed and out of control\n📝 الترجمة: ضغوط الحياة المدرسية تجعلنا نشعر أحياناً بالاكتئاب وفقدان السيطرة.\n💡 الشرح: النص يقول: 'feel unhappy, depressed, out of control'."
+},
+{
+"id": "g8_u2_t1_p1_q3",
+"question": "When we feel less motivated, our marks may become ........",
+"options": ["higher", "better", "low", "excellent"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: low\n📝 الترجمة: عندما نشعر بقلّة الحافز، قد تصبح علاماتنا منخفضة.\n💡 الشرح: النص يقول: 'our marks may become low'."
+},
+{
+"id": "g8_u2_t1_p1_q4",
+"question": "Sometimes we find it hard to ........",
+"options": ["do our homework", "get up and get ready for school", "talk to our friends", "eat breakfast"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: get up and get ready for school\n📝 الترجمة: أحياناً نجد صعوبة في الاستيقاظ والاستعداد للمدرسة.\n💡 الشرح: النص يقول: 'find it hard to get up and get ready for school'."
+},
+{
+"id": "g8_u2_t1_p1_q5",
+"question": "What does the word 'exposed' in the text mean?",
+"options": ["hidden", "shown", "protected", "covered"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: shown\n📝 الترجمة: ماذا تعني كلمة 'exposed' في النص؟\n💡 الشرح: 'exposed' تعني 'معرّض' أو 'مكشوف'، أي shown."
+}
+]
+},
+{
+"id": "G8_U2_T1_P2",
+"text_group": "G8_U2_A_Worrying_Time",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "A Worrying Time (Part 2)",
+"content_exam": "Some people may hesitate to go to school, or even refuse to go at all. School problems we may worry about are, for example, finding school work difficult, having problems in classrooms especially if others are noisy, not getting on with teachers, problems at home, and bullies who often cause complicated problems, etc. In this situation, the most important thing is to recognize that there's a problem to be solved and ask for help as soon as possible. We may ask our parents at home, or teachers and social workers in schools. They can help in solving the problems that we face.",
+"questions": [
+{
+"id": "g8_u2_t1_p2_q1",
+"question": "Some people may refuse to go to school at all.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: قد يرفض بعض الناس الذهاب إلى المدرسة تماماً.\n💡 الشرح: النص يقول: 'Some people may hesitate to go to school, or even refuse to go at all'."
+},
+{
+"id": "g8_u2_t1_p2_q2",
+"question": "Bullies cause simple problems that are easy to solve.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: المتنمرون يسببون مشاكل بسيطة يسهل حلها.\n💡 الشرح: النص يقول: 'bullies who often cause complicated problems'."
+},
+{
+"id": "g8_u2_t1_p2_q3",
+"question": "We can ask teachers and social workers for help.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يمكننا أن نطلب المساعدة من المعلمين والأخصائيين الاجتماعيين.\n💡 الشرح: النص يقول: 'ask our parents at home, or teachers and social workers in schools'."
+},
+{
+"id": "g8_u2_t1_p2_q4",
+"question": "What should we do when we face a problem at school?",
+"type": "answer",
+"keywords": ["ask for help", "recognize the problem"],
+"explanation": "✅ الإجابة الصحيحة: ask for help / recognize the problem\n📝 الترجمة: ماذا يجب أن نفعل عندما نواجه مشكلة في المدرسة؟\n💡 الشرح: النص يقول: 'recognize that there's a problem to be solved and ask for help'."
+},
+{
+"id": "g8_u2_t1_p2_q5",
+"question": "According to the text, who can help us solve our problems?",
+"type": "answer",
+"keywords": ["parents", "teachers", "social workers"],
+"explanation": "✅ الإجابة الصحيحة: parents, teachers and social workers\n📝 الترجمة: وفقاً للنص، من يمكنه مساعدتنا في حل مشاكلنا؟\n💡 الشرح: النص يقول: 'ask our parents at home, or teachers and social workers in schools'."
+}
+]
+},
+{
+"id": "G8_U2_T2_P1",
+"text_group": "G8_U2_Bullying",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Bullying",
+"content_exam": "People bully by many ways like name-calling, saying or writing unpleasant things about other people, keeping them apart from activities on purpose to harm them and hurt their feelings, leaving them alone and not talking to them, making them feel uncomfortable or scared, taking or damaging their belongings, and obliging them to do something they really don't want to do. Hitting, kicking, knocking things out of their hands, pushing, etc. are also bullying. In fact, some bullies don't even know that they're bullying or how the person they bully actually feels.",
+"questions": [
+{
+"id": "g8_u2_t2_p1_q1",
+"question": "People bully by many ways like ........",
+"options": ["saying kind words", "name-calling", "helping others", "sharing things"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: name-calling\n📝 الترجمة: يتنمر الناس بطرق عديدة مثل إطلاق الألقاب.\n💡 الشرح: النص يقول: 'name-calling' كأول طريقة للتنمر."
+},
+{
+"id": "g8_u2_t2_p1_q2",
+"question": "Bullies may keep others apart from activities ........",
+"options": ["to help them", "on purpose to harm them", "to make them happy", "by accident"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: on purpose to harm them\n📝 الترجمة: قد يبعد المتنمرون الآخرين عن الأنشطة بقصد إيذائهم.\n💡 الشرح: النص يقول: 'keeping them apart from activities on purpose to harm them'."
+},
+{
+"id": "g8_u2_t2_p1_q3",
+"question": "Some bullies don't even know that they are ........",
+"options": ["helping others", "bullying", "making friends", "studying"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: bullying\n📝 الترجمة: بعض المتنمرين لا يعرفون حتى أنهم يتنمرون.\n💡 الشرح: النص يقول: 'some bullies don't even know that they're bullying'."
+},
+{
+"id": "g8_u2_t2_p1_q4",
+"question": "Some people bully because they want to be the ........",
+"options": ["centre of attention", "best student", "teacher's pet", "class leader"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: centre of attention\n📝 الترجمة: بعض الناس يتنمرون لأنهم يريدون أن يكونوا محط الاهتمام.\n💡 الشرح: النص يقول: 'the centre of attention'."
+},
+{
+"id": "g8_u2_t2_p1_q5",
+"question": "The golden rule in the text is to ........",
+"options": [
+"treat others the way you want them to treat you",
+"ignore others",
+"fight back",
+"never talk to anyone"
+],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: treat others the way you want them to treat you\n📝 الترجمة: القاعدة الذهبية في النص هي عامل الناس كما تحب أن يعاملوك.\n💡 الشرح: النص يقول: 'Treat others the way you would want them to treat you'."
+}
+]
+},
+{
+"id": "G8_U2_T2_P2",
+"text_group": "G8_U2_Bullying",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Bullying (Part 2)",
+"content_exam": "People bully for many reasons. Some of these reasons are because they may feel it makes them popular, or they think it's not just for an entertainment. Sometimes people bully because that's the only way they can be the centre of attention or because they are jealous of the person they're bullying. Therefore, we need to be strong and self-confident. We should always keep in mind, if we don't have anything nice to say to someone, it's better to keep silent. And remember the golden rule: 'Treat others the way you would want them to treat you'.",
+"questions": [
+{
+"id": "g8_u2_t2_p2_q1",
+"question": "All bullies know that they are bullying.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: جميع المتنمرين يعرفون أنهم يتنمرون.\n💡 الشرح: النص يقول: 'some bullies don't even know that they're bullying'."
+},
+{
+"id": "g8_u2_t2_p2_q2",
+"question": "People bully because they are jealous of others sometimes.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يتنمر الناس لأنهم يشعرون بالغيرة من الآخرين أحياناً.\n💡 الشرح: النص يقول: 'because they are jealous of the person they're bullying'."
+},
+{
+"id": "g8_u2_t2_p2_q3",
+"question": "We should not say anything nice to others.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: لا يجب أن نقول أي شيء لطيف للآخرين.\n💡 الشرح: النص يقول: 'if we don't have anything nice to say to someone, it's better to keep silent'."
+},
+{
+"id": "g8_u2_t2_p2_q4",
+"question": "What does the word 'bully' mean in the text?",
+"type": "answer",
+"keywords": ["frighten", "hurt a weaker person"],
+"explanation": "✅ الإجابة الصحيحة: to frighten or hurt a weaker person\n📝 الترجمة: ماذا تعني كلمة 'bully' في النص؟\n💡 الشرح: 'bully' تعني 'يخيف أو يؤذي شخصاً أضعف'."
+},
+{
+"id": "g8_u2_t2_p2_q5",
+"question": "What should we do if we don't have anything nice to say to someone?",
+"type": "answer",
+"keywords": ["keep silent", "stay quiet", "say nothing"],
+"explanation": "✅ الإجابة الصحيحة: keep silent / say nothing\n📝 الترجمة: ماذا يجب أن نفعل إذا لم يكن لدينا شيء لطيف لنقوله لشخص ما؟\n💡 الشرح: النص يقول: 'it's better to keep silent'."
+}
+]
+}
+]
+}

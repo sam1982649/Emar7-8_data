@@ -1,0 +1,101 @@
+{
+"questions": [
+{
+"question": "What were you doing when it started to rain?",
+"translation": "ماذا كنت تفعل عندما بدأت تمطر؟",
+"keywords": ["was", "were", "ing"],
+"suggested_answers": [
+"I was walking home.",
+"I was reading a book.",
+"I was playing football.",
+"I was watching TV.",
+"I was sleeping."
+],
+"source": "Student Book",
+"exact_reference": "Grammar - Page 15"
+},
+{
+"question": "What's your feeling when you are back to school?",
+"translation": "ما هو شعورك عندما تعود إلى المدرسة؟",
+"keywords": ["happy", "excited", "nervous", "worried", "sad"],
+"suggested_answers": [
+"I feel happy.",
+"I feel excited.",
+"I feel nervous.",
+"I feel worried.",
+"I feel sad."
+],
+"source": "Student Book",
+"exact_reference": "Speaking - Page 12"
+},
+{
+"question": "What difficulties are you facing at school?",
+"translation": "ما هي الصعوبات التي تواجهها في المدرسة؟",
+"keywords": ["homework", "teachers", "friends", "subjects", "exams"],
+"suggested_answers": [
+"I find homework difficult.",
+"I have problems with some teachers.",
+"I find some subjects hard.",
+"I face problems with my friends.",
+"I feel stressed about exams."
+],
+"source": "Student Book",
+"exact_reference": "Speaking - Page 12"
+},
+{
+"question": "Who helps you to overcome them?",
+"translation": "من يساعدك على التغلب عليها؟",
+"keywords": ["parents", "teachers", "friends", "family", "social workers"],
+"suggested_answers": [
+"My parents help me.",
+"My teachers help me.",
+"My friends help me.",
+"My family helps me.",
+"Social workers help me."
+],
+"source": "Student Book",
+"exact_reference": "Speaking - Page 12"
+},
+{
+"question": "Why do bullies misbehave?",
+"translation": "لماذا يسيء المتنمرون التصرف؟",
+"keywords": ["attention", "popular", "entertainment", "jealous"],
+"suggested_answers": [
+"To draw other people's attention.",
+"To feel popular.",
+"For entertainment.",
+"Because they are jealous."
+],
+"source": "Activity Book",
+"exact_reference": "Reading - Page 6"
+},
+{
+"question": "What time did the electricity go out?",
+"translation": "في أي وقت انقطعت الكهرباء؟",
+"keywords": ["at", "o'clock", "pm", "am", "night", "morning"],
+"suggested_answers": [
+"At 8 o'clock.",
+"At 9 pm.",
+"At 10 o'clock.",
+"At 7 in the morning.",
+"At midnight."
+],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 8"
+},
+{
+"question": "What does your school look like?",
+"translation": "كيف تبدو مدرستك؟",
+"keywords": ["big", "small", "modern", "old", "beautiful", "clean"],
+"suggested_answers": [
+"My school is big and modern.",
+"My school is small but clean.",
+"My school is old but beautiful.",
+"My school is very big.",
+"My school is modern and clean."
+],
+"source": "Student Book",
+"exact_reference": "Speaking - Page 12"
+}
+]
+}

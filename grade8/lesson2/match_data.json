@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"title": "تمرين المطابقة ١ - School Life",
+"source": "Student Book",
+"options": [
+{ "letter": "a", "text": "depression to students" },
+{ "letter": "b", "text": "he hurt his leg" },
+{ "letter": "c", "text": "an equal and opposite reaction" },
+{ "letter": "d", "text": "exposed to light" },
+{ "letter": "e", "text": "they will have bad results" },
+{ "letter": "f", "text": "without the slightest hesitation" }
+],
+"sentences": [
+{
+"start": "Stresses of school life may cause",
+"correct": "a",
+"full_sentence": "Stresses of school life may cause depression to students.",
+"translation": "ضغوط الحياة المدرسية قد تسبب الاكتئاب للطلاب.",
+"source": "Student Book",
+"exact_reference": "Reading - Page 13"
+},
+{
+"start": "John was playing tennis when",
+"correct": "b",
+"full_sentence": "John was playing tennis when he hurt his leg.",
+"translation": "كان جون يلعب التنس عندما أصاب ساقه.",
+"source": "Student Book",
+"exact_reference": "Grammar - Page 15"
+},
+{
+"start": "For every action, there is",
+"correct": "c",
+"full_sentence": "For every action, there is an equal and opposite reaction.",
+"translation": "لكل فعل رد فعل مساوٍ له في المقدار ومعاكس له في الاتجاه.",
+"source": "Student Book",
+"exact_reference": "Focus on Physics - Page 17"
+},
+{
+"start": "Potatoes turn green when",
+"correct": "d",
+"full_sentence": "Potatoes turn green when exposed to light.",
+"translation": "البطاطس تتحول إلى اللون الأخضر عندما تتعرض للضوء.",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 14"
+},
+{
+"start": "When students are careless of studying",
+"correct": "e",
+"full_sentence": "When students are careless of studying, they will have bad results.",
+"translation": "عندما يكون الطلاب مهملين في الدراسة، سيكون لديهم نتائج سيئة.",
+"source": "Student Book",
+"exact_reference": "Reading - Page 13"
+}
+]
+},
+{
+"title": "تمرين المطابقة ٢ - Bullying",
+"source": "Activity Book",
+"options": [
+{ "letter": "f", "text": "it's better to keep silent" },
+{ "letter": "g", "text": "because we were talking" },
+{ "letter": "h", "text": "hurting feelings" },
+{ "letter": "i", "text": "John came" },
+{ "letter": "j", "text": "when somebody hit my car" },
+{ "letter": "k", "text": "feel uncomfortable" }
+],
+"sentences": [
+{
+"start": "If we don't have anything nice to say",
+"correct": "f",
+"full_sentence": "If we don't have anything nice to say, it's better to keep silent.",
+"translation": "إذا لم يكن لدينا شيء جميل لنقوله، فمن الأفضل أن نصمت.",
+"source": "Activity Book",
+"exact_reference": "Reading - Page 6"
+},
+{
+"start": "The teacher was angry",
+"correct": "g",
+"full_sentence": "The teacher was angry because we were talking.",
+"translation": "كان المعلم غاضباً لأننا كنا نتحدث.",
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 8"
+},
+{
+"start": "People bully by many ways like",
+"correct": "h",
+"full_sentence": "People bully by many ways like hurting feelings.",
+"translation": "يتنمر الناس بطرق عديدة مثل إيذاء المشاعر.",
+"source": "Activity Book",
+"exact_reference": "Reading - Page 6"
+},
+{
+"start": "While we were eating the cake",
+"correct": "i",
+"full_sentence": "While we were eating the cake, John came.",
+"translation": "بينما كنا نأكل الكعكة، جاء جون.",
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 9"
+},
+{
+"start": "I was driving",
+"correct": "j",
+"full_sentence": "I was driving when somebody hit my car.",
+"translation": "كنت أقود السيارة عندما اصطدم شخص ما بسيارتي.",
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 9"
+}
+]
+}
+]
+}
