@@ -1,0 +1,76 @@
+{
+"questions": [
+{
+"question": "What do you do to stay focused while studying or working?",
+"translation": "ماذا تفعل لتبقى مركزاً أثناء الدراسة أو العمل؟",
+"keywords": ["focus", "study", "work", "concentrate", "distractions", "manage", "time", "organise"],
+"suggested_answers": [
+"I organise my time and avoid distractions to stay focused.",
+"I take short breaks and study in a quiet place to concentrate well.",
+"I manage my time and turn off my phone while studying."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 80"
+},
+{
+"question": "How would you manage your time if you have exams next week?",
+"translation": "كيف ستنظم وقتك إذا كانت لديك امتحانات الأسبوع القادم؟",
+"keywords": ["exams", "manage", "time", "study", "schedule", "plan", "revision", "organise"],
+"suggested_answers": [
+"I would make a study schedule and revise each subject every day.",
+"I would organise my time, study the important subjects first, and take short breaks.",
+"I would plan my revision, set priorities, and study a little every day."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 80"
+},
+{
+"question": "What advice would you give to someone who always arrives late?",
+"translation": "ما النصيحة التي ستقدمها لشخص يصل متأخراً دائماً؟",
+"keywords": ["advice", "late", "time", "punctual", "organise", "plan", "early", "respect"],
+"suggested_answers": [
+"I would advise him to organise his time and set an alarm.",
+"I would tell him to plan ahead and leave home earlier.",
+"I would advise him to be punctual and respect other people's time."
+],
+"source": "Student Book - Speaking",
+"exact_reference": "Speaking - Page 80"
+},
+{
+"question": "Where did you spend your last holiday?",
+"translation": "أين قضيت إجازتك الأخيرة؟",
+"keywords": ["holiday", "vacation", "travel", "visit", "place", "city", "country", "spend"],
+"suggested_answers": [
+"I spent my last holiday in Damascus.",
+"I visited my grandparents in the countryside.",
+"I spent my last holiday in Latakia by the sea."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 68"
+},
+{
+"question": "Who did you go with?",
+"translation": "مع من ذهبت؟",
+"keywords": ["with", "family", "friends", "parents", "relatives", "alone", "accompany"],
+"suggested_answers": [
+"I went with my family.",
+"I went with my parents and my brother.",
+"I went with my friends."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 68"
+},
+{
+"question": "How long did you stay?",
+"translation": "كم مدة بقائك هناك؟",
+"keywords": ["stay", "duration", "days", "weeks", "holiday", "time", "period"],
+"suggested_answers": [
+"I stayed for one week.",
+"I stayed for ten days.",
+"I stayed for two weeks."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Speaking - Page 68"
+}
+]
+}

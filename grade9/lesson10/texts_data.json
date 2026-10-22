@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "G9_U10_T1_P1",
+"text_group": "G9_U10_Killing_Time",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Killing Time is not a Murder - Part 1",
+"content_exam": "Time is precious! We should never waste it in any way. People can spend a lot of time doing various things, but they can never get back the time they had spent. That is why most of successful people consider time more important and valuable than money. We all should use our time in productive ways. If you master the technique of managing time efficiently, you can achieve anything in your life. Time management helps you to attain more with less effort.\n\nIn the beginning, it will feel like a boring task, but when you do it regularly, you realize that it only helps you to increase your productivity. Eventually, this will encourage you to achieve more in life. Being productive doesn't mean that we have to be involved in multiple tasks at the same time. The proverb, 'killing time is not a murder; it's a suicide' is applicable for those who don't understand the value of time and don't respect it. People who say that they don't have enough time to complete their work, don't really know how to manage time.\n\nFor those, here is an easy way to help them apply the 'Do It Now' principle: D = Divide what you have to do. O = Organise your materials. I = Ignore interruption. T = Take the time to learn how to do things yourself. N = Now, not tomorrow. O = Opportunity is knocking. Take advantage of opportunities. W = Watch out for time stealers. Control how much time you spend on the Internet, reading and sending emails, watching TV, or talking on the phone.\n\nTime is the greatest gift of God. Therefore, we should know how to invest it.",
+"questions": [
+{
+"id": "L10_TXT_C01",
+"type": "choice",
+"question": "What do successful people consider more important than money?",
+"options": ["Health", "Time", "Family", "Power"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: Time\n📝 الترجمة: ماذا يعتبر الأشخاص الناجحون أهم من المال؟\n💡 الشرح: النص يقول: 'successful people consider time more important and valuable than money'."
+},
+{
+"id": "L10_TXT_C02",
+"type": "choice",
+"question": "What can you achieve if you master time management?",
+"options": ["Nothing", "Everything", "Anything", "Few things"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: Anything\n📝 الترجمة: ماذا يمكنك أن تحقق إذا أتقنت إدارة الوقت؟\n💡 الشرح: النص يقول: 'you can achieve anything in your life'."
+},
+{
+"id": "L10_TXT_C03",
+"type": "choice",
+"question": "What does the proverb 'killing time is not a murder; it's a suicide' refer to?",
+"options": ["People who work hard", "People who don't respect time", "People who are rich", "People who are successful"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: People who don't respect time\n📝 الترجمة: إلى من يشير المثل 'قتل الوقت ليس جريمة قتل؛ بل انتحار'؟\n💡 الشرح: النص يقول: 'is applicable for those who don't understand the value of time and don't respect it'."
+},
+{
+"id": "L10_TXT_C04",
+"type": "choice",
+"question": "What is time according to the text?",
+"options": ["Money", "The greatest gift of God", "A burden", "A problem"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: The greatest gift of God\n📝 الترجمة: ما هو الوقت وفقاً للنص؟\n💡 الشرح: النص يقول: 'Time is the greatest gift of God'."
+},
+{
+"id": "L10_TXT_C05",
+"type": "choice",
+"question": "What should we know how to do with time?",
+"options": ["Spend it", "Kill it", "Invest it", "Forget it"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: Invest it\n📝 الترجمة: ماذا يجب أن نعرف كيف نفعله بالوقت؟\n💡 الشرح: النص يقول: 'we should know how to invest it'."
+}
+]
+},
+{
+"id": "G9_U10_T1_P2",
+"text_group": "G9_U10_Killing_Time",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Killing Time is not a Murder - Part 2",
+"content_exam": "The 'Do It Now' principle helps people manage time better. D means Divide what you have to do. O means Organise your materials. I means Ignore interruption. T means Take time to learn things yourself. N means Now, not tomorrow. O means Opportunity is knocking. Take advantage of opportunities. W means Watch out for time stealers. Control time spent on the Internet, emails, TV, or phone calls. Time management is a skill that can be learned. It helps you achieve more with less effort. Start applying these principles today to see real results in your life.",
+"questions": [
+{
+"id": "L10_TXT_TF01",
+"type": "truefalse",
+"question": "The 'Do It Now' principle helps people manage time.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: مبدأ 'افعلها الآن' يساعد الناس على إدارة الوقت.\n💡 الشرح: النص يقول: 'The Do It Now principle helps people manage time better'."
+},
+{
+"id": "L10_TXT_TF02",
+"type": "truefalse",
+"question": "D in the principle means Delay what you have to do.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: حرف D في المبدأ يعني تأجيل ما يجب عليك فعله.\n💡 الشرح: النص يقول: 'D means Divide what you have to do' وليس Delay."
+},
+{
+"id": "L10_TXT_TF03",
+"type": "truefalse",
+"question": "We should take advantage of opportunities when they come.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يجب أن نستفيد من الفرص عندما تأتي.\n💡 الشرح: النص يقول: 'Take advantage of opportunities'."
+},
+{
+"id": "L10_TXT_A01",
+"type": "answer",
+"question": "What are some time stealers mentioned in the text?",
+"keywords": ["Internet", "emails", "TV", "phone", "calls", "watching TV"],
+"explanation": "✅ الإجابة الصحيحة: the Internet, emails, watching TV, and talking on the phone\n📝 الترجمة: ما بعض سارقي الوقت المذكورة في النص؟\n💡 الشرح: النص يذكر: الإنترنت، البريد الإلكتروني، مشاهدة التلفاز، والتحدث على الهاتف."
+},
+{
+"id": "L10_TXT_A02",
+"type": "answer",
+"question": "What does the 'Do It Now' principle help you achieve?",
+"keywords": ["more with less effort", "goals", "success", "productivity", "achieve"],
+"explanation": "✅ الإجابة الصحيحة: It helps you achieve more with less effort.\n📝 الترجمة: ماذا يساعدك مبدأ 'افعلها الآن' على تحقيقه؟\n💡 الشرح: يساعدك على تحقيق المزيد بجهد أقل وإدارة أفضل للوقت."
+}
+]
+},
+{
+"id": "G9_U10_T2_P1",
+"text_group": "G9_U10_Hurry_Up",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Hurry up Before the Gates are Shut - Part 1",
+"content_exam": "Once, a king and a lazy man named Hani were very good friends. One morning, the king said, 'Why don't you work to earn some money?' Hani said, 'No one offers me a job. My enemies told everyone that I never do any work in time.' The kind king said, 'You can go into my treasury and collect as much wealth as you can, but you have to finish before sunset.' Hani was so happy and rushed home to tell his wife. She said, 'Go and get the gold coins and gems now.' He said: 'I cannot go now. I am so hungry. I'd like to eat first.'\n\nAfter lunch, he took a nap for an hour. Then in the late afternoon, he picked some bags and went to the palace. On the way, he felt hot so he sat under a tree to rest and drink some water. Two hours later, when he wanted to move on, he saw a man showing some magic tricks. He stopped to watch for an hour again. On the way to the palace, he met an old friend and chatted with him for some time. When he reached the palace, it was already sunset time. The palace gates had been shut. Hani lost a golden chance because he had not learnt the value of time. If Hani worked hard, he wouldn't be poor. This story teaches us that once time is spent, it will never come back again.",
+"questions": [
+{
+"id": "L10_TXT_C06",
+"type": "choice",
+"question": "Who was Hani?",
+"options": ["A king", "A lazy man", "A soldier", "A merchant"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: A lazy man\n📝 الترجمة: من كان هاني؟\n💡 الشرح: النص يقول: 'a lazy man named Hani'."
+},
+{
+"id": "L10_TXT_C07",
+"type": "choice",
+"question": "What did the king allow Hani to do?",
+"options": ["Work in the palace", "Collect wealth from the treasury before sunset", "Become a minister", "Travel to another country"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: Collect wealth from the treasury before sunset\n📝 الترجمة: ماذا سمح الملك لهاني بفعله؟\n💡 الشرح: النص يقول: 'You can go into my treasury and collect as much wealth as you can, but you have to finish before sunset'."
+},
+{
+"id": "L10_TXT_C08",
+"type": "choice",
+"question": "What did Hani do after lunch?",
+"options": ["Went to the palace", "Took a nap", "Talked to his friend", "Watched magic tricks"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: Took a nap\n📝 الترجمة: ماذا فعل هاني بعد الغداء؟\n💡 الشرح: النص يقول: 'After lunch, he took a nap for an hour'."
+},
+{
+"id": "L10_TXT_C09",
+"type": "choice",
+"question": "What did Hani stop to watch on his way?",
+"options": ["A football match", "A magic show", "A parade", "A concert"],
+"correct": 1,
+"explanation": "✅ الإجابة الصحيحة: A magic show\n📝 الترجمة: ماذا توقف هاني لمشاهدته في طريقه؟\n💡 الشرح: النص يقول: 'he saw a man showing some magic tricks and stopped to watch'."
+},
+{
+"id": "L10_TXT_C10",
+"type": "choice",
+"question": "When did Hani reach the palace?",
+"options": ["Before sunset", "At noon", "At sunset time", "In the morning"],
+"correct": 2,
+"explanation": "✅ الإجابة الصحيحة: At sunset time\n📝 الترجمة: متى وصل هاني إلى القصر؟\n💡 الشرح: النص يقول: 'When he reached the palace, it was already sunset time'."
+}
+]
+},
+{
+"id": "G9_U10_T2_P2",
+"text_group": "G9_U10_Hurry_Up",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Hurry up Before the Gates are Shut - Part 2",
+"content_exam": "Hani lost a golden chance because he had not learned the value of time. He wasted time eating, napping, resting, watching magic tricks, and chatting with a friend. If Hani had worked hard, he would not be poor. This story teaches us an important lesson: once time is spent, it will never come back. We should use our time wisely and not delay important tasks. Procrastination leads to missed opportunities. Tomorrow may be too late. The right time to act is now. We must value every moment because time waits for no one. Hani's mistake was postponing what he could have done immediately.",
+"questions": [
+{
+"id": "L10_TXT_TF04",
+"type": "truefalse",
+"question": "Hani lost his chance because he valued his time.",
+"correct": false,
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: خسر هاني فرصته لأنه قدّر وقته.\n💡 الشرح: النص يقول: 'Hani lost a golden chance because he had not learnt the value of time'."
+},
+{
+"id": "L10_TXT_TF05",
+"type": "truefalse",
+"question": "The story teaches that once time is spent, it never comes back.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: تعلمنا القصة أن الوقت بمجرد أن يضيع، لا يعود أبداً.\n💡 الشرح: النص يقول: 'once time is spent, it will never come back again'."
+},
+{
+"id": "L10_TXT_TF06",
+"type": "truefalse",
+"question": "Procrastination leads to missed opportunities.",
+"correct": true,
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: التسويف يؤدي إلى تفويت الفرص.\n💡 الشرح: النص يقول: 'Procrastination leads to missed opportunities'."
+},
+{
+"id": "L10_TXT_A03",
+"type": "answer",
+"question": "What lesson does Hani's story teach us?",
+"keywords": ["value of time", "never come back", "use time wisely", "procrastination", "missed opportunities"],
+"explanation": "✅ الإجابة الصحيحة: Once time is spent, it never comes back. We should use our time wisely.\n📝 الترجمة: ما الدرس الذي تعلمنا إياه قصة هاني؟\n💡 الشرح: النص يقول: 'once time is spent, it will never come back. We should use our time wisely and not delay important tasks'."
+},
+{
+"id": "L10_TXT_A04",
+"type": "answer",
+"question": "What was Hani's biggest mistake?",
+"keywords": ["postponing", "delayed", "wasted time", "didn't go immediately", "procrastination"],
+"explanation": "✅ الإجابة الصحيحة: postponing what he could have done immediately\n📝 الترجمة: ما كان أكبر خطأ لهاني؟\n💡 الشرح: النص يقول: 'Hani's mistake was postponing what he could have done immediately'."
+}
+]
+}
+]
+}

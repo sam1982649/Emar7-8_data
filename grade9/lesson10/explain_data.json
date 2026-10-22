@@ -1,0 +1,295 @@
+{
+"vocabulary": [
+{ "word": "precious", "translation": "ثمين" },
+{ "word": "waste", "translation": "يضيع / يهدر" },
+{ "word": "valuable", "translation": "قيّم" },
+{ "word": "productive", "translation": "مثمر / منتج" },
+{ "word": "efficiently", "translation": "بكفاءة" },
+{ "word": "attain", "translation": "يحقق / يصل إلى" },
+{ "word": "eventually", "translation": "في النهاية" },
+{ "word": "murder", "translation": "جريمة قتل" },
+{ "word": "suicide", "translation": "انتحار" },
+{ "word": "applicable", "translation": "قابل للتطبيق" },
+{ "word": "principle", "translation": "مبدأ" },
+{ "word": "focus", "translation": "تركيز" },
+{ "word": "interruption", "translation": "مقاطعة / تشتيت" },
+{ "word": "opportunity", "translation": "فرصة" },
+{ "word": "invest", "translation": "يستثمر" },
+{ "word": "respect", "translation": "يحترم" },
+{ "word": "complete", "translation": "يكمل / ينجز" },
+{ "word": "manage", "translation": "يدير" },
+{ "word": "organise", "translation": "ينظم" },
+{ "word": "divide", "translation": "يقسم" },
+{ "word": "ignore", "translation": "يتجاهل" },
+{ "word": "treasury", "translation": "خزينة" },
+{ "word": "gems", "translation": "جواهر" },
+{ "word": "sunset", "translation": "غروب الشمس" },
+{ "word": "golden chance", "translation": "فرصة ذهبية" },
+{ "word": "poverty", "translation": "فقر" },
+{ "word": "lazy", "translation": "كسول" },
+{ "word": "enemies", "translation": "أعداء" },
+{ "word": "rush", "translation": "يسرع" },
+{ "word": "nap", "translation": "قيلولة" },
+{ "word": "magic tricks", "translation": "حيل سحرية" },
+{ "word": "chat", "translation": "يدردش" },
+{ "word": "gates", "translation": "بوابات" },
+{ "word": "shut", "translation": "مغلق" },
+{ "word": "earn", "translation": "يكسب" },
+{ "word": "offer", "translation": "يعرض / يقدم" },
+{ "word": "collect", "translation": "يجمع" },
+{ "word": "wealth", "translation": "ثروة" },
+{ "word": "hungry", "translation": "جائع" },
+{ "word": "palace", "translation": "قصر" },
+{ "word": "rest", "translation": "يستريح" },
+{ "word": "reach", "translation": "يصل إلى" },
+{ "word": "leisure time", "translation": "وقت فراغ" },
+{ "word": "science fiction", "translation": "خيال علمي" },
+{ "word": "poetry", "translation": "شعر" },
+{ "word": "gardening", "translation": "بستنة" },
+{ "word": "roam", "translation": "يتجول" },
+{ "word": "similar", "translation": "مشابه" },
+{ "word": "different", "translation": "مختلف" },
+{ "word": "punctuation", "translation": "علامات الترقيم" },
+{ "word": "capitalization", "translation": "أحرف كبيرة" },
+{ "word": "birthday", "translation": "عيد ميلاد" },
+{ "word": "expect", "translation": "يتوقع" },
+{ "word": "business", "translation": "عمل / مشروع" },
+{ "word": "prepare", "translation": "يحضر / يجهز" },
+{ "word": "arrival", "translation": "وصول" },
+{ "word": "arrange", "translation": "يرتب" },
+{ "word": "failed", "translation": "فشل" },
+{ "word": "impressed", "translation": "منبهر / معجب" },
+{ "word": "preparations", "translation": "استعدادات" },
+{ "word": "positive", "translation": "إيجابي" },
+{ "word": "enjoyable", "translation": "ممتع" },
+{ "word": "ancient", "translation": "قديم" },
+{ "word": "measurement", "translation": "قياس" },
+{ "word": "simple", "translation": "بسيط" },
+{ "word": "observation", "translation": "ملاحظة" },
+{ "word": "dictate", "translation": "يملي / يحدد" },
+{ "word": "guide", "translation": "يرشد" },
+{ "word": "seasons", "translation": "فصول" },
+{ "word": "sundial", "translation": "ساعة شمسية" },
+{ "word": "solar-powered", "translation": "يعمل بالطاقة الشمسية" },
+{ "word": "obelisks", "translation": "مسلات" },
+{ "word": "shadow", "translation": "ظل" },
+{ "word": "water clock", "translation": "ساعة مائية" },
+{ "word": "hourglass", "translation": "ساعة رملية" },
+{ "word": "separate", "translation": "منفصل" },
+{ "word": "bulbs", "translation": "لمبات / كرات" },
+{ "word": "rounded", "translation": "مدور" },
+{ "word": "connected", "translation": "متصل" },
+{ "word": "narrow", "translation": "ضيق" },
+{ "word": "neck", "translation": "عنق" },
+{ "word": "inquired", "translation": "استفسر" },
+{ "word": "wondered", "translation": "تساءل" },
+{ "word": "wanted to know", "translation": "أراد أن يعرف" },
+{ "word": "reported", "translation": "نقل / أبلغ" },
+{ "word": "close friends", "translation": "أصدقاء مقربون" },
+{ "word": "exam", "translation": "امتحان" },
+{ "word": "uncle", "translation": "عم / خال" },
+{ "word": "aunt", "translation": "عمة / خالة" },
+{ "word": "visited", "translation": "زار" },
+{ "word": "stayed", "translation": "أقام / مكث" },
+{ "word": "passed", "translation": "نجح" },
+{ "word": "grandparents", "translation": "أجداد" },
+{ "word": "diary", "translation": "مذكرات يومية" },
+{ "word": "daily routine", "translation": "روتين يومي" },
+{ "word": "introduction", "translation": "مقدمة" },
+{ "word": "afternoon", "translation": "بعد الظهر" },
+{ "word": "bedtime", "translation": "وقت النوم" },
+{ "word": "adverbs of frequency", "translation": "ظروف التكرار" },
+{ "word": "always", "translation": "دائماً" },
+{ "word": "usually", "translation": "عادة" },
+{ "word": "often", "translation": "غالباً" },
+{ "word": "sometimes", "translation": "أحياناً" },
+{ "word": "rarely", "translation": "نادراً" },
+{ "word": "never", "translation": "أبداً" },
+{ "word": "once a week", "translation": "مرة في الأسبوع" },
+{ "word": "twice a week", "translation": "مرتين في الأسبوع" },
+{ "word": "everyday", "translation": "كل يوم" },
+{ "word": "three times a week", "translation": "ثلاث مرات في الأسبوع" }
+],
+"tables": [
+{
+"title": "Reported Questions (الكلام المنقول للسؤال)",
+"headers": ["المباشر (Direct)", "غير المباشر (Reported)"],
+"rows": [
+["'How are you?'", "He asked me how I was."],
+["'Where have you been?'", "He asked me where I had been."],
+["'What do you want to do now?'", "He asked me what I wanted to do."],
+["'Where did you stay?'", "He asked me where I had stayed."],
+["'Are you happy to be back?'", "He asked me if I was happy to be back."],
+["'Do you plan to go back?'", "He asked me if I planned to go back."],
+["'Where are your parents?'", "He asked me where my parents were."],
+["'Can you help me?'", "He asked me if I could help him."]
+],
+"explanation": "نستخدم Reported Questions لنقل سؤال شخص آخر. نستخدم أفعال مثل: asked, inquired, wondered, wanted to know. الفعل المساعد يتغير حسب الزمن.",
+"examples": "He asked me how I was. / She asked if I had been to London."
+},
+{
+"title": "Reported Questions - تحويل زمن الفعل",
+"headers": ["المباشر (Direct)", "غير المباشر (Reported)"],
+"rows": [
+["Where is the Post Office?", "She asked me where the Post Office was."],
+["Who was that fantastic man?", "She asked me who that fantastic man had been."],
+["When has he met his friend?", "My mother wanted to know when he had met his friend."],
+["Why are you crying?", "He inquired why I was crying."]
+],
+"explanation": "عند تحويل السؤال إلى غير مباشر، تتغير أزمنة الأفعال إلى الوراء: المضارع البسيط → ماضي بسيط، الماضي البسيط → ماضي تام، المضارع التام → ماضي تام، المضارع المستمر → ماضي مستمر.",
+"examples": "He asked me where I was. / She wanted to know if I had finished."
+},
+{
+"title": "Yes/No Questions في الكلام غير المباشر",
+"headers": ["المباشر", "غير المباشر"],
+"rows": [
+["'Do you know him?'", "He asked me whether I knew him."],
+["'Have you ever been to Mexico?'", "She asked me if I had ever been to Mexico."],
+["'Are you living here?'", "She asked me if I was living there."]
+],
+"explanation": "عند تحويل سؤال يبدأ بـ Yes/No، نستخدم 'if' أو 'whether' في الكلام غير المباشر.",
+"examples": "He asked if I knew him. / She asked whether I had been to Mexico."
+},
+{
+"title": "التغييرات في الكلام غير المباشر",
+"headers": ["المباشر", "غير المباشر"],
+"rows": [
+["this", "that"],
+["these", "those"],
+["here", "there"],
+["now", "then"],
+["today", "that day"],
+["tomorrow", "the next day"],
+["yesterday", "the previous day / the day before"]
+],
+"explanation": "في الكلام غير المباشر، تتغير ضمائر الملكية وأدوات الزمان والمكان حسب السياق.",
+"examples": "He said, 'I am here now.' → He said that he was there then."
+},
+{
+"title": "Reported Questions مع أفعال أخرى",
+"headers": ["الفعل", "الاستخدام", "مثال"],
+"rows": [
+["asked", "يسأل (الأكثر استخداماً)", "He asked me where I was."],
+["wanted to know", "يريد أن يعرف", "They wanted to know if I had a computer."],
+["wondered", "يتساءل", "She wondered why he was late."],
+["inquired", "يستفسر", "He inquired why I was crying."]
+],
+"explanation": "يمكن استخدام أفعال متنوعة لنقل السؤال غير المباشر، ولكن 'asked' هو الأكثر شيوعاً.",
+"examples": "She wanted to know if I was ready. / He wondered where I had been."
+},
+{
+"title": "Pronunciation - Short /ʊ/ و Long /u:/",
+"headers": ["الصوت القصير /ʊ/", "الصوت الطويل /u:/"],
+"rows": [
+["put", "shoot"],
+["look", "juice"],
+["full", "fool"],
+["butcher", "school"],
+["push", "soup"],
+["cook", "rude"],
+["foot", "true"],
+["wood", "blue"],
+["bush", "fruit"],
+["would", "group"],
+["pull", "cruel"],
+["could", "fool"]
+],
+"explanation": "الصوت القصير /ʊ/ يظهر في كلمات مثل (put, look, full) والصوت الطويل /u:/ يظهر في كلمات مثل (shoot, juice, school).",
+"examples": "Listen and repeat: put vs shoot, look vs juice, full vs fool."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["Preposition", "الاستخدام", "مثال"],
+"rows": [
+["about", "يتحدث عن", "They are talking about studying."],
+["of", "لـ (ملكية / جزء من)", "different kinds of trees."],
+["for", "لمدة", "He took a nap for an hour."],
+["with", "مع", "I went with my family."],
+["in", "في (مكان/زمان)", "in the end, in the afternoon"],
+["at", "في (مكان/زمان محدد)", "at sunset, at school"],
+["on", "على / في (يوم)", "on time, on Friday"],
+["from", "من (أصل/مصدر)", "from the text"]
+],
+"explanation": "حروف الجر تأتي قبل الاسم أو الضمير ولها استخدامات متعددة حسب السياق.",
+"examples": "He arrived at sunset. / She learned from the story."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["Conjunction", "الاستخدام", "مثال"],
+"rows": [
+["because", "للتعبير عن سبب", "She likes reading because books give her pleasure."],
+["so", "للتعبير عن نتيجة", "He felt hot so he sat under a tree."],
+["but", "للتعبير عن تباين", "She didn't expect us, but her mother was in business."],
+["although", "للتعبير عن تضاد", "Although he was late, he arrived."],
+["when", "للتعبير عن زمان", "When you do it regularly, you realize..."],
+["if", "للتعبير عن شرط", "If you master time management, you can achieve anything."]
+],
+"explanation": "أدوات الربط تستخدم لربط الجمل أو الكلمات.",
+"examples": "He lost his chance because he wasted time. / I was tired, so I slept."
+},
+{
+"title": "Conditional Type 2 (النوع الثاني من الشرط)",
+"headers": ["الشرط", "النتيجة", "مثال"],
+"rows": [
+["If + Past Simple", "would + Base Form", "If Hani worked hard, he wouldn't be poor."],
+["If + Past Simple", "could + Base Form", "If I had time, I could help."]
+],
+"explanation": "النوع الثاني من الشرط يستخدم للتعبير عن مواقف غير حقيقية أو خيالية في الحاضر.",
+"examples": "If I had money, I would travel. / If Hani worked hard, he would be rich."
+},
+{
+"title": "Gerund as Subject (اسم الفاعل كفاعل)",
+"headers": ["الفاعل (Gerund)", "مثال"],
+"rows": [
+["Planting trees", "Planting trees gives much money."],
+["Reading books", "Reading books is enjoyable."],
+["Wasting time", "Wasting time is harmful."]
+],
+"explanation": "يمكننا بدء الجملة بـ Gerund (فعل + ing) ليكون فاعل الجملة.",
+"examples": "Planting trees is important. / Reading improves your knowledge."
+},
+{
+"title": "Possessive Adjectives (صفات الملكية)",
+"headers": ["Subject", "Possessive Adjective", "Possessive Pronoun"],
+"rows": [
+["I", "my", "mine"],
+["You", "your", "yours"],
+["He", "his", "his"],
+["She", "her", "hers"],
+["It", "its", "its"],
+["We", "our", "ours"],
+["They", "their", "theirs"]
+],
+"explanation": "صفات الملكية تأتي قبل الاسم (my book) بينما ضمائر الملكية تحل محل الاسم (This book is mine).",
+"examples": "This is her bag. / This bag is hers."
+},
+{
+"title": "Question Words (أدوات الاستفهام)",
+"headers": ["Question Word", "الاستخدام", "مثال"],
+"rows": [
+["What", "يسأل عن شيء", "What is the man doing?"],
+["Where", "يسأل عن مكان", "Where are you?"],
+["Who", "يسأل عن شخص", "Who did you go with?"],
+["How", "يسأل عن كيفية", "How are you?"],
+["How long", "يسأل عن مدة", "How long did you stay?"],
+["How much", "يسأل عن كمية/سعر", "How much time did you spend?"],
+["Why", "يسأل عن سبب", "Why do you waste time?"],
+["When", "يسأل عن زمان", "When did you arrive?"]
+],
+"explanation": "أدوات الاستفهام توضع في بداية السؤال ويتبعها الفعل المساعد ثم الفاعل ثم الفعل الرئيسي.",
+"examples": "Where did you go? / How long did you stay?"
+},
+{
+"title": "Auxiliary Verbs (الأفعال المساعدة)",
+"headers": ["Auxiliary Verb", "الاستخدام", "مثال"],
+"rows": [
+["do / does", "للسؤال والنفي في المضارع", "Do you plan your day?"],
+["did", "للسؤال والنفي في الماضي", "Did you enjoy the festival?"],
+["is / are", "للسؤال في المضارع المستمر", "Are you going to the party?"],
+["can / could", "للتعبير عن القدرة", "Can you help me?"]
+],
+"explanation": "الأفعال المساعدة تستخدم لتكوين السؤال والنفي في الأزمنة المختلفة.",
+"examples": "Did she finish her homework? / Can you manage your time?"
+}
+]
+}

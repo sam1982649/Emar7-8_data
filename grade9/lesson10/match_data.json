@@ -1,0 +1,112 @@
+{
+"groups": [
+{
+"title": "Match the Sentence Parts - Killing Time is not a Murder!!!",
+"source": "student_book",
+"options": [
+{ "letter": "a", "text": "what they had spent" },
+{ "letter": "b", "text": "more important and valuable than money" },
+{ "letter": "c", "text": "don't really know how to manage time" },
+{ "letter": "d", "text": "in the final exam" },
+{ "letter": "e", "text": "efficiently" },
+{ "letter": "f", "text": "productive ways" }
+],
+"sentences": [
+{
+"start": "People can never get back the time",
+"correct": "a",
+"full_sentence": "People can never get back the time what they had spent",
+"translation": "لا يمكن للناس أبداً استعادة الوقت الذي أنفقوه",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 74"
+},
+{
+"start": "Successful people consider time",
+"correct": "b",
+"full_sentence": "Successful people consider time more important and valuable than money",
+"translation": "يعتبر الأشخاص الناجحون الوقت أكثر أهمية وقيمة من المال",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 74"
+},
+{
+"start": "People who say they don't have enough time",
+"correct": "c",
+"full_sentence": "People who say they don't have enough time don't really know how to manage time",
+"translation": "الأشخاص الذين يقولون أنهم لا يملكون وقتاً كافياً لا يعرفون حقاً كيفية إدارة الوقت",
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 74"
+},
+{
+"start": "Most of our students attain high grades",
+"correct": "d",
+"full_sentence": "Most of our students attain high grades in the final exam",
+"translation": "معظم طلابنا يحصلون على درجات عالية في الامتحان النهائي",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 75"
+},
+{
+"start": "She knows how to use her time",
+"correct": "e",
+"full_sentence": "She knows how to use her time efficiently",
+"translation": "هي تعرف كيف تستخدم وقتها بكفاءة",
+"source": "Student Book",
+"exact_reference": "Vocabulary - Page 75"
+}
+]
+},
+{
+"title": "Match the Sentence Parts - Hurry up Before the Gates are Shut!",
+"source": "activity_book",
+"options": [
+{ "letter": "a", "text": "had been shut" },
+{ "letter": "b", "text": "to tell his wife" },
+{ "letter": "c", "text": "because he had not learnt the value of time" },
+{ "letter": "d", "text": "it will never come back again" },
+{ "letter": "e", "text": "he felt hot so he sat under a tree" },
+{ "letter": "f", "text": "and collect as much wealth as you can" }
+],
+"sentences": [
+{
+"start": "Hani lost a golden chance",
+"correct": "c",
+"full_sentence": "Hani lost a golden chance because he had not learnt the value of time",
+"translation": "خسر هاني فرصة ذهبية لأنه لم يتعلم قيمة الوقت",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 64"
+},
+{
+"start": "The palace gates",
+"correct": "a",
+"full_sentence": "The palace gates had been shut",
+"translation": "كانت بوابات القصر قد أغلقت",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 64"
+},
+{
+"start": "Once time is spent",
+"correct": "d",
+"full_sentence": "Once time is spent it will never come back again",
+"translation": "بمجرد أن يضيع الوقت، لن يعود أبداً",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 64"
+},
+{
+"start": "The king told him to go into the treasury",
+"correct": "f",
+"full_sentence": "The king told him to go into the treasury and collect as much wealth as you can",
+"translation": "أخبره الملك أن يذهب إلى الخزانة ويجمع ما يستطيع من ثروة",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 64"
+},
+{
+"start": "Hani was so happy and rushed home",
+"correct": "b",
+"full_sentence": "Hani was so happy and rushed home to tell his wife",
+"translation": "كان هاني سعيداً جداً وأسرع إلى المنزل ليخبر زوجته",
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 64"
+}
+]
+}
+]
+}
