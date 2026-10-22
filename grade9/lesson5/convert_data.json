@@ -1,0 +1,132 @@
+{
+"questions": [
+{
+"id": "SB_G7_U5_C1",
+"original": "Teamwork helps you to make the right decision.",
+"targetWord": "Teamwork",
+"correctQuestion": "Who helps you to make the right decision?",
+"wh_word": "who",
+"auxiliary": "",
+"subject": "teamwork",
+"subject_type": "noun_thing",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text - Page 36"
+},
+{
+"id": "SB_G7_U5_C2",
+"original": "I decided to spend my holidays in Wales.",
+"targetWord": "in Wales",
+"correctQuestion": "Where did you decide to spend your holidays?",
+"wh_word": "where",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Place",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar - Page 37"
+},
+{
+"id": "SB_G7_U5_C3",
+"original": "I played football last Monday.",
+"targetWord": "last Monday",
+"correctQuestion": "When did you play football?",
+"wh_word": "when",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar - Page 37"
+},
+{
+"id": "SB_G7_U5_C4",
+"original": "We were having dinner at the restaurant at 7 o'clock.",
+"targetWord": "at 7 o'clock",
+"correctQuestion": "When were you having dinner at the restaurant?",
+"wh_word": "when",
+"auxiliary": "were",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Grammar - Page 37"
+},
+{
+"id": "AB_G7_U5_C5",
+"original": "The cakes looked very delicious.",
+"targetWord": "very delicious",
+"correctQuestion": "What were the cakes like?",
+"wh_word": "what",
+"auxiliary": "were",
+"subject": "the cakes",
+"subject_type": "noun_plural",
+"category": "Description",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 30"
+},
+{
+"id": "AB_G7_U5_C6",
+"original": "He went there to buy a cake.",
+"targetWord": "to buy a cake",
+"correctQuestion": "Why did he go there?",
+"wh_word": "why",
+"auxiliary": "did",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 30"
+},
+{
+"id": "AB_G7_U5_C7",
+"original": "We plan to buy some property.",
+"targetWord": "some property",
+"correctQuestion": "What do you plan to buy?",
+"wh_word": "what",
+"auxiliary": "do",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Page 31"
+},
+{
+"id": "AB_G7_U5_C8",
+"original": "Bill is a basketball player.",
+"targetWord": "a basketball player",
+"correctQuestion": "What is Bill's job?",
+"wh_word": "what",
+"auxiliary": "is",
+"subject": "bill's job",
+"subject_type": "noun_thing",
+"category": "Object",
+"acceptedAnswers": [
+"What is his job?"
+],
+"source": "Activity Book",
+"exact_reference": "Listening - Page 29"
+},
+{
+"id": "AB_G7_U5_C9",
+"original": "I made my decision yesterday.",
+"targetWord": "yesterday",
+"correctQuestion": "When did you make your decision?",
+"wh_word": "when",
+"auxiliary": "did",
+"subject": "you",
+"subject_type": "pronoun",
+"category": "Time",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Writing - Page 32"
+}
+]
+}
