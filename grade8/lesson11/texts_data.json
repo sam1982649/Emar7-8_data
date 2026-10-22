@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "SB_G11_U1_T1_P1",
+"text_group": "G11_U1_Telekinesis_P1",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Stare at it, Move it!",
+"content_exam": "Telekinesis is simply the ability to move an object in some manner without coming into physical contact with it. In 1960, a Russian housewife videoed herself moving the tableware by just looking at it. She could also break an egg and separate the white from the yolk without touching it. She accidently discovered her ability to do so. Another Cuban youngman called Khwan used to work as a clerk in a gift shop. He coincidently discovered that he had a supernatural power and that he could move the cups on the shelves and make them fly. He used to do that sitting behind his desk.",
+"questions": [
+{
+"id": "sb_g11_u1_t1_p1_q1",
+"question": "Telekinesis is the ability to move ........ without touching it.",
+"options": ["an object", "a person", "a car", "a book"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: an object\n📝 الترجمة: التحريك عن بعد هو القدرة على تحريك جسم دون لمسه.\n💡 الشرح: النص يقول: 'Telekinesis is simply the ability to move an object in some manner without coming into physical contact with it.'"
+},
+{
+"id": "sb_g11_u1_t1_p1_q2",
+"question": "In 1960, a Russian housewife moved the ........ by just looking at it.",
+"options": ["furniture", "tableware", "books", "clothes"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: tableware\n📝 الترجمة: في عام 1960، حركت ربة منزل روسية أدوات المائدة بمجرد النظر إليها.\n💡 الشرح: النص يقول: 'a Russian housewife videoed herself moving the tableware by just looking at it.'"
+},
+{
+"id": "sb_g11_u1_t1_p1_q3",
+"question": "The Russian housewife could break an egg and separate the ........ from the yolk without touching it.",
+"options": ["white", "shell", "yellow", "water"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: white\n📝 الترجمة: استطاعت تكسير بيضة وفصل البياض عن الصفار دون لمسها.\n💡 الشرح: النص يقول: 'She could also break an egg and separate the white from the yolk without touching it.'"
+},
+{
+"id": "sb_g11_u1_t1_p1_q4",
+"question": "The Russian housewife ........ discovered her ability.",
+"options": ["intentionally", "accidentally", "carefully", "slowly"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: accidentally\n📝 الترجمة: اكتشفت ربة المنزل الروسية قدرتها بالصدفة.\n💡 الشرح: النص يقول: 'She accidently discovered her ability to do so.'"
+},
+{
+"id": "sb_g11_u1_t1_p1_q5",
+"question": "Khwan used to work as a ........ in a gift shop.",
+"options": ["manager", "clerk", "owner", "driver"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: clerk\n📝 الترجمة: كان خوان يعمل كموظف في متجر هدايا.\n💡 الشرح: النص يقول: 'Another Cuban youngman called Khwan used to work as a clerk in a gift shop.'"
+}
+]
+},
+{
+"id": "SB_G11_U1_T2_P2",
+"text_group": "G11_U1_Telekinesis_P2",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Stare at it, Move it!",
+"content_exam": "One explanation to the mentioned phenomenon is related to the magnetic field which can occur when a human being is in control of it. So, they can push that field into a certain object causing it to move. Scientists also said that emotional states especially anger can affect an external environment and this could be clearly seen in all the movies which were made about this phenomenon. Logically speaking, there are no supernatural powers. In fact, there are powers that we don't know how to use. Such powers are similar to life skills which are learnt daily; they are similar to how children learn to hold things, to read and write. The more we practice the more we achieve.",
+"questions": [
+{
+"id": "sb_g11_u1_t2_p2_q1",
+"question": "The magnetic field can occur when a human being is in control of it.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يمكن أن يحدث المجال المغناطيسي عندما يكون الإنسان مسيطراً عليه.\n💡 الشرح: النص يقول: 'the magnetic field which can occur when a human being is in control of it.'"
+},
+{
+"id": "sb_g11_u1_t2_p2_q2",
+"question": "Emotional states especially anger cannot affect the external environment.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: الحالات العاطفية خاصة الغضب لا يمكن أن تؤثر على البيئة الخارجية.\n💡 الشرح: النص يقول: 'emotional states especially anger can affect an external environment.'"
+},
+{
+"id": "sb_g11_u1_t2_p2_q3",
+"question": "There are no supernatural powers according to the text.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: لا توجد قوى خارقة للطبيعة وفقاً للنص.\n💡 الشرح: النص يقول: 'Logically speaking, there are no supernatural powers.'"
+},
+{
+"id": "sb_g11_u1_t2_p2_q4",
+"question": "What can occur when a human being is in control of the magnetic field?",
+"type": "answer",
+"keywords": ["magnetic field"],
+"explanation": "✅ الإجابة المتوقعة: magnetic field\n📝 الترجمة: ماذا يمكن أن يحدث عندما يكون الإنسان مسيطراً على المجال المغناطيسي؟\n💡 الشرح: النص يقول: 'the magnetic field which can occur when a human being is in control of it.'"
+},
+{
+"id": "sb_g11_u1_t2_p2_q5",
+"question": "What can emotional states especially anger affect?",
+"type": "answer",
+"keywords": ["external environment"],
+"explanation": "✅ الإجابة المتوقعة: external environment\n📝 الترجمة: ماذا يمكن أن تؤثر الحالات العاطفية خاصة الغضب؟\n💡 الشرح: النص يقول: 'emotional states especially anger can affect an external environment.'"
+}
+]
+},
+{
+"id": "AB_G11_U1_T3_P1",
+"text_group": "G11_U1_Deja_Vu_P1",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "Déjà Vu",
+"content_exam": "People sometimes experience new events and have a strange feeling that it's not the first time. This sensation is called déjà vu. Déjà vu or \"already seen\" is one of the human supernatural powers which results from the subconscious. Some researchers believe that déjà vu is our memory about dreams. This means that you did not face the situation before, but you had seen it in one of your dreams! Of course you don't remember the dream, but when you face the situation you recall that dream and you are shocked, yet you don't remember when or where exactly you saw it before.",
+"questions": [
+{
+"id": "ab_g11_u1_t3_p1_q1",
+"question": "People sometimes experience new events and have a strange feeling that it's ........ the first time.",
+"options": ["not", "still", "always", "never"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: not\n📝 الترجمة: يشعر الناس أحياناً بأنه ليست المرة الأولى.\n💡 الشرح: النص يقول: 'have a strange feeling that it's not the first time.'"
+},
+{
+"id": "ab_g11_u1_t3_p1_q2",
+"question": "Déjà vu is one of the human supernatural powers which results from the ........ .",
+"options": ["conscious", "subconscious", "memory", "dreams"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: subconscious\n📝 الترجمة: الديجافو هو أحد القوى الخارقة التي تنتج عن العقل الباطن.\n💡 الشرح: النص يقول: 'which results from the subconscious.'"
+},
+{
+"id": "ab_g11_u1_t3_p1_q3",
+"question": "Some researchers believe that déjà vu is our memory about ........ .",
+"options": ["events", "people", "dreams", "places"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: dreams\n📝 الترجمة: يعتقد بعض الباحثين أن الديجافو هو ذاكرتنا عن الأحلام.\n💡 الشرح: النص يقول: 'Some researchers believe that déjà vu is our memory about dreams.'"
+},
+{
+"id": "ab_g11_u1_t3_p1_q4",
+"question": "You don't remember the dream, but when you face the situation you ........ that dream.",
+"options": ["forget", "recall", "ignore", "avoid"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: recall\n📝 الترجمة: لا تتذكر الحلم، ولكن عندما تواجه الموقف تسترجع ذلك الحلم.\n💡 الشرح: النص يقول: 'you recall that dream.'"
+},
+{
+"id": "ab_g11_u1_t3_p1_q5",
+"question": "Déjà vu means ........ .",
+"options": ["already seen", "never seen", "already heard", "never heard"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: already seen\n📝 الترجمة: الديجافو تعني 'شوهد سابقاً'.\n💡 الشرح: النص يقول: 'Déjà vu or \"already seen\"'."
+}
+]
+},
+{
+"id": "AB_G11_U1_T4_P2",
+"text_group": "G11_U1_Deja_Vu_P2",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "Déjà Vu",
+"content_exam": "Other scientists say that the embryo sees his whole life when it is still in his mother's womb, and so it feels déjà vu as a recall from his memories. About 60 to 70% of people report having déjà vu, and it is more common in younger people, Giordano, a professor of neurology, says: \"We experience the most déjà vu between the periods of 15 and 25\". If you experience déjà vu a lot that means that you are young. While you can't say that as you get older your chances to experience déjà vu will vanish, you should definitely enjoy it when it appears. It is really a remarkable phenomenon that shouldn't just be dismissed.",
+"questions": [
+{
+"id": "ab_g11_u1_t4_p2_q1",
+"question": "The embryo sees his whole life when it is still in his mother's womb.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: يرى الجنين حياته كلها عندما لا يزال في رحم أمه.\n💡 الشرح: النص يقول: 'the embryo sees his whole life when it is still in his mother's womb.'"
+},
+{
+"id": "ab_g11_u1_t4_p2_q2",
+"question": "90% of people report having déjà vu.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: 90% من الناس يبلغون عن تجربة الديجافو.\n💡 الشرح: النص يقول: 'About 60 to 70% of people report having déjà vu.'"
+},
+{
+"id": "ab_g11_u1_t4_p2_q3",
+"question": "Déjà vu is more common in older people.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: الديجافو أكثر شيوعاً عند كبار السن.\n💡 الشرح: النص يقول: 'it is more common in younger people.'"
+},
+{
+"id": "ab_g11_u1_t4_p2_q4",
+"question": "According to Giordano, between what ages do people experience the most déjà vu?",
+"type": "answer",
+"keywords": ["15", "25", "between 15 and 25"],
+"explanation": "✅ الإجابة المتوقعة: between 15 and 25\n📝 الترجمة: وفقاً لجيوردانو، بين أي عمرين يشعر الناس بالديجافو أكثر؟\n💡 الشرح: النص يقول: 'We experience the most déjà vu between the periods of 15 and 25.'"
+},
+{
+"id": "ab_g11_u1_t4_p2_q5",
+"question": "What should you do when déjà vu appears according to the text?",
+"type": "answer",
+"keywords": ["enjoy", "enjoy it"],
+"explanation": "✅ الإجابة المتوقعة: enjoy it\n📝 الترجمة: ماذا يجب أن تفعل عندما يظهر الديجافو وفقاً للنص؟\n💡 الشرح: النص يقول: 'you should definitely enjoy it when it appears.'"
+}
+]
+}
+]
+}

@@ -1,0 +1,116 @@
+{
+"groups": [
+{
+"id": "SB_G8_U11_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G11_U1_Telekinesis",
+"options": [
+{ "letter": "a", "text": "he had a supernatural power." },
+{ "letter": "b", "text": "the more we achieve." },
+{ "letter": "c", "text": "affect the external environment." },
+{ "letter": "d", "text": "someone with a logical mind." },
+{ "letter": "e", "text": "physical contact with it." },
+{ "letter": "f", "text": "The U.S.A is a big country." }
+],
+"sentences": [
+{
+"start": "He coincidently discovered that",
+"correct": "a",
+"full_sentence": "He coincidently discovered that he had a supernatural power.",
+"translation": "اكتشف بالصدفة أن لديه قوة خارقة.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "The more we practice",
+"correct": "b",
+"full_sentence": "The more we practice the more we achieve.",
+"translation": "كلما تدربنا أكثر كلما حققنا أكثر.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Scientists said that emotional states can",
+"correct": "c",
+"full_sentence": "Scientists said that emotional states can affect the external environment.",
+"translation": "قال العلماء أن الحالات العاطفية يمكن أن تؤثر على البيئة الخارجية.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "Computer programming needs",
+"correct": "d",
+"full_sentence": "Computer programming needs someone with a logical mind.",
+"translation": "برمجة الكمبيوتر تحتاج إلى شخص ذو عقل منطقي.",
+"source": "Student Book",
+"exact_reference": "Vocabulary"
+},
+{
+"start": "Telekinesis is the ability to move an object without coming into",
+"correct": "e",
+"full_sentence": "Telekinesis is the ability to move an object without coming into physical contact with it.",
+"translation": "التحريك عن بعد هو القدرة على تحريك جسم دون الاتصال الجسدي به.",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+}
+]
+},
+{
+"id": "AB_G8_U11_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G11_U1_Deja_Vu",
+"options": [
+{ "letter": "a", "text": "the subconscious." },
+{ "letter": "b", "text": "it is still in his mother's womb." },
+{ "letter": "c", "text": "He can't stand on his feet." },
+{ "letter": "d", "text": "the doctor away." },
+{ "letter": "e", "text": "you had sent me." },
+{ "letter": "f", "text": "recall from his memories." }
+],
+"sentences": [
+{
+"start": "Déjà vu results from",
+"correct": "a",
+"full_sentence": "Déjà vu results from the subconscious.",
+"translation": "الديجافو ينتج عن العقل الباطن.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "The embryo sees his whole life when",
+"correct": "b",
+"full_sentence": "The embryo sees his whole life when it is still in his mother's womb.",
+"translation": "يرى الجنين حياته كلها عندما لا يزال في رحم أمه.",
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"start": "I think the man over there is very ill",
+"correct": "c",
+"full_sentence": "I think the man over there is very ill. He can't stand on his feet.",
+"translation": "أعتقد أن الرجل هناك مريض جداً. لا يستطيع الوقوف على قدميه.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "An apple a day keeps",
+"correct": "d",
+"full_sentence": "An apple a day keeps the doctor away.",
+"translation": "تفاحة في اليوم تبقي الطبيب بعيداً.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "I watched the video",
+"correct": "e",
+"full_sentence": "I watched the video you had sent me.",
+"translation": "شاهدت الفيديو الذي أرسلته لي.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+}
+]
+}
+]
+}

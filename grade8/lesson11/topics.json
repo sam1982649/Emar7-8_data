@@ -1,0 +1,43 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics)",
+"description": "يتم استخراج مواضيع الكتابة من نهاية كل درس في كتاب الطالب وكتاب النشاط.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Writing",
+"Activity Book - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من كتاب الطالب",
+"موضوع واحد من كتاب النشاط"
+]
+},
+"topics": [
+{
+"id": "SB_G8_U11_W1",
+"title": "Choose one superhero and write a short paragraph about him.",
+"source": "Student Book",
+"exact_reference": "Writing - Page 85",
+"guiding_questions": [
+"What does he wear? (uniform)",
+"What is his superpower?",
+"Why do you like him?"
+],
+"sample_essay": "My favourite superhero is Spider-Man. He wears a red and blue uniform. He has a special superpower. He can climb walls and shoot webs. He is very strong and fast. I like him because he helps people. He is brave and kind. He always saves people from danger. I wish I could be like him one day.",
+"word_count": 55
+},
+{
+"id": "AB_G8_U11_W1",
+"title": "Imagine you have a medicine which makes you invisible. Write a paragraph about what you would do if you became invisible.",
+"source": "Activity Book",
+"exact_reference": "Writing - Page 49",
+"guiding_questions": [
+"What would you do if you became invisible?",
+"How would you help people?",
+"Would you use this power for good or bad?"
+],
+"sample_essay": "If I became invisible, I would help people. I would stop thieves and save children from danger. I would visit my friends and see what they do. I would also travel to different places without anyone seeing me. I would not use my power for bad things. I would only use it to help others and make the world a better place.",
+"word_count": 55
+}
+]
+}

@@ -1,0 +1,283 @@
+{
+"vocabulary": [
+{ "word": "ability", "translation": "قدرة" },
+{ "word": "accidently", "translation": "بالصدفة" },
+{ "word": "achieve", "translation": "يحقق" },
+{ "word": "affect", "translation": "يؤثر" },
+{ "word": "alive", "translation": "على قيد الحياة" },
+{ "word": "already", "translation": "سابقاً" },
+{ "word": "amazing", "translation": "مذهل" },
+{ "word": "angry", "translation": "غاضب" },
+{ "word": "articles", "translation": "أدوات تعريف" },
+{ "word": "audience", "translation": "جمهور" },
+{ "word": "believe", "translation": "يعتقد" },
+{ "word": "born", "translation": "يولد" },
+{ "word": "bridge", "translation": "جسر" },
+{ "word": "cables", "translation": "كابلات" },
+{ "word": "cause", "translation": "سبب" },
+{ "word": "cinema", "translation": "سينما" },
+{ "word": "clerk", "translation": "موظف" },
+{ "word": "clearly", "translation": "بوضوح" },
+{ "word": "coincidently", "translation": "بالمصادفة" },
+{ "word": "computer", "translation": "حاسوب" },
+{ "word": "conscious", "translation": "واعٍ" },
+{ "word": "contact", "translation": "اتصال" },
+{ "word": "conversation", "translation": "محادثة" },
+{ "word": "create", "translation": "يخلق / ينشئ" },
+{ "word": "cups", "translation": "أكواب" },
+{ "word": "danger", "translation": "خطر" },
+{ "word": "déjà vu", "translation": "ديجافو" },
+{ "word": "desk", "translation": "مكتب (طاولة)" },
+{ "word": "die", "translation": "يموت" },
+{ "word": "dinner", "translation": "عشاء" },
+{ "word": "disappear", "translation": "يختفي" },
+{ "word": "discover", "translation": "يكتشف" },
+{ "word": "dismiss", "translation": "يرفض / يتجاهل" },
+{ "word": "dismissed", "translation": "منصرف / منتهي" },
+{ "word": "doctor", "translation": "طبيب" },
+{ "word": "dotted", "translation": "منقّط / مليء" },
+{ "word": "dream", "translation": "حلم" },
+{ "word": "editor", "translation": "محرر" },
+{ "word": "elephant", "translation": "فيل" },
+{ "word": "embryo", "translation": "جنين" },
+{ "word": "emotional", "translation": "عاطفي" },
+{ "word": "emotional states", "translation": "حالات عاطفية" },
+{ "word": "engineer", "translation": "مهندس" },
+{ "word": "enjoy", "translation": "يستمتع" },
+{ "word": "especially", "translation": "خصوصاً" },
+{ "word": "excellent", "translation": "ممتاز" },
+{ "word": "experienced", "translation": "مجرّب" },
+{ "word": "explanation", "translation": "تفسير" },
+{ "word": "external", "translation": "خارجي" },
+{ "word": "external environment", "translation": "بيئة خارجية" },
+{ "word": "fear", "translation": "خوف" },
+{ "word": "field", "translation": "مجال" },
+{ "word": "fly", "translation": "يطير" },
+{ "word": "future", "translation": "مستقبل" },
+{ "word": "gain", "translation": "يكتسب" },
+{ "word": "gift shop", "translation": "متجر هدايا" },
+{ "word": "happiness", "translation": "سعادة" },
+{ "word": "healing", "translation": "شفاء" },
+{ "word": "human being", "translation": "إنسان" },
+{ "word": "idea", "translation": "فكرة" },
+{ "word": "illusionist", "translation": "مخادع" },
+{ "word": "imagination", "translation": "خيال" },
+{ "word": "invisible", "translation": "غير مرئي" },
+{ "word": "jacket", "translation": "سترة" },
+{ "word": "job", "translation": "وظيفة" },
+{ "word": "knowledge", "translation": "معرفة" },
+{ "word": "labor", "translation": "عمل / جهد" },
+{ "word": "lack", "translation": "نقص" },
+{ "word": "learn", "translation": "يتعلم" },
+{ "word": "life", "translation": "حياة" },
+{ "word": "life skills", "translation": "مهارات حياتية" },
+{ "word": "listen", "translation": "يستمع" },
+{ "word": "logical", "translation": "منطقي" },
+{ "word": "logically", "translation": "منطقياً" },
+{ "word": "magnetic field", "translation": "مجال مغناطيسي" },
+{ "word": "medicine", "translation": "دواء" },
+{ "word": "memories", "translation": "ذكريات" },
+{ "word": "memory", "translation": "ذاكرة" },
+{ "word": "mobile phone", "translation": "هاتف محمول" },
+{ "word": "movie", "translation": "فيلم" },
+{ "word": "music", "translation": "موسيقى" },
+{ "word": "neurology", "translation": "علم الأعصاب" },
+{ "word": "nice", "translation": "لطيف" },
+{ "word": "object", "translation": "جسم / شيء" },
+{ "word": "obstacle", "translation": "عقبة" },
+{ "word": "office", "translation": "مكتب (مكان)" },
+{ "word": "overcome", "translation": "يتغلب" },
+{ "word": "phenomenon", "translation": "ظاهرة" },
+{ "word": "physical contact", "translation": "اتصال جسدي" },
+{ "word": "platform", "translation": "منصة" },
+{ "word": "police boat", "translation": "قارب شرطة" },
+{ "word": "popular", "translation": "شعبي" },
+{ "word": "power", "translation": "قوة" },
+{ "word": "practice", "translation": "يمارس / يتدرب" },
+{ "word": "promising", "translation": "واعد" },
+{ "word": "prove", "translation": "يثبت" },
+{ "word": "quit", "translation": "يستسلم" },
+{ "word": "read", "translation": "يقرأ" },
+{ "word": "read minds", "translation": "قراءة الأفكار" },
+{ "word": "recall", "translation": "يسترجع" },
+{ "word": "remarkable", "translation": "رائع / مميز" },
+{ "word": "researcher", "translation": "باحث" },
+{ "word": "restaurant", "translation": "مطعم" },
+{ "word": "River Thames", "translation": "نهر التايمز" },
+{ "word": "road accident", "translation": "حادث طريق" },
+{ "word": "ropes", "translation": "حبال" },
+{ "word": "Russian housewife", "translation": "ربة منزل روسية" },
+{ "word": "sadness", "translation": "حزن" },
+{ "word": "save", "translation": "ينقذ / يوفر" },
+{ "word": "scientist", "translation": "عالم" },
+{ "word": "sea", "translation": "بحر" },
+{ "word": "second conditional", "translation": "الشرط الثاني" },
+{ "word": "see", "translation": "يرى" },
+{ "word": "sensation", "translation": "إحساس" },
+{ "word": "shelf / shelves", "translation": "رف / رفوف" },
+{ "word": "sinking", "translation": "غرق" },
+{ "word": "situation", "translation": "موقف" },
+{ "word": "skills", "translation": "مهارات" },
+{ "word": "social", "translation": "اجتماعي" },
+{ "word": "spider", "translation": "عنكبوت" },
+{ "word": "stand", "translation": "يقف" },
+{ "word": "subconscious", "translation": "العقل الباطن" },
+{ "word": "success", "translation": "نجاح" },
+{ "word": "supernatural", "translation": "خارق للطبيعة" },
+{ "word": "superpower", "translation": "قوة خارقة" },
+{ "word": "superhero", "translation": "بطل خارق" },
+{ "word": "tableware", "translation": "أدوات المائدة" },
+{ "word": "taxi", "translation": "سيارة أجرة" },
+{ "word": "teacher", "translation": "معلم" },
+{ "word": "telekinesis", "translation": "التحريك عن بعد" },
+{ "word": "telepathy", "translation": "تخاطر" },
+{ "word": "training", "translation": "تدريب" },
+{ "word": "truth", "translation": "حقيقة" },
+{ "word": "uniform", "translation": "زي رسمي" },
+{ "word": "vanish", "translation": "يختفي" },
+{ "word": "video", "translation": "فيديو" },
+{ "word": "walk on water", "translation": "المشي على الماء" },
+{ "word": "walls", "translation": "جدران" },
+{ "word": "wife", "translation": "زوجة" },
+{ "word": "womb", "translation": "رحم" },
+{ "word": "yolk", "translation": "صفار البيض" },
+{ "word": "young", "translation": "صغير / شاب" }
+],
+"tables": [
+{
+"title": "Articles (أدوات التعريف والتنكير) - القاعدة الرئيسية للدرس",
+"headers": ["الأداة", "متى نستخدم؟", "مثال"],
+"rows": [
+["a", "قبل الكلمات التي تبدأ بحرف ساكن (consonant)", "I saw a movie."],
+["an", "قبل الكلمات التي تبدأ بحرف علة (vowel) a, e, i, o, u", "I saw an elephant."],
+["the", "عندما نذكر الشيء للمرة الثانية أو يكون محدداً", "The movie was good."],
+["x (no article)", "عندما نتحدث عن أشياء بشكل عام", "Milk is good for you."]
+],
+"explanation": "نستخدم 'a' قبل الكلمات المفردة التي تبدأ بحرف ساكن، و 'an' قبل الكلمات التي تبدأ بحرف علة. نستخدم 'the' عندما يكون الشيء محدداً أو سبق ذكره. لا نستخدم أداة تعريف عندما نتحدث عن أشياء بشكل عام أو مع أسماء الرياضات والوجبات.",
+"examples": "I saw a movie last night. / She is an engineer. / The movie was interesting. / Milk is good for you."
+},
+{
+"title": "Simple Past (الماضي البسيط)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["الفعل في الماضي (V2)", "للتعبير عن حدث وقع وانتهى في الماضي", "I saw a movie last night."],
+["الفعل في الماضي (V2)", "للتعبير عن حدث وقع وانتهى في الماضي", "I left my jacket at the office."],
+["الفعل في الماضي (V2)", "للتعبير عن حدث وقع وانتهى في الماضي", "He made the coin vanish."]
+],
+"explanation": "نستخدم الماضي البسيط للتعبير عن أحداث وقعت وانتهت في الماضي. الأفعال المنتظمة تنتهي بـ -ed، والأفعال غير المنتظمة لها أشكال خاصة يجب حفظها.",
+"examples": "I saw a movie last night. / I left my jacket at the office. / He made the coin vanish."
+},
+{
+"title": "Used to (اعتاد أن)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["used to + base verb", "للتعبير عن عادة في الماضي", "Khwan used to work as a clerk."]
+],
+"explanation": "نستخدم 'used to' للتعبير عن عادة أو فعل كان يحدث بانتظام في الماضي ولكن لا يحدث الآن.",
+"examples": "Khwan used to work as a clerk in a gift shop. / He used to do that sitting behind his desk."
+},
+{
+"title": "Possessive Adjectives (صفات الملكية)",
+"headers": ["ضمير الفاعل", "صفة الملكية", "المعنى"],
+"rows": [
+["he", "his", "خاصته (للمذكر)"]
+],
+"explanation": "نستخدم صفات الملكية قبل الاسم للدلالة على الملكية.",
+"examples": "He used to do that sitting behind his desk."
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["حرف الجر", "الاستخدام", "مثال"],
+"rows": [
+["from", "للفصل بين شيئين", "separate the white from the yolk"],
+["to", "للتعبير عن الاعتياد أو الارتباط", "used to work / related to memory"],
+["of", "للتعبير عن الملكية أو السبب", "the cause of Telekinesis / periods of 15 and 25"],
+["on", "للتعبير عن الأساس أو البناء", "based on a real-life incident"]
+],
+"explanation": "حروف الجر تربط الأسماء بالجملة. بعض الأفعال تأتي مع حروف جر محددة ويجب حفظها.",
+"examples": "She separated the white from the yolk. / Khwan used to work as a clerk. / Déjà vu is related to memory. / The movie is based on a real-life incident."
+},
+{
+"title": "Relative Clauses (جمل الوصل)",
+"headers": ["ضمير الوصل", "الاستخدام", "مثال"],
+"rows": [
+["which", "لغير العاقل (مفرد أو جمع)", "Déjà vu is one of the powers which results from the subconscious."],
+["where", "للمكان", "Do you want to go to the restaurant where we first met?"]
+],
+"explanation": "تستخدم ضمائر الوصل لربط الجمل. 'which' لغير العاقل، و 'where' للمكان.",
+"examples": "Déjà vu is one of the powers which results from the subconscious. / Do you want to go to the restaurant where we first met?"
+},
+{
+"title": "Derivation - Adjectives (اشتقاق الصفات)",
+"headers": ["الاسم / الفعل", "الصفة", "المعنى"],
+"rows": [
+["logic", "logical", "منطقي"],
+["emotion", "emotional", "عاطفي"],
+["magnet", "magnetic", "مغناطيسي"],
+["extern", "external", "خارجي"],
+["especial", "especial", "خاص"]
+],
+"explanation": "نشتق الصفات من الأسماء أو الأفعال بإضافة لاحقات مثل -al، -ic، -ful، -ous، -ive.",
+"examples": "Computer programming needs someone with a logical mind. / Mothers are often the emotional members of the family."
+},
+{
+"title": "Derivation - Adverbs (اشتقاق الظروف)",
+"headers": ["الصفة", "الظرف", "المعنى"],
+"rows": [
+["logical", "logically", "منطقياً"],
+["external", "externally", "خارجياً"],
+["clear", "clearly", "بوضوح"],
+["especial", "especially", "خصوصاً"]
+],
+"explanation": "نشتق الظروف من الصفات بإضافة -ly. نستخدم الظروف لوصف الأفعال.",
+"examples": "The teacher explained everything very clearly. / I made this cake especially for you."
+},
+{
+"title": "Nouns - Derivation (اشتقاق الأسماء)",
+"headers": ["الفعل / الجذر", "الاسم", "المعنى"],
+"rows": [
+["research", "researcher", "باحث"],
+["research", "researchers", "باحثون (جمع)"]
+],
+"explanation": "نشتق الأسماء من الأفعال بإضافة لاحقات مثل -er / -or للدلالة على الفاعل.",
+"examples": "Some researchers believe that déjà vu is our memory about dreams."
+},
+{
+"title": "Simple Present (المضارع البسيط)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["الفعل في المصدر (مع s للغائب المفرد)", "للتعبير عن عادات أو حقائق عامة", "He listens to music."],
+["الفعل في المصدر (مع s للغائب المفرد)", "للتعبير عن عادات أو حقائق عامة", "We have dinner at eight."]
+],
+"explanation": "نستخدم المضارع البسيط للتعبير عن عادات أو حقائق عامة أو أحداث متكررة.",
+"examples": "He never listens to classical music. / We usually have dinner at eight."
+},
+{
+"title": "Indefinite Pronouns (ضمائر التنكير)",
+"headers": ["الضمير", "الاستخدام", "مثال"],
+"rows": [
+["someone", "شخص ما (غير محدد)", "Computer programming needs someone with a logical mind."]
+],
+"explanation": "نستخدم 'someone' بمعنى 'شخص ما' عندما لا نحدد الشخص بالضبط.",
+"examples": "Computer programming needs someone with a logical mind."
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["أداة الربط", "الاستخدام", "مثال"],
+"rows": [
+["so", "للتعبير عن النتيجة", "There were no buses so I took a taxi."]
+],
+"explanation": "نستخدم 'so' لربط جملة بالنتيجة المترتبة عليها.",
+"examples": "There were no buses so I took a taxi."
+},
+{
+"title": "Gerunds (صيغة -ing)",
+"headers": ["التركيب", "الاستخدام", "مثال"],
+"rows": [
+["love + V-ing", "للتعبير عن الهواية أو الاستمتاع", "I love reading history books."]
+],
+"explanation": "بعد أفعال مثل 'love'، 'like'، 'enjoy' نستخدم الفعل بصيغة -ing (gerund) للتعبير عن الهواية أو الاستمتاع.",
+"examples": "I love reading history books."
+}
+]
+}

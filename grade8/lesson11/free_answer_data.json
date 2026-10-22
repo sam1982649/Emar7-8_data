@@ -1,0 +1,86 @@
+{
+"questions": [
+{
+"question": "What was the food like in the restaurant?",
+"translation": "كيف كان الطعام في المطعم؟",
+"keywords": ["delicious", "tasty", "good", "wonderful", "nice"],
+"suggested_answers": [
+"The food was delicious.",
+"The food was tasty.",
+"The food was good.",
+"The food was wonderful.",
+"The food was nice."
+],
+"source": "Student Book - Grammar",
+"exact_reference": "Page 83"
+},
+{
+"question": "Where did you leave your jacket?",
+"translation": "أين تركت سترتك؟",
+"keywords": ["jacket", "office", "left", "place"],
+"suggested_answers": [
+"I left my jacket at the office.",
+"I left it at the office.",
+"I left my jacket at home.",
+"I left it in the car.",
+"I left it at school."
+],
+"source": "Student Book - Grammar",
+"exact_reference": "Page 83"
+},
+{
+"question": "When is Christmas day this year?",
+"translation": "متى يكون يوم عيد الميلاد هذا العام؟",
+"keywords": ["Sunday", "Christmas", "day"],
+"suggested_answers": [
+"Christmas day is on Sunday this year.",
+"It is on Sunday.",
+"Christmas day is on Sunday.",
+"It is on Sunday this year."
+],
+"source": "Student Book - Grammar",
+"exact_reference": "Page 83"
+},
+{
+"question": "What time does he usually have breakfast?",
+"translation": "في أي وقت يتناول إفطاره عادةً؟",
+"keywords": ["breakfast", "7 o'clock", "time", "morning"],
+"suggested_answers": [
+"He has breakfast at 7 o'clock.",
+"He has breakfast at seven.",
+"He eats breakfast at 7.",
+"He usually has breakfast at 7 o'clock."
+],
+"source": "Student Book - Grammar",
+"exact_reference": "Page 83"
+},
+{
+"question": "What kind of music do you listen to?",
+"translation": "أي نوع من الموسيقى تستمع إليه؟",
+"keywords": ["kind", "music", "listen", "pop", "rock"],
+"suggested_answers": [
+"I listen to pop music.",
+"I listen to rock music.",
+"I listen to classical music.",
+"I listen to jazz music.",
+"I listen to all kinds of music."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Page 48"
+},
+{
+"question": "Where do you usually spend your holiday?",
+"translation": "أين تقضي عطلتك عادة؟",
+"keywords": ["where", "spend", "holiday", "sea", "mountains"],
+"suggested_answers": [
+"I spend my holiday by the sea.",
+"I spend my holiday in the mountains.",
+"I spend my holiday at home.",
+"I usually spend my holiday with my family.",
+"I go to the beach for my holiday."
+],
+"source": "Activity Book - Speaking",
+"exact_reference": "Page 48"
+}
+]
+}
