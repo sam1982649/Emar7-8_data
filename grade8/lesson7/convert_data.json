@@ -1,0 +1,227 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة التحويل (Convert)",
+"description": "يتم استخراج أسئلة التحويل من جميع مصادر الدرس (النص، التمارين) بناءً على القواعد النحوية الموجودة في كل مصدر.",
+"applicable_to": "جميع الدروس (Unit 1, Unit 2, Unit 3, ...)",
+"search_sources": [
+"Student Book - Reading Text",
+"Student Book - Grammar Exercises",
+"Student Book - After Reading",
+"Activity Book - Reading Text",
+"Activity Book - Grammar Exercises"
+],
+"grammar_focus": ["Simple Present", "Simple Past", "Present Continuous", "Future", "Modal Verbs", "Comparative Adjectives"],
+"wh_words": ["What", "How", "Why", "Who", "How many", "How much", "Where", "When", "What ... like", "How old", "How long"],
+"auxiliary_verbs": {
+"present": ["do", "does", "is", "are", "am"],
+"past": ["did", "was", "were"],
+"future": ["will", "is going to", "are going to", "am going to"],
+"present_perfect": ["have", "has"],
+"modal": ["can", "must", "should"]
+},
+"special_cases": [
+"الوقت (Time)",
+"المكان (Place)",
+"السبب (Reason)",
+"الطريقة (Manner)",
+"العدد (Quantity)",
+"الصفة الشكلية (Physical Description)",
+"الصفة غير الشكلية (Quality)",
+"الشعور (Feeling)",
+"المهنة (Job)",
+"الملكية (Possession)",
+"الفاعل (Subject)",
+"المفعول به (Object)",
+"التكرار (Frequency)",
+"المدة (Duration)",
+"المسافة (Distance)",
+"السعر (Price)",
+"العمر (Age)"
+],
+"difficulty_levels": ["سهل", "متوسط", "صعب"],
+"selection_criteria": [
+"الجملة تحتوي على كلمة أو عبارة يمكن السؤال عنها",
+"الجملة مناسبة للتحويل إلى سؤال",
+"تنويع المصادر (Student Book + Activity Book)",
+"تنويع كلمات الاستفهام",
+"تنويع الأفعال المساعدة",
+"تغطية أكبر عدد من الحالات الخاصة",
+"تحديد المصدر بدقة"
+],
+"total_questions_recommended": "8-10 أسئلة لكل درس",
+"important_note": "⚠️ هذه المنهجية قابلة للتطبيق على أي درس. يتم تغيير القواعد النحوية حسب محتوى كل وحدة.",
+"applied_to_unit": {
+"grade": 8,
+"unit": 7,
+"title": "Ideal Beauty",
+"total_questions": 8,
+"grammar_focus": "Simple Present + Simple Past + Present Continuous + Future + Comparatives",
+"wh_words_used": ["What ... like", "How old", "What ... look like", "How", "Why", "How long", "Who"],
+"auxiliary_verbs_used": ["is", "does", "did", "do"],
+"special_cases_covered": [
+"الصفة غير الشكلية (Quality)",
+"العمر (Age)",
+"الصفة الشكلية (Physical Description)",
+"الطريقة (Manner)",
+"السبب (Reason)",
+"الطول (Length)",
+"الفاعل (Subject)",
+"الطقس (Weather)"
+],
+"sources_distribution": {
+"Student Book": 4,
+"Activity Book": 4
+}
+}
+},
+"questions": [
+{
+"id": "SB_G8_U7_C1",
+"original": "Doris is very elegant.",
+"targetWord": "very elegant",
+"correctQuestion": "What is Doris like?",
+"correctQuestions": [
+"What is Doris like?"
+],
+"wh_word": "what ... like",
+"auxiliary": "is",
+"subject": "doris",
+"subject_type": "name_female",
+"category": "Quality",
+"acceptedAnswers": [
+"What is she like?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G8_U7_C2",
+"original": "Lou is eight years old.",
+"targetWord": "eight years old",
+"correctQuestion": "How old is Lou?",
+"correctQuestions": [
+"How old is Lou?"
+],
+"wh_word": "how old",
+"auxiliary": "is",
+"subject": "lou",
+"subject_type": "name_male",
+"category": "Age",
+"acceptedAnswers": [
+"How old is he?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G8_U7_C3",
+"original": "She has green eyes and a round face.",
+"targetWord": "green eyes and a round face",
+"correctQuestion": "What does she look like?",
+"correctQuestions": [
+"What does she look like?"
+],
+"wh_word": "what ... look like",
+"auxiliary": "does",
+"subject": "she",
+"subject_type": "pronoun",
+"category": "Physical Description",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "SB_G8_U7_C4",
+"original": "Lou sings loudly.",
+"targetWord": "loudly",
+"correctQuestion": "How does Lou sing?",
+"correctQuestions": [
+"How does Lou sing?"
+],
+"wh_word": "how",
+"auxiliary": "does",
+"subject": "lou",
+"subject_type": "name_male",
+"category": "Manner",
+"acceptedAnswers": [
+"How does he sing?"
+],
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G8_U7_C5",
+"original": "He works as a farmer to support his family.",
+"targetWord": "to support his family",
+"correctQuestion": "Why does he work as a farmer?",
+"correctQuestions": [
+"Why does he work as a farmer?"
+],
+"wh_word": "why",
+"auxiliary": "does",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Reason",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G8_U7_C6",
+"original": "Her hair currently measures 190cm.",
+"targetWord": "190cm",
+"correctQuestion": "How long is her hair?",
+"correctQuestions": [
+"How long is her hair?",
+"How long does her hair measure?"
+],
+"wh_word": "how long",
+"auxiliary": "is",
+"subject": "her hair",
+"subject_type": "noun_thing",
+"category": "Length",
+"acceptedAnswers": [
+"How long does her hair measure?"
+],
+"source": "Activity Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G8_U7_C7",
+"original": "The teacher registered our names.",
+"targetWord": "The teacher",
+"correctQuestion": "Who registered your names?",
+"correctQuestions": [
+"Who registered your names?"
+],
+"wh_word": "who",
+"auxiliary": "",
+"subject": "the teacher",
+"subject_type": "noun_person",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Vocabulary - Q4"
+},
+{
+"id": "SB_G8_U7_C8",
+"original": "The weather isn't very warm today.",
+"targetWord": "warm",
+"correctQuestion": "What is the weather like?",
+"correctQuestions": [
+"What is the weather like?",
+"How is the weather today?"
+],
+"wh_word": "what ... like",
+"auxiliary": "is",
+"subject": "the weather",
+"subject_type": "noun_thing",
+"category": "Weather",
+"acceptedAnswers": [
+"How is the weather today?"
+],
+"source": "Student Book",
+"exact_reference": "Grammar B - Q3"
+}
+]
+}
