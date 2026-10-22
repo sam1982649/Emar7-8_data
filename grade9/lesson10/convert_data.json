@@ -1,0 +1,134 @@
+{
+"questions": [
+{
+"id": "SB_G7_U10_C1",
+"original": "They are talking about sport.",
+"targetWord": "sport",
+"correctQuestion": "What are they talking about?",
+"wh_word": "what",
+"auxiliary": "are",
+"subject": "they",
+"subject_type": "pronoun",
+"category": "Object",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Listening - Page 77"
+},
+{
+"id": "SB_G7_U10_C2",
+"original": "Tom loves watching TV.",
+"targetWord": "Tom",
+"correctQuestion": "Who loves watching TV?",
+"wh_word": "who",
+"auxiliary": "",
+"subject": "tom",
+"subject_type": "name_male",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Student Book",
+"exact_reference": "Listening - Page 77"
+},
+{
+"id": "AB_G7_U10_C3",
+"original": "There were 5 balls.",
+"targetWord": "5",
+"correctQuestion": "How many balls were there?",
+"wh_word": "how many",
+"auxiliary": "were",
+"subject": "there",
+"subject_type": "pronoun",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 64"
+},
+{
+"id": "AB_G7_U10_C4",
+"original": "Hani was so happy and rushed home.",
+"targetWord": "happy",
+"correctQuestion": "How did Hani feel?",
+"wh_word": "how",
+"auxiliary": "did",
+"subject": "hani",
+"subject_type": "name_male",
+"category": "Feeling",
+"acceptedAnswers": [
+"How did he feel?"
+],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 64"
+},
+{
+"id": "AB_G7_U10_C5",
+"original": "He took a nap for an hour.",
+"targetWord": "for an hour",
+"correctQuestion": "How long did he take a nap?",
+"wh_word": "how long",
+"auxiliary": "did",
+"subject": "he",
+"subject_type": "pronoun",
+"category": "Duration",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 64"
+},
+{
+"id": "AB_G7_U10_C6",
+"original": "Hani lost a golden chance because he had not learnt the value of time.",
+"targetWord": "because he had not learnt the value of time",
+"correctQuestion": "Why did Hani lose a golden chance?",
+"wh_word": "why",
+"auxiliary": "did",
+"subject": "hani",
+"subject_type": "name_male",
+"category": "Reason",
+"acceptedAnswers": [
+"Why did he lose a golden chance?"
+],
+"source": "Activity Book",
+"exact_reference": "Reading Text - Page 64"
+},
+{
+"id": "AB_G7_U10_C7",
+"original": "They stayed for 30 days.",
+"targetWord": "30 days",
+"correctQuestion": "How long did they stay?",
+"wh_word": "how long",
+"auxiliary": "did",
+"subject": "they",
+"subject_type": "pronoun",
+"category": "Duration",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Listening - Page 68"
+},
+{
+"id": "AB_G7_U10_C8",
+"original": "Their uncle and aunt came to visit them.",
+"targetWord": "Their uncle and aunt",
+"correctQuestion": "Who came to visit them?",
+"wh_word": "who",
+"auxiliary": "",
+"subject": "their uncle and aunt",
+"subject_type": "noun_plural",
+"category": "Subject",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Listening - Page 68"
+},
+{
+"id": "AB_G7_U10_C9",
+"original": "The concert tickets cost 100 SYP.",
+"targetWord": "100 SYP",
+"correctQuestion": "How much did the concert tickets cost?",
+"wh_word": "how much",
+"auxiliary": "did",
+"subject": "the concert tickets",
+"subject_type": "noun_plural",
+"category": "Quantity",
+"acceptedAnswers": [],
+"source": "Activity Book",
+"exact_reference": "Grammar - Page 67"
+}
+]
+}
