@@ -1,0 +1,198 @@
+{
+"texts": [
+{
+"id": "SB_G7_U10_T1",
+"text_group": "G7_U10_Oscar_Penguin",
+"part": 1,
+"type": "choice",
+"source": "student_book",
+"source_text": "Oscar Penguin's New Suit (Part 1)",
+"content_exam": "Oscar Penguin loved to eat candy, cookies, and jelly beans. \"Oscar, you must stop eating only candy, cookies, and jelly beans,\" said his mom one afternoon. \"Okay, Mom,\" said Oscar Penguin. Oscar Penguin thought he could eat a large bag of jelly beans in his room. \"I really love jelly beans,\" smiled Oscar. At dinner that night Oscar was not hungry. He was not able to eat so much. He ate two beans, and one olive only. As Oscar left the table, he thought, \"It's okay not to eat mom's food. I have lots of jelly beans I can eat.\" Then one day Oscar Penguin got a big surprise. Oscar needed a new penguin suit. When Oscar went with his mom to get a new penguin suit, all the suits were too small. None of the suits fit Oscar. Oscar was very upset.",
+"questions": [
+{
+"id": "t1_q1",
+"question": "Candy and sweets are ........",
+"options": ["healthy food", "junk food", "healthy drinks", "fresh food"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: junk food\n📝 الترجمة: الحلوى والسكريات هي طعام غير صحي.\n💡 الشرح: النص يتحدث عن أن أوسكار يأكل الحلوى والسكريات وهذا مضر بالصحة."
+},
+{
+"id": "t1_q2",
+"question": "Oscar Penguin loved to eat candy, cookies, and ........",
+"options": ["chocolate", "jelly beans", "ice cream", "popcorn"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: jelly beans\n📝 الترجمة: أحب أوسكار بينغوين أكل الحلوى والبسكويت وحبوب الهلام.\n💡 الشرح: النص يقول: 'Oscar Penguin loved to eat candy, cookies, and jelly beans.'"
+},
+{
+"id": "t1_q3",
+"question": "Oscar's mother told him that he ........ stop eating only candy, cookies, and jelly beans.",
+"options": ["can", "may", "must", "will"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: must\n📝 الترجمة: أخبرت والدة أوسكار أنه يجب أن يتوقف عن أكل الحلوى والبسكويت وحبوب الهلام فقط.\n💡 الشرح: النص يقول: 'Oscar, you must stop eating only candy, cookies, and jelly beans.'"
+},
+{
+"id": "t1_q4",
+"question": "At dinner that night, Oscar was not ........",
+"options": ["thirsty", "hungry", "happy", "sleepy"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: hungry\n📝 الترجمة: في عشاء تلك الليلة، لم يكن أوسكار جائعاً.\n💡 الشرح: النص يقول: 'At dinner that night Oscar was not hungry.'"
+},
+{
+"id": "t1_q5",
+"question": "All the suits were too ........",
+"options": ["big", "small", "long", "short"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: small\n📝 الترجمة: كانت جميع البدلات صغيرة جداً.\n💡 الشرح: النص يقول: 'all the suits were too small.'"
+}
+]
+},
+{
+"id": "SB_G7_U10_T2",
+"text_group": "G7_U10_Oscar_Penguin",
+"part": 2,
+"type": "tf_answer",
+"source": "student_book",
+"source_text": "Oscar Penguin's New Suit (Part 2)",
+"content_exam": "He called out, \"Mom, what am I going to do? None of the penguin suits fit me. What am I going to wear?\" Oscar's mom smiled saying, \"Oscar, let's go home and talk. I know what you can do to fit into a new penguin suit.\" When they got home, Oscar's mom said in a gentle voice, \"Oscar, there are three things you should do to solve your problem: You should stop eating junk food and sweets. You should start eating healthy food like fruits, vegetables, cereal, chicken, and fish. You must begin doing a bit of 'Jiggle, Jiggle, Jogging' each day.\" \"Sure, Mom, I can do those three things,\" smiled Oscar. And he did. Oscar Penguin ate healthy food. Jiggle, Jiggle, Jogged each day, became healthy, strong, and got a beautiful new penguin suit!",
+"questions": [
+{
+"id": "t2_q1",
+"question": "Oscar's mother shouted at him.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: صرخت والدة أوسكار في وجهه.\n💡 الشرح: النص يقول: 'Oscar's mom said in a gentle voice.' أي بصوت لطيف."
+},
+{
+"id": "t2_q2",
+"question": "Oscar's mother told him to eat healthy food.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: أخبرت والدة أوسكار أن يأكل طعاماً صحياً.\n💡 الشرح: النص يقول: 'You should start eating healthy food like fruits, vegetables, cereal, chicken, and fish.'"
+},
+{
+"id": "t2_q3",
+"question": "Oscar became healthy and strong at the end.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: أصبح أوسكار صحياً وقوياً في النهاية.\n💡 الشرح: النص يقول: 'became healthy, strong, and got a beautiful new penguin suit!'"
+},
+{
+"id": "t2_q4",
+"question": "What did Oscar need?",
+"type": "answer",
+"keywords": ["new penguin suit", "penguin suit", "suit"],
+"explanation": "✅ الإجابة الصحيحة: A new penguin suit.\n📝 الترجمة: ماذا احتاج أوسكار؟\n💡 الشرح: النص يقول: 'Oscar needed a new penguin suit.'"
+},
+{
+"id": "t2_q5",
+"question": "How many things did Oscar's mother tell him to do?",
+"type": "answer",
+"keywords": ["three", "3"],
+"explanation": "✅ الإجابة الصحيحة: Three things.\n📝 الترجمة: كم عدد الأشياء التي أخبرته والدته أن يفعلها؟\n💡 الشرح: النص يقول: 'there are three things you should do'."
+}
+]
+},
+{
+"id": "AB_G7_U10_T1",
+"text_group": "G7_U10_Burger",
+"part": 1,
+"type": "choice",
+"source": "activity_book",
+"source_text": "The Story of The Burger (Part 1)",
+"content_exam": "Once upon a time there was a burger who had many lives. Each day she would wake up on the burger table, and patiently wait her turn to be cooked by the chefs, then served to the customers. When they start eating, she would do everything possible to make herself really delicious, and with the customer's final bite she would feel simply fallen asleep. The next day the burger will start again. One day, while she was waiting for her turn at the cooking range, she heard one boy calling her \"junk food\". And this made her angry! From then on she realised that many people used that term about her and her sisters.",
+"questions": [
+{
+"id": "t3_q1",
+"question": "The burger had many ........",
+"options": ["friends", "lives", "customers", "chefs"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: lives\n📝 الترجمة: كان للبرغر العديد من الحيوات.\n💡 الشرح: النص يقول: 'there was a burger who had many lives.'"
+},
+{
+"id": "t3_q2",
+"question": "One day, a boy called the burger ........",
+"options": ["healthy food", "fast food", "junk food", "cold food"],
+"correct": 2,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: junk food\n📝 الترجمة: في يوم من الأيام، دعاها ولد بالطعام غير الصحي.\n💡 الشرح: النص يقول: 'she heard one boy calling her junk food.'"
+},
+{
+"id": "t3_q3",
+"question": "Each day, the burger would wake up on the ........",
+"options": ["table", "plate", "box", "shelf"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: table\n📝 الترجمة: كل يوم، كانت تستيقظ البرغر على الطاولة.\n💡 الشرح: النص يقول: 'she would wake up on the burger table.'"
+},
+{
+"id": "t3_q4",
+"question": "The burger tried to make herself really ........",
+"options": ["delicious", "beautiful", "happy", "healthy"],
+"correct": 0,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: delicious\n📝 الترجمة: حاول البرغر أن يجعل نفسه لذيذاً حقاً.\n💡 الشرح: النص يقول: 'she would do everything possible to make herself really delicious.'"
+},
+{
+"id": "t3_q5",
+"question": "Being called junk food made the burger ........",
+"options": ["happy", "angry", "tired", "sad"],
+"correct": 1,
+"type": "choice",
+"explanation": "✅ الإجابة الصحيحة: angry\n📝 الترجمة: جعلها مناداتها بالطعام غير الصحي غاضبة.\n💡 الشرح: النص يقول: 'And this made her angry!'"
+}
+]
+},
+{
+"id": "AB_G7_U10_T2",
+"text_group": "G7_U10_Burger",
+"part": 2,
+"type": "tf_answer",
+"source": "activity_book",
+"source_text": "The Story of The Burger (Part 2)",
+"content_exam": "After listening closely to many radio or television programs about junk or healthy food, she arrived at a horrible ending: it was true, she was \"junk food\". Now she understood why most of her favourite customers were much fatter than they had been when she first met them. The burger felt terrible; all this was her fault! So she tried to find some solutions; some way they could change that terrible name. That was the plan. The burger convinced all her sisters not to have any taste whenever they were with a customer that visited too often, and to be even more tasty with the customer who came only rarely. In this way they began to see fewer people who eat unhealthy food in the restaurant.",
+"questions": [
+{
+"id": "t4_q1",
+"question": "The burger felt happy when she heard the new name.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: شعر البرغر بالسعادة عندما سمع الاسم الجديد.\n💡 الشرح: النص يقول: 'The burger felt terrible.' وليس سعيداً."
+},
+{
+"id": "t4_q2",
+"question": "The burger's customers were much fatter than before.",
+"correct": true,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: True\n📝 الترجمة: كان زبائن البرغر أكثر بدانة من ذي قبل.\n💡 الشرح: النص يقول: 'her favourite customers were much fatter than they had been.'"
+},
+{
+"id": "t4_q3",
+"question": "The burger convinced her sisters to be more tasty with customers who visited often.",
+"correct": false,
+"type": "truefalse",
+"explanation": "✅ الإجابة الصحيحة: False\n📝 الترجمة: أقنع البرغر أخواتها بأن يكن أكثر طعماً مع الزبائن الذين يزورون كثيراً.\n💡 الشرح: النص يقول: 'to be even more tasty with the customer who came only rarely.' وليس الذين يزورون كثيراً."
+},
+{
+"id": "t4_q4",
+"question": "When did the burger realise that she was junk food?",
+"type": "answer",
+"keywords": ["radio", "television", "programs"],
+"explanation": "✅ الإجابة الصحيحة: After listening to radio and television programs.\n📝 الترجمة: متى أدرك البرغر أنه طعام غير صحي؟\n💡 الشرح: النص يقول: 'After listening closely to many radio or television programs about junk or healthy food, she arrived at a horrible ending.'"
+},
+{
+"id": "t4_q5",
+"question": "What did the burger convince her sisters to do?",
+"type": "answer",
+"keywords": ["no taste", "not tasty", "rarely"],
+"explanation": "✅ الإجابة الصحيحة: Not to have any taste with customers who visited too often, and to be more tasty with customers who came rarely.\n📝 الترجمة: ماذا أقنع البرغر أخواتها أن يفعلن؟\n💡 الشرح: النص يقول: 'not to have any taste whenever they were with a customer that visited too often, and to be even more tasty with the customer who came only rarely.'"
+}
+]
+}
+]
+}

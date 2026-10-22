@@ -1,0 +1,162 @@
+{
+"methodology": {
+"title": "منهجية استخراج أسئلة المطابقة (Match) - الوحدة 10",
+"description": "تم استخراج أسئلة المطابقة من جميع مصادر الدرس (النص، التمارين) بناءً على الجمل التي يمكن تقسيمها إلى بداية ونهاية.",
+"applicable_to": "الوحدة 10 - A Healthy Lifestyle",
+"search_sources": [
+"Student Book - Reading Text (Oscar Penguin)",
+"Student Book - Vocabulary Exercise",
+"Student Book - Grammar Exercise",
+"Student Book - Listening",
+"Activity Book - Reading Text (The Burger)",
+"Activity Book - Grammar Exercise"
+],
+"structure": {
+"per_group": "5 بدايات + 6 نهايات (مع خيار زائد)"
+},
+"selection_criteria": [
+"تنويع المصادر داخل كل مجموعة",
+"تجنب الجمل المتشابهة",
+"توزيع بين النص والتمارين",
+"كل جملة موثقة بالمصدر الدقيق"
+],
+"applied_to_unit_10": {
+"grade": 7,
+"unit": 10,
+"title": "A Healthy Lifestyle",
+"total_groups": 2,
+"groups": {
+"group_1": {
+"source": "Student Book",
+"sources_used": [
+"Reading Text (Oscar Penguin)",
+"Vocabulary Exercise",
+"Listening",
+"Grammar"
+]
+},
+"group_2": {
+"source": "Activity Book",
+"sources_used": [
+"Reading Text (The Burger)",
+"Grammar"
+]
+}
+}
+}
+},
+"groups": [
+{
+"id": "SB_G7_U10_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Student Book",
+"text_group": "G7_U10_Oscar_Penguin",
+"options": [
+{ "letter": "a", "text": "had left without saying goodbye." },
+{ "letter": "b", "text": "jogging around the playground." },
+{ "letter": "c", "text": "I still can see perfectly well." },
+{ "letter": "d", "text": "walks to school." },
+{ "letter": "e", "text": "I must go home." },
+{ "letter": "f", "text": "stopped eating candies." }
+],
+"sentences": [
+{
+"start": "Salma was upset that her friend",
+"correct": "a",
+"full_sentence": "Salma was upset that her friend had left without saying goodbye.",
+"translation": "كانت سلمى منزعجة لأن صديقتها غادرت دون أن تقول وداعاً.",
+"source": "Student Book",
+"exact_reference": "Vocabulary Exercise"
+},
+{
+"start": "Our team was exercising by",
+"correct": "b",
+"full_sentence": "Our team was exercising by jogging around the playground.",
+"translation": "كان فريقنا يمارس الرياضة بالهرولة حول الملعب.",
+"source": "Student Book",
+"exact_reference": "Vocabulary Exercise"
+},
+{
+"start": "I don't have to wear my glasses,",
+"correct": "c",
+"full_sentence": "I don't have to wear my glasses, I still can see perfectly well.",
+"translation": "لست مضطراً لارتداء نظارتي، ما زلت أرى بشكل جيد.",
+"source": "Student Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "The boy usually",
+"correct": "d",
+"full_sentence": "The boy usually walks to school.",
+"translation": "عادةً ما يمشي الولد إلى المدرسة.",
+"source": "Student Book",
+"exact_reference": "Listening"
+},
+{
+"start": "I am late,",
+"correct": "e",
+"full_sentence": "I am late, I must go home.",
+"translation": "أنا متأخر، يجب أن أذهب إلى المنزل.",
+"source": "Student Book",
+"exact_reference": "Grammar"
+}
+]
+},
+{
+"id": "AB_G7_U10_M1",
+"title": "Complete the sentences with the correct ending",
+"source": "Activity Book",
+"text_group": "G7_U10_Burger",
+"options": [
+{ "letter": "a", "text": "the risk of getting fatter." },
+{ "letter": "b", "text": "increases blood pressure." },
+{ "letter": "c", "text": "take an entrance exam." },
+{ "letter": "d", "text": "you have to go to a medical college for six years." },
+{ "letter": "e", "text": "it was an exam." },
+{ "letter": "f", "text": "tell anyone your secrets." }
+],
+"sentences": [
+{
+"start": "Junk food increases",
+"correct": "a",
+"full_sentence": "Junk food increases the risk of getting fatter.",
+"translation": "يزيد الطعام غير الصحي من خطر السمنة.",
+"source": "Activity Book",
+"exact_reference": "Reading Text (The Burger)"
+},
+{
+"start": "Bad diet",
+"correct": "b",
+"full_sentence": "Bad diet increases blood pressure.",
+"translation": "النظام الغذائي السيئ يزيد من ضغط الدم.",
+"source": "Activity Book",
+"exact_reference": "Vocabulary Exercise"
+},
+{
+"start": "All students have to",
+"correct": "c",
+"full_sentence": "All students have to take an entrance exam.",
+"translation": "يجب على جميع الطلاب اجتياز امتحان القبول.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "If you want to become a doctor,",
+"correct": "d",
+"full_sentence": "If you want to become a doctor, you have to go to a medical college for six years.",
+"translation": "إذا أردت أن تصبح طبيباً، يجب أن تذهب إلى كلية الطب لمدة ست سنوات.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+},
+{
+"start": "We mustn't talk to each other because",
+"correct": "e",
+"full_sentence": "We mustn't talk to each other because it was an exam.",
+"translation": "لا يجب أن نتحدث مع بعضنا البعض لأنه كان امتحاناً.",
+"source": "Activity Book",
+"exact_reference": "Grammar"
+}
+]
+}
+]
+}

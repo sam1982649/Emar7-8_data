@@ -1,0 +1,55 @@
+{
+"methodology": {
+"title": "منهجية استخراج مواضيع الكتابة (Writing Topics)",
+"description": "يتم استخراج مواضيع الكتابة من نهاية كل درس في كتاب الطالب وكتاب النشاط.",
+"applicable_to": "جميع الدروس (Unit 10)",
+"search_sources": [
+"Student Book - Writing",
+"Activity Book - Writing"
+],
+"selection_criteria": [
+"موضوع واحد من كتاب الطالب",
+"موضوع واحد من كتاب النشاط",
+"تنويع الأسئلة المساعدة لكل موضوع"
+],
+"applied_to_unit_10": {
+"grade": 7,
+"unit": 10,
+"title": "A Healthy Lifestyle",
+"total_topics": 2,
+"sources": {
+"topic_1": "Student Book - Writing (My Eating Habits)",
+"topic_2": "Activity Book - Writing (How to Keep Healthy)"
+}
+}
+},
+"topics": [
+{
+"id": "SB_G7_U10_W1",
+"title": "Write a paragraph about your eating habits.",
+"source": "Student Book",
+"exact_reference": "Writing (Survey)",
+"guiding_questions": [
+"What is your favourite food?",
+"What do you usually eat for breakfast?",
+"What do you usually eat for dinner?",
+"How many times do you eat cookies?",
+"How often do you eat at restaurants?"
+],
+"sample_essay": "My favourite food is pizza. I eat it every Friday. I usually eat bread and cheese for breakfast. For dinner, I eat rice and chicken. I also like vegetables. I eat cookies three times a week. I know cookies are not healthy. I eat at restaurants once a week. I like to eat at home because it is clean. I try to eat healthy food every day. This is good for my body."
+},
+{
+"id": "AB_G7_U10_W1",
+"title": "Write a paragraph about how to keep healthy.",
+"source": "Activity Book",
+"exact_reference": "Writing",
+"guiding_questions": [
+"What should you eat to keep healthy?",
+"What should you do every day?",
+"What should you avoid?",
+"Why is it important to keep healthy?"
+],
+"sample_essay": "Keeping healthy is very important for everyone. First, you should eat healthy food like fruits and vegetables. Then, you should exercise every day. You can walk or run in the morning. After that, you should drink water. Water is good for your health. Finally, you should sleep early and get enough rest. You shouldn't eat junk food because it is bad for you. This is how to keep healthy and strong."
+}
+]
+}

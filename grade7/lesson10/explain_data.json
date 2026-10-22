@@ -1,0 +1,255 @@
+{
+"vocabulary": [
+{ "word": "achieve", "translation": "يحقق" },
+{ "word": "achievement", "translation": "إنجاز" },
+{ "word": "after that", "translation": "بعد ذلك" },
+{ "word": "angry", "translation": "غاضب" },
+{ "word": "asleep", "translation": "نائم" },
+{ "word": "beautiful", "translation": "جميل" },
+{ "word": "bill", "translation": "فاتورة" },
+{ "word": "bite", "translation": "قضمة / عضّة" },
+{ "word": "blood", "translation": "دم" },
+{ "word": "brain", "translation": "دماغ" },
+{ "word": "breakfast", "translation": "إفطار" },
+{ "word": "breathe", "translation": "يتنفس" },
+{ "word": "burger", "translation": "برغر" },
+{ "word": "candy", "translation": "حلوى" },
+{ "word": "cereal", "translation": "حبوب إفطار" },
+{ "word": "chefs", "translation": "طهاة" },
+{ "word": "chicken", "translation": "دجاج" },
+{ "word": "cholesterol", "translation": "كوليسترول" },
+{ "word": "clean", "translation": "ينظف" },
+{ "word": "control", "translation": "يتحكم" },
+{ "word": "convinced", "translation": "أقنع" },
+{ "word": "cookies", "translation": "بسكويت" },
+{ "word": "cooking range", "translation": "موقد / فرن" },
+{ "word": "cup", "translation": "كوب" },
+{ "word": "customers", "translation": "زبائن" },
+{ "word": "delicious", "translation": "لذيذ" },
+{ "word": "dinner", "translation": "عشاء" },
+{ "word": "drink", "translation": "يشرب" },
+{ "word": "eat", "translation": "يأكل" },
+{ "word": "educate", "translation": "يعلّم" },
+{ "word": "education", "translation": "تعليم" },
+{ "word": "ending", "translation": "نهاية" },
+{ "word": "enough", "translation": "كافٍ" },
+{ "word": "essential", "translation": "أساسي" },
+{ "word": "everyone", "translation": "الجميع" },
+{ "word": "exercise", "translation": "تمرين رياضي" },
+{ "word": "existence", "translation": "وجود" },
+{ "word": "fault", "translation": "خطأ" },
+{ "word": "favourite", "translation": "مفضل" },
+{ "word": "fibers", "translation": "ألياف" },
+{ "word": "finally", "translation": "أخيراً" },
+{ "word": "final", "translation": "نهائي / أخير" },
+{ "word": "first", "translation": "أولاً" },
+{ "word": "fish", "translation": "سمك" },
+{ "word": "fit", "translation": "يناسب" },
+{ "word": "fried", "translation": "مقلي" },
+{ "word": "fruits", "translation": "فواكه" },
+{ "word": "fulfilment", "translation": "تحقيق / إنجاز" },
+{ "word": "functioning", "translation": "عمل / أداء" },
+{ "word": "gentle", "translation": "لطيف" },
+{ "word": "healthy", "translation": "صحي" },
+{ "word": "heart", "translation": "قلب" },
+{ "word": "horrible", "translation": "مروع" },
+{ "word": "hungry", "translation": "جائع" },
+{ "word": "ice cream", "translation": "آيس كريم" },
+{ "word": "important", "translation": "مهم" },
+{ "word": "invest", "translation": "يستثمر" },
+{ "word": "investment", "translation": "استثمار" },
+{ "word": "jelly bean", "translation": "حبة هلام / حلوى" },
+{ "word": "jiggle", "translation": "تمايل" },
+{ "word": "jogging", "translation": "هرولة" },
+{ "word": "junk food", "translation": "طعام غير صحي" },
+{ "word": "kidneys", "translation": "كليتان" },
+{ "word": "lack", "translation": "نقص" },
+{ "word": "liver", "translation": "كبد" },
+{ "word": "lungs", "translation": "رئتان" },
+{ "word": "minerals", "translation": "معادن" },
+{ "word": "morning", "translation": "صباح" },
+{ "word": "nutrients", "translation": "عناصر غذائية" },
+{ "word": "olive", "translation": "زيتون" },
+{ "word": "order", "translation": "طلب" },
+{ "word": "organs", "translation": "أعضاء" },
+{ "word": "overloads", "translation": "يُثقل" },
+{ "word": "patiently", "translation": "بصبر" },
+{ "word": "potatoes", "translation": "بطاطس" },
+{ "word": "pressure", "translation": "ضغط" },
+{ "word": "programs", "translation": "برامج" },
+{ "word": "pump", "translation": "يضخ" },
+{ "word": "puzzle", "translation": "لغز" },
+{ "word": "rarely", "translation": "نادراً" },
+{ "word": "realised", "translation": "أدرك" },
+{ "word": "remove", "translation": "يزيل" },
+{ "word": "rest", "translation": "راحة" },
+{ "word": "restaurant", "translation": "مطعم" },
+{ "word": "risk", "translation": "خطر" },
+{ "word": "run", "translation": "يركض" },
+{ "word": "sisters", "translation": "أخوات" },
+{ "word": "sleep", "translation": "نوم / ينام" },
+{ "word": "sodium", "translation": "صوديوم" },
+{ "word": "solutions", "translation": "حلول" },
+{ "word": "solve", "translation": "يحل" },
+{ "word": "strong", "translation": "قوي" },
+{ "word": "suit", "translation": "بدلة" },
+{ "word": "surprise", "translation": "مفاجأة" },
+{ "word": "survey", "translation": "استبيان" },
+{ "word": "sweets", "translation": "حلويات" },
+{ "word": "tea", "translation": "شاي" },
+{ "word": "television", "translation": "تلفاز" },
+{ "word": "term", "translation": "مصطلح" },
+{ "word": "then", "translation": "ثم" },
+{ "word": "understood", "translation": "فهم" },
+{ "word": "unhealthy", "translation": "غير صحي" },
+{ "word": "upset", "translation": "منزعج" },
+{ "word": "vegetables", "translation": "خضروات" },
+{ "word": "vegetarian", "translation": "نباتي" },
+{ "word": "veterinary", "translation": "بيطري" },
+{ "word": "vitamins", "translation": "فيتامينات" },
+{ "word": "volunteer", "translation": "متطوع" },
+{ "word": "waiter", "translation": "نادل" },
+{ "word": "walk", "translation": "يمشي" },
+{ "word": "waste", "translation": "فضلات" },
+{ "word": "water", "translation": "ماء" }
+],
+"tables": [
+{
+"title": "Modal Verbs: Expressing Necessity and Advice",
+"headers": ["Modal", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["must", "ضرورة / إلزام قوي", "You must stop eating junk food.", "يجب أن تتوقف عن أكل الطعام غير الصحي."],
+["mustn't", "منع / حظر", "You mustn't tell anyone your secrets.", "لا يجب أن تخبر أحداً بأسرارك."],
+["have to", "ضرورة (خارجية)", "I have to go home.", "أنا مضطر للذهاب إلى المنزل."],
+["has to", "ضرورة (مفرد)", "She has to study hard.", "هي مضطرة للدراسة بجد."],
+["had to", "ضرورة في الماضي", "We had to get up early.", "كان علينا الاستيقاظ مبكراً."],
+["don't have to", "عدم ضرورة (حاضر)", "I don't have to wear my glasses.", "لست مضطراً لارتداء نظارتي."],
+["doesn't have to", "عدم ضرورة (مفرد)", "He doesn't have to go.", "هو ليس مضطراً للذهاب."],
+["didn't have to", "عدم ضرورة (ماضي)", "You didn't have to take money.", "لم تكن مضطراً لأخذ نقود."],
+["should", "نصيحة", "You should eat healthy food.", "ينبغي أن تأكل طعاماً صحياً."],
+["shouldn't", "نصيحة بعدم فعل شيء", "You shouldn't shout in public places.", "لا ينبغي أن تصرخ في الأماكن العامة."],
+["can", "قدرة في الحاضر", "I can see perfectly well.", "أستطيع الرؤية بشكل جيد."],
+["could", "قدرة في الماضي", "He could eat a large bag.", "كان يستطيع أكل كيس كبير."]
+],
+"explanation": "تستخدم (must) للتعبير عن الإلزام القوي، و (mustn't) للمنع. (have to / has to) تعبر عن ضرورة خارجية، و (don't have to) تعبر عن عدم ضرورة. (should) تستخدم للنصيحة، و (shouldn't) للنصيحة بعدم فعل شيء. (can) للقدرة في الحاضر و (could) للقدرة في الماضي.",
+"examples": "You must stop eating junk food.\nYou should eat healthy food.\nI can see perfectly well."
+},
+{
+"title": "Infinitives (المصدر مع to)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["to + verb", "بعد بعض الأفعال", "Oscar went to get a new suit.", "ذهب أوسكار للحصول على بدلة جديدة."],
+["to + verb", "التعبير عن الغرض", "Oscar went to get a new suit.", "ذهب أوسكار للحصول على بدلة جديدة."]
+],
+"explanation": "المصدر مع 'to' يستخدم بعد بعض الأفعال أو للتعبير عن الغرض من الفعل.",
+"examples": "Oscar went to get a new suit."
+},
+{
+"title": "Gerunds (الفعل + ing)",
+"headers": ["Form", "Usage", "Example from Lesson", "Translation"],
+"rows": [
+["verb + ing", "بعد بعض الأفعال", "You should start eating healthy food.", "يجب أن تبدأ بتناول الطعام الصحي."],
+["verb + ing", "بعد حروف الجر", "Our team exercised by jogging.", "مارس فريقنا الرياضة بالهرولة."],
+["verb + ing", "كفاعل", "Eating junk food causes problems.", "أكل الطعام غير الصحي يسبب مشاكل."]
+],
+"explanation": "الاسم المشتق (gerund) هو الفعل المضاف إليه ing ويستخدم كاسم. يأتي بعد بعض الأفعال مثل (start, enjoy) أو بعد حروف الجر أو كفاعل في الجملة.",
+"examples": "You should start eating healthy food.\nOur team exercised by jogging."
+},
+{
+"title": "Subject-Verb Agreement (مطابقة الفاعل والفعل) - Present Simple",
+"headers": ["Rule", "Example from Lesson", "Translation"],
+"rows": [
+["الفاعل المفرد + فعل + s", "Oscar Penguin loves jelly beans.", "أوسكار بينغوين يحب حبوب الهلام."],
+["الفاعل الجمع + فعل بدون s", "Her customers were fatter.", "كان زبائنها أكثر بدانة."],
+["المصدر (gerund) يعامل معاملة المفرد", "Eating junk food causes problems.", "أكل الطعام غير الصحي يسبب مشاكل."]
+],
+"explanation": "في المضارع البسيط، نضيف (s) أو (es) للفعل إذا كان الفاعل مفرداً (He, She, It). ولا نضيف شيئاً إذا كان الفاعل جمعاً (They, We, I, You). المصدر (gerund) يعامل معاملة المفرد.",
+"examples": "Oscar Penguin loves jelly beans.\nEating junk food causes problems."
+},
+{
+"title": "Present Simple (المضارع البسيط)",
+"headers": ["Form", "Example from Lesson", "Translation"],
+"rows": [
+["I / You / We / They + verb", "Oscar Penguin loves jelly beans.", "أوسكار بينغوين يحب حبوب الهلام."],
+["He / She / It + verb + s/es", "Oscar Penguin loves jelly beans.", "أوسكار بينغوين يحب حبوب الهلام."]
+],
+"explanation": "يستخدم المضارع البسيط للتعبير عن عادات وأفعال متكررة وحقائق عامة. مع (I, You, We, They) نستخدم الفعل بدون إضافة. مع (He, She, It) نضيف (s) أو (es) للفعل.",
+"examples": "Oscar Penguin loves jelly beans."
+},
+{
+"title": "Past Simple (الماضي البسيط)",
+"headers": ["Form", "Example from Lesson", "Translation"],
+"rows": [
+["regular + ed", "She waited patiently.", "انتظرت بصبر."],
+["irregular", "He went to get a new suit.", "ذهب للحصول على بدلة جديدة."],
+["was / were", "He was upset.", "كان منزعجاً."]
+],
+"explanation": "يستخدم الماضي البسيط للتعبير عن أحداث وقعت وانتهت في الماضي.",
+"examples": "He was upset.\nHe went to get a new suit."
+},
+{
+"title": "Wh-Questions (التحويل إلى سؤال)",
+"headers": ["Wh-word", "Example from Lesson", "Translation"],
+"rows": [
+["How many", "How many beans did he eat?", "كم حبة فول أكل؟"],
+["What", "What did he eat?", "ماذا أكل؟"],
+["Why", "Why did Oscar go with his mom?", "لماذا ذهب أوسكار مع والدته؟"]
+],
+"explanation": "لتحويل الجملة إلى سؤال نضع كلمة الاستفهام في البداية، ثم الفعل المساعد، ثم الفاعل، ثم الفعل في المصدر.",
+"examples": "He ate two beans. → How many beans did he eat?"
+},
+{
+"title": "Prepositions (حروف الجر)",
+"headers": ["Preposition", "Example from Lesson", "Translation"],
+"rows": [
+["of", "lack of nutrients", "نقص في العناصر الغذائية"],
+["for", "wait for her turn", "تنتظر دورها"],
+["to", "go to school", "يذهب إلى المدرسة"],
+["in", "in the restaurant", "في المطعم"]
+],
+"explanation": "حروف الجر تربط الكلمات في الجملة. لكل حرف جر استخدام محدد حسب السياق.",
+"examples": "lack of nutrients\nwait for her turn"
+},
+{
+"title": "Conjunctions (أدوات الربط)",
+"headers": ["Conjunction", "Example from Lesson", "Translation"],
+"rows": [
+["because", "He was upset because his friends left.", "كان منزعجاً لأن أصدقاءه غادروا."],
+["so", "He ate junk food, so he got fatter.", "أكل طعاماً غير صحي، لذلك أصبح أكثر بدانة."],
+["but", "He tried, but the suit didn't fit.", "حاول لكن البدلة لم تناسبه."]
+],
+"explanation": "أدوات الربط تستخدم لربط الجمل مع بعضها البعض. (because) تعبر عن السبب، (so) تعبر عن النتيجة، و (but) تعبر عن التعارض.",
+"examples": "He was upset because his friends left.\nHe tried, but the suit didn't fit."
+},
+{
+"title": "Object Pronouns (ضمائر المفعول به)",
+"headers": ["Subject Pronoun", "Object Pronoun", "Example from Lesson", "Translation"],
+"rows": [
+["I", "me", "She helped me.", "ساعدتني."],
+["He", "him", "The suit didn't fit him.", "البدلة لم تناسبه."],
+["They", "them", "The burger convinced them.", "أقنعهم البرغر."]
+],
+"explanation": "ضمائر المفعول به تأتي بعد الفعل أو حرف الجر. (me, you, him, her, it, us, them).",
+"examples": "The suit didn't fit him.\nThe burger convinced them."
+},
+{
+"title": "Possessive Adjectives (صفات الملكية)",
+"headers": ["Subject Pronoun", "Possessive Adjective", "Example from Lesson", "Translation"],
+"rows": [
+["She", "her", "She waited for her turn.", "انتظرت دورها."],
+["He", "his", "He ate his dinner.", "أكل عشاءه."]
+],
+"explanation": "صفات الملكية تأتي قبل الأسماء لتدل على الملكية.",
+"examples": "She waited for her turn.\nHe ate his dinner."
+},
+{
+"title": "Comparatives (صفات المقارنة)",
+"headers": ["Form", "Example from Lesson", "Translation"],
+"rows": [
+["صفة + er", "Her customers were fatter than before.", "كان زبائنها أكثر بدانة من قبل."]
+],
+"explanation": "تستخدم صفات المقارنة للمقارنة بين شيئين. مع الصفات القصيرة نضيف (er).",
+"examples": "Her customers were fatter than before."
+}
+]
+}

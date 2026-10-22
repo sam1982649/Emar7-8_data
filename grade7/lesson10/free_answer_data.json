@@ -1,0 +1,132 @@
+{
+"metadata": {
+"grade": 7,
+"unit": 10,
+"title": "A Healthy Lifestyle",
+"total_questions": 6,
+"sources": {
+"student_book": 4,
+"activity_book": 2
+},
+"question_types": {
+"free_answer": 6
+},
+"methodology": {
+"description": "تم استخراج أسئلة الإجابة الحرة من مصادر الدرس (النص، التمارين، المحادثة) بناءً على الجمل العامة والمعلوماتية.",
+"search_sources": [
+"Student Book - Speaking",
+"Student Book - Reading Text",
+"Student Book - Writing",
+"Student Book - Focus on Biology",
+"Activity Book - Speaking"
+],
+"selection_criteria": [
+"السؤال عام ولا يحتاج إلى قراءة النص للإجابة عليه",
+"الجواب واضح ومحدد وقصير (كلمة أو بضع كلمات)",
+"لا نستخدم أسئلة إجابتها Yes/No"
+],
+"wh_words": ["Which kind", "What", "How often", "Where", "Why"],
+"answer_type": "كلمة مفتاحية أو عبارة قصيرة",
+"verification_method": "البحث عن الكلمات المفتاحية في إجابة الطالب (case-insensitive)",
+"important_note": "⚠️ الأسئلة عامة ولا تعتمد على معرفة النص، ويمكن للطالب الإجابة من خبرته الشخصية."
+}
+},
+"questions": [
+{
+"id": "SB_G7_U10_F1",
+"question": "Which kind of food do you think is important for your health?",
+"translation": "أي نوع من الطعام تعتقد أنه مهم لصحتك؟",
+"keywords": ["healthy", "fruits", "vegetables", "important"],
+"suggested_answers": [
+"I think fruits and vegetables are important for health.",
+"Healthy food is important.",
+"I think vegetables are important."
+],
+"wh_word": "Which kind",
+"auxiliary": "do",
+"category": "Opinion",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G7_U10_F2",
+"question": "What should you do to keep healthy?",
+"translation": "ماذا يجب أن تفعل لتحافظ على صحتك؟",
+"keywords": ["eat healthy", "exercise", "sleep", "drink water"],
+"suggested_answers": [
+"I should eat healthy food and exercise.",
+"I should eat fruits and vegetables.",
+"I should sleep early and drink water."
+],
+"wh_word": "What",
+"auxiliary": "should",
+"category": "Advice",
+"source": "Student Book",
+"exact_reference": "Focus on Biology"
+},
+{
+"id": "SB_G7_U10_F3",
+"question": "How often do you eat at restaurants?",
+"translation": "كم مرة تأكل في المطاعم؟",
+"keywords": ["once", "twice", "week", "month", "rarely", "never"],
+"suggested_answers": [
+"I eat at restaurants once a week.",
+"I rarely eat at restaurants.",
+"I never eat at restaurants."
+],
+"wh_word": "How often",
+"auxiliary": "do",
+"category": "Frequency",
+"source": "Student Book",
+"exact_reference": "Writing (Survey)"
+},
+{
+"id": "SB_G7_U10_F4",
+"question": "What is your favourite food?",
+"translation": "ما هو طعامك المفضل؟",
+"keywords": ["pizza", "burger", "pasta", "rice", "chicken", "fish"],
+"suggested_answers": [
+"My favourite food is pizza.",
+"I like pasta.",
+"My favourite food is chicken."
+],
+"wh_word": "What",
+"auxiliary": "is",
+"category": "Favourite",
+"source": "Student Book",
+"exact_reference": "Speaking"
+},
+{
+"id": "SB_G7_U10_F5",
+"question": "What is chicken like?",
+"translation": "ما هو طعم الدجاج؟",
+"keywords": ["delicious", "tasty", "healthy", "white meat"],
+"suggested_answers": [
+"Chicken is delicious and healthy.",
+"It is tasty and good for health.",
+"Chicken is white meat and delicious."
+],
+"wh_word": "What",
+"auxiliary": "is",
+"category": "Description",
+"source": "Student Book",
+"exact_reference": "Reading Text"
+},
+{
+"id": "AB_G7_U10_F1",
+"question": "Where do you prefer eating? Why?",
+"translation": "أين تفضل تناول الطعام؟ ولماذا؟",
+"keywords": ["home", "restaurant", "cafe", "healthy", "clean"],
+"suggested_answers": [
+"I prefer eating at home because it is healthy.",
+"I prefer eating at restaurants because the food is delicious.",
+"I prefer eating at home because it is clean."
+],
+"wh_word": "Where / Why",
+"auxiliary": "do",
+"category": "Preference / Reason",
+"source": "Activity Book",
+"exact_reference": "Speaking"
+}
+]
+}
