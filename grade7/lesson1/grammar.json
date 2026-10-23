@@ -186,7 +186,7 @@
 "id": "SB_G7_U1_G12",
 "unique_id": "SB_G7_U1_GrammarC_Q1",
 "q": "Carol ........ her teeth twice a day.",
-"o": ["brushes", "brushed", "brush", "brushing"],
+"o": ["brushes", "brushed", "brush", "is brushing"],
 "c": 0,
 "cat": "Grammar",
 "sub": "Simple Present",
