@@ -58,17 +58,17 @@
 "title": "تمرين المطابقة ٢ - Bullying",
 "source": "Activity Book",
 "options": [
-{ "letter": "f", "text": "it's better to keep silent" },
-{ "letter": "g", "text": "because we were talking" },
-{ "letter": "h", "text": "hurting feelings" },
-{ "letter": "i", "text": "John came" },
-{ "letter": "j", "text": "when somebody hit my car" },
-{ "letter": "k", "text": "feel uncomfortable" }
+{ "letter": "a", "text": "it's better to keep silent" },
+{ "letter": "b", "text": "because we were talking" },
+{ "letter": "c", "text": "hurting feelings" },
+{ "letter": "d", "text": "John came" },
+{ "letter": "e", "text": "when somebody hit my car" },
+{ "letter": "f", "text": "feel uncomfortable" }
 ],
 "sentences": [
 {
 "start": "If we don't have anything nice to say",
-"correct": "f",
+"correct": "a",
 "full_sentence": "If we don't have anything nice to say, it's better to keep silent.",
 "translation": "إذا لم يكن لدينا شيء جميل لنقوله، فمن الأفضل أن نصمت.",
 "source": "Activity Book",
@@ -76,7 +76,7 @@
 },
 {
 "start": "The teacher was angry",
-"correct": "g",
+"correct": "b",
 "full_sentence": "The teacher was angry because we were talking.",
 "translation": "كان المعلم غاضباً لأننا كنا نتحدث.",
 "source": "Activity Book",
@@ -84,7 +84,7 @@
 },
 {
 "start": "People bully by many ways like",
-"correct": "h",
+"correct": "c",
 "full_sentence": "People bully by many ways like hurting feelings.",
 "translation": "يتنمر الناس بطرق عديدة مثل إيذاء المشاعر.",
 "source": "Activity Book",
@@ -92,7 +92,7 @@
 },
 {
 "start": "While we were eating the cake",
-"correct": "i",
+"correct": "d",
 "full_sentence": "While we were eating the cake, John came.",
 "translation": "بينما كنا نأكل الكعكة، جاء جون.",
 "source": "Activity Book",
@@ -100,7 +100,7 @@
 },
 {
 "start": "I was driving",
-"correct": "j",
+"correct": "e",
 "full_sentence": "I was driving when somebody hit my car.",
 "translation": "كنت أقود السيارة عندما اصطدم شخص ما بسيارتي.",
 "source": "Activity Book",
