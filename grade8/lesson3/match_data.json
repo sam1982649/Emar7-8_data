@@ -58,17 +58,17 @@
 "title": "تمرين المطابقة ٢ - Activity Book",
 "source": "Activity Book",
 "options": [
-{ "letter": "f", "text": "the southern hemisphere" },
-{ "letter": "g", "text": "had a beautiful architecture" },
-{ "letter": "h", "text": "scary movies" },
-{ "letter": "i", "text": "at our house on Saturday" },
-{ "letter": "j", "text": "to return home" },
-{ "letter": "k", "text": "shopping centers" }
+{ "letter": "a", "text": "the southern hemisphere" },
+{ "letter": "b", "text": "had a beautiful architecture" },
+{ "letter": "c", "text": "scary movies" },
+{ "letter": "d", "text": "at our house on Saturday" },
+{ "letter": "e", "text": "to return home" },
+{ "letter": "f", "text": "shopping centers" }
 ],
 "sentences": [
 {
 "start": "Australia is located in",
-"correct": "f",
+"correct": "a",
 "full_sentence": "Australia is located in the southern hemisphere.",
 "translation": "تقع أستراليا في نصف الكرة الجنوبي.",
 "source": "Activity Book",
@@ -76,7 +76,7 @@
 },
 {
 "start": "We visited the Opera House which",
-"correct": "g",
+"correct": "b",
 "full_sentence": "We visited the Opera House which had a beautiful architecture.",
 "translation": "زرنا دار الأوبرا التي كانت تتمتع بهندسة معمارية جميلة.",
 "source": "Activity Book",
@@ -84,7 +84,7 @@
 },
 {
 "start": "Max doesn't like",
-"correct": "h",
+"correct": "c",
 "full_sentence": "Max doesn't like scary movies.",
 "translation": "ماكس لا يحب أفلام الرعب.",
 "source": "Activity Book",
@@ -92,7 +92,7 @@
 },
 {
 "start": "We are having lunch",
-"correct": "i",
+"correct": "d",
 "full_sentence": "We are having lunch at our house on Saturday.",
 "translation": "سنتناول الغداء في منزلنا يوم السبت.",
 "source": "Activity Book",
@@ -100,7 +100,7 @@
 },
 {
 "start": "We had to prepare our luggage",
-"correct": "j",
+"correct": "e",
 "full_sentence": "We had to prepare our luggage to return home.",
 "translation": "كان علينا تجهيز أمتعتنا للعودة إلى المنزل.",
 "source": "Activity Book",
